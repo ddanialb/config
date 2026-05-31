@@ -1,3 +1,4 @@
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 trojan://VPTFm%3DoZ%2B%2BSuNT%2BjMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.104.237.100#By AghaDani
 vless://5664ae71-8024-4c65-bef2-54affa239a93@95.163.152.31:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=google.com&type=xhttp#By AghaDani
 vless://505840df-3b05-4767-829c-9edeba1efa99@ANTEN.IR:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=lol2.artarona.ir&fp=chrome&type=ws&allowInsecure=0&sni=lol2.artarona.ir#By AghaDani
@@ -49,7 +50,6 @@ vless://01ed0e0c-ba79-4a60-b43c-7a91041c0cd4@185.143.234.235:8880?Telegram=@Goza
 vless://3f47125f-5fef-4e48-9a11-d8ad25c3aa53@p.panel.rashtplus.site:80?encryption=none&headerType=http&host=speedtest.net%2Ccloudfalre.com%2Cuptvs.com&path=%2F&security=none&type=tcp#By AghaDani
 vless://01ed0e0c-ba79-4a60-b43c-7a91041c0cd4@185.143.234.235:8880?encryption=none&host=s1.chaqu.tr&path=%2Fapi%2Fupdate&security=none&type=ws#By AghaDani
 vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@94.103.0.230:443?security=reality&encryption=none&pbk=ps7eCLLKAqgSGPFRQl1-R1PhzUeO1Z1EwNl02Ac63UA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.prostosetup.org&sid=514d02a2addd6476#By AghaDani
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 vless://27302727-9dfa-4975-990e-88c7a63747cd@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=tc.amoovictor.cc.cd&fp=chrome&type=ws&sni=tc.amoovictor.cc.cd#By AghaDani
 vless://27302727-9dfa-4975-990e-88c7a63747cd@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=xv2.irx.cc.cd&fp=chrome&type=ws&sni=xv2.irx.cc.cd#By AghaDani
 vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g10.steptofsvo.com:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=g10.steptofsvo.com&sid=6d6f13013d3e1d0c&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none#By AghaDani
