@@ -1,4 +1,7 @@
 vless://ebe186c0-1006-4b07-8a84-45deaf0bda23@150.241.74.150:443?security=reality&encryption=none&pbk=vB4lhwE3aZhB3vzphogmjJv1VYNedlCTgd5c1Bka_F0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=4a43ca#By AghaDani
+vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?type=tcp&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#By AghaDani
+vless://848f7638-8dad-4784-9df1-25446c88c3d2@www.speedtest.net.cdn.cloudflare.net:443?type=xhttp&encryption=none&path=%2F&host=us.musicbaaz.ir&mode=auto&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=us.musicbaaz.ir#By AghaDani
+vless://74545527-3660-445e-bba8-ba36c1d8d956@45.130.125.69:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=ws&headerType=&path=&host=api5.diiginet.ir&sni=api5.diiginet.ir&fp=firefox&alpn=http%2F1.1#By AghaDani
 vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#By AghaDani
 vless://CNT-Cafe@104.253.25.208:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IgE3YVskwHOBHPUSDq-3yhO99G46ayFewg7WG2XHK28&security=reality&sid=db7ea79419&sni=www.hcaptcha.com&spx=%2FQRjPQH7QFcCn6tn&type=tcp#By AghaDani
@@ -89,7 +92,6 @@ vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?type=tcp&encry
 vless://91a72f01-94a4-46bd-a34e-b4a3bc495bf5@Snapp.ir:2095?path=%2F&security=none&encryption=none&host=Z.poiuyt.ir&type=ws#By AghaDani
 vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@107.181.151.241:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=60500a63ad12#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#By AghaDani
-vless://848f7638-8dad-4784-9df1-25446c88c3d2@www.speedtest.net.cdn.cloudflare.net:443?type=xhttp&encryption=none&path=%2F&host=us.musicbaaz.ir&mode=auto&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=us.musicbaaz.ir#By AghaDani
 vless://597923cd-1877-495f-9413-d0dfbd166c14@141.98.4.99:443?security=reality&encryption=none&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=2d8dc1a8a7fe#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWmVTVHZwbDJ1b2V5MVIwZnJoUHlK@109.107.182.229:51544#By AghaDani
 vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?security=reality&encryption=none&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=88acba#By AghaDani
@@ -996,5 +998,3 @@ vless://b50688d7-d5e5-4391-9220-c3ac2558f1fe@95.182.101.96:20828?security=&encry
 vless://05e9d254-8ea8-4097-9450-d4aefc44bd7e@31.76.120.162:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=MBkIKCORF_f5gqwnugFO7K4HUR8HAKPUuYVIarrQNU0&sid=bfc5&sni=www.sony.com#By AghaDani
 trojan://humanity@104.16.7.70:443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#By AghaDani
 vless://b50688d7-d5e5-4391-9220-c3ac2558f1fe@95.182.101.96:38956?security=reality&encryption=none&pbk=UMF9YjdC1voBk_82jBmWYR6ikJrruBwbtgReKatAQmo&headerType=&fp=chrome&spx=%2Fso8Gm7hC851Caio&type=tcp&sni=www.microsoft.com&sid=1f495c03ce#By AghaDani
-vless://b50688d7-d5e5-4391-9220-c3ac2558f1fe@95.182.101.96:38796?security=reality&encryption=none&pbk=LuelZgJCGhzxoQwgZRbxpFyza95n3jmoSt7eAgXr318&headerType=&fp=chrome&spx=%2FqdZ5PJq0TTISh4c&type=tcp&sni=www.bing.com&sid=412082ae#By AghaDani
-vless://b50688d7-d5e5-4391-9220-c3ac2558f1fe@95.182.101.96:18442?security=reality&encryption=none&pbk=Y8MrhrV6WraccHAPfCv8NNdyGsmAhmbD_9t7Blh49m4&headerType=&fp=chrome&spx=%2FeHjIIQnd5E35bJz&type=tcp&sni=www.samsung.com&sid=e478f43b0c25df12#By AghaDani
