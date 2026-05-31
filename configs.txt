@@ -1,3 +1,6 @@
+vless://2288128b-99be-4167-88d4-fa1e5bdccfec@95.182.86.120:8080?security=reality&encryption=none&pbk=BdYsTfKPz6mKH6gWajeT4V4YmqJqkDmzbH05JqpFfQY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=e14316cb#By AghaDani
+trojan://2i9ysjdt4gea60cd@108.61.179.178:27301?security=none&headerType=&type=tcp#By AghaDani
+trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#By AghaDani
 vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?mode=stream-one&path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=www.multiplydose.cc.cd&fp=chrome&type=xhttp&allowInsecure=1&sni=www.multiplydose.cc.cd#By AghaDani
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=404.mitii33.workers.dev&fp=edge&type=ws&allowInsecure=1&sni=404.mitii33.workers.dev#By AghaDani
 vless://d697bc7a-9b53-48cf-b095-d62e137f9b8a@fsxhh.fastshop1.com:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=firefox&insecure=0&allowInsecure=0&type=xhttp&host=lizzard.global.ssl.fastly.net&path=%2Flizzard&mode=packet-up#By AghaDani
@@ -616,7 +619,6 @@ vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alp
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=ams1.fromblancwithlove.com#By AghaDani
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&host=www.linkman1.ir&fp=chrome&type=ws&sni=www.linkman1.ir#By AghaDani
 vless://d1dc708b-0151-4899-a969-56ea674b2bb2@VARZESH3.COM:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=lol6.artarona.ir&fp=chrome&type=ws&allowInsecure=0&sni=lol6.artarona.ir#By AghaDani
-trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#By AghaDani
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&host=404.mitii33.workers.dev&fp=edge&type=ws&sni=404.mitii33.workers.dev#By AghaDani
 vless://2d6fe75f-939c-44ed-a239-d8329fc0f32c@ia.subchar.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=snapp.ir&fp=randomized&type=ws&allowInsecure=0&sni=ia.subchar.ir#By AghaDani
 vless://96667cac-b1ab-4734-a043-c343b1cef74f@fsxhh.fastshop1.com:443?mode=packet-up&path=%2Flizzard&security=tls&encryption=none&host=lizzard3.global.ssl.fastly.net&fp=firefox&type=xhttp&sni=ssl.fastly.com#By AghaDani
