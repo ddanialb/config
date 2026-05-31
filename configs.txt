@@ -1,3 +1,4 @@
+vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@46.19.64.181:23346?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=SSVyNwsSA0BFp8HJWvqc-VQjwOtKrVnl6nDFJxpHU18&sid=4294bfc2&sni=zvuk.com#By AghaDani
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&sni=eh.vk.com&headertype=none\,,#By AghaDani
 vless://4649d681-7f26-4959-a3f2-02eb8866230f@159.195.82.187:9443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&sid=2344766a270a6298&sni=yahoo.com#By AghaDani
 vless://18afb896-6e4b-403b-b804-714b09b517e5@109.122.198.76:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=tMEkGmuOsuS_cgZYpj2UYBKnni559FZd-poGnH82ck8&sid=bfb7cb31&sni=www.icloud.com&spx=/#By AghaDani
@@ -427,7 +428,6 @@ vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?type=grpc&security
 vless://cd91af31-0c74-4bce-aac3-bdae367c84fa@43.203.252.196:21796?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=dHK4t7AbVKnDxl6ondRWcwkkt4FDkrK89ugEzZfDuzw&sid=804d6574da9180&sni=www.sony.com&spx=/#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSFhKOFhIMzFNZVkyeHBKR3V4c3VTU1czeVlUVDRhblRFVHNXTlR1UUxvOThvQWdCNnNNdkJLWEdMVWtMTGtVR3pWZXhmbXlRdzlSeVpxNTJXZnpmR3l3VXVxZjhpeXQ=@185.5.38.111:55988?#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRVoyYmZGYlZpQzl1c04xV0I0eHF2eXpFdVVoUEEydXVVWVptaktBV1RRYzNtRXJoQ2FWSG1aYmJXZ1ZHOW9pMVZIaHoxMktQMmdBV0M4TFpKNGltV2h5cEFEOVBHM3U=@185.5.38.111:55988?#By AghaDani
-vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@46.19.64.181:23346?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=SSVyNwsSA0BFp8HJWvqc-VQjwOtKrVnl6nDFJxpHU18&sid=4294bfc2&sni=zvuk.com#By AghaDani
 vless://9d7708f1-fb7f-4d02-8dd3-532b9caf8495@162.159.253.41:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=vip.xvon.in&fp=chrome&type=ws&allowInsecure=0&sni=vip.xvon.in#By AghaDani
 vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@193.56.3.125:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl1.skysafe.online&path=%2F&pbk=f1kpVFY3EHaR41TCKGqSWzZq7HG-WpyE2g_tlMm2US0&sid=844dfa3681e4c4#By AghaDani
 ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@112.184.13.229:10911?#By AghaDani
