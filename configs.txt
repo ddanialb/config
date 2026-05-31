@@ -1,3 +1,6 @@
+vless://e145b861-ac4a-4e5b-b470-561e4e544c40@87.107.175.18:8086?encryption=none&type=tcp&security=reality&sni=www.snapp.ir&fp=chrome&allowInsecure=1&pbk=0DKjdlADOX3-J6ZYv6RjlDP5n3kOahNBn3vUNnHO0l0&sid=d1&spx=%2F#By AghaDani
+vless://896e72df-9653-405b-886f-0d21ca0485a3@ia.subchar.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=snapp.ir&path=%2F&security=tls&sni=ia.subchar.ir&type=ws#By AghaDani
+vless://49882640-5877-4f73-a49e-86e209d080a9@gtrhlntyi0p5.hosted-in.iranray.online:2052?path=%2FphpMyAdmin%3Fq%3D%E4%B8%80%E4%BD%8D%E8%99%95%E5%A5%B3%E5%9C%A8%E5%AD%AB%E5%85%88%E7%94%9F%E7%9A%84%E8%BE%B2%E5%A0%B4%E5%B7%A5%E4%BD%9C%E3%80%82&security=none&encryption=none&host=54jIATfdWFqPmXO93BXl5x.ch4.node.tnw.of.to&type=httpupgrade#By AghaDani
 vless://6d32a46e-9343-4bb8-be9c-a1a5f59f2496@45.76.86.159:443?encryption=none&security=none&type=tcp#By AghaDani
 ss://ZendanVPN@31.57.63.201:2000?path=%2F&security=&encryption=none&host=45.130.125.69&type=ws#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#By AghaDani
@@ -21,12 +24,10 @@ vless://e1629064-877c-4ad9-8fa4-113bae1a8443@206.71.158.30:26713?encryption=none
 vless://7a2006a2-d037-453c-e76f-02c237c35e42@47.82.79.209:55761?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#By AghaDani
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=%2Fsg-melbi%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#By AghaDani
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#By AghaDani
-vless://896e72df-9653-405b-886f-0d21ca0485a3@ia.subchar.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=snapp.ir&path=%2F&security=tls&sni=ia.subchar.ir&type=ws#By AghaDani
 vless://d697bc7a-9b53-48cf-b095-d62e137f9b8a@fsxhh.fastshop1.com:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=firefox&insecure=0&allowInsecure=0&type=xhttp&host=lizzard3.global.ssl.fastly.net&path=%2Flizzard&mode=packet-up#By AghaDani
 vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.129.164:80?mode=auto&path=%2FTignal&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofansv8.global.ssl.fastly.net&type=xhttp#By AghaDani
 vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.129.164:80?mode=auto&path=%2FTignal&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofansv8.global.ssl.fastly.net&type=xhttp#By AghaDani
 vless://d7b427b0-be81-49f7-8ed0-6a1c70c31b7b@mrsibil.ezgateway.net:443?encryption=none&security=none&type=tcp#By AghaDani
-vless://49882640-5877-4f73-a49e-86e209d080a9@gtrhlntyi0p5.hosted-in.iranray.online:2052?path=%2FphpMyAdmin%3Fq%3D%E4%B8%80%E4%BD%8D%E8%99%95%E5%A5%B3%E5%9C%A8%E5%AD%AB%E5%85%88%E7%94%9F%E7%9A%84%E8%BE%B2%E5%A0%B4%E5%B7%A5%E4%BD%9C%E3%80%82&security=none&encryption=none&host=54jIATfdWFqPmXO93BXl5x.ch4.node.tnw.of.to&type=httpupgrade#By AghaDani
 vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?security=tls&encryption=none&type=xhttp&path=/assignment&sni=www.multiplydose.cc.cd&fp=chrome&mode=stream-one&alpn=h2,http/1.1#By AghaDani
 vless://-78364b@yas.c1.ir:8227security=none&encryption=none&host=www.speed.&headerType=http&type=tcp#By AghaDani
 vless://ZendanVPN@31.57.63.201:2000?path=%2F&security=&encryption=none&host=45.130.125.69&type=ws#By AghaDani
