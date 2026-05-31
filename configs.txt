@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTWVKaGlhOUhoQ3cxaEdjeGVWRlFm@195.93.253.245:49137?#By AghaDani
+vless://530eaa91-28a0-46ae-bc63-57384362ba6b@46.149.78.27:17113?type=tcp&security=reality&fp=chrome&pbk=516wV7sLhUaSh5zqVbgyo-otX3ii13GgHJngRPhbflg&sid=fe013b8818613e&sni=vk.ru#By AghaDani
+vless://597923cd-1877-495f-9413-d0dfbd166c14@141.98.4.99:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sid=2d8dc1a8a7fe&sni=www.microsoft.com#By AghaDani
+vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&sid=132c271e21324e36&sni=googdas.scroogethebest.com#By AghaDani
 vless://2ee59692-ca27-49c5-8771-ca121fd22bc9@snapp.com.kolman.com.de:443?alpn=h2&fp=firefox&ech=AEX%2BDQBBIAAgACBK2mQVEOAsOiYukJtf3XN0H6hSEQIEQ5znrzvZkWbaCgAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA%3D&type=xhttp&sni=cd-01.kolman.com.de&mode=auto&path=%2FeQ7EK5s88mh1QkaLDB4v5psc&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.6.5%20Chrome%2F124.0.6367.243%20Electron%2F30.1.2%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&insecure=0&host=cd-01.kolman.com.de&allowInsecure=0#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMkJXbzJ6S2ZtQTdKb1doblJRU1hyTjZMRm1QU3BMY2NwWVZjVWVvOFVvTXE0ZHZGYWZiWjNXaURWZkNGRHNMVlBlNWppRmFnak1mNDVaVmc5cnhSazFKUmNKS1JLSlE=@185.5.38.111:55988?#By AghaDani
 vless://c1e32c6c-9a14-4edf-95c7-b1236a55aa07@95.182.80.130:16146?type=grpc&security=reality&fp=chrome&pbk=lCkGLh6mypATTCMgrwjjqOxWBISCIB9fmdt_5Fff3Ug&sid=e7eac240&sni=www.samsung.com&mode=gun&spx=/&authority=/v2rayNplus-v2rayNplus-v2rayNplus#By AghaDani
@@ -32,7 +36,6 @@ vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@194.156.101.115:443?type=grpc&secur
 vless://b831381d-6324-4d53-ad4f-8cda48b30811@67.102.180.16:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=3j9h81MFAlsEOQ4K1ey1XD0tz1aEVNaMGMoMjQwif1w&sid=16&sni=www.microsoft.com#By AghaDani
 vless://ab55cf94-7ca4-4214-a2ad-bdcf2c7e76d2@51.250.47.27:443?type=grpc&security=reality&fp=chrome&pbk=0vlyczKGGAZbev0skD7sP12VVsomgtYfNXyUMiZNOWo&sid=80c407a164&sni=event.yandex.ru&serviceName=&spx=/&authority=#By AghaDani
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?type=tcp&security=reality&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&sni=yahoo.com&path=/#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTWVKaGlhOUhoQ3cxaEdjeGVWRlFm@195.93.253.245:49137?#By AghaDani
 vless://d98e6ac5-e873-402a-bcce-78e2887c936b@170.205.37.59:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=zvRguC1cm7gKkQpNarOCaAUAvcSXUWH10-pUEfneYSI&sid=014c3d76dee82247&sni=www.yahoo.com#By AghaDani
 vless://e0c7c89f-5ad6-4b30-b3c4-55df395045bd@fsxhh.fastshop1.com:443?mode=packet-up&path=/lizzard&security=tls&encryption=none&insecure=0&host=lizzardali.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=global.fastly.com#By AghaDani
 vless://c07e911e-6f76-4355-90ac-fcea7250689f@193.168.46.180:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&sni=rruu.persik.host#By AghaDani
@@ -1995,6 +1998,3 @@ vless://b9780d8a-6b76-4935-8d38-113cdbc5fff5@104.21.89.30:2096?encryption=none&s
 vless://TOFAN-TRADE@151.101.193.57:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=xhttp&security=none&path=/&host=InternetAzadRobot07gt745.global.ssl.fastly.net&mode=auto#By AghaDani
 trojan://Mitivpn@216.24.57.6:443?alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=dash.hitgram.ir&path=%2F&sni=dash.hitgram.ir&type=ws#By AghaDani
 trojan://Mitivpn@45.130.125.76:2053?path=%2F&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#By AghaDani
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#By AghaDani
-trojan://Mitivpn@45.130.125.76:2053?path=/&security=tls&alpn=http/1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#By AghaDani
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#By AghaDani
