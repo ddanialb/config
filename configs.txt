@@ -1,3 +1,5 @@
+trojan://telegram-id-directvpn@18.197.233.165:22223?#By AghaDani
+trojan://telegram-id-directvpn@18.198.122.60:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#By AghaDani
 trojan://telegram-id-directvpn@3.122.111.21:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-directvpn@3.122.176.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-directvpn@3.122.87.69:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
