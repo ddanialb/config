@@ -1,3 +1,4 @@
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.calmlunch.com&allowinsecure=1&type=ws&sni=www.calmlunch.com#By AghaDani
 vless://565b50d4-604d-4a60-9fc2-d9d3dac0aec6@216.24.57.1:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc#By AghaDani
 vless://3608340b-456e-41c6-a5bb-b495ff8bf302@54.36.113.174:80?encryption=none&type=tcp&headerType=none#By AghaDani
 vless://27302727-9dfa-4975-990e-88c7a63747cd@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=tc.amoovictor.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=tc.amoovictor.cc.cd#By AghaDani
@@ -24,7 +25,6 @@ vless://41b903e0-7d0a-45d0-9b29-83086024a88b@88.218.120.60:4443?security=reality
 vless://3608340b-456e-41c6-a5bb-b495ff8bf302@54.36.113.174:80?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?security=reality&encryption=none&pbk=CgnlqjbaLZhDiGsk69nT8k7HzOCxtVTEnLViz3AfD2c&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=0a41bdaa#By AghaDani
 vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@ca-1.omuvpn.tech:18543?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N6QQQTEXQaXI9PRxOYdlnsdviaLwu4eP4sIq9ifz5VM&security=reality&sid=fb0839b3bc1d6e&sni=www.zvuk.com&type=tcp#By AghaDani
-trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.calmlunch.com&allowinsecure=1&type=ws&sni=www.calmlunch.com#By AghaDani
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#By AghaDani
 vless://2896b35d-1de4-4458-a5ff-340a7bc2ebbe@5.182.86.230:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=klqenfvPoePfiVDDeWb7GwcIB25cWF1bjuNVjVDc8BA&security=reality&sid=c62b8d01&sni=www.gitlab.com&type=tcp#By AghaDani
 vless://296bbba2-b100-4d91-b8df-3fe03cc863c4@91.225.217.28:443?encryption=none&fp=&pbk=CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0&security=reality&sid=106c&sni=yahoo.com&type=tcp#By AghaDani
