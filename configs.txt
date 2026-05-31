@@ -1,3 +1,8 @@
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?type=tcp&security=reality&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&sni=yahoo.com#By AghaDani
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@188.239.21.47:8443?#By AghaDani
+vless://d98e6ac5-e873-402a-bcce-78e2887c936b@170.205.37.59:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=zvRguC1cm7gKkQpNarOCaAUAvcSXUWH10-pUEfneYSI&sid=014c3d76dee82247&sni=www.yahoo.com#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQWtQSmdHTTlkV2RKRHdwYnE4ZFJjWWFyTXFhNVluekZNY283TEFMemNVWVVlUWlZQk5lTENvYVhnWlVRQ1VBU3pHOVEyRjNaZ0h3Z1RnNG1QdTZHQm53Z2dYZFpBZ3g=@185.5.38.111:55988?#By AghaDani
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?type=tcp&security=reality&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&sni=ya.ru#By AghaDani
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443?#By AghaDani
 vless://68f91cc2-4ef2-46fd-932a-2d0350f682c8@212.87.199.28:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=MbVEbNu2iMIDhD5ziJFLKVfV0lBY7tGGpklBrwqVCyg&sid=61ad&sni=www.yahoo.com#By AghaDani
 vless://083073e2-071d-4b44-af36-f4bba21a3e8e@94.103.1.65:8443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=safari&sni=n3.plus-abc.ru#By AghaDani
@@ -101,7 +106,6 @@ vless://e43dd231-7c75-4606-80ec-50fbb8335ce7@132.226.85.167:443?type=tcp&securit
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@45.8.93.12:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=YU7hzDkfhfrA8v2rhMEUhgh7EQs4mHX9M60fkraccis&sid=f37fb7531c60780d&sni=newsw.stardevs.top#By AghaDani
 vless://e1df69ad-2351-4725-adc0-601bd7d8b8e7@107.181.147.22:443?security=reality&encryption=none&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=f7c5599376a0#By AghaDani
 vless://05519058-d2ac-#By AghaDani
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?type=tcp&security=reality&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&sni=yahoo.com#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?Telegram=@armindone,@armindone,@armindone,@armindone&allowInsecure=1&encryption=none&security=tls&type=tcp#By AghaDani
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.11.151:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&sni=google.com#By AghaDani
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=raw&security=reality&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&sni=yahoo.com#By AghaDani
@@ -1994,7 +1998,3 @@ vmess://eyJhZGQiOiAiaGsyLmxyemR4LnVrIiwgImFpZCI6IDAsICJpZCI6ICJkYjY5ZDViYy1kMzZj
 trojan://telegram-id-directvpn@3.65.4.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-directvpn@3.65.4.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-directvpn@3.71.124.112:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-trojan://telegram-id-directvpn@3.74.67.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=/Tel-@v2rayngzendegimamad@v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#By AghaDani
-trojan://telegram-id-directvpn@3.75.20.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-trojan://telegram-id-directvpn@3.77.116.109:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
