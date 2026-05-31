@@ -1,3 +1,5 @@
+trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#By AghaDani
+trojan://Ng35283528@104.16.83.8:443?security=tls&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=%2F%3Fed%3D2560#By AghaDani
 trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#By AghaDani
 trojan://Nova-Proxy@8.39.125.191:2083?path=%2F&security=tls&insecure=1&host=spring-queen-a95f.cewon19053.workers.dev&type=ws&allowInsecure=1&sni=spring-queen-a95f.cewon19053.workers.dev#By AghaDani
 vless://06ea96b5-65c6-41a4-86fd-2ec06857b258@cf2.helishot.info:443?path=/music?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fire.rezazzz.ir&fp=chrome&type=ws&allowInsecure=0&sni=fire.rezazzz.ir#By AghaDani
