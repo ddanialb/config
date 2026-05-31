@@ -1,3 +1,4 @@
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#By AghaDani
 vless://f2ee2560-3064-4a86-b9ec-57d8b35c262a@de.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad&fp=qq&type=tcp&headerType=none#By AghaDani
 vless://f932d6d2-8c7f-4939-89d9-ff386ae5e5dc@158.160.192.93:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#By AghaDani
 vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@157.22.241.46:12444?flow=xtls-rprx-vision&fp=chrome&pbk=dYmNf0AA5qgV2ct3dPCYtxdS2iD3FEUnEs6J1GWe2wU&security=reality&sid=9a79&sni=2gis.ru&spx=/nE3tdTXWmvhESJb&type=tcp#By AghaDani
@@ -124,7 +125,6 @@ ss://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990#By AghaDani
 vless://df485d1c-fa7d-451b-b3ac-087e1e42f519@ezio.text2cast.com:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws#By AghaDani
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#By AghaDani
-trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#By AghaDani
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.52.154.170:443#By AghaDani
 vless://de4bc75f-fa01-4ae3-bfd0-6cd5976fa402@91.107.140.160:443?security=reality&encryption=none&pbk=Efid51phV7wQ6vF48DC97364AyVl7tQa22ILzIOLYgg&headerType=none&fp=chrome&spx=%2Fq5IBUmxVH0xSINU&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=713d897f#By AghaDani
 vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@188.114.97.6:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fdownload.php&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#By AghaDani
