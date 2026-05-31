@@ -1,3 +1,5 @@
+vless://72e2f99b-0e11-447e-8a8d-a7a2f9ea78c6@164.90.191.58:443?path=%2Fproxyip%3D144.124.252.83&security=tls&encryption=none&insecure=0&host=plain-art-420b.pouyanmotamedi0.workers.dev&fp=random&type=ws&allowInsecure=0&sni=plain-art-420b.pouyanmotamedi0.workers.dev#By AghaDani
+vless://a1262169-7772-4c84-9e0f-816039e01671@18.165.198.193:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fwss%3Fed%3D2048&host=d2qjvn5hq76ev8.cloudfront.net&sni=d2ub2z0egcsafu.cloudfront.net&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#By AghaDani
 vless://18287f51-6b16-49cd-b09b-484c00e77849@connect.nyxserver.ir:80/?type=ws&encryption=none&path=%2Farvan-tuel&host=connect.nyxserver.ir&security=none#By AghaDani
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#By AghaDani
 vless://f8218ac8-0a9b-5d70-a6c8-31936767c357@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
@@ -45,7 +47,6 @@ vless://2ad2a786-7a9c-49fa-880a-e78e8eaa4873@vt.testexpress.ir:443?alpn=h2%2Chtt
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#By AghaDani
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
 trojan://GdL9nNA8km@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&host=ssss2.avaaal.ir&fp=chrome&type=ws&allowInsecure=0&sni=ssss2.avaaal.ir#By AghaDani
-vless://72e2f99b-0e11-447e-8a8d-a7a2f9ea78c6@164.90.191.58:443?path=%2Fproxyip%3D144.124.252.83&security=tls&encryption=none&insecure=0&host=plain-art-420b.pouyanmotamedi0.workers.dev&fp=random&type=ws&allowInsecure=0&sni=plain-art-420b.pouyanmotamedi0.workers.dev#By AghaDani
 vless://8ae23f6e-634a-4365-96d5-278fdc8e75aa@5.160.246.101:5050?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0@de5.taskflowhub.org:2083#By AghaDani
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&host=404.mitii33.workers.dev&fp=edge&type=ws&allowInsecure=0&sni=404.mitii33.workers.dev#By AghaDani
