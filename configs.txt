@@ -1,3 +1,5 @@
+vless://21e6b7ff-4333-45dd-b5fd-ec987b686edf@95.38.161.190:443?encryption=none&security=reality&sni=www.aparat.com&fp=chrome&pbk=zCHug4d7pR7SRXnmkbMbZpQSzXtdZ6cbckZzgFXqnwc&sid=a26922&spx=%2F&type=tcp&headerType=none#By AghaDani
+vless://24f08501-042e-4fb3-b5f4-2e01e3b1360b@178.105.249.61:80?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&sni=openai.com&sid=3a622700e73c6642#By AghaDani
 vless://e1868555-2178-4126-aefd-4cbe770ac87f@auto1.aruxg.ir:443?encryption=none&fp=chrome&pbk=x0kfWjTiGUdijlMbIdc4M8uA78zp9xde-i9MGjTVuQI&security=reality&sid=902198&sni=www.google.com&spx=%2FdZKMwR1a5ozE5uw&type=tcp#By AghaDani
 vless://896e72df-9653-405b-886f-0d21ca0485a3@ia.subchar.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=snapp.ir&path=%2F&security=tls&sni=ia.subchar.ir&type=ws#By AghaDani
 vless://461ff3f0-e36f-459d-b36a-fac885057b5f@ia.subchar.ir:13927?encryption=none&headerType=http&host=google.com&path=%2F&security=none&type=tcp#By AghaDani
