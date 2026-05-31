@@ -1,3 +1,5 @@
+vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?type=tcp&security=reality&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0&sid=8c4907b7884b31#By AghaDani
+vless://ec1f7b91-0480-438e-89a7-4583e01f6d3a@snapp.ir:80?encryption=none&fm=%7B%22udp%22%3A%5B%7B%22type%22%3A%22mkcp-original%22%7D%5D%7D&host=pn.apple90.ir&path=%2F&security=none&type=ws#By AghaDani
 vless://560b701e-f9bc-4267-a8ad-821223803106@snapp.ir:2052?type=ws&encryption=none&path=%2F&host=music.ir.temas-lomat.ir&security=none#By AghaDani
 vless://505840df-3b05-4767-829c-9edeba1efa99@104.17.121.71:2083?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=frir.sodogodping.ir&type=xhttp&allowInsecure=0&sni=frir.sodogodping.ir#By AghaDani
 vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?type=ws&security=tls&path=/?ed=2560&sni=rAyAn-007.lEiLa.dPdNs.oRg&fp=chrome#By AghaDani
@@ -216,7 +218,6 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&secu
 vless://9d0a6abb-f2ca-421b-b7da-29b8030d4ad0@servers.xvon.in:80?type=ws&path=%2F&host=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=servers.xvon.in#By AghaDani
 vless://0a80ce31-1cce-4c5e-a7ab-0c5ab720368e@ir.sabasarmaye.ir:4050?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
 vless://48cdcfef-af9c-4eff-888c-cace67ae5881@107.161.168.212:56947?encryption=none&security=none&type=tcp#By AghaDani
-vless://ec1f7b91-0480-438e-89a7-4583e01f6d3a@snapp.ir:80?encryption=none&fm=%7B%22udp%22%3A%5B%7B%22type%22%3A%22mkcp-original%22%7D%5D%7D&host=pn.apple90.ir&path=%2F&security=none&type=ws#By AghaDani
 vless://1d6d79d2-786d-4a90-b93d-fb17b6aa640c@samdi.5on.ir:2086?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://195af59a-62e8-47c9-ab5a-34b72443be43@snapp.ir:2082?security=none&type=ws&headerType=&path=%2Ftunx&host=sPx-1.mobilesubasa.com#By AghaDani
 vless://195af59a-62e8-47c9-ab5a-34b72443be43@185.143.235.253:2082?security=none&type=ws&headerType=&path=%2Ftunx&host=sPx-1.mobilesubasa.com#By AghaDani
@@ -997,4 +998,3 @@ vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?type=ws&security=tls
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTlFjaWF0UFl5d3pNX01aMDNUeE9B@213.165.37.30:2443#By AghaDani
 vless://68ef5d17-89ae-4766-a356-37ba0d21b842@81.161.229.124:54201?encryption=none&host=&path=%2F&security=none&type=ws#By AghaDani
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&path=/vless/&security=tls&type=ws#By AghaDani
-vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&path=/vless/&security=tls&type=ws#By AghaDani
