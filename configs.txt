@@ -1,3 +1,5 @@
+vless://3193066d-6f38-4466-80b6-40ce3bcd4b54@104.17.104.74:2096?path=%2F&security=tls&encryption=none&host=late-leaf-f4d0.java00code.workers.dev&fp=random&type=ws&sni=late-leaf-f4d0.java00code.workers.dev#By AghaDani
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ee.keepsecured.net:443?security=reality&encryption=none&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.kwork.com&sid=ad7dab462a323acb#By AghaDani
 vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0&sid=8c4907b7884b31&sni=www.tesla.com&path=/#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&sni=ams1.fromblancwithlove.com&allow_insecure=0#By AghaDani
 vless://3193066d-6f38-4466-80b6-40ce3bcd4b54@198.41.192.42:2053?path=%2F&security=tls&encryption=none&host=late-leaf-f4d0.java00code.workers.dev&fp=random&type=ws&sni=late-leaf-f4d0.java00code.workers.dev#By AghaDani
@@ -1996,5 +1998,3 @@ trojan://u2k1jh0og5vn@104.17.162.123:8443?security=tls&type=ws&sni=oq788320mz7kf
 vless://1fa6b580-f119-4adc-bd2b-22d1bdf68ccd@fr.gameirani.com:100?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://7e9c4b55-ca30-4b4b-a8ab-19d74b57eba8@104.16.122.177:80?encryption=none&host=xU.aSaCO.sTorE&path=%2F&security=none&type=ws#By AghaDani
 vless://7e9c4b55-ca30-4b4b-a8ab-19d74b57eba8@208.103.161.101:80?encryption=none&host=xU.aSaCO.sTorE&path=%2F&security=none&type=ws#By AghaDani
-vless://7e9c4b55-ca30-4b4b-a8ab-19d74b57eba8@165.215.250.12:80?encryption=none&host=xU.aSaCO.sTorE&path=%2F&security=none&type=ws#By AghaDani
-trojan://trojan@162.159.152.4:8443?path=%2F%3Fed&security=tls&insecure=0&host=azadnet-#By AghaDani
