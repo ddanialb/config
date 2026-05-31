@@ -1,3 +1,9 @@
+trojan://Mitivpn@45.130.125.76:2053?path=/&security=tls&alpn=http/1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#By AghaDani
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#By AghaDani
+trojan://Mitivpn@45.130.125.76:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&eh=Sec-WebSocket-Protocol&fp=chrome&host=panel.hitgram.ir&path=%2F&sni=panel.hitgram.ir&type=ws#By AghaDani
+trojan://Mitivpn@208.103.161.33:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=cdn.hitgram.ir&fp=chrome&type=ws&sni=cdn.hitgram.ir#By AghaDani
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
+trojan://Mitivpn@45.130.125.76:443?allowInsecure=1&alpn=h2,http/1.1&eh=Sec-WebSocket-Protocol&fp=chrome&host=panel.hitgram.ir&path=/&sni=panel.hitgram.ir&type=ws#By AghaDani
 vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 trojan://Mitivpn@216.24.57.251:443?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=cdn.hitgram.ir&path=%2F&sni=cdn.hitgram.ir&type=ws#By AghaDani
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#By AghaDani
