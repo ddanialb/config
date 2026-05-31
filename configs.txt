@@ -1,3 +1,4 @@
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=www.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.linkman1.ir#By AghaDani
 trojan://telegram-id-directvpn@18.184.212.180:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://df485d1c-fa7d-451b-b3ac-087e1e42f519@ezio.text2cast.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#By AghaDani
@@ -163,7 +164,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptdE5TY0xhTjM3dnN0S1VCcXNwQVZEZjJ6UTl0ZXZXMXV
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&type=tcp#By AghaDani
 vless://1d98354d-ce33-4efd-9a39-ab8c7e9d53a3@51.250.117.209:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=D9CGr9Ki6Fh8B8bXMCSFv9IWqJY9oNMstKPLnfXF4k4&sid=e5bfe8a1caeb90&sni=eh.vk.com&spx=/#By AghaDani
 trojan://Tel=Arshiacomplus@45.154.96.35:58035?type=xhttp&mode=stream-one&sni=oof.acp.us.ci&path=/fkcidiekei&security=tls&alpn=h2,http/1.1&fp=firefox&sni=oof.acp.us.ci#By AghaDani
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?type=tcp&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&sni=ya.ru#By AghaDani
 vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120&sni=cdn.cdnjst.org#By AghaDani
 trojan://Tel=Arshiacomplus@45.154.96.35:58035?type=xhttp&mode=stream-one&sni=oof.acp.us.ci&path=/fkcidiekei&security=tls&fp=chrome&sni=oof.acp.us.ci&alpn=h2,http/1.1#By AghaDani
