@@ -1,3 +1,4 @@
+trojan://Mitivpn@216.24.57.7:443?allowInsecure=1&alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=cdn.hitgram.ir&path=%2F&sni=cdn.hitgram.ir&type=ws#By AghaDani
 trojan://Mitivpn@216.24.57.7:443?alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&host=dash.hitgram.ir&path=%2F&sni=dash.hitgram.ir&type=ws#By AghaDani
 trojan://Mitivpn@45.130.125.69:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&eh=Sec-WebSocket-Protocol&fp=chrome&host=www.hitgram.ir&path=%2F&sni=www.hitgram.ir&type=ws#By AghaDani
 trojan://Mitivpn@45.130.125.69:443?type=ws&security=tls&path=%2F%3Fed%3Dmitivpn&host=www.hitgram.ir&sni=www.hitgram.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#By AghaDani
