@@ -1,3 +1,5 @@
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189&fp=chrome&type=tcp#By AghaDani
+trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9=b7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click&type=tcp#By AghaDani
 vless://de4bc75f-fa01-4ae3-bfd0-6cd5976fa402@91.107.140.160:443?encryption=none&type=tcp&security=reality&headerType=none&sni=aws.amazon.com&fp=chrome&allowInsecure=1&pbk=Efid51phV7wQ6vF48DC97364AyVl7tQa22ILzIOLYgg&sid=713d897f&spx=%2Fq5IBUmxVH0xSINU&flow=xtls-rprx-vision#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.myfymain.com:8880?encryption=none&security=none&type=grpc#By AghaDani
 vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&sid=8897c56a495b26cc&sni=yahoo.com&spx=/#By AghaDani
@@ -188,7 +190,6 @@ ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.nod
 vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@94.103.0.230:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=ps7eCLLKAqgSGPFRQl1-R1PhzUeO1Z1EwNl02Ac63UA&sid=514d02a2addd6476&sni=pl.prostosetup.org#By AghaDani
 vless://7a685dc5-f93c-4e19-8b9b-b77998feb042@31.59.39.192:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=www.amd.com#By AghaDani
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@95.85.234.126:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&sid=25425ff6fa&sni=www.google.com#By AghaDani
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9=b7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click&type=tcp#By AghaDani
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@194.87.39.215:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&sni=www.google.com#By AghaDani
 vless://6fd9f786-d974-49d0-b5c4-397678de69a2@193.233.127.219:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sni=www.cybo.com#By AghaDani
 vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@45.12.136.81:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&sid=8ae24275272f&sni=cdp.x5.ru#By AghaDani
@@ -365,7 +366,6 @@ vless://e8c61352-444f-4154-ba34-9d3141154a8d@172.64.155.209:8443?type=ws&securit
 vless://b6b2c827-4ac1-4e2c-af28-dfa7edbfeb81@35.182.252.92:51072?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5KJ1tLErCUEfqxc3IsnY_49p_gWe0mPB8eXJ3MLucgU&sid=0675732ab101&sni=www.sony.com&path=/#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2Z0hUNEFGMjUzWUxiY0doOFdHMWpNUlg0U0ZzZ1l4c3p3cG9jZGJlYUNVb2FCRHdOb0M4U3h0YWlTSGgxTW01MWNGaGhyTXBmcmd5eUZqNzFrYkU0NFZuUlBjZ3hQQWc=@185.5.38.111:55988?#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQ3JNV0RXS2J6OWNCaEhFbDZBN3J3QlhwYUtreTkxNUZUUnUxcQ@170.130.40.123:41352#By AghaDani
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189&fp=chrome&type=tcp#By AghaDani
 trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?type=tcp&security=tls&sni=www.cdn-setting.click&fp=chrome#By AghaDani
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=%2Fde&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#By AghaDani
 ss://YWVzLTI1Ni1nY206N2FkN2RmNWEtMjNiZC00NTliLTliZWYtYzQyOGYyNmZmZjRh@192.142.18.127:443?#By AghaDani
