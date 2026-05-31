@@ -1,3 +1,5 @@
+vless://4b8a44a6-ae42-4beb-991e-c4f3b048060c@199.232.236.87:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#By AghaDani
+vless://e65a5cbc-5663-4f7d-ad7d-800e86ba487d@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&encryption=none#By AghaDani
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#By AghaDani
 ss://YWVzLTI1Ni1nY206ZjRlN2NjM2ItMWZkZS00ODYxLTlhN2UtMjk0NzI4ZDhhMTZh@51.195.235.71:2083#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#By AghaDani
@@ -25,7 +27,6 @@ vless://a47c49ec-6eaa-44ce-9108-8427426a1123@162.159.253.41:8443?path=/admin.php
 vless://8fbbac7d-8810-4566-8a8c-ad07ad09cdc1@snapp.ir:80?path=/&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#By AghaDani
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=/&security=tls&encryption=none&insecure=0&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=0&sni=sni.skylee4.cloudns.ch#By AghaDani
 vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Furdpjvws&security=tls&encryption=none&host=638901504444939106.esfahan-prx-dnraabg.info&fp=chrome&type=ws&sni=638901504444939106.esfahan-prx-dnraabg.info#By AghaDani
-vless://e65a5cbc-5663-4f7d-ad7d-800e86ba487d@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&encryption=none#By AghaDani
 vless://9ee79303-e095-40f5-8fb8-363d87e90465@159.195.65.131:8443?flow=xtls-rprx-vision&fp=random&pbk=FQ-t1B16UdR6QYZyfYRf9PrD5JoEeCrkgRfM-doG4zY&security=reality&sid=1bc9bcde4b1ef645&sni=fastsync.xyz&spx=%2F&type=tcp#By AghaDani
 ss://TIGNAL-CRYPTO@151.101.67.57:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot44xd894.global.ssl.fastly.net&mode=auto#By AghaDani
 vless://83f7aa17-37b7-42b8-a265-d5528dd2705f@138.124.53.11:1789?flow=xtls-rprx-vision&fp=chrome&pbk=hBFjeM21RtFYytKZZmYd3_RddxRf8vilqfpyR79knCA&security=reality&sid=d8ea64ce7db5c3bf&sni=drive.yandex.ru&type=tcp#By AghaDani
@@ -279,7 +280,6 @@ vless://01f750a7-7e19-4b4a-9119-46a6d582a966@snapp.ir:80?path=/&security=none&en
 vless://7673f4bd-cf73-4e62-9f8b-2a0338924fe5@45.130.125.76:2096?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&serviceName=irannewsdaily.com.tabnak.ir.eghtesadonline.com.irna.ir.ilna.news.iribnews.ir.kayhan.ir&sni=FRIendLY-AUThor087nJXB1y9.SAMsunGOVEnS.Ir&type=grpc#By AghaDani
 vless://206a669d-a041-4f18-8a9f-0d711373ceb7@ital.shrekpop.com:8443?mode=auto&path=%2Fcloudapi&security=tls&encryption=none&host=gegercl.shrekpop.com&fp=firefox&type=xhttp&sni=gegercl.shrekpop.com#By AghaDani
 vmess://eyJhZGQiOiAiMTk5LjI0Ny4yNy4xMzQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjNiZmJkZWJhLTkwZGItNDM3Mi04MGM4LTIyZjFlYWY4MDBjZCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgxNTkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxXHUwMGFlXHVmZTBmVGhlIE5ldGhlcmxhbmRzXHUwMGE5XHVmZTBmSGFhcmxlbVx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MzFtcyJ9
-vless://4b8a44a6-ae42-4beb-991e-c4f3b048060c@199.232.236.87:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#By AghaDani
 trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#By AghaDani
 vless://2cff47f2-7cc6-4d96-9477-62d043b5e424@91.107.140.160:443?security=reality&encryption=none&pbk=Efid51phV7wQ6vF48DC97364AyVl7tQa22ILzIOLYgg&headerType=none&fp=chrome&spx=/telegram&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=6171a4#By AghaDani
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment¬e=@FreeOnlineVPN#By AghaDani
