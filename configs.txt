@@ -1,3 +1,5 @@
+vless://f138e43d-359c-47c5-ad4e-e2fc44ca3b77@ipf1.justrouting.sbs:80?mode=auto&path=%2Fdl%3Fed%3D2560&security=none&encryption=none&host=mojahedkoorkoor.global.ssl.fastly.net&fp=chrome&type=xhttp#By AghaDani
+vless://f138e43d-359c-47c5-ad4e-e2fc44ca3b77@ipf2.justrouting.sbs:443?mode=auto&path=%2Fdl%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=mojahedkoorkoor.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#By AghaDani
 vless://f138e43d-359c-47c5-ad4e-e2fc44ca3b77@ipf4.justrouting.sbs:80?mode=auto&path=%2Fdl%3Fed%3D2560&security=none&encryption=none&host=when-day-is-dark.global.ssl.fastly.net&fp=chrome&type=xhttp#By AghaDani
 vless://1a6c81ad-ad91-466e-9dbe-e8dd2c5088ff@185.143.233.122:443?type=ws&encryption=none&path=%2Fed%3D2080&host=cyrus.frtshop.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=cyrus.frtshop.ir#By AghaDani
 ss://YWVzLTI1Ni1nY206ZjRlN2NjM2ItMWZkZS00ODYxLTlhN2UtMjk0NzI4ZDhhMTZh@51.195.235.71:2083#By AghaDani
@@ -10,8 +12,6 @@ vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&f
 vless://96667cac-b1ab-4734-a043-c343b1cef74f@fx3033.game2lizard.com:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=grm.lizardshop.org&fp=360&type=ws&sni=grm.lizardshop.org#By AghaDani
 vless://96667cac-b1ab-4734-a043-c343b1cef74f@188.114.97.20:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=swi0.lizardshop.org&fp=360&type=ws&sni=swi0.lizardshop.org#By AghaDani
 vless://96667cac-b1ab-4734-a043-c343b1cef74f@fsxhh.fastshop1.com:443?mode=packet-up&path=%2Flizzard&security=tls&encryption=none&host=lizzard3.global.ssl.fastly.net&fp=firefox&type=xhttp&sni=ssl.fastly.com#By AghaDani
-vless://f138e43d-359c-47c5-ad4e-e2fc44ca3b77@ipf1.justrouting.sbs:80?mode=auto&path=%2Fdl%3Fed%3D2560&security=none&encryption=none&host=mojahedkoorkoor.global.ssl.fastly.net&fp=chrome&type=xhttp#By AghaDani
-vless://f138e43d-359c-47c5-ad4e-e2fc44ca3b77@ipf2.justrouting.sbs:443?mode=auto&path=%2Fdl%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=mojahedkoorkoor.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#By AghaDani
 vless://f138e43d-359c-47c5-ad4e-e2fc44ca3b77@ipf2.justrouting.sbs:443?mode=auto&path=%2Fdl%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=when-day-is-dark.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=python.org#By AghaDani
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab&type=tcp&headerType=none#By AghaDani
 trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#By AghaDani
