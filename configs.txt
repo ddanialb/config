@@ -1,5 +1,7 @@
+vless://ab66d3d7-fe79-49b6-871b-4f3623b2ad99@american.ssabzlearn.ir:9443?path=%2F&security=none&encryption=none&type=ws#By AghaDani
 vless://25263c14-6cb5-499b-b462-dd498deecfe7@de-on-demand.not-a-projects.xyz:47518?#By AghaDani
 trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.220.10#By AghaDani
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 vless://0a335b4d-7a02-4989-a16d-424d265a6420@3.65.207.158:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 trojan://VPTFm%3DoZ%2B%2BSuNT%2BjMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.104.237.100#By AghaDani
 vless://4cd5b457-ef8d-4117-8869-badae08a6b6f@panel.li1.com.tr:8443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=aparat-stream&mode=gun&sni=poro.ti7.com.tr&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#By AghaDani
@@ -14,7 +16,6 @@ trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=
 vless://248891a9-1ac5-42ad-a68b-2cecef897b0a@89.208.199.29:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e7#By AghaDani
 vless://d30e2b3f-e823-4ff0-b903-b390b41ac091@yaali.parsclad.ir:8443?security=reality&encryption=none&pbk=oHfyNlYcdRCevLSOpRb9lfSbBKPbfUMU_-Ck4v9swFc&headerType=none&fp=chrome&spx=%2F1g0xXbeyphAOmq6&type=tcp&sni=www.nvidia.com&sid=14f7dc53e7b5#By AghaDani
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?security=reality&encryption=none&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1tzerl4nd.gxcore.net&sid=a1ab5a56bc42#By AghaDani
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 vless://2ce70f60-6145-4730-97e1-a38cb5dd2afc@5.188.114.12:3443?path=%2F&security=none&encryption=none&type=ws#By AghaDani
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#By AghaDani
 vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?security=reality&encryption=none&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net&sid=9891d7#By AghaDani
@@ -997,4 +998,3 @@ vless://e03579b1-78bf-4bc9-aff4-88495ce8337d@panel.panel.pythash.tr:8443?securit
 vless://f7d6927b-12bf-4390-aeca-fd7ebc3ae841@104.17.121.9:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=alef.ir.ilna.news.irannewsdaily.com.farsnews.ir.alef.ir.irdiplomacy.ir.irna.ir&allowInsecure=0&sni=hOSPiTABLE-dEpARtmENt77lrTfwQWh.windLEr.co.UK#By AghaDani
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#By AghaDani
 vless://ace6f892-637f-4053-b12b-7982976ecbb5@104.17.121.71:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=snn.ir.jamejamonline.ir.tasnimnews.com.eghtesadonline.com.presstv.ir.snn.ir.irna.ir&allowInsecure=0&sni=SHiny-caShS7HN18ZGWa.WIndlEr.co.Uk#By AghaDani
-vless://b50688d7-d5e5-4391-9220-c3ac2558f1fe@95.182.101.96:2030?path=%2F&security=none&encryption=none&type=httpupgrade#By AghaDani
