@@ -1,6 +1,8 @@
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?path=%2F%3Fed&security=tls&encryption=none&insecure=0&fp=360&type=ws&allowInsecure=0&sni=fl0.lizardshop.org#By AghaDani
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#By AghaDani
+vless://21f1af13-f6e9-4483-8a17-a521a665b335@germany.samanidempire.org:443?path=%2Freteweef&security=tls&encryption=none&insecure=0&host=germany.samanidempire.org&type=ws&allowInsecure=0#By AghaDani
 vless://af85935c-e753-4efa-9356-5fcb26ec68bb@pro.snappmarket.online:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=pro.nimbaha.info&path=/&security=tls&sni=PrO.nImBaHa.InFo&type=ws#By AghaDani
 vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#By AghaDani
 vless://e7f91a0c-7337-4ae0-b81a-7d7350719c6c@144.31.61.185:44328?type=ws&headerType=none&security=none&encryption=none&fp=chrome&path=%2F#By AghaDani
 vless://def25688-6533-4bbf-9f9d-28d8b7939d38@146.75.117.91:80?mode=auto&path=%2F%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=naidid.global.ssl.fastly.net&type=xhttp#By AghaDani
 ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp%3Drandom&packetEncoding=xudp#By AghaDani
@@ -1006,7 +1008,6 @@ vless://850ec820-dd24-4cf8-9ae8-1db6985dd322@81.163.23.159:443?flow=xtls-rprx-vi
 vless://cd26af96-638b-4d53-a264-8e0d584be772@158.160.130.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#By AghaDani
 vless://-78364b@yas.c1.ir:8227security=none&encryption=none&host=www.speed.&headerType=http&type=tcp#By AghaDani
 vless://1b6dc7d3-df80-446b-95d3-694891bae24b@91.107.140.160:443?security=reality&encryption=none&pbk=Efid51phV7wQ6vF48DC97364AyVl7tQa22ILzIOLYgg&headerType=none&fp=chrome&spx=%2FbW4zi7XBC5fja7v&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=c843#By AghaDani
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?path=%2F%3Fed&security=tls&encryption=none&insecure=0&fp=360&type=ws&allowInsecure=0&sni=fl0.lizardshop.org#By AghaDani
 vless://TIGNAL-CRYPTO@151.101.129.57:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot31dx253.global.ssl.fastly.net&mode=auto#By AghaDani
 vless://TIGNAL-CRYPTO@151.101.67.57:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot31dx253.global.ssl.fastly.net&mode=auto#By AghaDani
 vless://TIGNAL-CRYPTO@151.101.193.57:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot31dx253.global.ssl.fastly.net&mode=auto#By AghaDani
