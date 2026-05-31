@@ -1,3 +1,5 @@
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#By AghaDani
+vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?security=reality&encryption=none&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=88acba#By AghaDani
 vless://535a132c-8c0c-4671-983f-663b58e51e80@varzesh3.com:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Supp.noovinteach.ir&fp=chrome&type=ws&allowInsecure=0&sni=Supp.noovinteach.ir#By AghaDani
 vless://1f514e3e-54b3-4ec4-82bd-3f2137357604@178.236.240.183:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pfbJB3DRXflwP8WwE8PqTJCdwn7RcXTgYxwkMH_dA34&security=reality&sid=6f1573f9669b2e16&sni=www.microsoft.com&type=tcp#By AghaDani
 vless://2896b35d-1de4-4458-a5ff-340a7bc2ebbe@185.23.19.57:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=klqenfvPoePfiVDDeWb7GwcIB25cWF1bjuNVjVDc8BA&security=reality&sid=c62b8d01&sni=www.gitlab.com&type=tcp#By AghaDani
@@ -11,8 +13,6 @@ vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?security=none&
 vless://efb93967-d38e-4be2-ad69-31d9633e1b6c@37.32.7.226:1313?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdg-1.fromblancwithlove.com#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=de1.fromblancwithlove.com#By AghaDani
-vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?security=reality&encryption=none&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=88acba#By AghaDani
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#By AghaDani
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
 vless://2896b35d-1de4-4458-a5ff-340a7bc2ebbe@5.182.86.230:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=klqenfvPoePfiVDDeWb7GwcIB25cWF1bjuNVjVDc8BA&security=reality&sid=c62b8d01&sni=www.gitlab.com&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#By AghaDani
