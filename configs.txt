@@ -1,3 +1,4 @@
+vless://0a092ea3-e14f-408e-a469-516422c60e1a@room.cloudinfraservices.xyz:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=room.cloudinfraservices.xyz&mode=auto&path=%2F&security=tls&sni=room.cloudinfraservices.xyz&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://20ecee51-1044-4be3-89a9-f3c700425ead@45.67.230.230:443?type=tcp&security=reality&pbk=qYg2nPdLpBYWM7-9leTq43SoqAc5nT90gFH-AHAMShY&sid=abb1&sni=yahoo.com#By AghaDani
 ss://YWVzLTI1Ni1nY206NTA0Y2IwYmUtYjI4NS00ZWM1LTk1NjEtYmMyODlhZWEwZDQ2@bgroup.node2.s2.nodelist-airport.com:20002#By AghaDani
 vless://a82e009b-0da9-4a52-9d53-44628255e87f@45.130.125.0:8880?security=none&allowInsecure=0&encryption=none&type=httpupgrade#By AghaDani
@@ -1997,4 +1998,3 @@ vless://f328ce2e-7410-4202-b99f-5f56c6012df5@join-masterserver.lehefe6790.worker
 vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@v843042.hosted-by-vdsina.com:443?security=reality&encryption=none&pbk=wlYNxgezkkjoIEXATEBsOo7rZu5qkQaCOqDrysvuGR4&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=v843042.hosted-by-vdsina.com&sid=46e746366ed5c1b9#By AghaDani
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.71.242:443?path=%2Fhtml%2Fads&security=tls&encryption=none&insecure=1&host=pagescm.freen30.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen30.cc.cd#By AghaDani
 vless://556d2515-b565-4519-9ad0-9ad6f792b6c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=prossh.octarpmta.ir&type=httpupgrade#By AghaDani
-vless://e09a2f83-db37-4167-9664-786d45614905@chatgpt.com:8443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=vercel1.gamelistak.com&path=/https://t.me/MrNexTV2RAY&mode=auto&extra={#By AghaDani
