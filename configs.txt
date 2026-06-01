@@ -1,5 +1,5 @@
-vless://0a335b4d-7a02-4989-a16d-424d265a6420@3.65.207.158:443?encryption=none&type=tcp&headerType=none#By AghaDani
 trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?type=tcp&security=tls&headerType=none&sni=172.236.220.10&fp=chrome&allowInsecure=1#By AghaDani
+vless://0a335b4d-7a02-4989-a16d-424d265a6420@3.65.207.158:443?encryption=none&type=tcp&headerType=none#By AghaDani
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#By AghaDani
 trojan://8a4221c7-58ca-4ea5-97e1-aa1dd5fdd54b@de1.connectsuite.org:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#By AghaDani
