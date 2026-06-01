@@ -1,3 +1,4 @@
+vless://44659750-987d-4abb-aa86-efa5aabb3b40@snapp.ir:8080?type=ws&security=none&encryption=none&path=%2F&host=penhoon-ref.morvaridvps.ir#By AghaDani
 vless://49a1f3bc-e9a8-4807-a195-e5c4f627ad15@199.232.78.160:443?security=tls&type=xhttp&headerType=&path=%2F&host=ring.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%2C+%22xmux%22%3A+%7B%22cMaxLifetimeMs%22%3A+0%2C+%22cMaxReuseTimes%22%3A+%2264-128%22%2C+%22maxConcurrency%22%3A+%2216-32%22%2C+%22maxConnections%22%3A+0%2C+%22hKeepAlivePeriod%22%3A+0%2C+%22hMaxRequestTimes%22%3A+%22800-900%22%7D%7D&sni=speedtest.net&fp=chrome&alpn=h2&allowInsecure=1#By AghaDani
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#By AghaDani
@@ -21,7 +22,6 @@ vless://Telegram-Parsashonam-8@45.130.125.76:443?mode=auto&path=%2Fp4r34m&securi
 vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?security=reality&encryption=none&pbk=CgnlqjbaLZhDiGsk69nT8k7HzOCxtVTEnLViz3AfD2c&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=0a41bdaa#By AghaDani
 vless://fd1df366-31db-4ac1-87e1-b55cd025c74a@57.129.117.234:14501?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@163.5.63.129:443?path=%2F&security=tls&encryption=none&host=white-forest-2c01.alvlirm222.workers.dev&fp=chrome&type=ws&sni=white-forest-2c01.alvlirm222.workers.dev#By AghaDani
-vless://44659750-987d-4abb-aa86-efa5aabb3b40@snapp.ir:8080?type=ws&security=none&encryption=none&path=%2F&host=penhoon-ref.morvaridvps.ir#By AghaDani
 trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
 vless://0a335b4d-7a02-4989-a16d-424d265a6420@3.65.207.158:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://334e484f-7f7c-4895-a6e4-8951de2626f8@188.114.97.6:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#By AghaDani
