@@ -1,3 +1,4 @@
+vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://5f1aa934-07c0-4057-9b5c-53fc28022684@bLiT2.hAmRaHcOrE.iR:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#By AghaDani
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
@@ -156,7 +157,6 @@ vmess://eyJhZGQiOiAidXNibG9nLjExNDUxNDc4Mi54eXoiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwg
 vmess://eyJhZGQiOiAiNDUuMTk5LjEzOC4yNDMiLCAidiI6IDIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJwb3J0IjogIjQxMDAxIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgInRscyI6ICJ0bHMiLCAicGF0aCI6ICIvcGF0aC8yODIwMTgyNTI1MjYifQ==
 vmess://eyJhZGQiOiAiYmFhd2Z0dmJoLjc2ODk4MTAyLnh5eiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiZWFlZmNiNjQtMjc3Ni0zNzA2LWI5NjMtYTE5YTI0MzM3NTVlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9ieHFtaWFvIiwgInBvcnQiOiAyMDUyLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
 vless://3d1e1ef6-640d-4a1e-b2d0-47599dd35a82@american.ssabzlearn.ir:9443?encryption=none&host=&path=%2F&security=none&type=ws#By AghaDani
-vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=%2Fid-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#By AghaDani
 vless://a6d5a889-2a4a-4b31-8892-e0820188e921@141.193.213.30:443?security=tls&type=ws&path=%2Fmy-wbv&host=www.genflix.co.id.cyylr.eu.cc&sni=www.genflix.co.id.cyylr.eu.cc&fp=chrome&encryption=none#By AghaDani
 vless://a8f7bfbc-4bb8-4f10-ac8f-93e0ce4cc46a@147.90.14.161:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=4adcbc3df6cdd138&pbk=TxeJaR7AeMcpnSi8A45lOSc8xMSFlYu6x7mHjeQMQWU&encryption=none#By AghaDani
