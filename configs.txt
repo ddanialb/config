@@ -1,3 +1,4 @@
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.calmlunch.com&allowinsecure=1&type=ws&sni=www.calmlunch.com#By AghaDani
 vless://58867710-6dd3-42b6-a7be-1fdf1c5efd19@v2configlab.v2configlab9.workers.dev:80?path=%2F&security=&encryption=none&host=v2configlab.v2configlab9.workers.dev&type=ws#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#By AghaDani
@@ -426,7 +427,6 @@ vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?#By AghaDani
 vless://74efe911-4e11-44ac-b9a8-c8b4caf42ea7@185.177.239.95:14793/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sony.com&fp=chrome&security=reality&pbk=LL5elMmIL4PZMio6uuBGuZoToOURQdGqnaL8-aIyFAw&sid=26adc84e61c1#By AghaDani
 vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@193.56.3.125:8443?security=reality&encryption=none&pbk=f1kpVFY3EHaR41TCKGqSWzZq7HG-WpyE2g_tlMm2US0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl1.skysafe.online&sid=844dfa3681e4c4#By AghaDani
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?encryption=none&type=xhttp&security=tls&path=%2Fde&host=de.lezzatzone.ir&mode=stream-one&sni=de.lezzatzone.ir&fp=chrome&allowInsecure=0#By AghaDani
-trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.calmlunch.com&allowinsecure=1&type=ws&sni=www.calmlunch.com#By AghaDani
 vless://59d727ec-03b4-4cd7-b9ab-667a659ef87d@snappfood.ir:2086?encryption=none&type=ws&path=%2F&host=melli.santelacu.ir#By AghaDani
 vless://bf116897-eca4-459c-9f97-4019fa0ace7f@104.19.64.105:8443?encryption=none&security=tls&sni=focalin.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=focalin.adaspoloandco.com&path=%2FRizZrAcK#By AghaDani
 ss://1b43419a-b711-40d4-a0ee-eb5c73e60c92@138.124.63.126:443?security=reality&encryption=none&pbk=qBTTzM-_JJ5NDPfJc8_4StCYqeK4DpiZWEjxCf3KYXA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pro.online.prostosetup.org&sid=a96e9c98e60fd8d5#By AghaDani
