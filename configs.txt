@@ -1,3 +1,4 @@
+vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?security=reality&encryption=none&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=f83fd840aa1e1bc6#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidkdhMDU0TWF1eUNPbWFlWXRXdU9K@195.93.253.240:14130#By AghaDani
 vless://d87234a4-2a6c-4f0c-87f0-300942338207@151.101.110.219:443?path=%2F&security=tls&encryption=none&host=jookeji.global.ssl.fastly.neT&type=ws&sni=speedtest.net#By AghaDani
 vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#By AghaDani
@@ -40,7 +41,6 @@ trojan://mitivpn@104.16.75.127:443?type=ws&security=tls&path=%2F720f09dba195249b
 vless://43488128-319e-f480-64ea-0acdc712e2a8@5.252.23.53:443?security=reality&encryption=none&pbk=576eZ6y-yeWeJnmleDLI5bjyy90_Zd92-rpgy67Q6gg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.hyundai.com&sid=555fd87c44d272a4#By AghaDani
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://d87234a4-2a6c-4f0c-87f0-300942338207@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=1&host=jookeji.global.ssl.fastly.neT&type=ws&allowInsecure=1&sni=speedtest.net#By AghaDani
-vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?security=reality&encryption=none&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=f83fd840aa1e1bc6#By AghaDani
 trojan://bX_lNHWoW6ywq82mI%3DKUr%2B8i__VSp0Hs_E@172.235.63.252:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#By AghaDani
 vless://27302727-9dfa-4975-990e-88c7a63747cd@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=tc.amoovictor.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=tc.amoovictor.cc.cd#By AghaDani
 vless://fd1df366-31db-4ac1-87e1-b55cd025c74a@57.129.117.234:14501?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
