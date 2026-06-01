@@ -1,3 +1,5 @@
+trojan://mitivpn@cdn.linkman1.ir:443?security=tls&sni=cdn.linkman1.ir&fp=chrome&alpn=http/1.1&type=ws&path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings#By AghaDani
+vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?encryption=none&type=tcp&headerType=http&host=uplod.ir&security=none#By AghaDani
 vless://3c614aa4-d5cd-47e7-b8a5-547b6de83731@varzesh3.com:80?encryption=none&host=cloud.pydeveloper.ir&path=%2Fnavigate%2Fde%3Fed%3D2550&security=none&type=ws#By AghaDani
 vless://2d580b20-6228-4a88-b11d-78da48631efb@cd.land4k.com:443?path=%2Fnews&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=cdn-pro6.postshup.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-pro6.postshup.ir.#By AghaDani
 vless://13485bb6-77f1-4880-84dc-902716dad1cb@tamin.ir:2086?encryption=none&host=vip21.fsabziaan.ir&path=%2F&security=none&type=ws#By AghaDani
@@ -996,5 +998,3 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@docs.cloudflare.com:2095?allowInsec
 vless://3d7b9be9-d378-4f76-90f8-032859eea47b@91.107.177.36:28470?security=none&type=tcp&encryption=none#By AghaDani
 vless://aca32055-db88-4634-b623-6429ddbb6c93@54.252.231.115:55292?security=reality&type=tcp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=bd711c02c8dc9955&pbk=kPx16abMZD2x6dv7NW_hn1HSc2P8RsPptytcCT-neQs&encryption=none#By AghaDani
 vless://e5a0ec26-c42c-462b-8e1d-78447976bc21@p.panel.rashtplus.site:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&headerType=http&host=speedtest.net%2Ccloudfalre.com%2Cuptvs.com&path=%2F&security=none&type=tcp#By AghaDani
-trojan://telegram-id-directvpn@52.47.172.108:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-vless://2fb73fb6-1fa1-422e-ad82-a1a7b5f11078@god3.ultimagamest.com:443?security=reality&type=tcp&sni=god2.ultimagamest.com&fp=chrome&flow=xtls-rprx-vision&sid=4326&pbk=oqoNDQVcGzlSfB6v8mVlDZhLBUC9glFEOG853ZWiLh4&encryption=none#By AghaDani
