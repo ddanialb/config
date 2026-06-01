@@ -1,3 +1,4 @@
+vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@varzesh3.com:2095?path=%2Frat&security=none&encryption=none&host=rat.skycmd.org&type=ws#By AghaDani
 vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120&sni=cdn.cdnjst.org&spx=/#By AghaDani
 vless://ebe186c0-1006-4b07-8a84-45deaf0bda23@150.241.74.150:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=vB4lhwE3aZhB3vzphogmjJv1VYNedlCTgd5c1Bka_F0&sid=4a43ca&sni=addons.mozilla.org&spx=/#By AghaDani
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@173.245.59.191:8443?path=%2Fuploader.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#By AghaDani
@@ -997,4 +998,3 @@ vless://2d281503-7a0a-0021-8934-4c94585c87b1@us.musicperec.ru:443?Telegram=@Goza
 vless://3639eeca-11eb-d25d-7f1d-e5c99e437bed@170.153.144.194:443?encryption=none&type=xhttp&security=tls&path=%2Fsw&host=saminob.lezzatcore.ir&sni=saminob.lezzatcore.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#By AghaDani
 vless://1f678d60-48d7-4eb0-9f85-35ed154d1cd5@fr.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=titanrealm.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#By AghaDani
 vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?security=reality&type=tcp&sni=by.api-yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=0f4dacf62211e75f&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4#By AghaDani
-trojan://humanity@srv1.khatibirepair.ir:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#By AghaDani
