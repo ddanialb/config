@@ -1,3 +1,4 @@
+vless://e0ae65bc-2b14-4f1e-ae5c-96ef114d7498@nova.speedur.org:8443?path=%2Fuploader.php&security=tls&encryption=none&alpn=http%2F1.1&host=nova.speedur.org&fp=chrome&type=ws&sni=nova.speedur.org#By AghaDani
 vless://a80eecdb-6cce-4eeb-8d78-1e26b4d49272@cloud.velizor.ir:2082?encryption=none&security=none&type=tcp#By AghaDani
 vless://e2491785-3e9b-4db2-97f6-01bac31562b5@185.143.232.200:443?path=%2Flogin%3Fed%3D2560&security=tls&encryption=none&alpn=http%2F1.1&host=one.lpax.ir&fp=chrome&type=ws&sni=one.lpax.ir#By AghaDani
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.registry-monitor.click#By AghaDani
@@ -997,4 +998,3 @@ vless://InternetAzadRobot-AliKiller@151.101.193.57:80?Telegram=@GozargahAzad,@Go
 vless://InternetAzadRobot-AliKiller@151.101.129.57:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#By AghaDani
 vless://InternetAzadRobot-AliKiller@151.101.129.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#By AghaDani
 vless://InternetAzadRobot-AliKiller@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#By AghaDani
-vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#By AghaDani
