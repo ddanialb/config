@@ -1,4 +1,7 @@
+vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?allowInsecure=1&encryption=none&host=69565ce3109804e7813f98ee.mmdbay.blog&path=%2Fgraphql&security=tls&sni=69565ce3109804e7813f98ee.mmdbay.blog&type=ws#By AghaDani
 vless://74efe911-4e11-44ac-b9a8-c8b4caf42ea7@185.177.239.95:14793?encryption=none&flow=xtls-rprx-vision&fp=&pbk=LL5elMmIL4PZMio6uuBGuZoToOURQdGqnaL8-aIyFAw&security=reality&sid=26adc84e61c1&sni=www.sony.com&type=tcp#By AghaDani
+vless://2038f8cf-9407-4501-9760-a01f34c2062b@213.176.93.85:8443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&allowInsecure=0&pbk=lMt8JEgJraQ07gFJFhbJWisdvkXOIy2OB2RslnvGdzA&sid=e3&spx=%2F#By AghaDani
+vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#By AghaDani
 vless://715b4708-ec7b-4c3b-9a68-66e357f7b731@blubank.sb24.ir:8080?path=%2Fmoz&security=none&encryption=none&host=moz.tecnotech.ir&type=ws#By AghaDani
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=%2Fid-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#By AghaDani
 vless://24d49ddd-67c1-4821-b5b9-f12107366978@104.19.250.20:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=bahari.kiamobilepart.com&path=/api&sni=bahari.kiamobilepart.com&fp=chrome&alpn=h2,http/1.1#By AghaDani
@@ -995,6 +998,3 @@ vless://3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0@185.228.232.150:443?security=realit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#By AghaDani
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@45.8.93.12:443?security=reality&encryption=none&pbk=YU7hzDkfhfrA8v2rhMEUhgh7EQs4mHX9M60fkraccis&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=newsw.stardevs.top&sid=f37fb7531c60780d#By AghaDani
 vless://628914c6-42c2-400d-8f63-203fc5b5ff97@arvancloud.ir:80?path=%2F&security=&encryption=none&host=sub80.clonetechh.ir&type=ws#By AghaDani
-vless://481cdba0-af8b-4d2a-aa65-43dd2d11e9ac@varzesh3.com:80?path=%2F&security=&encryption=none&host=omid.e2k.ir&type=ws#By AghaDani
-vless://c5765da4-772f-4ff7-b96c-551ca7185529@159.195.70.85:8443?security=reality&encryption=none&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fastsync.xyz&sid=65b5280b52e0532c#By AghaDani
-vless://62af51a4-d37e-40eb-8e86-469210815d3d@stdn.iau.ir:2095?path=%2F&security=&encryption=none&host=nl.fastwarx.shop&type=ws#By AghaDani
