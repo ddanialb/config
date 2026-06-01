@@ -1,3 +1,4 @@
+trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=www.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.linkman1.ir#By AghaDani
 vless://66bfd7e4-ea6f-43c0-ace6-57dbf58a5288@91.225.217.27:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=cb89&pbk=66I_EZijZ-HoERv8Xzmv5KydHjz4dp81Grb8CJpIy38#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1REpYUnBtaTNpeXF4UTc5UGZLdjNC@195.93.253.240:14130#By AghaDani
@@ -541,7 +542,6 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?Telegram=@Gozarg
 vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://bc7c7c10-8f24-332e-b303-fb3c8943c24f@s642.ccgfw.top:443?security=tls&encryption=none&insecure=0&host=s642.ccgfw.top&headerType=none&fp=random&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=u712927u4c78s642.ccgfw.top#By AghaDani
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.166.129:443?allowInsecure=1&encryption=none&host=pagescm.freen18.cc.cd&path=/blog/news&security=tls&sni=pagescm.freen18.cc.cd&type=ws#By AghaDani
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=www.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.linkman1.ir#By AghaDani
 vless://9a02fb52-6133-4242-84b4-1951ceec93a5@zip.oplh.ir:80?type=ws&encryption=none&path=%2F&host=zip.oplh.ir&security=none#By AghaDani
 vless://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?security=reality&type=raw&sni=yahoo.com&fp=chrome&sid=67fb&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&encryption=none#By AghaDani
 vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&type=tcp&sni=max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&encryption=none#By AghaDani
