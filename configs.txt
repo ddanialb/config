@@ -1,5 +1,6 @@
-vless://3639eeca-11eb-d25d-7f1d-e5c99e437bed@170.153.144.194:443?encryption=none&type=xhttp&security=tls&path=%2Fsw&host=saminob.lezzatcore.ir&sni=saminob.lezzatcore.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#By AghaDani
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@main.boobie.eu.cc:80?security=none&type=ws&path=%2F&host=main.boobie.eu.cc&encryption=none#By AghaDani
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#By AghaDani
+vless://3639eeca-11eb-d25d-7f1d-e5c99e437bed@170.153.144.194:443?encryption=none&type=xhttp&security=tls&path=%2Fsw&host=saminob.lezzatcore.ir&sni=saminob.lezzatcore.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#By AghaDani
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?security=none&type=ws&path=%2Fvless%2F&host=OV-Germany1.09vpn.com&encryption=none#By AghaDani
 vless://f6f44df3-d229-4dd8-a944-e7bc3a4c6b94@96.62.214.87:29745?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=zSOPQOHAiacl2VMETsLXTE_Gln5ECllb6YKy1oyv1V0&sid=c3&spx=%2F&type=tcp&headerType=none#By AghaDani
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&type=tcp&sni=eh.vk.com&fp=chrome&flow=xtls-rprx-vision&sid=8248954896&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&encryption=none#By AghaDani
@@ -861,7 +862,6 @@ trojan://humanity@104.20.6.134:443?sni=www.creationlong.org&type=ws&path=%2Fassi
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@download.spectrum.vu:443?security=reality&type=tcp&sni=download.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&sid=d1e9faa1b2c3&pbk=sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8#By AghaDani
 trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=172.236.220.10#By AghaDani
 vless://ebe186c0-1006-4b07-8a84-45deaf0bda23@150.241.74.150:443?security=reality&encryption=none&pbk=vB4lhwE3aZhB3vzphogmjJv1VYNedlCTgd5c1Bka_F0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=4a43ca#By AghaDani
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@main.boobie.eu.cc:80?security=none&type=ws&path=%2F&host=main.boobie.eu.cc&encryption=none#By AghaDani
 vless://21b39f7d-4473-4326-80ee-9b00be1c543a@varzesh3.com:2095?path=%2F&security=&encryption=none&host=panel98.net2box.ir&type=ws#By AghaDani
 trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#By AghaDani
 trojan://humanity@sourceforge.net:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#By AghaDani
