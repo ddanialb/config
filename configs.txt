@@ -1,3 +1,4 @@
+vless://9c59c1e9-0505-400b-a3d6-1965d7fc8530@188.114.97.6:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pump.lezzatcore.ir&fp=chrome&type=xhttp&sni=pump.lezzatcore.ir#By AghaDani
 vless://5dab8afa-bdc8-4ae6-8bfe-8b82aaba0cc7@51.195.99.254:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://b0c771a0-7c33-4e00-8d1a-87feaf77eafa@104.17.121.71:2083?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=Itw.sodogodping.ir&type=xhttp&allowInsecure=0&sni=Itw.sodogodping.ir#By AghaDani
 vless://9c59c1e9-0505-400b-a3d6-1965d7fc8530@188.114.97.6:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=pump.lezzatcore.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=pump.lezzatcore.ir#By AghaDani
@@ -997,4 +998,3 @@ vless://4b0d111ca-07e3-4249-978a-819f28fd1bcd@web.subster.ir:2053?path=%2F&secur
 vless://4b0d111ca-07e3-4249-978a-819f28fd1bcd@208.103.161.1:2096?path=%2F&security=tls&encryption=none&insecure=0&host=bozoAzYeralTi.x-upload.org&type=ws&allowInsecure=0&sni=bozoAzYeralTi.x-upload.org#By AghaDani
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?security=tls&type=ws&path=%2Ftsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#By AghaDani
 vless://60d06568-b005-48bf-ba28-bac13b3a12ce@195.133.17.188:2053?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#By AghaDani
-vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@snapp.ir:80?path=%2Fws&security=none&encryption=none&host=gre.greentab.ir&type=ws#By AghaDani
