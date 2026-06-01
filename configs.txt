@@ -1,3 +1,5 @@
+vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=8735&pbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&encryption=none#By AghaDani
+vless://fd1df366-31db-4ac1-87e1-b55cd025c74a@57.129.117.234:14501?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://44659750-987d-4abb-aa86-efa5aabb3b40@snapp.ir:8080?type=ws&security=none&encryption=none&path=%2F&host=penhoon-ref.morvaridvps.ir#By AghaDani
 vless://49a1f3bc-e9a8-4807-a195-e5c4f627ad15@199.232.78.160:443?security=tls&type=xhttp&headerType=&path=%2F&host=ring.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%2C+%22xmux%22%3A+%7B%22cMaxLifetimeMs%22%3A+0%2C+%22cMaxReuseTimes%22%3A+%2264-128%22%2C+%22maxConcurrency%22%3A+%2216-32%22%2C+%22maxConnections%22%3A+0%2C+%22hKeepAlivePeriod%22%3A+0%2C+%22hMaxRequestTimes%22%3A+%22800-900%22%7D%7D&sni=speedtest.net&fp=chrome&alpn=h2&allowInsecure=1#By AghaDani
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
@@ -20,7 +22,6 @@ vless://2c15f192-3812-98db-85a2-88cd7d02b868@151.101.193.57:80?Telegram=@Gozarga
 vless://a1ee1f7f-deb9-48e4-9a97-6f565949817d@83.228.226.72:443?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#By AghaDani
 vless://Telegram-Parsashonam-8@45.130.125.76:443?mode=auto&path=%2Fp4r34m&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=p4r34m.hendevaneh.sbs&type=xhttp&allowInsecure=0&sni=p4r34m.hendevaneh.sbs#By AghaDani
 vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?security=reality&encryption=none&pbk=CgnlqjbaLZhDiGsk69nT8k7HzOCxtVTEnLViz3AfD2c&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=0a41bdaa#By AghaDani
-vless://fd1df366-31db-4ac1-87e1-b55cd025c74a@57.129.117.234:14501?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@163.5.63.129:443?path=%2F&security=tls&encryption=none&host=white-forest-2c01.alvlirm222.workers.dev&fp=chrome&type=ws&sni=white-forest-2c01.alvlirm222.workers.dev#By AghaDani
 trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
 vless://0a335b4d-7a02-4989-a16d-424d265a6420@3.65.207.158:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
@@ -39,7 +40,6 @@ vless://e2f4ba49-dc95-4df4-b1d0-93025d196091@forallpanel.srtongston.ir:2052?path
 vless://9e23b551-7f3e-4ea1-82c1-f1e7373ca50e@18.165.198.193:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=d2ub2z0egcsafu.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d2ub2z0egcsafu.cloudfront.net#By AghaDani
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.98.0:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#By AghaDani
 vless://695a39ee-9cd1-49b7-ab98-ed201a285c92@172.67.74.224:2053?path=%2Fdashfair%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=dancingwithourhandstied.fairit.ir&type=ws&allowInsecure=0&sni=457ac2b304c1be49.fairit.ir#By AghaDani
-vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=8735&pbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&encryption=none#By AghaDani
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#By AghaDani
 vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.168:8443?type=xhttp&security=tls&encryption=none&sni=cp.iran-shope.ir&alpn=h2&fp=chrome&allowInsecure=1&path=%2F%3Fed%3D80&mode=auto&xpaddingbytes=100-1000#By AghaDani
 vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?security=none&type=ws&path=%2Fws&sni=nobody.fastspeed.ir#By AghaDani
