@@ -1,3 +1,4 @@
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#By AghaDani
 vless://f85f6c65-1b35-4c56-b766-80c5a4457b3e@95.85.228.212:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&security=reality&sid=5a7216aec1371894&sni=est.hatvpn.org&type=tcp#By AghaDani
 vless://b54d36d1-43c3-4b8f-a5f8-cf6504db0562@144.31.233.236:9443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=MbYR2O0XBSeG74gGYpFIofXsILcf5lG2gc36GyURBXQ&security=reality&sid=0199436dd359351b&sni=apple.com&type=tcp#By AghaDani
 vless://52ad04bc-eb90-4845-aae1-1f422522332f@188.114.99.160:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#By AghaDani
@@ -148,7 +149,6 @@ vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security
 vless://60d06568-b005-48bf-ba28-bac13b3a12ce@193.32.177.101:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#By AghaDani
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICJ2cG5pY3AueHljLmhrLmNuIiwgInBvcnQiOiAyMDAwMSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjdmNWYwNzA1LTNkZmItNGY1Ni05NjU3LWM5NWNhZGUyYmE4MyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 vless://4ca9310c-3555-496e-9700-5a3ace3f2645@cd2.pascalplus.com:2095?path=%2F&security=none&encryption=none&host=it.carefreemob2.com.&type=httpupgrade#By AghaDani
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#By AghaDani
 vless://4ca9310c-3555-496e-9700-5a3ace3f2645@156.243.83.0:2095?path=%2F&security=none&encryption=none&host=sw2.carefreemob2.com.&type=httpupgrade#By AghaDani
 vless://1876f35b-5ba3-46e5-d469-3e181ccea46f@104.26.14.18:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=hello.aihoshbartar.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=hello.aihoshbartar.ir#By AghaDani
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.linkman1.ir#By AghaDani
