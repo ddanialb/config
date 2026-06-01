@@ -1,3 +1,7 @@
+vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?security=reality&type=raw&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=ce9f790791426d83&pbk=UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8&encryption=none#By AghaDani
+vless://3d7b9be9-d378-4f76-90f8-032859eea47b@91.107.177.36:28470?security=none&type=tcp&encryption=none#By AghaDani
+vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?security=reality&type=raw&sni=www.ozon.ru&fp=chrome&sid=ffffffffff&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&encryption=none#By AghaDani
+vless://ccbbd3a3-db22-4f82-956e-d65178de2743@88.210.9.69:443?security=reality&type=raw&sni=images.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=8f2c0e7a15bd&pbk=aQdv6gDmsVZc5dO1WmmEQ6Q_puJhNUurND-TJJjtCSs&encryption=none#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&type=tcp&sni=cdn9-33.vk-cdnvideo.com&fp=chrome&encryption=none#By AghaDani
 vless://8be98cb0-0942-4bc2-b2da-eec9e2e53f9f@45.150.34.244:55128?security=reality&type=raw&sni=www.sony.com&fp=chrome&flow=xtls-rprx-vision&sid=7134a1b6e13dcb36&pbk=7l16WkJYuCyfJG2ayNxM-IBh8J3bZvi_ntFcjokuASg&encryption=none#By AghaDani
 vless://45d9e1d7-2853-4b7e-8bad-2dd08bb87cd4@104.27.66.214:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#By AghaDani
@@ -13,7 +17,6 @@ vless://ac57a19e-3ade-45dd-8fba-feb976e2eb58@159.195.35.239:443?security=reality
 vless://8e6d6d70-5f7e-4f2c-89b6-8f5f8db4c3a1@104.16.7.70:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=xhttp&path=%2F&host=chatgpt.g9q.fun&alpn=h3%2Ch2%2Chttp%2F1.1&sni=chatgpt.g9q.fun&fp=chrome&mode=auto&encryption=none#By AghaDani
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?security=tls&type=ws&path=%2F&host=juzi.qea.ccwu.cc&sni=juzi.qea.ccwu.cc&fp=chrome&encryption=none#By AghaDani
 vless://abcd6b4c-2d85-4de5-be7f-62791b0f5085@fi.gryaz-vpn.com:34572?security=reality&type=raw&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=88acba&pbk=8PkeN5hkQBkoBt0I2JdcDC865gUXui86897Th8DaDlY&encryption=none#By AghaDani
-vless://3d7b9be9-d378-4f76-90f8-032859eea47b@91.107.177.36:28470?security=none&type=tcp&encryption=none#By AghaDani
 trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=172.236.220.10#By AghaDani
 vless://8e6d6d70-5f7e-4f2c-89b6-8f5f8db4c3a1@104.16.7.70:443?security=tls&type=xhttp&path=%2F&host=chatgpt.g9q.fun&alpn=h3%2Ch2%2Chttp%2F1.1&sni=chatgpt.g9q.fun&fp=chrome&mode=auto&encryption=none#By AghaDani
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=%2Fid-tksi&security=tls&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#By AghaDani
@@ -995,6 +998,3 @@ vless://9c70d707-208e-4ea3-a3d9-832e081bee1e@pg.nexorainnovationhub.ir:2052?encr
 vless://IR_NETLIFY@89.22.236.213:54346?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://bf2e4217-a1ad-41fb-88ac-4878956ae2db@cf1.riodo.ir:2053?encryption=none&security=tls&sni=sub_url_e.iran-tube-movie.ir.&fp=firefox&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=sub_url_e.iran-tube-movie.ir.&path=%2FceoHTTP&mode=auto#By AghaDani
 vless://8df10d83-3963-446d-a4e3-8bc043bda561@188.114.97.6:443?path=%2Fin-pdr&security=tls&encryption=none&insecure=0&host=space.byu.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.cyylr.eu.cc#By AghaDani
-vless://InternetAzadRobot@151.101.1.57:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#By AghaDani
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=octopusss4.com&path=/tsghdws&sni=octopusss4.com&fp=chrome&alpn=h2,h3,http/1.1#By AghaDani
-vless://92c10cb5-398b-4ffd-bd49-233e092188d0@hh.amir1900.ir:80?mode=auto&path=%2F&security=&encryption=none&host=hh.amir1900.ir&type=xhttp#By AghaDani
