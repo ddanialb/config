@@ -1,3 +1,5 @@
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
+vless://41b903e0-7d0a-45d0-9b29-83086024a88b@88.218.120.60:4443?security=reality&encryption=none&pbk=-psPIZaOXQOuX1O1BpZ0_zyXEvx1YwW6ouBIkYGb2Dg&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sni4.streisand.lt&sid=612d8fa72c#By AghaDani
 vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#By AghaDani
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#By AghaDani
 vless://InternetAzad-PRO@151.101.3.19:80?encryption=none&security=none&type=xhttp&host=service28342.global.ssl.fastly.net&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#By AghaDani
@@ -178,7 +180,6 @@ vless://5cdf99d3-a51b-570e-8245-f87d674dc652@151.101.193.57:80?encryption=none&t
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&encryption=none&insecure=0&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=0&sni=sni.skylee4.cloudns.ch#By AghaDani
 trojan://da292191-b895-3264-b41c-200512b8f965@a.twodnwnpoe.xyz:40015?allowInsecure=1&sni=1.lossyesterday.xyz#By AghaDani
 vless://60d06568-b005-48bf-ba28-bac13b3a12ce@95.47.138.133:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#By AghaDani
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095?encryption=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-1.workers.dev&fp=randomized#By AghaDani
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.shopify.com:2095?encryption=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-1.workers.dev&fp=randomized#By AghaDani
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-1.workers.dev&fp=randomized#By AghaDani
@@ -400,7 +401,6 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?encryption=none
 vless://b73836d8-dd3f-47ef-b784-300e443ad57e@fsxhh.fastshop1.com:443?mode=packet-up&path=%2Flizzard&security=tls&encryption=none&insecure=0&host=lizzard3.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=global.fastly.com#By AghaDani
 hysteria2://Masir_Sefid@18.159.66.5:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
 vless://b73836d8-dd3f-47ef-b784-300e443ad57e@fx3033.game2lizard.com:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=grm.lizardshop.org&fp=360&type=ws&sni=grm.lizardshop.org#By AghaDani
-vless://41b903e0-7d0a-45d0-9b29-83086024a88b@88.218.120.60:4443?security=reality&encryption=none&pbk=-psPIZaOXQOuX1O1BpZ0_zyXEvx1YwW6ouBIkYGb2Dg&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sni4.streisand.lt&sid=612d8fa72c#By AghaDani
 vless://8de40603-7364-4b29-86fd-b5b2364d5fc4@104.253.43.213:2086?path=%2Fvideo&security=none&encryption=none&type=ws#By AghaDani
 vless://334e484f-7f7c-4895-a6e4-8951de2626f8@188.114.97.6:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=unnes.ac.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.cyylr.eu.cc#By AghaDani
 vless://632c9f9e-1c86-4d1b-927e-8b22f5273642@5.75.200.142:443?security=reality&encryption=none&pbk=pevfh90s1njkhxXqlEliTJdXMU5dw6TnlsfVUR8gxmY&headerType=none&fp=chrome&spx=%2FfHbRbki2MRqHC1L&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=796a6f1c8a495d#By AghaDani
