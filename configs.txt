@@ -1,3 +1,4 @@
+vless://47087a28-3059-448f-aa06-1489ffeefb2b@91.107.134.103:46782?encryption=none&fp=chrome&pbk=UfyCcXFUfRDcTU3UtfnX9c3aljfn83mrYuQmE9Q7V38&security=reality&sid=c137&sni=catalog.gamepass.com&spx=%2FDUX8PVfAw1jDofW&type=tcp#By AghaDani
 vless://47087a28-3059-448f-aa06-1489ffeefb2b@45.130.125.69:8443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=pol.velizor.ir&mode=auto&path=%2F&security=tls&sni=pol.velizor.ir&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://47087a28-3059-448f-aa06-1489ffeefb2b@91.107.134.103:2020?encryption=none&fp=chrome&pbk=3xNaJl5In4eIrs69D1H3EfTJklCjXA-eYoJyXDwJDWA&security=reality&sid=7cbd98c0de&sni=www.yahoo.com&spx=%2FgHIyaQmvEYhtTF5&type=tcp#By AghaDani
 vless://47087a28-3059-448f-aa06-1489ffeefb2b@216.24.57.6:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=pol.velizor.ir&mode=auto&path=%2F&security=tls&sni=pol.velizor.ir&type=xhttp&x_padding_bytes=100-1000#By AghaDani
@@ -370,7 +371,6 @@ vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=
 vless://47087a28-3059-448f-aa06-1489ffeefb2b@172.67.74.10:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=pol.velizor.ir&path=%2F&security=tls&sni=pol.velizor.ir&type=ws#By AghaDani
 hysteria2://Masir_Sefid@18.159.66.5:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
 vless://3e809b21-e29b-49ec-a7fb-5301ec7c1cee@food.artmisserver.site:8443?path=%2F&security=&encryption=none&host=ap.isowli.ir&type=ws#By AghaDani
-vless://47087a28-3059-448f-aa06-1489ffeefb2b@91.107.134.103:46782?encryption=none&fp=chrome&pbk=UfyCcXFUfRDcTU3UtfnX9c3aljfn83mrYuQmE9Q7V38&security=reality&sid=c137&sni=catalog.gamepass.com&spx=%2FDUX8PVfAw1jDofW&type=tcp#By AghaDani
 vless://931e8012-bf23-4c0d-9732-829ee23f6cac@95.38.234.52:35439?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://d89ce48c-f0fa-4edb-bdf1-721aab4b7795@38.180.171.164:26643?encryption=none&security=none&type=tcp#By AghaDani
 vless://af77d53f-a0e4-456e-b977-696bf081dcc8@accountdb.ir:80?security=&type=ws&path=/&host=g1.nybaz.space&encryption=none#By AghaDani
