@@ -1,3 +1,4 @@
+vless://285154f0-cbe8-45be-b57a-c7e53b6764c8@188.114.97.6:443?mode=auto&path=%2FTELEGRAM-ZEDMODEON&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=danco.lezzatcore.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=danco.lezzatcore.ir#By AghaDani
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@docs.cloudflare.com:2095?allowInsecure=0&sni=cnmfangbinxing.cnmfangbinxing.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing.workers.dev&path=/fp=randomized#By AghaDani
 vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?security=reality&type=tcp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=8c4907b7884b31&pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0&encryption=none#By AghaDani
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&type=raw&sni=yahoo.com&fp=chrome&sid=6d638e&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&encryption=none#By AghaDani
@@ -151,7 +152,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidkdhMDU0TWF1eUNPbWFlWXRXdU9K@195.93.253.240
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#By AghaDani
 vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?path=%2F&security=tls&encryption=none&insecure=1&host=backend.parhamm2.ir&type=ws&allowInsecure=1&sni=backend.parhamm2.ir#By AghaDani
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://285154f0-cbe8-45be-b57a-c7e53b6764c8@188.114.97.6:443?mode=auto&path=%2FTELEGRAM-ZEDMODEON&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=danco.lezzatcore.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=danco.lezzatcore.ir#By AghaDani
 vless://CNT-Cafe@104.253.25.208:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IgE3YVskwHOBHPUSDq-3yhO99G46ayFewg7WG2XHK28&security=reality&sid=f7665f5e10c6f336&sni=www.hcaptcha.com&spx=%2FCXiDUROsKqlJeDB&type=tcp#By AghaDani
 vless://8b0f3ccd-5f6a-4c08-b7da-042d00965d7d@91.225.217.27:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=cb89&pbk=66I_EZijZ-HoERv8Xzmv5KydHjz4dp81Grb8CJpIy38#By AghaDani
 vless://dc540911-cd1d-41e9-9301-ecb5a507b788@ru3.banovano.space:443?security=reality&type=tcp&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=f690c1046814dc9d&pbk=JbxZQuL2t4eews1QuA8O4jpsU_NXPMpmzKwlxSQj5Sk&encryption=none#By AghaDani
