@@ -1,3 +1,8 @@
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=78.159.131.12&allowInsecure=1&type=tcp&fp=chrome#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#By AghaDani
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjIxNi4xMDYuMTgzLjM1IiwgInBvcnQiOiAiMjIzMjQiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiIsICJwcyI6IFvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHUwMGFlXHVmZTBmVW5pdGVkIFN0YXRlc1x1MDBhOVx1ZmUwZk5ldyBZb3JrXHVkODNjXHVkZDdmXHVmZTBmcGluZzoxMDJtcyJ9
+trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?sni=172.104.237.100&type=tcp&fp=chrome#By AghaDani
+trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?sni=172.104.237.100&type=raw&fp=chrome#By AghaDani
 trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.162:8080#By AghaDani
 trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?sni=172.104.237.100&allowInsecure=1&type=tcp&fp=chrome#By AghaDani
@@ -5,7 +10,6 @@ trojan://E_hUHrn0+6VeZO=v9=fLgoPDXZWGfcrejg@172.238.19.11:443?sni=172.238.19.11&
 vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?security=reality&type=raw&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=3b0b73e5&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&encryption=none#By AghaDani
 vless://a7ef891d-aacf-4ed9-809d-a44168a5fc1c@144.31.30.69:443?security=reality&type=tcp&sni=eh.vk.com&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#By AghaDani
 trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?sni=static.rutube.ru&allowInsecure=1&type=tcp&fp=chrome#By AghaDani
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=78.159.131.12&allowInsecure=1&type=tcp&fp=chrome#By AghaDani
 trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&allowInsecure=1&type=tcp&fp=chrome#By AghaDani
 trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.220.10#By AghaDani
 vless://c3f12b3d-6de2-4167-bf99-43f446283eae@m9.server-dev2.ir:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&pbk=q6qn4v1UgJIZ-1yR5Dal2MAOzNqQoZvZGH0Iy2cFZRU&fp=chrome&spx=%2F&type=xhttp&sni=www.sony.com&sid=cd25e6#By AghaDani
@@ -103,7 +107,6 @@ trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?sni=static.rutube.ru&allowInsec
 trojan://strong-secret-pass-777@2.56.172.83:4443?sni=2.56.172.83&allowInsecure=1&type=tcp&fp=chrome#By AghaDani
 trojan://humanity@208.103.161.33:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&alpn=h2%2Chttp%2F1.1&fp=chrome#By AghaDani
 trojan://d-VoBikwImgO9HMG7YWANlh=QNlHzjK32P@91.233.8.116:443?sni=fra116.plasmaapp.click&type=tcp&fp=chrome#By AghaDani
-trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?sni=172.104.237.100&type=raw&fp=chrome#By AghaDani
 trojan://humanity@104.19.208.184:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#By AghaDani
 trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?sni=yazhou10.dynu.net&allowInsecure=1&type=tcp&fp=chrome#By AghaDani
 trojan://aff9928f-7ba3-45fb-b56d-4dec45653ca9@23.227.38.178:443?sni=q6clkp794liy3y90.hktimecsgo.xyz&allowInsecure=1&type=ws&path=%2Fimages&fp=chrome#By AghaDani
@@ -995,6 +998,3 @@ vless://18d0c6fa-8715-47c6-a4ab-3ea5a7e10363@104.18.32.47:2096?Telegram=@Gozarga
 trojan://mitivpn@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=dash.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.linkman1.ir#By AghaDani
 vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@45.130.125.76:2096?security=tls&type=ws&headerType=&path=%2F&host=KhoshAmadid.x-upload.org&sni=KhoshAmadid.x-upload.org&fp=#By AghaDani
 vless://49e9da45-aecc-463b-abe7-abfed1d2086b@188.114.97.6:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fsg-orcl&security=none&encryption=none&host=web.whatsapp.com.cyylr.eu.cc&type=ws#By AghaDani
-vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@bLiT3.hAmRaHcOrE.iR:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#By AghaDani
-vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@web.subster.ir:2053?security=tls&type=ws&headerType=&path=%2F&host=nazanMano.x-upload.org&sni=nazanMano.x-upload.org&fp=#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
