@@ -1,3 +1,9 @@
+trojan://fTkGeLgRco@arvancloud.ir:2082?path=%2F&security=none&host=cli2.anami3.icu&type=ws#By AghaDani
+vless://215c76c2-a832-48a3-94c1-5274b9669286@snapp.ir:80?path=%2Fws&security=&encryption=none&host=esi-vpn.mentoriax.ir&type=ws#By AghaDani
+trojan://mitivpn@104.18.32.47:2053?type=ws&security=tls&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&host=cdn.linkman1.ir&sni=cdn.linkman1.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#By AghaDani
+vless://f86f5a03-3872-46b5-bf03-a50388a0261d@a1-tss.pages.dev:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidkdhMDU0TWF1eUNPbWFlWXRXdU9K@195.93.253.240:14130#By AghaDani
+vless://0b3e592c-4228-4409-8f90-c4e21863b51b@104.19.64.105:8443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#By AghaDani
 vless://c6eebfb6-8e67-4867-a13b-550b4ca316c0@185.143.234.235:8080?path=%2F&security=&encryption=none&host=tu.auranet.ir&type=ws#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#By AghaDani
 vless://df301b32-1152-4526-9a63-beedd93d3156@vl.dalazhi.cloudns.biz:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=vl.dalazhi.cloudns.biz&type=ws#By AghaDani
@@ -992,9 +998,3 @@ vless://dfd641f8-8224-473e-b5e5-7d7f874edfa2@89.116.250.135:2053?Telegram=@Gozar
 vless://dfd641f8-8224-473e-b5e5-7d7f874edfa2@89.116.250.135:2053?encryption=none&security=tls&type=ws&headerType=none&sni=tr.matrix-shop.ir&alpn=http%2F1.1#By AghaDani
 vless://dfd641f8-8224-473e-b5e5-7d7f874edfa2@104.17.121.71:2083?encryption=none&security=tls&type=xhttp&headerType=none&host=fl.matrix-shop.ir&mode=auto&sni=fl.matrix-shop.ir#By AghaDani
 vless://dfd641f8-8224-473e-b5e5-7d7f874edfa2@89.116.250.135:2053?encryption=none&security=tls&type=ws&headerType=none&sni=fl.matrix-shop.ir&alpn=http%2F1.1#By AghaDani
-vless://dfd641f8-8224-473e-b5e5-7d7f874edfa2@tn2.mxspeed8-1.ir:8880?encryption=none&security=none&type=xhttp&headerType=none&path=%2F&mode=auto#By AghaDani
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
-vless://5c875449-ae7d-46f8-b919-5a29f271dfce@44.242.50.106:36895?security=reality&type=raw&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=5a585c3e894bf074&pbk=SKJQzoN8Lh8kqrDEyKzevbHHmfRhKe8XmzBxPYXF2A4&encryption=none#By AghaDani
-vless://dfd641f8-8224-473e-b5e5-7d7f874edfa2@104.17.121.71:2083?encryption=none&security=tls&type=xhttp&headerType=none&host=tr.matrix-shop.ir&mode=auto&sni=tr.matrix-shop.ir#By AghaDani
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
-vless://255ab552-a764-427d-8be3-d5cf99a336f1@snapp.ir:2095?path=%2F&security=none&encryption=none&host=game.ir.goresfile.ir&type=ws#By AghaDani
