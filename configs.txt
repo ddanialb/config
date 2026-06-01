@@ -1,3 +1,4 @@
+trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#By AghaDani
 vless://3593ac15-e270-41a1-943f-d9efe4e54dd4@45.130.125.168:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=eco.gcure.top#By AghaDani
 vless://4ad65f01-866a-4fbc-b497-dd00eee29036@iaa.subchar.ir:24450?path=%2F&security=&encryption=none&fm=%7B%22udp%22%3A%5B%7B%22type%22%3A%22mkcp-original%22%2C%22settings%22%3A%7B%7D%7D%5D%7D&host=iaa.subchar.ir&type=ws#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#By AghaDani
@@ -225,7 +226,6 @@ vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:443?path=%2F&security=
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#By AghaDani
 vless://9181404f-cd0b-4969-a107-0171ddfd1061@ukreal.greewebservices.ir:4404?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=e3085d4fc679ba12#By AghaDani
 vless://c1e32c6c-9a14-4edf-95c7-b1236a55aa07@95.182.80.130:16146?encryption=none&fp=&pbk=lCkGLh6mypATTCMgrwjjqOxWBISCIB9fmdt_5Fff3Ug&security=reality&sid=e7eac240&sni=www.samsung.com&type=grpc#By AghaDani
-trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#By AghaDani
 vless://27c603c4-0d25-4361-98a0-ecf286e41237@snapp.ir:80?path=%2F%3Fed%3D2080&security=&encryption=none&host=sn.avenflow.ir&type=ws#By AghaDani
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@down.spectrum.vu:443?encryption=none&fp=&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA&security=reality&serviceName=vless&sid=f2a6d1c1e4b8&sni=down.spectrum.vu&type=grpc#By AghaDani
 vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.11.45:443?path=%2Fsequre%2Fws%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cloudflare.tyr-agentstvo.tech&fp=qq&type=ws&allowInsecure=0&sni=cloudflare.tyr-agentstvo.tech#By AghaDani
