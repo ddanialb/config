@@ -1,3 +1,4 @@
+trojan://humanity@#By AghaDani
 vless://ab738f0d-b5db-4425-a9ff-f6ade399c2b8@209.250.248.116:80?encryption=none&security=none&type=ws&host=play.google.com&path=%2F#By AghaDani
 vless://47087a28-3059-448f-aa06-1489ffeefb2b@216.24.57.6:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=pol.velizor.ir&fp=chrome&mode=auto&alpn=h2,http/1.1&extra=%7B%0A%20%20%22scMaxEachPostBytes%22%20:%20%221000000%22,%0A%20%20%22xPaddingBytes%22%20:%20%22100-1000%22%0A%7D#By AghaDani
 vless://8857c29d-adfb-4d4c-98a9-1847280ec1a4@37.152.185.16:27156?type=tcp&encryption=none&security=none#By AghaDani
@@ -997,4 +998,3 @@ vless://8f10f091-759e-4c46-a1eb-f5c410397e32@fr-qp.api.dznn.net:443?security=rea
 vless://387e91cf-c64a-4861-a601-3ababafe2496@84.201.141.152:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&sid=27e53bbcab7593d7&spx=%2F#By AghaDani
 vless://e886fa93-8260-4f8e-ba3a-4879a4d69946@85.159.229.84:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&sid=93&spx=%2F&type=tcp&headerType=none#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#By AghaDani
-trojan://humanity@188.114.97.3:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&fp=chrome#By AghaDani
