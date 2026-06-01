@@ -1,3 +1,4 @@
+vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=%2Fid-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#By AghaDani
 vless://8a037520-48b6-487d-af90-30e43919671e@txt.irajapan.store:28561?security=reality&encryption=none&pbk=Oeqvti84_ZY-qSA3sQv4F7mc7-9eOwxw3oXDVtSOaRg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=538dbb66ff#By AghaDani
 vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://21cefb09-8d5f-4f1d-abf6-5631184e7b31@panel.panel.pythash.tr:8443?security=reality&encryption=none&pbk=TxNBDL4s91n_LuPrklBN0Xan6R7_f-MEOxyt_E6tBUU&headerType=none&fp=chrome&spx=%2F6xXlYkDAgB2Mk7s&type=tcp&sni=www.yahoo.com&sid=5c6e734fece26f#By AghaDani
@@ -66,7 +67,6 @@ vless://06b65903-406d-4a41-8463-6fd5c0ee7798@64.186.240.9:8443?security=tls&type
 vless://ad29e9f7-2213-416c-8967-00a689c5e491@185.189.58.195:443?security=tls&type=ws&path=%2Fws&alpn=h2%2Chttp%2F1.1&fp=chrome&encryption=none#By AghaDani
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=%2Fsg-melbi&security=tls&encryption=none&host=cyylr.eu.cc&fp=chrome&type=ws&sni=cyylr.eu.cc#By AghaDani
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=%2Fid-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#By AghaDani
-vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=%2Fid-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#By AghaDani
 vless://9ee79303-e095-40f5-8fb8-363d87e90465@159.195.65.131:8443?security=reality&type=tcp&sni=fastsync.xyz&fp=random&flow=xtls-rprx-vision&sid=1bc9bcde4b1ef645&pbk=FQ-t1B16UdR6QYZyfYRf9PrD5JoEeCrkgRfM-doG4zY#By AghaDani
 vless://f4868eeb-f738-4956-b856-d5ade277c0cf@haramball.vajopw.ir:443?type=tcp&encryption=none&security=none&headerType=http&host=panel.arvancloud.ir&path=%2F#By AghaDani
 trojan://mitivpn@104.19.229.21:443?type=ws&security=tls&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&host=cdn.linko1.ir&sni=cdn.linko1.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#By AghaDani
