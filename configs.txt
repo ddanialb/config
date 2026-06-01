@@ -1,3 +1,8 @@
+vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?security=tls&type=ws&path=%2Fsg-orcl&host=ads.ruangguru.com.cyylr.eu.cc&sni=ads.ruangguru.com.cyylr.eu.cc&fp=chrome&encryption=none#By AghaDani
+trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?sni=172.104.237.100&type=raw&fp=chrome#By AghaDani
+trojan://humanity@104.19.208.184:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#By AghaDani
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?sni=yazhou10.dynu.net&allowInsecure=1&type=tcp&fp=chrome#By AghaDani
+trojan://aff9928f-7ba3-45fb-b56d-4dec45653ca9@23.227.38.178:443?sni=q6clkp794liy3y90.hktimecsgo.xyz&allowInsecure=1&type=ws&path=%2Fimages&fp=chrome#By AghaDani
 trojan://humanity@172.66.47.69:443?sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=chrome#By AghaDani
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=ads.x5.ru&allowInsecure=1&type=tcp&fp=chrome#By AghaDani
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=%F0%9F%94%92&allowInsecure=1&type=tcp&fp=chrome#By AghaDani
@@ -65,7 +70,6 @@ vless://123c4aee-a67f-4c0e-a5eb-7d8bad61a52b@187.127.89.190:443?security=none&ty
 vless://fedbed70-4dcc-4780-badc-addca59b1736@tr3.mynethub99.top:2096?security=tls&type=raw&alpn=h2%2Chttp%2F1.1&sni=tr3.mynethub99.top&fp=chrome&encryption=none#By AghaDani
 vless://Telegram-Parsashonam-8@45.130.125.76:443?security=tls&type=xhttp&path=%2Fp4r34m&host=p4r34m.hendevaneh.sbs&sni=p4r34m.hendevaneh.sbs&fp=chrome&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&encryption=none#By AghaDani
 vless://Telegram-Parsashonam-8@104.16.75.127:443?security=tls&type=xhttp&path=%2Fp4r34m&host=p4r34m.hendevaneh.sbs&sni=p4r34m.hendevaneh.sbs&fp=chrome&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&encryption=none#By AghaDani
-vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?security=tls&type=ws&path=%2Fsg-orcl&host=ads.ruangguru.com.cyylr.eu.cc&sni=ads.ruangguru.com.cyylr.eu.cc&fp=chrome&encryption=none#By AghaDani
 vless://8de40603-7364-4b29-86fd-b5b2364d5fc4@104.253.43.213:2086?security=none&type=ws&path=%2Fvideo&encryption=none#By AghaDani
 trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?sni=www.jewelapp.click&type=tcp&fp=chrome#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#By AghaDani
@@ -994,7 +998,3 @@ vless://fb9e4c3a-936f-44c7-ac89-d5d422690fcf@77.239.114.176:19105?Telegram=@Goza
 vless://23bdeba2-5e59-43d3-a770-b23a52200e18@5.175.141.9:2095?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&host=g.nargil01.site&type=httpupgrade#By AghaDani
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
 vless://d2992c0d-53cb-489c-85af-5eb80e6d9e79@141.193.213.30:443?path=%2Fin-do&security=tls&encryption=none&host=blog.webex.com.cyylr.eu.cc&typ#By AghaDani
-vless://Telegram-Parsashonam-8@104.16.75.127:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2Fp4r34m&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=p4r34m.hendevaneh.sbs&type=xhttp&allowInsecure=0&sni=p4r34m.hendevaneh.sbs#By AghaDani
-trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=dash.linko1.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.linko1.ir#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=jp1.fromblancwithlove.com#By AghaDani
-vless://84220216-6665-4923-9271-175cf99c811f@91.107.247.145:23367?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&path=%2F%40Azaranv2ray%40Azaranv2ray%40Azaranv2ray%40Azaranv2ray%40Azaranv2ray%40Azaranv2ray%40Azaranv2ray%40Azaranv2ray&host=play.google.com&headerType=http&security=none#By AghaDani
