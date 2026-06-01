@@ -1,3 +1,4 @@
+vless://25a940e0-a0eb-43f2-9686-f3c9b2e8571a@208.103.161.1:2096?security=tls&type=ws&headerType=&path=%2F&host=bozo.x-upload.org&sni=bozo.x-upload.org&fp=#By AghaDani
 vless://86e507a8-eca1-4b7b-b5d9-47be47d3e87c@89.208.97.86:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=google.com&type=xhttp#By AghaDani
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=%2Flogin&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#By AghaDani
 vless://098276e1-731c-4b71-b4c1-4727e761b188@91.107.140.160:25656?security=reality&encryption=none&pbk=Efid51phV7wQ6vF48DC97364AyVl7tQa22ILzIOLYgg&headerType=none&fp=chrome&spx=%2Ftelegram&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=6171a4#By AghaDani
@@ -13,7 +14,6 @@ trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fwor
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
 trojan://s_WEN9lMmufG%2BqDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.236.220.10#By AghaDani
 vless://25a940e0-a0eb-43f2-9686-f3c9b2e8571a@web.subster.ir:2053?security=tls&type=ws&headerType=&path=%2F&host=lolo.x-upload.org&sni=lolo.x-upload.org&fp=#By AghaDani
-vless://25a940e0-a0eb-43f2-9686-f3c9b2e8571a@208.103.161.1:2096?security=tls&type=ws&headerType=&path=%2F&host=bozo.x-upload.org&sni=bozo.x-upload.org&fp=#By AghaDani
 vless://25a940e0-a0eb-43f2-9686-f3c9b2e8571a@45.130.125.160:8443?path=%2Fws&security=tls&encryption=none&insecure=0&host=hapo.x-upload.org&type=ws&allowInsecure=0&sni=hapo.x-upload.org#By AghaDani
 vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.125.5:80?security=none&type=ws&path=%2F%3Fed%3D2048&host=lively-brook-c471.nedena3319.workers.dev&encryption=none#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY0dpbVlEQlhvYUoyZ1UyazJ0NzZH@195.93.253.245:49137#By AghaDani
