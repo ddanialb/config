@@ -1,3 +1,4 @@
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=uk1.fromblancwithlove.com#By AghaDani
 vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#By AghaDani
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.30.104:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#By AghaDani
@@ -64,7 +65,6 @@ vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=
 vless://2038f8cf-9407-4501-9760-a01f34c2062b@213.176.93.85:8443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=lMt8JEgJraQ07gFJFhbJWisdvkXOIy2OB2RslnvGdzA&sid=e3&spx=%2F#By AghaDani
 vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@czech.cloudpath.live:443?security=reality&encryption=none&pbk=34gATkr8QhXe26zX625mas0MbhhG-1XSISJxwLtdt1k&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=17ee7ac1#By AghaDani
 vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@czech.cloudpath.live:443?security=reality&encryption=none&pbk=34gATkr8QhXe26zX625mas0MbhhG-1XSISJxwLtdt1k&headerType=&fp=chrome&type=tcp&sni=microsoft.com&sid=17ee7ac1#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@141.101.115.71:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#By AghaDani
 vless://8665a030-22fc-4f95-a8f9-121c7f5409c8@whites.aruxf.ir:8880?path=%2F&security=none&encryption=none&host=vip.aruxf.ir&type=ws#By AghaDani
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@162.159.253.41:8443?path=%2Fuploader.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#By AghaDani
