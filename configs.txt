@@ -1,3 +1,4 @@
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
 vless://559ab675-567f-4d61-a742-877bfd51d87c@188.114.97.6:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#By AghaDani
 vless://0a335b4d-7a02-4989-a16d-424d265a6420@3.65.207.158:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#By AghaDani
@@ -338,7 +339,6 @@ vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?security=
 vless://228ecfd3-9bf0-42fd-a50e-581f84022513@194.85.251.200:18443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.miro.com&fp=chrome&flow=xtls-rprx-vision&sid=95c4ddb4face78&pbk=YoVxvwAP6l4vRG9HZmePBcHxy9oaRyWKmp1fIXVzPAY#By AghaDani
 vless://2fb73fb6-1fa1-422e-ad82-a1a7b5f11078@31.76.122.150:8080?security=reality&type=xhttp&path=%2F&sni=ozon.ru&fp=chrome&sid=6d6f13013d3e1d0c&pbk=fpWRXtm9TN1a0C7h9ZoA0SZ736ONC_ISOuoOvVnPJDU&mode=auto&encryption=none#By AghaDani
 vless://2fb73fb6-1fa1-422e-ad82-a1a7b5f11078@31.76.122.153:443?security=reality&encryption=none&pbk=oqoNDQVcGzlSfB6v8mVlDZhLBUC9glFEOG853ZWiLh4&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=god2.ultimagamest.com&sid=4326#By AghaDani
-trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
 vless://9c59c1e9-0505-400b-a3d6-1965d7fc8530@208.103.161.23:443?encryption=none&type=xhttp&security=tls&path=%2F&host=pump.lezzatcore.ir&mode=auto&sni=pump.lezzatcore.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#By AghaDani
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@195.96.132.125:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&packetEncoding=none&sni=www.vk.ru&fp=chrome&flow=xtls-rprx-vision&sid=8237eb&pbk=WM-LMz6slGkGPD3zEM8Ntat27n6p6EfbxRsjYmTykV4#By AghaDani
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&type=tcp&packetEncoding=none&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision#By AghaDani
