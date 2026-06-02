@@ -1,3 +1,7 @@
+vless://79475016-7b3c-414d-9110-9b9faac6922d@panel.dibaux.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=panel.dibaux.ir&path=/stream#By AghaDani
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=0&sni=sni.skylee4.cloudns.ch#By AghaDani
+hysteria2://Masir_Sefid@18.185.89.204:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
+vless://ecba4d1c-ad06-4cdb-b8cf-f0d117d90192@tamin.ir:2052?encryption=none&type=ws&path=%2F&host=free.sedighi0915.ir#By AghaDani
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@178.62.87.183:27774?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 hysteria2://Masir_Sefid@18.185.89.204:59826?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
 hysteria2://Masir_Sefid@18.185.89.204:52848?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
@@ -6,7 +10,6 @@ hysteria2://Masir_Sefid@18.185.89.204:48637?security=tls&obfs=salamander&obfs-pa
 hysteria2://Masir_Sefid@18.185.89.204:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
 vless://74120ed7-7f61-4017-8882-bd3dbb393bd7@94.156.170.46:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com#By AghaDani
 vless://6682035b-8de0-4603-9e8a-b496857897b2@chatgpt.com:2095?path=%2F&security=none&encryption=none&host=n5.asmdns.net&type=ws#By AghaDani
-vless://ecba4d1c-ad06-4cdb-b8cf-f0d117d90192@tamin.ir:2052?encryption=none&type=ws&path=%2F&host=free.sedighi0915.ir#By AghaDani
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#By AghaDani
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:8443?path=%2F%3FTelegram%2B%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#By AghaDani
 hysteria2://Masir_Sefid@18.185.89.204:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
@@ -15,7 +18,6 @@ ss://bnVsbDpudWxs@104.18.32.47:8443#By AghaDani
 hysteria2://Masir_Sefid@18.185.89.204:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
 hysteria2://Masir_Sefid@18.185.89.204:8880?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
 hysteria2://Masir_Sefid@18.185.89.204:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
-hysteria2://Masir_Sefid@18.185.89.204:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
 hysteria2://Masir_Sefid@18.185.89.204:2083?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
 hysteria2://Masir_Sefid@18.185.89.204:15?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
 hysteria2://Masir_Sefid@18.185.89.204:48?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
@@ -996,5 +998,3 @@ vless://26def452-b87f-42f5-92f6-e7ba0711ce69@wEb.sUbStEr.iR:2083?Telegram=@Gozar
 vless://e1c48eb3-7f8a-4688-9c99-e993b66e6169@104.25.46.55:2086?encryption=none&security=none&type=ws&host=purple-wildflower-408a.vinkoo.workers.dev&path=%2FeyJqdW5rIjoiVm1GdzJRWXZUcHpSQ04iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#By AghaDani
 vless://36ed5469-f0d8-4419-80fc-e5d40042a143@199.247.16.83:443?encryption=none&fp=chrome&pbk=025G25MNNMSpac6RDTU8gQgWffCKMScBJURWPASpIQ0&security=reality&sid=efd386ea&sni=www.yahoo.com&spx=%2FS7h6BZnIq4d6QTj&type=tcp#By AghaDani
 vless://40bf709c-4353-4552-ba26-406d2bf7821d@fr.gryaz-vpn.com:20567?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&security=reality&sid=b82d7208fe23&sni=cloudflare.com&type=tcp#By AghaDani
-vless://e1c48eb3-7f8a-4688-9c99-e993b66e6169@162.159.254.95:2086?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=ws&host=purple-wildflower-408a.vinkoo.workers.dev&path=%2FeyJqdW5rIjoiVm1GdzJRWXZUcHpSQ04iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#By AghaDani
-vless://f6f44df3-d229-4dd8-a944-e7bc3a4c6b94@96.62.214.87:29745?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&pbk=zSOPQOHAiacl2VMETsLXTE_Gln5ECllb6YKy1oyv1V0&security=reality&sid=c3&sni=www.google.com&type=tcp#By AghaDani
