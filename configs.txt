@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODAwMzliNGQtYmFjMC00Zjg5LTgyYzctNTRmYWQzYjBhMWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDg2MTMsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmVcdTAwYWVcdWZlMGZNYWxheXNpYVx1MDBhOVx1ZmUwZkt1YWxhIEx1bXB1clx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MTk0LjkxbXMifQ==
 vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://89daf4a8-91fa-4331-ae40-66aef6ab6d32@188.114.97.6:80?security=none&allowInsecure=0&encryption=none&type=ws&host=grabacademyportal.grab.com.cyylr.eu.cc&path=/my-wbv#By AghaDani
 trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#By AghaDani
@@ -997,4 +998,3 @@ vless://7a685dc5-f93c-4e19-8b9b-b77998feb042@31.59.39.192:443?security=tls&type=
 vless://a44321b7-22ec-4255-bdb0-88a3e3b83668@ads04.vxmaxpro.online:443?security=reality&type=tcp&sni=play.google.com&fp=firefox&sid=b7b70c104ad267b8&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&encryption=none#By AghaDani
 vless://6bc1bd81-b763-4213-80ad-4586224e3079@162.159.43.233:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=tohidza.et6m22266a.workers.dev&sni=tohidza.et6m22266a.workers.dev&fp=chrome&encryption=none#By AghaDani
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&type=raw&alpn=h2&sni=cdg-1.fromblancwithlove.com&fp=chrome&encryption=none#By AghaDani
-vless://2fb73fb6-1fa1-422e-ad82-a1a7b5f11078@31.76.122.131:8080?security=reality&type=xhttp&path=%2F&sni=ozon.ru&fp=chrome&sid=6d6f13013d3e1d0c&pbk=fpWRXtm9TN1a0C7h9ZoA0SZ736ONC_ISOuoOvVnPJDU&mode=auto&encryption=none#By AghaDani
