@@ -1,3 +1,4 @@
+vless://8619ddb9-1324-4b90-b80f-24074b3474fb@6de3c95bea330571.vertalist.ir:1310?encryption=none&type=tcp&headerType=http&host=play.google.com#By AghaDani
 vless://4accc4fb-9ec3-41ae-ac3e-cc5d3dabe156@cdn1.cloud-vk.com:443?security=reality&encryption=none&pbk=blt86EDqS_cqja46UZeRHIJPyB4WrlDWNEQJ3gRfFHQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.vk.ru&sid=c9772947f56764a9#By AghaDani
 vless://14a59796-6db6-4c48-b4d5-2c7b875074c1@94.183.159.166:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.ru&fp=firefox&pbk=rFb2hsGZE0KGim0_MMIfeKMnYTjKH2llqtN4uDUaTj0&sid=4d05e319b074645b&spx=%2Fapi%2Fv2&type=tcp&headerType=none#By AghaDani
 vless://9beef3b2-5749-4529-a91a-29af1c043d6b@217.16.29.23:4443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=zrvxqfpn&fp=chrome&sni=mail.yandex.ru&pbk=MUk2riQSJscTXhcWiy_1SSLFiPjsMne4w-yInUrDLjY&sid=aaaa#By AghaDani
@@ -10,7 +11,6 @@ vless://3153c0d1-7fda-4729-b9d5-56acc7505222@51.250.102.69:443?flow=xtls-rprx-vi
 vless://48787724-190c-4d9f-899f-d2ba37ef521b@185.91.54.151:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=api-maps.yandex.ru&pbk=dZwaeGvFS34wVBQOQ5q1c9xs8t1HHu2h9CdxnTGeuAw&sid=11a33a97aa&spx=%2F#By AghaDani
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#By AghaDani
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&type=raw&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision&encryption=none#By AghaDani
-vless://8619ddb9-1324-4b90-b80f-24074b3474fb@6de3c95bea330571.vertalist.ir:1310?encryption=none&type=tcp&headerType=http&host=play.google.com#By AghaDani
 vless://88395261-261c-4956-a2dc-16932a181ca4@84.201.128.76:443?security=reality&encryption=none&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=3c1523da43287ec4#By AghaDani
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&type=raw&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision&encryption=none#By AghaDani
 vless://4ecce0bf-5bad-474a-882c-8ba910a9e00e@polnode1.frost-api.com:443?security=reality&type=tcp&sni=max.ru&fp=chrome&flow=xtls-rprx-vision&sid=4f61d0728e062b&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&encryption=none#By AghaDani
