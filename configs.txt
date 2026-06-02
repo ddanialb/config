@@ -1,3 +1,4 @@
+vless://AM@45.144.54.229:1310?encryption=none&type=tcp&headerType=http&host=play.google.com#By AghaDani
 vless://00000000-0000-4000-8000-000000000000@115.22.218.151:12195?encryption=none&host=8venkitv0morluet2u.cctg.xx.kg&path=%2F%40Marisa_kristi&security=tls&sni=8venkitv0morluet2u.cctg.xx.kg&type=ws#By AghaDani
 trojan://@199.232.78.160:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2F%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#By AghaDani
 vless://f4b907c2-4faa-46cc-a0f2-6dd6c2057bd2@84.201.136.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#By AghaDani
@@ -113,7 +114,6 @@ vless://790a7002-f64f-43bd-aef9-cc049391fb21@144.31.158.145:2053?encryption=none
 vless://e760af4f-3cf4-4087-832d-b1d0a91ac317@37.252.11.92:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=WtdwHlJ5Lc1BNeqNwYzlD_2CSi2phWzkoIbjkIuNa1Y&sid=e4d7a1c89b2f3560&type=tcp&headerType=none#By AghaDani
 vless://c5765da4-772f-4ff7-b96c-551ca7185529@46.247.40.229:8443?type=tcp&security=reality&encryption=none&sni=www.google.com&fp=chrome&alpn=http%252F1.1&pbk=mVdzom1e9afBTvsad76ZEsyQh9xSCZPUKo7CPPLaZAc&sid=196dad1410aa3891&flow=xtls-rprx-vision&headerType=none&allowInsecure=1#By AghaDani
 vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@lithuania.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=7mDY-jBdETPQCdhpdhkettajyiWNuP5k__yOE0EiRz4&sid=e2af8ebe#By AghaDani
-vless://AM@45.144.54.229:1310?encryption=none&type=tcp&headerType=http&host=play.google.com#By AghaDani
 vless://af77d53f-a0e4-456e-b977-696bf081dcc8@accountdb.ir:80?type=ws&host=g1.nybaz.space&path=/#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#By AghaDani
 vless://205d6869-02ca-3b36-b933-be2465250c7e@s359.ccgfw.online:443?encryption=none&type=tcp&headerType=none&fp=random&host=s359.ccgfw.online&path=&flow=xtls-rprx-vision&security=tls&sni=u716087u4da2s359.ccgfw.online&serviceName=&mode=&alpn=#By AghaDani
