@@ -1,3 +1,4 @@
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#By AghaDani
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&host=nl.linko1.ir&fp=safari&type=ws&sni=nl.linko1.ir#By AghaDani
 vless://5da791f7-5b75-4c96-98b5-01f8e2ad3ca4@www.speedtest.net:80?path=%2F&security=none&encryption=none&host=ns2.hostingdata.ir&type=ws#By AghaDani
 vless://429f43ca-087a-4fbc-9d88-9d9007bf30bc@188.114.97.6:443?path=%2Fmy-wbv&security=tls&encryption=none&host=unnes.ac.id.cyylr.eu.cc&type=ws&sni=unnes.ac.id.cyylr.eu.cc#By AghaDani
@@ -164,7 +165,6 @@ vless://ecd35e0a-941f-46a5-b76a-73551ba10925@172.67.130.241:2086?mode=packet-up&
 vless://ecd35e0a-941f-46a5-b76a-73551ba10925@217.163.76.118:2086?mode=packet-up&path=%2F&security=none&encryption=none&host=xvh.andishehparenting.com&type=xhttp#By AghaDani
 vless://3a209161-6fdf-4cbf-b8b6-12727af613db@37.152.185.16:27156?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://ecd35e0a-941f-46a5-b76a-73551ba10925@172.67.130.241:80?path=%2F&security=none&encryption=none&host=xU.aSaCO.sTorE&type=ws#By AghaDani
-trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#By AghaDani
 vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.176:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=pa.mojaz-persian-music.ir#By AghaDani
 vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.191:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssj.new-persian-song.ir#By AghaDani
 vless://ecd35e0a-941f-46a5-b76a-73551ba10925@208.103.161.101:2086?mode=packet-up&path=%2F&security=none&encryption=none&host=xvh.andishehparenting.com&type=xhttp#By AghaDani
