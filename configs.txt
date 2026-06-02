@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@15.236.251.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://9beef3b2-5749-4529-a91a-29af1c043d6b@ru5.cleanersaz.help:443?encryption=none&security=reality&sni=mail.yandex.ru&fp=chrome&pbk=3ZHq23cnEeKllJQYQ_S5TsAv-4grmPFAOY31z3QKOBU&sid=aaaa&type=grpc&authority=&serviceName=zrvxqfpn&mode=gun#By AghaDani
 vless://ba2630d8-d6c4-49ff-b5d5-2c24330dd245@212.109.194.8:2096?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#By AghaDani
 vless://e0eae430-1b23-47e5-a1b5-99cce7669441@84.201.148.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=7e2a9d4c5f18b0#By AghaDani
@@ -669,7 +670,6 @@ vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-pl-1c.ray-balance.space:4443?mod
 vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@217.12.204.110:7443?encryption=none&security=tls&sni=chat.speedload.ru&alpn=h2%2Chttp%2F1.1&fp=qq&type=xhttp&host=chat.speedload.ru&path=%2F&mode=auto&packetEncoding=xudp#By AghaDani
 trojan://telegram-id-directvpn@15.236.251.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://a845ce7c-ea10-47b0-8de4-92810260eeab@fi.corsair-web.space:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mozilla.org&fp=random&pbk=TNsQJHoX2M2u07a6oEPb3tY9U08Aph4Qvdk76dAZdio&sid=82ed5803a8047a3e&type=tcp&headerType=none#By AghaDani
-trojan://telegram-id-privatevpns@15.236.251.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://0d45ce3e-96e4-45f4-8f7f-72c6d7d3406d@5.178.85.81:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.ru&fp=chrome&pbk=QlNuXhTJ1n6mBNXYRBtxJP_J4nOyKeeELq1CM_qDtQc&sid=774e20ea2c1487a8&spx=%2F&type=tcp&headerType=none#By AghaDani
 vless://516aec2b-5899-46be-90cb-3cd21fa06747@zu.ll2ll.xyz:443?security=reality&encryption=none&pbk=Ml7biRYvByoNmpxW9MH7dFtvR8D8-orJTwy0HMfg_VY&headerType=&fp=chrome&spx=%2Fj2IqrCUQ8Ms1Zmd&type=tcp&sni=play.google.com&sid=5ac89fbdaf#By AghaDani
 vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&sni=m.twitch.tv#By AghaDani
