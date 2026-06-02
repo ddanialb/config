@@ -1,3 +1,4 @@
+vless://a75c027c-dc95-4efd-894a-2c85f0186017@162.19.132.77:2095?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.190:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cs.tehran-kalla.ir#By AghaDani
 ss://YWVzLTI1Ni1nY206NmM0YmQ0NzQtYWMyMy00N2ZjLTg3NDItYzhmOTkwMzU3ODM2@ss.032.node-for-bigairport.win:19887#By AghaDani
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&sid=#By AghaDani
@@ -345,7 +346,6 @@ vmess://eyJhZGQiOiAiNjQuODMuMTcuOTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAi
 vless://23bdeba2-5e59-43d3-a770-b23a52200e18@5.175.141.9:2095?path=%2F&security=none&encryption=none&host=g.nargil01.site&type=httpupgrade#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#By AghaDani
 trojan://bX_lNHWoW6ywq82mI%3DKUr%2B8i__VSp0Hs_E@172.235.63.252:443?security=tls&headerType=none&fp=chrome&type=tcp#By AghaDani
-vless://a75c027c-dc95-4efd-894a-2c85f0186017@162.19.132.77:2095?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=cdg-1.fromblancwithlove.com#By AghaDani
 vless://d232ff60-0f45-418d-8eae-a03982d9a7cf@yeksanaat.ir:8880?path=%2F&security=none&encryption=none&host=g1.nybaz.space&type=ws#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
