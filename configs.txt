@@ -1,3 +1,4 @@
+vless://d87234a4-2a6c-4f0c-87f0-300942338207@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=1&host=jookeji.global.ssl.fastly.neT&type=ws&allowInsecure=1&sni=speedtest.net#By AghaDani
 vless://8d811927-b365-458c-ab8e-3d5594b7e73b@cdn.zalti.top:2052?path=%2FDL%3Fed%3D2095&security=none&encryption=none&host=direct.zaltii.ir&type=#By AghaDani
 vless://6f9de7a7-e303-4056-b9ff-96a610ebdee9@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#By AghaDani
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=%2Ftsghdws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#By AghaDani
@@ -997,4 +998,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.30:8880?ed=2560&eh=Sec-W
 vless://6bc1bd81-b763-4213-80ad-4586224e3079@162.159.43.233:443?allowInsecure=1&ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=tohidza.et6m22266a.workers.dev&path=%2F&security=tls&sni=tohidza.et6m22266a.workers.dev&type=ws#By AghaDani
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#By AghaDani
 vless://6e593426-1a8e-4226-984f-0ea174e218c7@103.18.49.100:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&path=%2Fid-pusat&security=tls&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&type=ws#By AghaDani
-vless://23bdeba2-5e59-43d3-a770-b23a52200e18@5.175.141.9:2095?encryption=none&host=g.nargil01.site&path=%2F&security=none&type=httpupgrade#By AghaDani
