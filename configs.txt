@@ -1,3 +1,4 @@
+vless://536b1843-a13a-4a57-b778-bfc58e6cadb9@104.21.18.219:2082?encryption=none&security=none&type=ws&host=g1.nybaz.space&path=%2F#By AghaDani
 vless://74120ed7-7f61-4017-8882-bd3dbb393bd7@94.156.170.46:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com#By AghaDani
 vless://8c8333b9-b384-4068-9df0-216f38bced73@american.ssabzlearn.ir:9443?encryption=none&host=&path=%2F&security=none&type=ws#By AghaDani
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=%2Ftsghdws&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#By AghaDani
@@ -14,7 +15,6 @@ hysteria2://Masir_Sefid@18.185.89.204:44044?security=tls&obfs=salamander&obfs-pa
 hysteria2://Masir_Sefid@18.185.89.204:8443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
 hysteria2://Masir_Sefid@18.185.89.204:4784?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
-vless://536b1843-a13a-4a57-b778-bfc58e6cadb9@104.21.18.219:2082?encryption=none&security=none&type=ws&host=g1.nybaz.space&path=%2F#By AghaDani
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@178.62.87.183:27774?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#By AghaDani
