@@ -1,3 +1,6 @@
+vless://e3115c84-266b-4c46-b3f2-16cc3263d555@151.101.193.57:80?path=%2F&security=none&encryption=none&host=superip2.global.ssl.fastly.net&type=ws#By AghaDani
+vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWnVBRzJ3d0RkaWJMV2R1VkZ6YmVY@45.95.233.55:443#By AghaDani
 vless://e3115c84-266b-4c46-b3f2-16cc3263d555@85.234.73.125:13278?mode=gun&security=reality&encryption=none&authority=yahoo.com&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&fp=chrome&spx=%2F&type=grpc&serviceName=xyz&sid=fb8e0edb66000f28#By AghaDani
 vless://e3115c84-266b-4c46-b3f2-16cc3263d555@199.232.78.160:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=superip2.global.ssl.fastly.net&fp=chrome&type=ws&sni=global.fastly.com#By AghaDani
 vless://e3115c84-266b-4c46-b3f2-16cc3263d555@199.232.78.160:443?path=%2F&security=tls&encryption=none&host=superip2.global.ssl.fastly.net&type=ws&sni=global.fastly.com#By AghaDani
@@ -306,7 +309,6 @@ vless://4ec245a5-d42b-4847-9118-0c89294af879@45.77.89.27:38741?encryption=none&t
 vless://84b42d2a-d020-4bfc-9a55-18e114fb10c2@site2.poudnc.shop:443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=site2.poudnc.shop&fp=chrome&headerType=none&alpn=h2,http/1.1#By AghaDani
 vless://39ca56f3-2e71-45c0-b2d5-6ea048923cc1@snapp.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#By AghaDani
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.149:443#By AghaDani
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&type=tcp&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?encryption=none&security=tls&sni=graph.instagram.com.cyylr.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=graph.instagram.com.cyylr.eu.cc&path=%2Fid-tksi#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.myfymain.com:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=&encryption=none&type=grpc#By AghaDani
@@ -796,5 +798,3 @@ vless://691fb5cb-76ec-41a8-a4f8-dac38b7568ad@blubank.ir:80?security=none&allowIn
 trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@104.19.229.21:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#By AghaDani
 vless://8bcdc02a-6197-4e5b-bbbf-4e7790d2796a@151.101.108.223:443?encryption=none&type=ws&security=tls&path=%2F&host=nesfeshzksab.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#By AghaDani
 vless://4a989115-4f1b-43ee-94c7-9b96eef7b700@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeUJZMHgyS2Rxc09iZ21tUmlYRkxORUlqbXBQZmlscW5ab2F0TnBUQ2JzPQ@syncguard.yatamoa.me:443?type=tcp#By AghaDani
-vless://02cd5551-37c2-4a8b-ae3c-09110ae2ea3b@54.38.136.47:80?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40v2ray_configs_pools&headerType=none&type=tcp#By AghaDani
