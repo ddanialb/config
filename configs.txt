@@ -1,3 +1,7 @@
+vless://ed4bafcf-f822-4309-94b3-aa7be5807275@212.64.215.53:8443?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#By AghaDani
+vless://3a7e040a-878b-4fab-a7ab-5302222f5514@162.19.181.86:443?security=reality&encryption=none&pbk=zXzWxfdh3xoXoMbK85CMUi2TNTTTAfuR4RQ5PwMALQ4&headerType=none&fp=chrome&spx=%2F2VHpt4Bd8WebeQx&type=tcp&sni=www.google.com&sid=19760c3cec3a57ea#By AghaDani
+vless://c589c384-2a5e-43b8-95dd-17cd3c55e435@104.26.6.159:2086?path=%2F&security=none&encryption=none&host=a3ssa.vaslbsh.com&type=httpupgrade#By AghaDani
+trojan://c%3ACg8%29U%2BfoGS@chatgpt.com:443?path=%2FeyJqdW5rIjoiQ29yRDBUbXhnRiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=4QOkoKYk1-6t91632pXos28qzEJRuaLU.MahDIjOJO324.WoRkeRS.dEV#By AghaDani
 vless://f2afa642-76c6-419f-af1c-45674d8284e7@46.8.68.167:13278?mode=gun&security=reality&encryption=none&authority=yahoo.com&pbk=lZhnPs3mM0yaBLd2jWaQoX3DVaXz4l-t9SdKr0vUy1U&fp=chrome&spx=%2F&type=grpc&serviceName=xyz&sid=fb8e0edb66000f28#By AghaDani
 vless://c589c384-2a5e-43b8-95dd-17cd3c55e435@104.19.64.105:2053?security=tls&encryption=none&insecure=0&host=za12kl3.bingnet.online&type=ws&allowInsecure=0&sni=za12kl3.bingnet.online#By AghaDani
 vless://1b7e1467-36fe-44ed-9032-e4286f97b6c5@fastly-ip80.visionow.ir:80?security=none&encryption=none&host=weather.ir&type=ws#By AghaDani
@@ -632,7 +636,6 @@ vless://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443?security=reality
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#By AghaDani
 vless://e7d46e84-f2d5-4339-a9b9-b52855aec77d@fast.postshup.ir:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=cdn-pro3.postshup.ir#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.175:8080#By AghaDani
-trojan://c%3ACg8%29U%2BfoGS@chatgpt.com:443?path=%2FeyJqdW5rIjoiQ29yRDBUbXhnRiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=4QOkoKYk1-6t91632pXos28qzEJRuaLU.MahDIjOJO324.WoRkeRS.dEV#By AghaDani
 vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?security=reality&encryption=none&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=d13ddfca12760d03#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#By AghaDani
 vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@nid.pink-perfect.ru:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.google.com&fp=qq&allowInsecure=1&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad&flow=xtls-rprx-vision#By AghaDani
@@ -795,6 +798,3 @@ trojan://Masir_Sefid@195.15.253.123:2083?security=reality&pbk=w0XepGv1Hk0gBh1Api
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#By AghaDani
 vless://b7a6a968-33af-4904-bbf7-6db32a576f8f@hes.purplrose.ir:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fpath&security=tls&encryption=none&host=sub.purplrose.ir&type=ws&sni=sub.purplrose.ir#By AghaDani
 vless://26b1f6ac-7f81-4eba-90a9-1c053c6cc418@95.182.90.67:443?encryption=none&fp=chrome&pbk=5SgHD-gGUW9bV9RfdRln9IHgE0slOojBxvNpUMe2BDs&security=reality&sid=7da381&sni=yahoo.com&spx=%2FqzZguONgwdyGdMc&type=tcp#By AghaDani
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://b5dafa95-0f66-49e8-8c34-1989afd1c7d4@gr.sabasarmaye.ir:3045?security=reality&encryption=none&pbk=1bTPlaHUO84GB77L8d2rCerLjaPLfM8YT_eTAlymmzc&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=0a4906b5c7196fc8#By AghaDani
-ss://YWVzLTI1Ni1nY206YzFmZDBiMjktNmMxOC00MDQyLTg3YTItZjViZDc4NzhkYzBh@192.142.18.127:443#By AghaDani
