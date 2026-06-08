@@ -1,3 +1,4 @@
+vless://75dd6c7d-b5a2-44f3-843c-812facb22c5e@45.130.125.0:443?encryption=none&security=tls&sni=dfsuporte.garena.com.ex33r.eu.cc&insecure=0&allowInsecure=0&type=ws&host=dfsuporte.garena.com.ex33r.eu.cc&path=%2Fsg-melbi#By AghaDani
 vless://d2fe0660-71fa-4f4b-9dd0-24ba012ea04e@188.114.97.6:2083/?type=ws&path=%2fer%3d2048&host=tala.sap-lotmarx.ir&tls=tls&security=tls&alpn=h3%2ch2%2chttp%2f1.1&sni=tala.sap-lotmarx.ir&fp=chrome#By AghaDani
 vless://d2fe0660-71fa-4f4b-9dd0-24ba012ea04e@104.21.11.130:2083/?type=ws&path=%2fer%3d2048&host=tala.sap-lotmarx.ir&tls=tls&security=tls&alpn=h3%2ch2%2chttp%2f1.1&sni=tala.sap-lotmarx.ir&fp=chrome#By AghaDani
 vless://21f924d8-11a5-43cf-813d-b1ee4fd7548e@165.232.126.131:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_ke5R2Dxtib8aMKWN8L0UehEftdyE6JFNn-TIJeE42o&security=reality&sid=eaed905f0f3518f9&sni=icloud.com&spx=%2Ftd4CvbC2U9gFO4Z&type=tcp#By AghaDani
@@ -797,4 +798,3 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:47909?
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 vless://173ef949-1d17-0c50-7ddc-fb9d2e45d26e@104.19.35.38:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=yellow-moon-9e97.naham98989889.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=yellow-moon-9e97.naham98989889.workers.dev#By AghaDani
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45619?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fr.01.naiun.bilibili.com#By AghaDani
-vless://f9bcf1fb-252f-4577-8051-8aab0f867b8b@38.180.104.152:14135?path=%2F&security=&encryption=none&host=www.google.com&type=httpupgrade#By AghaDani
