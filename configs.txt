@@ -1,3 +1,4 @@
+vless://8b9e7a13-53f4-433d-a411-7b1098c4a5bb@reye.tunacdn.ir:80/?type=ws&path=%2f&host=&security=none#By AghaDani
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@104.17.57.214:443?path=%2F&security=tls&encryption=none&host=frosty-sun-b509.asdfgh1595.workers.dev&fp=chrome&type=ws&sni=frosty-sun-b509.asdfgh1595.workers.dev#By AghaDani
 hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#By AghaDani
 vless://b4fa2095-2813-47a7-a4c2-54da6a8b9ccc@45.130.125.194:8443?security=tls&type=xhttp&headerType=&path=%2F%3Fed%3D2053&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=vo.new-persian-song.ir&fp=chrome&alpn=h3%2Ch2#By AghaDani
@@ -797,4 +798,3 @@ vless://de6e9412-3dd5-4f7f-a1a7-cd9870d233fc@45.130.125.194:8443?security=tls&ty
 vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@43.175.169.174:443?path=%2F14708%2F31d3c8561998%2F&security=tls&encryption=none&insecure=0&host=imap.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#By AghaDani
 vless://ef9d6b0e-cc98-4f59-8e63-473f07a6e50e@useredge2.noroozmobarak.com:443?path=/wsloc1001?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=vip1host.ir3dprint.com&fp=firefox&type=ws&allowInsecure=0&sni=vip1host.ir3dprint.com#By AghaDani
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?encryption=none&security=tls&sni=bab-6.site&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=bab-6.site&path=%2Fvws%2F#By AghaDani
-vless://65de7c2c-48ad-4b16-bed0-0b013234dc62@185.143.233.122:443?type=ws&encryption=none&path=/ed=2080&host=cyrus.frtshop.ir&security=tls&fp=chrome&alpn=h2,http/1.1&sni=cyrus.frtshop.ir#By AghaDani
