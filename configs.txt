@@ -1,3 +1,6 @@
+vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@104.17.57.214:443?path=%2F&security=tls&encryption=none&host=frosty-sun-b509.asdfgh1595.workers.dev&fp=chrome&type=ws&sni=frosty-sun-b509.asdfgh1595.workers.dev#By AghaDani
+vless://e12f0666-a46f-4199-9a91-7e35d3bea0bb@ikco.ir:2086?type=ws&encryption=none&path=%2F&host=vh.zynorax.ir&security=none#By AghaDani
+vless://deddfb5a-16f6-40c7-93da-913ad70335a3@5.75.196.174:20141?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=&fp=chrome&spx=%2Fnew&type=tcp&flow=xtls-rprx-vision&sni=arvancloud.ir&sid=5e11ecc7d4#By AghaDani
 vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#By AghaDani
 vless://64a28ed6-2238-42d9-8452-b83674f741e5@7nXKCe_VLESS:1402?security=reality&type=tcp&headerType=&path=&host=&sni=f.d&fp=chrome&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&sid=#By AghaDani
 vless://b2bfb4f3-f4c3-4323-9810-a086fef2f25d@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
@@ -47,7 +50,6 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?Telegram=@Gozar
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@mfa.gov.ua:443?security=tls&type=ws&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&host=2-1ng.pages.dev&fp=chrome&sni=2-1ng.pages.dev&path=/&encryption=none#By AghaDani
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#By AghaDani
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#By AghaDani
-vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@104.17.57.214:443?path=%2F&security=tls&encryption=none&host=frosty-sun-b509.asdfgh1595.workers.dev&fp=chrome&type=ws&sni=frosty-sun-b509.asdfgh1595.workers.dev#By AghaDani
 vless://FREE@bm.xq-vpn.com:80?mode=auto&path=%2F&security=none&encryption=none&host=SpEeDtEsT.nEt&type=xhttp#By AghaDani
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#By AghaDani
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:47909/?type=tcp&security=tls&sni=is.01.naiun.bilibili.com&allowInsecure=1#By AghaDani
@@ -796,5 +798,3 @@ trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&inse
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk1.sanfen001.pics:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk1.sanfen001.pics#By AghaDani
 trojan://7b561e94-42f3-4f92-979c-4cf97c328025@azrb.ziqiyun.xyz:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=&encryption=none&headerType=none&type=tcp#By AghaDani
-trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=cdn3-87.vk-cdnvideo.com&insecure=0&security=tls&encryption=none&headerType=none&fp=chrome&allowInsecure=0&type=tcp#By AghaDani
