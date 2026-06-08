@@ -1,3 +1,10 @@
+vless://64a28ed6-2238-42d9-8452-b83674f741e5@7nXKCe_VLESS:1402?security=reality&type=tcp&headerType=&path=&host=&sni=f.d&fp=chrome&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&sid=#By AghaDani
+vless://b2bfb4f3-f4c3-4323-9810-a086fef2f25d@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
+vless://ba224379-655d-4132-8dd8-935590bf2dbb@irivpn.vixzra.xyz:45244?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
+vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@141.101.115.71:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#By AghaDani
+hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@sg2.yuntong.click:443?security=tls&obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&insecure=0&sni=sg2.yuntong.click#By AghaDani
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@194.36.55.163:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Itsrezu2.dr-ping.com&fp=chrome&type=xhttp&allowInsecure=0&sni=Itsrezu2.dr-ping.com#By AghaDani
+vless://b0d9918c-320d-4e76-ab89-1a12ff5e1fe2@www.cookiebot.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=s1.academy-reactjs.sbs&fp=chrome&type=ws&allowInsecure=0&sni=s1.academy-reactjs.sbs#By AghaDani
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gj1.sonofthewinds.com#By AghaDani
 vless://16f2a9ed-9913-4dba-97ad-33e5748fa1d8@84.75.220.46:443?type=ws&encryption=none&path=%2F&host=84.75.220.46&security=none#By AghaDani
 trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&insecure=1&host=nl.e-mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&allowInsecure=1&sni=mitivpn.dsech.ss.ssandfdsgx.gloteefghedcal.ssl.fastly.net.b5r.ir#By AghaDani
@@ -791,10 +798,3 @@ vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=&encry
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=cdn3-87.vk-cdnvideo.com&insecure=0&security=tls&encryption=none&headerType=none&fp=chrome&allowInsecure=0&type=tcp#By AghaDani
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=cdn3-87.vk-cdnvideo.com&insecure=0&security=tls&encryption=none&headerType=none&fp=chrome&allowInsecure=0&type=tcp#By AghaDani
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:48697?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gh.01.naiun.bilibili.com#By AghaDani
-trojan://7b561e94-42f3-4f92-979c-4cf97c328025@azhk.ziqiyun.xyz:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
-trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
-trojan://6b7f37af-a853-4f01-a031-5fa4eca4f5bf@141.193.213.10:443?path=%2Fin-do&security=tls&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#By AghaDani
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:47909?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=is.01.naiun.bilibili.com#By AghaDani
-trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
