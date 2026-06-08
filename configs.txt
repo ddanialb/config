@@ -1,3 +1,10 @@
+vless://c32037e3-b6d2-484d-b6b2-1375d1f36031@167.235.203.224:42031?encryption=none&type=tcp&headerType=none&security=none#By AghaDani
+trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.5:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#By AghaDani
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#By AghaDani
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?path=%2Ftsghdws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#By AghaDani
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#By AghaDani
 trojan://WF42809561@touching-pigeon.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.70:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
@@ -791,10 +798,3 @@ trojan://d02e3bb7e6b3333e818d36866d40de6e@95.40.24.24:49277?Telegram=@GozargahAz
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=r1.mizulina.top&fp=edge&insecure=0&allowInsecure=0&type=tcp&headerType=none#By AghaDani
 trojan://d02e3bb7e6b3333e818d36866d40de6e@95.40.24.24:49277?allowInsecure=1&sni=www.nintendogames.net#By AghaDani
 vless://933e8995-3b6d-4d42-8b23-e649f0e7205f@104.16.75.127:443?path=%2Fus-gllc&security=tls&encryption=none&insecure=1&host=resources.office.com.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=resources.office.com.r3xxe.eu.cc#By AghaDani
-trojan://dbyec1mkz198dzk9@151.101.108.223:443?path=%2FTELEGRAM_NUFiLTER&security=tls&insecure=1&host=nleiyajji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@141.101.115.71:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2FRoBeRt&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#By AghaDani
-vless://935bdfb3-7bf9-48c1-adcb-2f6fbfeca896@216.24.57.1:443?encryption=none&type=ws&security=tls&path=%2Fmy-mbv&sni=help.viu.com.ex33r.eu.cc&allowInsecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8#By AghaDani
-vless://6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f@45.149.12.133:443?security=tls&sni=hdfy1c4.sassanidempire.com&type=grpc&serviceName=LNGeLLJtWl4JWOU9ID6IU#By AghaDani
-vless://a204c376-2883-4231-9b50-5b11a36f8752@151.101.108.223:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=Fijji.global.ssl.fastly.net&path=%2F#By AghaDani
-trojan://78defd88-d333-67a5-9c34-d3bcef5816eb@45.67.215.249:443?path=%2F%40TirexNet&security=tls&pbk=enabled&insecure=0&host=tirex.sugarbreaker1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tirex.sugarbreaker1.workers.dev#By AghaDani
-vless://94db3217-2a08-4059-86ff-e8326fcc972b@rc.iranpuls.ir:442?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=sxX_DmxTBc4YQisvurUVhgNYftxSH0uJIMfWeDEYoyg&sid=0981ecb3b4816ae0#By AghaDani
