@@ -1,3 +1,6 @@
+trojan://humanity@162.159.17.189:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#By AghaDani
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.123.19:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#By AghaDani
+trojan://telegram-id-privatevpns@35.181.123.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@89.125.19.237:47200?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=stats.vk-portal.net&fp=firefox&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&sid=b2a9bd658fc81dc6#By AghaDani
 trojan://telegram-id-directvpn@35.181.123.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#By AghaDani
@@ -126,7 +129,6 @@ vless://5e0212f0-297f-4f68-a256-013466bab0d2@188.114.97.6:443?Telegram=@Gozargah
 vless://7752f6f7-7052-42bf-b571-34a02658cc71@acha.claudify.org:443?path=%2Fnews&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=Cdn8-pro.postshup.ir.&fp=chrome&type=ws&allowInsecure=0&sni=Cdn8-pro.postshup.ir.#By AghaDani
 vless://882e17c8-b013-4e99-9774-36e26e5001ff@185.242.19.250:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=xhttp&security=tls&sni=top3739667002.mwscdn.ru&path=/livestreamcontent&mode=auto#By AghaDani
 vless://824447a3-fce1-424b-beb5-a3e3d03935f1@panun.hoseinaz.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=panun.hoseinaz.ir&path=%2Fw&security=tls&sni=panun.hoseinaz.ir&type=ws#By AghaDani
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.123.19:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#By AghaDani
 vless://d5df530c-da32-4c83-95a6-33bd851ac652@direct.bcinetworkcore.com:443?security=reality&type=tcp&headerType=&path=&host=&sni=gateway.icloud.com&fp=chrome&pbk=9vrGeH6ljT-VeFLjbHNsnwWhf9pQ9YN2lc0lCun0E2Y&sid=4d9fc202733434f1#By AghaDani
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&path=%2F#By AghaDani
 vless://d5df530c-da32-4c83-95a6-33bd851ac652@direct.bcinetworkcore.com:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.icloud.com&fp=chrome&pbk=9vrGeH6ljT-VeFLjbHNsnwWhf9pQ9YN2lc0lCun0E2Y&sid=4d9fc202733434f1#By AghaDani
@@ -796,5 +798,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?encryption=none&
 vless://959fde23-35b9-4266-95fb-d267e62e38e4@72.56.11.76:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#By AghaDani
 vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.194:8443?security=tls&type=xhttp&headerType=&path=%2F%3Fed%3D2053&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=vip.mojaz-persian-music.ir&fp=chrome&alpn=h3%2Ch2#By AghaDani
 vless://InternetAzadRobot@speedtest.net:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofan.global.ssl.fastly.net&type=xhttp#By AghaDani
-vless://c54f01b3-3588-4750-9e67-8eb50e98858c@173.245.49.7:443?mode=auto&path=%2F%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.wwBfXP5Ut0fz3K6_VGlTZTYTds3d8PDQQZClGdWKd38&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip2.trahsakhteman.ir#By AghaDani
-vless://216db946-8a47-438a-aa8a-1edde565b1a3@snapp.ir:2086?path=%2F&security=none&encryption=none&host=Tronix.luneta.ir&type=ws#By AghaDani
