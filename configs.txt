@@ -1,3 +1,4 @@
+vless://7ed6a8a2-8f0b-0019-a751-a28f8144d704@leg.goodmaximum.com:443?encryption=none&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&security=reality&serviceName=QToNrKDvQT5AfnFM&sni=archive.glimmerhouse.com&type=grpc#By AghaDani
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.97:48697/?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#By AghaDani
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.43:47909/?type=tcp&security=tls&sni=is.01.naiun.bilibili.com&allowInsecure=1#By AghaDani
 vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#By AghaDani
@@ -797,4 +798,3 @@ trojan://4d048fc6-d944-41dd-b327-10856adcc82d@zi.you.usdtvfk.top:443?security=tl
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#By AghaDani
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:47909?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=is.01.naiun.bilibili.com#By AghaDani
 trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
-vless://173ef949-1d17-0c50-7ddc-fb9d2e45d26e@198.41.219.38:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=yellow-moon-9e97.naham98989889.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=yellow-moon-9e97.naham98989889.workers.dev#By AghaDani
