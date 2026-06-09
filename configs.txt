@@ -1,3 +1,4 @@
+vless://82fb089e-fb9b-4acf-ac27-feaeece9962c@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
 vless://45485f23-1ff5-45d5-b229-b5e5d87a4151@dpv5wxbk2f9f.zozothedog.com:443?encryption=none&host=65.109.188.97&path=%2Fstream&security=none&type=ws#By AghaDani
 vless://45485f23-1ff5-45d5-b229-b5e5d87a4151@dpv5wxbk2f9f.zozothedog.com:2069?encryption=none&security=none&type=tcp#By AghaDani
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#By AghaDani
@@ -126,7 +127,6 @@ trojan://Masir_Sefid@195.15.253.91:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&encryption=none&security=tls&type=tcp#By AghaDani
 vless://7d2eb9f3-5cd6-489b-8250-a67ba3e699e1@104.21.36.10:2087?path=%2FeyJqdW5rIjoidEpyTktYb1M5R1MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=xy82e6n2k8z6cj3jp5qc487mkmjphuyx.simorq2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=Xy82e6n2K8Z6cj3JP5qC487mkMJpHuyX.siMorq2.wORKERs.DEv#By AghaDani
 trojan://Masir_Sefid@195.15.253.91:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FW8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#By AghaDani
-vless://82fb089e-fb9b-4acf-ac27-feaeece9962c@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@212.102.48.217:8443?encryption=none&security=tls&sni=mad-es.fromblancwithlove.com&type=tcp#By AghaDani
 vless://c4518380-3962-41b9-b6d3-d7e70412b46e@snapp.ir:80?encryption=none&host=di1.daraline.ir&path=%2Fjs&security=none&type=ws#By AghaDani
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.67.74.10:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#By AghaDani
