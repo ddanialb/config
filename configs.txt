@@ -1,3 +1,4 @@
+trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:49277?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080?prefix%16%03%01%00%C2%A8%01%01#By AghaDani
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNE1tSmlZamRoWVMxbE9UZGlMVFF4WkRjdFlXVmhPQzFsT0dRMk0yRmhZek5rT0Rj@free.2weradf.xyz:36571#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOGVjNmIyZi01Mjc5LTRmYzgtYmEzZC1iMmVjMGJiMWFkYmU@gtm1.ktmwan.com:27267#By AghaDani
@@ -230,7 +231,6 @@ vless://32dbe23a-852e-44a8-9dc2-80188643f550@151.101.194.133:443?path=/telegram-
 vless://35a11533-6fce-4459-b06c-77d0442c2021@188.114.97.6:80?path=/nl-tw&security=none&encryption=none&host=s.blibli.com.r3xxe.eu.cc&type=ws#By AghaDani
 vless://32d5d34b-5184-4b2b-859c-f0e37cc5def9@varzesh3.com:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#By AghaDani
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.new-persian-song.ir#By AghaDani
-trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:49277?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#By AghaDani
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&extra={#By AghaDani
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={#By AghaDani
 vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.162:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={#By AghaDani
