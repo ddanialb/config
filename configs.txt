@@ -1,3 +1,8 @@
+vless://ddab5491-6aa7-420f-9bd3-11b246c7c187@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=opetacloud.ir&path=Join%3A%40oPeTa_v2ray-telegram%3A%40oPeTa_v2ray-join-chanel%3A%40oPeTa_v2ray-join%3A%40opeta_v2ray-telegram%3A%40opeta_v2ray-Join%3A%40oPeTa_v2ray-telegram%3A%40oPeTa_v2ray-join-chanel%3A%40oPeTa_v2ray-join%3A%40opeta_v2ray-telegram%3A%40opeta_v2ray%2F%3Fed%3D1024&fp=chrome&alpn=h2%2Chttp%2F1.1#By AghaDani
+vless://872b6957-aaff-4cee-9db0-4457ea2fee9d@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=http.www.speedtest.net.fast.com.unlimiteddev.ir.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&fp=firefox#By AghaDani
+vless://bd18ce43-c623-48fe-a194-724b2685f39a@45.61.148.125:38836?encryption=none&host=www.google.com&path=%2F&security=none&type=httpupgrade#By AghaDani
+vless://faae9b14-8a04-4aa6-8cfd-9db27b2105aa@104.194.148.116:23821?encryption=none&host=&path=%2F&security=none&type=ws#By AghaDani
+vless://5c67795f-8bd4-49ea-a4d8-8b1636c09aae@38.180.104.152:21077?encryption=none&host=www.google.com&path=%2F&security=none&type=ws#By AghaDani
 vless://58f46016-baec-4562-8f80-1f3772dbd4d0@45.61.148.125:35711?encryption=none&host=www.google.com&path=%2F&security=none&type=ws#By AghaDani
 vless://5ae2d70e-6100-4c6b-927f-029356e45c7a@38.180.104.152:14135?encryption=none&host=www.google.com&path=%2F&security=none&type=httpupgrade#By AghaDani
 vless://13e6fc6f-6abb-46f6-b7e6-9386dcf07923@104.194.148.116:27267?encryption=none&host=&path=%2F&security=none&type=httpupgrade#By AghaDani
@@ -8,8 +13,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.186:443?security=tls&sni=
 trojan://ccaaabb-acba-acba-cbda-bbbacabcacac@127.0.0.1:8080?security=tls&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.179.19.222:443#By AghaDani
 vless://443f0f59-8485-46e7-8cd7-af4af032d50f@104.17.147.22:80?security=none&type=ws&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560#By AghaDani
-vless://ddab5491-6aa7-420f-9bd3-11b246c7c187@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=opetacloud.ir&path=Join%3A%40oPeTa_v2ray-telegram%3A%40oPeTa_v2ray-join-chanel%3A%40oPeTa_v2ray-join%3A%40opeta_v2ray-telegram%3A%40opeta_v2ray-Join%3A%40oPeTa_v2ray-telegram%3A%40oPeTa_v2ray-join-chanel%3A%40oPeTa_v2ray-join%3A%40opeta_v2ray-telegram%3A%40opeta_v2ray%2F%3Fed%3D1024&fp=chrome&alpn=h2%2Chttp%2F1.1#By AghaDani
-vless://872b6957-aaff-4cee-9db0-4457ea2fee9d@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=http.www.speedtest.net.fast.com.unlimiteddev.ir.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&fp=firefox#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
 vless://73796e63-0000-4000-8000-000000000000@www.speedtest.net:443?path=%2Fsync&security=tls&encryption=none&host=quiet-mouse-30b2.hogenob634.workers.dev&fp=chrome&type=ws&sni=quiet-mouse-30b2.hogenob634.workers.dev#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.138:8443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
@@ -85,11 +88,8 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&secur
 vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?path=%2F&security=&encryption=none&host=mci.ir&type=httpupgrade#By AghaDani
 vless://b2bfb4f3-f4c3-4323-9810-a086fef2f25d@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
-vless://bd18ce43-c623-48fe-a194-724b2685f39a@45.61.148.125:38836?encryption=none&host=www.google.com&path=%2F&security=none&type=httpupgrade#By AghaDani
 vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=%2F%3Fed&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip.mojaz-persian-music.ir#By AghaDani
-vless://faae9b14-8a04-4aa6-8cfd-9db27b2105aa@104.194.148.116:23821?encryption=none&host=&path=%2F&security=none&type=ws#By AghaDani
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
-vless://5c67795f-8bd4-49ea-a4d8-8b1636c09aae@38.180.104.152:21077?encryption=none&host=www.google.com&path=%2F&security=none&type=ws#By AghaDani
 vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.192:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vh.mojaz-persian-music.ir#By AghaDani
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.67.74.10:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#By AghaDani
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#By AghaDani
