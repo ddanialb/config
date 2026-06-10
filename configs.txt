@@ -1,3 +1,4 @@
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
 vless://73796e63-0000-4000-8000-000000000000@www.speedtest.net:443?path=%2Fsync&security=tls&encryption=none&host=quiet-mouse-30b2.hogenob634.workers.dev&fp=chrome&type=ws&sni=quiet-mouse-30b2.hogenob634.workers.dev#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.138:8443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&allowInsecure=0&encryption=none&type=tcp&fp=safari&headerType=none#By AghaDani
@@ -797,4 +798,3 @@ vless://f22b1e81-54ff-4ce5-ad08-53fd874e55b5@104.16.163.32:443?path=%2F&security
 vless://9cb72288-da5a-40a4-b856-4557f9849016@3.112.19.64:26902?security=reality&encryption=none&pbk=5CqD0ZEtt5W_xA9adU4CxjH4xAV-BdCwhDuthBBnpFM&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=450d60a09ffb65#By AghaDani
 vless://d5822635-69f5-4c5e-acff-d885e3a1ce73@104.18.4.138:2053?security=tls&type=ws&headerType=&path=%3Fed%3D2096&host=uk.diiginet.ir&sni=uk.diiginet.ir&fp=firefox&alpn=h2#By AghaDani
 vless://0f881ea8-52cc-45ac-9e1c-19a54f765fbf@mci.folo-domi.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=sara.folo-domi.ir&fp=chrome&type=ws&allowInsecure=0&sni=sara.folo-domi.ir#By AghaDani
-trojan://frO8GBJYW-ULREHuTAOfpw@mci.folo-domi.ir:2053?path=%2F&security=tls&insecure=0&host=dara.folo-domi.ir&fp=chrome&type=ws&allowInsecure=0&sni=dara.folo-domi.ir#By AghaDani
