@@ -1,5 +1,7 @@
-vless://4b581293-af3a-4658-b9b2-06949626bf86@172.64.149.54:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#By AghaDani
+vless://91d2a2a7-f3ad-498e-9b22-bab57f3900c4@167.172.104.197:8443?security=reality&encryption=none&pbk=IaoBwR5rMCloCntk4gp5Ljs_NC3idM14EH7HL1IZcRk&headerType=none&fp=firefox&spx=%2FqR9caZXIOXvYWfJ&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=ab29fdeaa1e6#By AghaDani
 vless://4b581293-af3a-4658-b9b2-06949626bf86@8.6.112.0:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#By AghaDani
+vless://4b581293-af3a-4658-b9b2-06949626bf86@8.6.112.6:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#By AghaDani
+vless://4b581293-af3a-4658-b9b2-06949626bf86@172.64.149.54:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#By AghaDani
 vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.4.130:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#By AghaDani
 vless://4b581293-af3a-4658-b9b2-06949626bf86@104.18.16.56:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#By AghaDani
 vless://4b581293-af3a-4658-b9b2-06949626bf86@104.17.72.206:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#By AghaDani
@@ -690,7 +692,6 @@ vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&sec
 vless://05eb3e3f-9db4-48c6-8b88-492f69a47f91@84.201.165.28:8081?security=reality&encryption=none&pbk=3WAphwOT3Wwk_hQQNpZQSiGZ33xP8w3zcTJw9hyR6To&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4326#By AghaDani
 vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com¬e=@FreeOnlineVPN#By AghaDani
 vless://0568c7d8-be37-44fa-a740-9fabc3e50981@46.175.150.23:443?security=reality&encryption=none&pbk=Cd77a2MwzD46unl2zeLMK1Eq6UowXcl7lav_EophjG4&headerType=none&fp=chrome&spx=/&type=tcp&sni=dl.google.com&sid=fc9ebedf34#By AghaDani
-vless://91d2a2a7-f3ad-498e-9b22-bab57f3900c4@167.172.104.197:8443?security=reality&encryption=none&pbk=IaoBwR5rMCloCntk4gp5Ljs_NC3idM14EH7HL1IZcRk&headerType=none&fp=firefox&spx=%2FqR9caZXIOXvYWfJ&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=ab29fdeaa1e6#By AghaDani
 vless://3b4bc8b5-4991-4558-91c4-418e752f9707@185.231.181.47:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&headerType=http&host=&path=%2F&security=tls&sni=algorithmmarket.ir&type=tcp#By AghaDani
 vless://d0cfc134-447c-4c84-965a-ff5f827c9016@116.203.60.171:8080?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://0568c7d8-be37-44fa-a740-9fabc3e50981@46.175.150.23:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=dl.google.com&pbk=Cd77a2MwzD46unl2zeLMK1Eq6UowXcl7lav_EophjG4&sid=fc9ebedf34&spx=/#By AghaDani
@@ -797,4 +798,3 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:48697/?type=tcp&secu
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:48697/?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#By AghaDani
 trojan://Du6929ec1f5adbb5db82f3@ip1.hostparsa.ir:443?security=tls&type=xhttp&headerType=none&path=/download&host=vip1.vipdatanetwork.com&mode=auto&extra={#By AghaDani
 hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?insecure=1#By AghaDani
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#By AghaDani
