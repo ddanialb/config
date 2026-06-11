@@ -1,3 +1,5 @@
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.24:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#By AghaDani
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#By AghaDani
 vless://62127868-c841-4f1b-9db7-35b220b0341d@156.241.0.50:52507?encryption=none&type=tcp&security=none#By AghaDani
 vless://510c038f-5deb-4ecd-8743-790e8cb588de@104.17.177.24:443?path=%2Fv2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=curly-meadow-bd5c.advieh44.workers.dev&fp=chrome&type=ws&sni=curly-meadow-bd5c.advieh44.workers.dev#By AghaDani
@@ -796,5 +798,3 @@ vless://1916f3b5-42b3-4a64-a40c-b83f528b1e7b@51.250.104.246:443?flow=xtls-rprx-v
 vless://accc1b01-f960-409c-ba43-7d819226f820@104.17.31.142:2087?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=ftp.singoshop.ir&path=%2F&security=tls&sni=ftp.singoshop.ir&type=ws#By AghaDani
 vless://82fb089e-fb9b-4acf-ac27-feaeece9962c@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#By AghaDani
 vless://1735ca1c-fbab-4fae-95a4-6a2e09bb60b4@37.9.4.224:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-2-1.legendary.ac&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&sid=aa03ec59c9695e91#By AghaDani
-vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#By AghaDani
-vless://88f89a08-6f31-43bf-8884-decdb0082b57@45.89.60.64:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=safari&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#By AghaDani
