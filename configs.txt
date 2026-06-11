@@ -1,3 +1,4 @@
+trojan://Masir_Sefid@83.228.225.220:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#By AghaDani
 vless://a957d0fb-4641-4307-aa38-1f893b1ae987@94.237.115.30:443?security=reality&encryption=none&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcdn-m9-9.cdn.yandex.net#By AghaDani
 vless://datis-vpn@45.130.125.162:8443?encryption=none&type=xhttp&mode=auto&path=/?ed%3D2560&security=tls&fp=chrome&sni=web.catix.ir&alpn=h3,h2#By AghaDani
 trojan://SoftNetConnect@77.110.114.75:443?mode=gun&security=reality&authority=77.110.114.75&pbk=FYiQVTMa4quf2LeyLscmmFN5iqkV85Rn9HdgimvnbSQ&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=42bb1ccc5bde#By AghaDani
@@ -776,7 +777,6 @@ trojan://Masir_Sefid@83.228.225.220:1040?security=reality&pbk=w0XepGv1Hk0gBh1Api
 trojan://nodes-37411c3e@node-de-1.v2sv.top:2083?security=tls&sni=node-de-1.v2sv.top&allowInsecure=1&type=tcp&headerType=none#By AghaDani
 trojan://Masir_Sefid@83.228.225.220:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#By AghaDani
 vless://04ba7642-e5d5-47d6-81f5-58db7bcc4151@node-de-1.v2sv.top:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kraken.com&fp=random&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=b85e293fa1&spx=%2F&type=tcp&headerType=none#By AghaDani
-trojan://Masir_Sefid@83.228.225.220:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#By AghaDani
 trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&allowInsecure=0&sni=b5r.ir#By AghaDani
 vless://985a2a7d-5625-49e9-a5c3-3619f59f8292@gertest2g.nekosocks.com:4443/?type=grpc&encryption=none&flow=&serviceName=grpc-real&sni=gertest2g.nekosocks.com&fp=chrome&security=reality&pbk=P0ceZnf6N49nDZL5UzEIgKv2DwTvxSYZdIujBmNw11s&sid=92739d1b2e8214c1#By AghaDani
