@@ -1,3 +1,5 @@
+vless://e3ceca4e-bf5a-4e7f-968e-e12f7340014f@104.20.7.182:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=Kabir.iranucshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=Kabir.iranucshop.ir#By AghaDani
+ss://Shh-proxy@45.131.5.144:8880?encryption=none&type=ws&host=shhp.akbarjoojeh.shop&path=/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY#By AghaDani
 vless://8da624d0-0403-4f6b-92c5-4b3b08e79344@167.233.61.17:8443?authority=&encryption=none&mode=multi&security=none&serviceName=otoz&type=grpc#By AghaDani
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop:2095?security=reality&encryption=none&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&headerType=none&fp=random&spx=%2F&type=tcp&sni=www.speedtest.net&sid=bc348c28dbc7b9f5#By AghaDani
@@ -7,7 +9,6 @@ vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?security=&encr
 vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?path=%2F&security=tls&encryption=none&insecure=1&host=alesis724.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#By AghaDani
 vless://e3ceca4e-bf5a-4e7f-968e-e12f7340014f@104.19.173.68:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=GGNL.downloadgameiran.ir&fp=chrome&type=ws&allowInsecure=0&sni=GGNL.downloadgameiran.ir#By AghaDani
 vless://Shh-proxy@45.131.5.144:8880?encryption=none&type=ws&host=shhp.akbarjoojeh.shop&path=/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY#By AghaDani
-vless://e3ceca4e-bf5a-4e7f-968e-e12f7340014f@104.20.7.182:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=Kabir.iranucshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=Kabir.iranucshop.ir#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.109.223:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
 trojan://mitivpn@188.114.97.6:443?path=%2F%3Fmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=dash.cloudflare.com.www.95r.ir&fp=qq&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
@@ -797,4 +798,3 @@ vless://a1c11603-aefe-0002-9df3-4856f085811a@spb.connectv.net:443?security=reali
 vless://bb8e629e-2c93-4477-aa80-1a340ded231a@securitytrails.com:443?mode=auto&path=%2Fforall&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fl.download-ir.co.uk&fp=chrome&type=xhttp&allowInsecure=0&sni=fl.download-ir.co.uk#By AghaDani
 vless://53e23b4a-0894-4602-80aa-3c683e11fdaa@185.58.207.216:443?type=xhttp&security=reality&sni=www.google.com&pbk=DZCJX3JXjcHltdj4wh5SRiz2gJ-pBl1cKskyK_KtQxI&fp=random&host=www.google.com&path=%2F#By AghaDani
 vless://7270612b-49f6-4b04-999c-34d8263da767@216.24.57.1:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=picassooo.info#By AghaDani
-trojan://Masir_Sefid@179.237.73.94:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FW8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#By AghaDani
