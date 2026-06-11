@@ -1,3 +1,4 @@
+trojan://mitivpn@188.114.97.6:443?path=%2F%3Fmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=dash.cloudflare.com.www.95r.ir&fp=qq&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
 trojan://qFgh3C8Ei8@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=dh.aananas.ir.&fp=firefox&type=ws&allowInsecure=0&sni=dh.aananas.ir.#By AghaDani
 vless://a859990d-11b9-4d81-6a6d-dc4d294804ab@snapp.ir:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=cdn.daraflo.ir&path=/BetForward&sni=cdn.daraflo.ir&fp=chrome&alpn=h2,h3,http/1.1#By AghaDani
 vless://9f008ebe-ffa6-442a-922a-83d5412db6bf@axs.amirxshot.ir:2095?path=%2Faxs&security=none&encryption=none&host=pl33.sazegostaran-iran.ir&type=ws#By AghaDani
@@ -5,7 +6,6 @@ vless://9f008ebe-ffa6-442a-922a-83d5412db6bf@pc.amirxshot.ir:8443?path=%2Faxs&se
 vless://8a943722-3fd2-499a-b4de-15773707e0b8@mng.artmn.site:2086?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=mng.artmn.site#By AghaDani
 vless://bcefc23a-2a57-4679-a925-e952a859850c@m1vp.meytii.xyz:443?encryption=none&fp=chrome&pbk=Z_5NKNUD4EBXJVxShFilyCgmsoXL7FBFWCV6GTIMQn4&security=reality&sid=432d078f3d12&sni=www.microsoft.com&spx=%2FsBr5BafPsI7rRpD&type=tcp#By AghaDani
 vless://95497965-318f-4c12-81e5-248698de07ed@library2.ketabkhane.dpdns.org:2083?type=ws&encryption=none&path=%2Fapi&host=library2.ketabkhane.dpdns.org&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=library2.ketabkhane.dpdns.org#By AghaDani
-trojan://mitivpn@188.114.97.6:443?path=%2F%3Fmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=dash.cloudflare.com.www.95r.ir&fp=qq&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
 trojan://qFgh3C8Ei8@188.114.97.6:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dh.aananas.ir.&sni=dh.aananas.ir.&fp=firefox&insecure=0&allowInsecure=0#By AghaDani
 vless://0db77245-9294-461c-b034-dbc471787db3@164.92.207.154:443?security=reality&encryption=none&pbk=XsCLhGoQvJTwqdiwHVhZxe113VBE6jwNA65iGzfLBgQ&headerType=&fp=firefox&spx=%2FqCFbSe5mM9gDM3I&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=7e#By AghaDani
 vless://8a943722-3fd2-499a-b4de-15773707e0b8@mng.artmn.site:2086?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=mng.artmn.site&type=tcp#By AghaDani
