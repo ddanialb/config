@@ -1,3 +1,5 @@
+trojan://qFgh3C8Ei8@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=dh.aananas.ir.&fp=firefox&type=ws&allowInsecure=0&sni=dh.aananas.ir.#By AghaDani
+vless://a859990d-11b9-4d81-6a6d-dc4d294804ab@snapp.ir:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=cdn.daraflo.ir&path=/BetForward&sni=cdn.daraflo.ir&fp=chrome&alpn=h2,h3,http/1.1#By AghaDani
 vless://9f008ebe-ffa6-442a-922a-83d5412db6bf@axs.amirxshot.ir:2095?path=%2Faxs&security=none&encryption=none&host=pl33.sazegostaran-iran.ir&type=ws#By AghaDani
 vless://9f008ebe-ffa6-442a-922a-83d5412db6bf@pc.amirxshot.ir:8443?path=%2Faxs&security=tls&encryption=none&insecure=0&host=pc.amirxshot.ir&fp=chrome&type=ws&allowInsecure=0&sni=axs.amirxshot.ir#By AghaDani
 vless://8a943722-3fd2-499a-b4de-15773707e0b8@mng.artmn.site:2086?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=mng.artmn.site#By AghaDani
@@ -796,5 +798,3 @@ vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:8443?encryption=none
 vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F%3Fed%3D80&host=ssd.mojaz-persian-music.ir&sni=ssd.mojaz-persian-music.ir&fp=chrome#By AghaDani
 vless://9f135709-60a1-4a9b-b31c-78d326d8752a@188.114.97.6:443?encryption=none&type=xhttp&security=tls&path=%2Fassignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&host=www.middle.cc.cd&mode=stream-one&sni=www.middle.cc.cd&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&insecure=0&allowInsecure=#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080?type=tcp&headerType=none#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443?type=tcp&headerType=none#By AghaDani
-vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn.cdnjst.org&insecure=1&allowInsecure=1&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120&flow=xtls-rprx-vision#By AghaDani
