@@ -1,5 +1,8 @@
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#By AghaDani
+vless://27c321f9-bee4-49d9-ada5-aaf1a5b3b1da@162.19.181.48:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tEVdXRIm8PEge42nXXzHAsd1-_AoUflc_MzMZHWWa10&security=reality&sid=e193ba67&sni=www.cloudflare.com&spx=%2F5P3xvRQswJrFpAp&type=tcp#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
 vless://a9d54ed4-991e-4ef8-aa36-72166f765871@pg.nexorainnovationhub.ir:2052?path=%2F&security=&encryption=none&host=finland1.lezzaluxa.ir&type=ws#By AghaDani
 vless://efd4039e-3944-4161-21aa-991b936997e1@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#By AghaDani
 vless://a93df7ad-7ebf-4271-8183-31efc390cfe3@62.220.122.178:442?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
@@ -25,7 +28,6 @@ vmess://eyJhZGQiOiAiOTQuMTMwLjE4NC41NyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAi
 vmess://eyJhZGQiOiAiMTcyLjY3LjIzNy4xNzYiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQxN2QyN2ZiLWNiOTMtM2JkOC05YmY3LTcxY2Q5MTMxOTgyMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaGdjZWZvbW4iLCAicG9ydCI6IDIwOTUsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9#By AghaDani
 ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST0@103.130.147.40:1122#By AghaDani
 vless://8165d12c-27da-4276-85d5-e9d5fe656f6a@62.220.122.180:441?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#By AghaDani
 trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#By AghaDani
 trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6%3DVIM@172.237.145.189:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=172.237.145.189#By AghaDani
@@ -33,7 +35,6 @@ vless://a5b51f6e-3637-47c4-ba6b-85e8355b9ad9@203.18.98.248:443?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#By AghaDani
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=v2ngnet.avinfased.workers.dev&fp=chrome&type=ws&sni=v2ngnet.avinfased.workers.dev#By AghaDani
 vless://5ad1c7b6-9c6d-4b30-97d1-2675feb6d4d1@162.19.181.48:443?security=reality&encryption=none&pbk=tEVdXRIm8PEge42nXXzHAsd1-_AoUflc_MzMZHWWa10&headerType=none&fp=chrome&spx=%2F07qJSggy7CdlXs4&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d316#By AghaDani
-vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGTXBrM3FYUjUxTXZJTktjeEotQ003S0FlX3ZnLUJVNA==@login.mrtbkhpointspeed.ir:1080#By AghaDani
 vless://20cbea10-7a6a-43ef-ba32-9d37b9b31d7b@204.168.193.204:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Yh9Yr5uJwErzkxoKOCrohpJCDF5KfYK81amxca9VDXw&security=reality&sid=0eb513242872714e&sni=icloud.com&spx=%2FUz9mpIPdqzzHoWg&type=tcp#By AghaDani
 trojan://humanity@202.37.33.80:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#By AghaDani
@@ -797,4 +798,3 @@ trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&type=ws&sni=w
 vless://20a25a96-61df-4a4f-8424-165fc9cfc84e@172.64.144.162:2096?encryption=none&security=tls&sni=empty-band-d17d.raana2710.workers.dev&type=ws&host=empty-band-d17d.raana2710.workers.dev&path=/#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#By AghaDani
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#By AghaDani
-vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120&sni=cdn.cdnjst.org&spx=/#By AghaDani
