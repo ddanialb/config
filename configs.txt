@@ -1,3 +1,4 @@
+trojan://mitivpn@188.114.97.6:443?path=%2F%3Fmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=dash.cloudflare.com.www.95r.ir&fp=qq&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
 vless://57e090c6-99b4-4035-a284-5b24f635af00@lumora10.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora10.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora10.playon.ir&type=ws#By AghaDani
 vless://a859990d-11b9-4d81-6a6d-dc4d294804ab@snapp.ir:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=cdn.daraflo.ir&path=/BetForward&sni=cdn.daraflo.ir&fp=chrome&alpn=h2,h3,http/1.1#By AghaDani
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@Chatgpt.com:8443?path=%2FV2rayNGSelllBoT---V2rayNGSelllBoT---V2rayNGSelllBoT&security=tls&encryption=none&host=nameless-sunset-62b7.jalalpoi77.workers.dev&fp=chrome&type=ws&sni=nameless-sunset-62b7.jalalpoi77.workers.dev#By AghaDani
@@ -11,7 +12,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 vless://95497965-318f-4c12-81e5-248698de07ed@library2.ketabkhane.dpdns.org:2083?type=ws&encryption=none&path=%2Fapi&host=library2.ketabkhane.dpdns.org&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=library2.ketabkhane.dpdns.org#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#By AghaDani
 vless://e102c20b-cfb4-4cb0-b42c-9a4874f842e1@pg.restaurantnetwork.ir:8080?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=germany2.lezzaluxa.ir#By AghaDani
-trojan://mitivpn@188.114.97.6:443?path=%2F%3Fmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=dash.cloudflare.com.www.95r.ir&fp=qq&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
 vless://e102c20b-cfb4-4cb0-b42c-9a4874f842e1@pg.restaurantnetwork.ir:2052?path=%2F&security=none&encryption=none&host=finland1.lezzaluxa.ir&type=ws#By AghaDani
 trojan://qFgh3C8Ei8@188.114.97.6:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dh.aananas.ir.&sni=dh.aananas.ir.&fp=firefox&insecure=0&allowInsecure=0#By AghaDani
 vless://8a943722-3fd2-499a-b4de-15773707e0b8@mng.artmn.site:2086?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=mng.artmn.site#By AghaDani
