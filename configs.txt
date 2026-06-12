@@ -1,3 +1,4 @@
+vless://1f051461-5940-4359-a34b-ef1de69e8152@188.121.124.137:59311?security=none&encryption=none&headerType=http&type=tcp#By AghaDani
 vless://cbdf9700-12b7-4aeb-be2f-24477e9e7e17@lumora24.playon.ir:2087?path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lumora24.playon.ir&fp=chrome&type=ws&allowInsecure=0&sni=lumora24.playon.ir#By AghaDani
 vless://aae57147-a1b1-432c-96b8-3be221789f04@lumora24.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora24.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora24.playon.ir&type=ws#By AghaDani
 vless://e1f0323b-3bf4-4a97-8b66-1fe035c4e99b@www.arvancloud.ir:8080?encryption=none&host=vip.melotus.ir&path=%2Fwss&security=none&type=ws#By AghaDani
@@ -10,7 +11,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:80
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbSIsImhvc3QiOiIiLCJpZCI6IjE0YjQ5YjBlLTM3YjQtNDkzNi05ZjFiLWIwMDRmYjVhMDcxNyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InhodHRwIiwicGF0aCI6Ii9waHAvYWRtaW4vbG9nL0B2MmJveF92Mi9AdjJib3hfdjIvQHYyYm94X3YyL0B2MmJveF92Mj9lZD0yMDQ4IiwicG9ydCI6Ijg0NDMiLCJwcyI6IkJ5IEFnaGFEYW5pIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiJnRXJ0T3cxLmxPb2xPb2xPb2xPby5jT00iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#By AghaDani
 vless://cb1c797b-72e1-44ef-8f93-b740775056bb@169.40.32.242:8080?path=%2FPath&security=none&encryption=none&host=169.40.32.242&type=ws#By AghaDani
-vless://1f051461-5940-4359-a34b-ef1de69e8152@188.121.124.137:59311?security=none&encryption=none&headerType=http&type=tcp#By AghaDani
 vless://33093274-f50c-475f-a594-199b7541e424@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=cdn-pro4.postshup.ir.&path=/?ed%3D2082&security=none#By AghaDani
 vless://33093274-f50c-475f-a594-199b7541e424@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=cdn-pro2.postshup.ir&path=/?ed%3D2082&security=none#By AghaDani
 vless://33093274-f50c-475f-a594-199b7541e424@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=cdn-pro5.postshup.ir&path=/?ed%3D2082&security=none#By AghaDani
