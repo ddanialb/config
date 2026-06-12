@@ -1,3 +1,5 @@
+trojan://SoftNetConnect@77.110.114.75:2087?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=pnrbo0MG4n719Yt3YhvL_SvV37NOmHm0_vbRnbRxaz0&sid=3e503fccee5701&spx=%2F#By AghaDani
+trojan://SoftNetConnect@77.110.114.75:8443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&sid=78851a413f5033b0&spx=%2F#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLcjh5VHpqdTFlVGJFRE9UWmQzeDZweXdUWWdzQ214TWVqb09IQU9VNjE4PQ@n1.cover20.ir:38760?type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5MjVUd05OOHd5NWE4dXRwa2k2VmRX@95.164.44.12:9348#By AghaDani
@@ -116,8 +118,6 @@ vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?encryption=no
 trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=%2F%3Fmitivpn&host=dash.cloudflare.com.www.95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=qq&insecure=0&allowInsecure=0#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#By AghaDani
 trojan://SoftNetConnect@77.110.114.75:443?type=grpc&security=reality&authority=77.110.114.75&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=FYiQVTMa4quf2LeyLscmmFN5iqkV85Rn9HdgimvnbSQ&sid=42bb1ccc5bde&spx=%2F#By AghaDani
-trojan://SoftNetConnect@77.110.114.75:2087?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=pnrbo0MG4n719Yt3YhvL_SvV37NOmHm0_vbRnbRxaz0&sid=3e503fccee5701&spx=%2F#By AghaDani
-trojan://SoftNetConnect@77.110.114.75:8443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&sid=78851a413f5033b0&spx=%2F#By AghaDani
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#By AghaDani
 vless://6dcca3b0-4a1b-40d0-9bf7-9c0f2c9d45b7@euro.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#By AghaDani
