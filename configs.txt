@@ -1,5 +1,7 @@
-trojan://humanity@141.101.90.101:443?security=tls&type=ws&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&fp=ios&allowInsecure=1#By AghaDani
+vless://9ae5f470-e389-4cf7-8a8b-04df3ab0f66e@ips.list.nonpath.ir:3350?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=ios&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#By AghaDani
 vless://1a5fdfdd-4350-42a8-9bdc-f19877f25de0@xco.xonline.sbs:8443?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=xco.trevor.ir&mode=auto&path=%2FgetFile&security=tls&sni=xco.trevor.ir&type=xhttp&x_padding_bytes=100-1000#By AghaDani
+vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@31.56.188.92:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&header#By AghaDani
+trojan://humanity@141.101.90.101:443?security=tls&type=ws&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&fp=ios&allowInsecure=1#By AghaDani
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#By AghaDani
 ss://bm9uZTpjYmNhYWFiLWFiY2EtYmNhYS1hY2RiLWFjYWNjYmJjYWJiYQ==@127.0.0.1:8080#By AghaDani
 trojan://acbacab-abca-acba-bcad-cbbbccaaacab@127.0.0.1:1080?security=tls&type=tcp#By AghaDani
@@ -796,5 +798,3 @@ vless://831b548d-3749-4485-81bd-03a167fd2832@104.17.147.22:8443?encryption=none&
 vmess://eyJhZGQiOiAiMTA0LjI0LjI1NS4xOTEiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjgyNGM1OGIxLTY1YmEtNDY4MC1hNjA5LTY2M2EwMDBkYmI5MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3NzMTM4ODkiLCAicG9ydCI6IDQ0MywgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=#By AghaDani
 vless://831b548d-3749-4485-81bd-03a167fd2832@soft98dlserver.tehranforush.ir:448?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=soft98dlserver.tehranforush.ir#By AghaDani
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNU16TXhZbVU0WXkwNFlXRmlMVFEwTVdZdE9EVmpaaTFpTnpCbFlqTmtNRGRoWkdR@free.2apzhfa.xyz:31641#By AghaDani
-vless://831b548d-3749-4485-81bd-03a167fd2832@irance.jetping.net:446?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.icloud.com&pbk=qWHcEBXLfY0BGxEExQLofWUWJVo8KI2JEs1H1Fbg0So&sid=7c68b1e9c544bb08#By AghaDani
-vmess://eyJhZGQiOiAiMTA0LjI1LjEwNy4yMDYiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjBhZmI4YjJjLTE0OWEtNDlhOC1lOTBmLWQ3Nzg4NGFjOTIyZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYmx1ZSIsICJwb3J0IjogMjA4MiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=#By AghaDani
