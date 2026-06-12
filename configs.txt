@@ -1,3 +1,4 @@
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=greattehran.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=f53d749fda28cb85.hozheen.ir#By AghaDani
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@139.64.165.144:9101#By AghaDani
 vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?type=ws&host=leecher56.matinheydri.workers.dev&path=/#By AghaDani
@@ -280,7 +281,6 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?security=tls&en
 vless://2e576beb-1f96-455f-95f3-2db7a9a4c2a4@164.92.207.154:443?security=reality&encryption=none&pbk=XsCLhGoQvJTwqdiwHVhZxe113VBE6jwNA65iGzfLBgQ&headerType=&fp=firefox&spx=%2FwV1DzO8JJ6cdM52&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=cd85f71ba9#By AghaDani
 vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#By AghaDani
 vless://a6349c3f-5234-4821-80b4-d99b33f0924d@45.196.224.216:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWR#By AghaDani
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=greattehran.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=f53d749fda28cb85.hozheen.ir#By AghaDani
 trojan://SoftNetConnect@77.110.114.75:443?type=grpc&security=reality&authority=77.110.114.75&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=FYiQVTMa4quf2LeyLscmmFN5iqkV85Rn9HdgimvnbSQ&sid=42bb1ccc5bde&spx=%2F#By AghaDani
 trojan://SoftNetConnect@77.110.114.75:2087?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=pnrbo0MG4n719Yt3YhvL_SvV37NOmHm0_vbRnbRxaz0&sid=3e503fccee5701&spx=%2F#By AghaDani
 trojan://SoftNetConnect@77.110.114.75:8443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&sid=78851a413f5033b0&spx=%2F#By AghaDani
