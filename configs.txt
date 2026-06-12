@@ -1,3 +1,4 @@
+vless://d5631936-8f46-4e0e-b310-29929595b812@37.27.43.54:8080?encryption=none&fp=chrome&pbk=vsyUZDBKtwzDG01nXj8RY2k4qO--pE-XuK3ZClkZ1ws&security=reality&sid=c39a6133&sni=www.sony.com&spx=%2F8KhOqKi9KfnwvTS&type=tcp#By AghaDani
 vless://98731bd6-07ae-4fd0-b05c-26253eea43db@45.85.119.181:2053?mode=auto&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=FREEchanell1.mobilezahra.com.&type=xhttp&sni=FREEchanell1.mobilezahra.com.#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.117.161.38:443#By AghaDani
 vless://57e090c6-99b4-4035-a284-5b24f635af00@lumora10.playon.ir:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=lumora10.playon.ir&path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&sni=lumora10.playon.ir&type=ws#By AghaDani
@@ -797,4 +798,3 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=
 vless://baabcac-aacb-abac-cadb-bcaccaacbabb@127.0.0.1:1080?security=tls&type=tcp#By AghaDani
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvM1pHUTNNRFE1TnkxbFpESmxMVFEzTkdRdE9Ua3pPUzA1TldZM01qY3daak0wWVRJ@free.2weradf.xyz:36143#By AghaDani
 vless://c931f737-cafe-4e4f-998a-a65517941256@85.208.139.98:8444?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Hp6K5hsiPY4_zATgAtef9YTxNGpSkhAHTTo9MUO7fik&security=reality&sid=77e934f68f02ab4c&sni=cdnjs.com&type=tcp#By AghaDani
-vless://33bb6880-03c0-5ada-b3fe-4c5300cbd8b4@89.124.69.82:1310?encryption=none&host=play.google.com&path=%2F%40v2ray_configs_pools&security=none&type=ws#By AghaDani
