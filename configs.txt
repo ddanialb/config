@@ -1,3 +1,9 @@
+vless://3757a383-ca03-4d85-a4f0-5c9602a8949a@webb.gdsrguydsrghj.ir:1010?security=&encryption=none&headerType=http&type=tcp#By AghaDani
+vless://ebb2b9cc-3132-4832-a6eb-f10885126245@ss.iranmta.dpdns.org:666?type=tcp&encryption=none&security=none#By AghaDani
+trojan://SoftNetConnect@77.110.114.75:2087?security=reality&pbk=pnrbo0MG4n719Yt3YhvL_SvV37NOmHm0_vbRnbRxaz0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=3e503fccee5701#By AghaDani
+trojan://SoftNetConnect@77.110.114.75:8443?mode=auto&path=%2F&security=reality&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=78851a413f5033b0#By AghaDani
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#By AghaDani
+vless://ab666046-f0f0-4348-b086-aa7cf45e2098@lumora24.playon.ir:2087?path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lumora24.playon.ir&fp=chrome&type=ws&allowInsecure=0&sni=lumora24.playon.ir#By AghaDani
 vless://3b7950ed-e076-4a51-8df2-222a88689700@45.197.134.24:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d037f6f67cc90016#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJQGFkbWluLmMyLmhhdmlqLmNvOjQ0Mw==#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjM1OjgwODA=#By AghaDani
@@ -86,7 +92,6 @@ vmess://eyJhZGQiOiAiMTAzLjIxLjI0NC4xMjciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjog
 vless://e967f8fd-a7e8-4c32-a3d9-37ec9a404bd1@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#By AghaDani
 ss://YWVzLTI1Ni1nY206WldZek1tSTROVGxqTmpjNU9HWTRNakkyWXpFeU1qSmxabUV6WkRWaQ@37.32.11.233:11132#By AghaDani
 vless://82d47c52-9738-4d40-93a4-220bab575c60@treng.loralden.com:443?mode=gun&security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&type=grpc&serviceName=grpc&sni=treng.loralden.com&sid=ed72a429f0135a3f#By AghaDani
-vless://ab666046-f0f0-4348-b086-aa7cf45e2098@lumora24.playon.ir:2087?path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lumora24.playon.ir&fp=chrome&type=ws&allowInsecure=0&sni=lumora24.playon.ir#By AghaDani
 trojan://mitivpn@188.114.97.6:443?path=%2F%3Fmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#By AghaDani
 trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#By AghaDani
 trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#By AghaDani
@@ -219,9 +224,6 @@ vless://569c4d47-baae-46eb-9685-872866d4a135@91.107.175.52:44728?type=tcp&encryp
 vless://89396baa-96d1-42c7-82d1-f6473bd028b8@138.124.78.146:7070?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://9197f3f3-1b7e-43c7-b689-82b376c5fa60@bot-exit-i4k38s.samanidempire.org:443?type=ws&encryption=none&path=/d1571a25&host=bot-exit-i4k38s.samanidempire.org&security=tls&fp=&alpn=http%2F1.1#By AghaDani
 vless://33093274-f50c-475f-a594-199b7541e424@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=cdn-pro4.postshup.ir.&path=/?ed%3D2082&security=none#By AghaDani
-trojan://SoftNetConnect@77.110.114.75:2087?security=reality&pbk=pnrbo0MG4n719Yt3YhvL_SvV37NOmHm0_vbRnbRxaz0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=3e503fccee5701#By AghaDani
-trojan://SoftNetConnect@77.110.114.75:8443?mode=auto&path=%2F&security=reality&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=78851a413f5033b0#By AghaDani
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#By AghaDani
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&allowIhnsecure=1&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmlunch.com&path=%2Fassignment#By AghaDani
 ss://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=kl.mojaz-persian-music.ir#By AghaDani
 vless://7a89bf7b-f1fa-46d4-a14a-ce643c931442@pxrntcvbyjhdfskmwqlz.kk.noafra.ir:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
