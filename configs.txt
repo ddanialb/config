@@ -1,3 +1,4 @@
+trojan://k23bzoz1zfi9ig9r@xipanel2.khashinet.ir:443?type=tcp&headerType=none&security=none#By AghaDani
 vless://0ad86b56-4b9f-4bf5-898f-c592b25a55d9@5.144.179.33:37928?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://NanoSecurity@www.speedtest.net:2052?security=none&allowInsecure=0&encryption=none&type=ws&host=dl.summercart.net&path=/#By AghaDani
 vless://0ad86b56-4b9f-4bf5-898f-c592b25a55d9@91.107.158.166:37928?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
@@ -797,4 +798,3 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?path=%2Ftsghdws&s
 trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?allowInsecure=1#By AghaDani
 vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.159:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=bazaryabab.global.ssl.fastly.net&path=/&sni=default.ssl.fastly.net&fp=chrome#By AghaDani
 vless://3d191784-762a-454c-8c36-61ae08a00305@del.fattsh8.ir:29113?type=tcp&encryption=none&security=reality&pbk=O022ghAvOsnRm9w68MKbfuyvlwWJsmytJBSj4F2dgkQ&fp=chrome&sni=aws.amazon.com&sid=2641062b76c9&spx=%2F#By AghaDani
-trojan://VPN_WOLFI@188.114.97.6:8443/?type=ws&path=%2FV2NGv_BOT-VPN_WOLFI-V2NGv_BOT-VPN_WOLF-V2NGv_BOT-VPN_WOLF-V2NGv_BOT-VPN_WOLFI&host=bolbols.ir&security=tls&fp=random&alpn=h2%2Chttp%2F1.1&sni=bolbols.ir#By AghaDani
