@@ -1,3 +1,7 @@
+vless://65309b8f-e98d-432e-be20-b9d39a124d86@img.openaether.cn:443?encryption=none&type=ws&security=tls&path=%2F22115%2Fapi&host=api.mmadcoffee.info&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
+vless://65309b8f-e98d-432e-be20-b9d39a124d86@www.jianjimi.cn:443?encryption=none&type=ws&security=tls&path=%2F22115%2Fapi&host=api.mmadcoffee.info&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
+vless://99899fb0-b47f-4eab-ac4f-7fe47c8bdd2c@188.114.97.6:8443?encryption=none&type=xhttp&security=tls&path=%2Fmediaprocessing&host=api.mmad.kdns.fr&mode=auto&sni=sni.mmad.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
+vless://99899fb0-b47f-4eab-ac4f-7fe47c8bdd2c@45.130.125.20:8443?encryption=none&type=xhttp&security=tls&path=%2Fmediaprocessing&host=api.mmad.kdns.fr&mode=auto&sni=sni.mmad.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://603bedb3-aad6-4d75-836f-1b6e412b1c1e@45.130.125.160:2096?security=tls&type=ws&headerType=&path=%2F&host=Batmani.mobilezahra.coM&sni=Batmani.mobilezahra.coM&fp=#By AghaDani
 vless://fe571bf6-1933-474f-baee-80722c08a4b4@138.201.173.163:20352?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://2fbe06dc-1dd6-49d8-ada3-040c13273ffb@104.18.26.90:443?encryption=none&security=tls&sni=ghahve.nikanix.lol&fp=chrome&alpn=http%2F1.1%2Ch3%2Ch2&insecure=0&allowInsecure=0&type=ws&host=ghahve.nikanix.lol&path=%2Fray#By AghaDani
@@ -87,10 +91,6 @@ trojan://SoftNetConnect@77.110.114.75:2087?type=tcp&security=reality&sni=www.yah
 trojan://SoftNetConnect@77.110.114.75:8443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&sid=78851a413f5033b0&spx=%2F#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#By AghaDani
 vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h2&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#By AghaDani
-vless://65309b8f-e98d-432e-be20-b9d39a124d86@img.openaether.cn:443?encryption=none&type=ws&security=tls&path=%2F22115%2Fapi&host=api.mmadcoffee.info&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
-vless://65309b8f-e98d-432e-be20-b9d39a124d86@www.jianjimi.cn:443?encryption=none&type=ws&security=tls&path=%2F22115%2Fapi&host=api.mmadcoffee.info&sni=sni.mmadcoffee.info&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
-vless://99899fb0-b47f-4eab-ac4f-7fe47c8bdd2c@188.114.97.6:8443?encryption=none&type=xhttp&security=tls&path=%2Fmediaprocessing&host=api.mmad.kdns.fr&mode=auto&sni=sni.mmad.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
-vless://99899fb0-b47f-4eab-ac4f-7fe47c8bdd2c@45.130.125.20:8443?encryption=none&type=xhttp&security=tls&path=%2Fmediaprocessing&host=api.mmad.kdns.fr&mode=auto&sni=sni.mmad.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://5966c22e-3da1-438d-4337-ec045389a049@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#By AghaDani
