@@ -1,3 +1,4 @@
+vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#By AghaDani
 vless://060cd76b-72e1-478f-b6c9-8e6d2bdc5517@151.101.109.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:41943?security=tls&sni=az.01.naiun.bilibili.com#By AghaDani
 vless://d5631936-8f46-4e0e-b310-29929595b812@37.27.43.54:2087?encryption=none&fp=chrome&pbk=l2do1SV6YmIWbf5bTRuvOm_WMb32pJpeHpM0OJF9Vig&security=reality&sid=b454661d2be2&sni=www.sony.com&spx=%2F4yvyyEbs041lWyX&type=tcp#By AghaDani
@@ -797,4 +798,3 @@ vless://d78c12c4-6927-40b8-8550-ed9be00334da@2.26.11.198:443?security=reality&en
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://a6349c3f-5234-4821-80b4-d99b33f0924d@45.196.224.93:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ece180c605b5453c#By AghaDani
 vless://64d080fe-adab-486f-9b89-ef4fd2a92ca5@v2ray.moneyshopthebest.ir:44190?path=%2F&security=&encryption=none&host=v2ray.moneyshopthebest.ir&type=ws#By AghaDani
-vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@195.184.247.252:7443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.microsoft.com&fp=chrome&insecure=0&allowInsecure=0&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&flow=xtls-rprx-vision#By AghaDani
