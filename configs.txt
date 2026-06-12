@@ -1,3 +1,5 @@
+vless://042db613-e55d-484d-8641-ae34e5d2bee2@188.114.97.6:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI2.torprospeed.ir&type=xhttp#By AghaDani
+vless://11eab240-5261-4d61-9e00-6834f5ec1e0a@i.nonpath.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vmess://eyJhZGQiOiAiMTcyLjk5LjE5MC41MCIsICJhaWQiOiAwLCAiaG9zdCI6ICIxNzIuOTkuMTkwLjUwIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9#By AghaDani
 vmess://eyJhZGQiOiAiOC4yMjIuMTU5LjI0NSIsICJhaWQiOiAwLCAiaG9zdCI6ICJiZXlvbmRkc3ouY2ZkIiwgImlkIjogIjliNDU2YzJhLWYyYzEtNDVlMS04N2E5LWI3NjI4YjA0YmIyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiA0NDMsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJiZXlvbmRkc3ouY2ZkIn0=#By AghaDani
 vless://c9f6746a-d2ca-4bbe-8b71-235b021b17a9@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#By AghaDani
@@ -9,8 +11,6 @@ trojan://SoftNetConnect@194.5.192.89:8443?security=reality&pbk=5FGOl7H4K-VOCZ48l
 vless://13d3b44b-8e02-4669-88ba-497c8b00365e@216.24.57.6:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=wallweb.hydradllvip.info&fp=chrome&type=ws&allowInsecure=0&sni=wallweb.hydradllvip.info#By AghaDani
 vless://cb1c797b-72e1-44ef-8f93-b740775056bb@169.40.32.242:8080?path=%2FPath&security=&encryption=none&host=169.40.32.242&type=ws#By AghaDani
 vless://fec91266-15e8-49fe-8933-87535051773c@Varzesh3.com:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=Alman.vipphoneshop.ir&path=%2Fws&security=tls&sni=Alman.vipphoneshop.ir&type=ws#By AghaDani
-vless://042db613-e55d-484d-8641-ae34e5d2bee2@188.114.97.6:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI2.torprospeed.ir&type=xhttp#By AghaDani
-vless://11eab240-5261-4d61-9e00-6834f5ec1e0a@i.nonpath.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 trojan://telegram-id-directvpn@3.121.6.227:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://e1f0323b-3bf4-4a97-8b66-1fe035c4e99b@www.arvancloud.ir:8080?path=%2Fwss&security=none&encryption=none&host=vip.melotus.ir&type=ws#By AghaDani
 trojan://telegram-id-privatevpns@3.121.6.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
