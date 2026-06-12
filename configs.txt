@@ -1,3 +1,4 @@
+trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#By AghaDani
 vless://2b127cd7-6117-46c7-8efc-f69dc003b206@45.130.125.158:443?mode=auto&path=%2FsSJ124xs%2Fsd&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=mahsa94.manhamunamkeyeruz.ir&fp=ios&type=xhttp&allowInsecure=0&sni=mahsa94.manhamunamkeyeruz.ir#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#By AghaDani
 trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
@@ -797,4 +798,3 @@ vless://a6349c3f-5234-4821-80b4-d99b33f0924d@45.196.224.216:8443?security=realit
 vless://9bc4a008-bc91-4ec2-aa3d-589584511965@95.85.228.80:443?security=reality&encryption=none&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nid1.hatvpn.org&sid=054602d818379876#By AghaDani
 vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vh.mojaz-persian-music.ir#By AghaDani
 vless://4e92f761-2130-43a9-b079-aaf9086768f3@204.168.193.204:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=icloud.com&fp=firefox&insecure=1&allowInsecure=1&pbk=Yh9Yr5uJwErzkxoKOCrohpJCDF5KfYK81amxca9VDXw&sid=c754&spx=%2FLAMzigQ0jvJ2XNd&flow=xtls-rprx-vision#By AghaDani
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
