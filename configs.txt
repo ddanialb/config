@@ -1,3 +1,4 @@
+vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@45.130.125.160:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=tesdt.arvanabr.xyz&fp=chrome&type=ws&allowInsecure=1&sni=tesdt.arvanabr.xyz#By AghaDani
 vless://0b6c633f-27c9-4ab2-af97-01dc72d2998a@181.214.140.128:17835?encryption=none&security=none&type=tcp#By AghaDani
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.102:443?security=tls&sni=ke.ylks.xyz&type=ws&path=%2Fblue#By AghaDani
 vless://d69e63cf-a858-43bf-862d-d728bea310fe@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=barkatc7.ir.&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8880&fp=chrome&alpn=h2%2Chttp%2F1.1#By AghaDani
@@ -797,4 +798,3 @@ trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws&security=tls&encryption=none&insecure=0&host=greattehran.hozheen.ir&type=ws&allowInsecure=0&sni=07e357aa7e747ca4.hOzHeEn.Ir#By AghaDani
 vless://13633629-c2bc-414c-1fea-f8d2da98f7ce@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#By AghaDani
 vless://55e2771c-5d36-429d-8f9c-e1eb460e1cca@fi.mobileemdad.top:42538?security=&encryption=none&host=fi.mobileemdad.top&headerType=http&type=tcp#By AghaDani
-vless://b49f5b0c-99b2-41a2-a6ff-2719d9bb5c57@Vip29.mongral.ir:443?type=ws&encryption=none&path=%2F&host=general-sins1.mongral.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=general-sins1.mongral.ir#By AghaDani
