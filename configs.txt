@@ -1,3 +1,5 @@
+vless://060cd76b-72e1-478f-b6c9-8e6d2bdc5517@151.101.109.223:443?path=%2F&security=tls&encryption=none&host=bazaryabab.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#By AghaDani
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.183:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://7dd33c4f-003a-4b18-b7f1-dcbd0d48233c@de1.onlinernet.ir:20018?security=&encryption=none&host=status.play.google.com&headerType=http&type=tcp#By AghaDani
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#By AghaDani
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#By AghaDani
@@ -796,5 +798,3 @@ vless://0d6cb8e3-f6f6-4a1e-b734-ea17ac840bfc@159.69.102.5:8844?encryption=none&s
 vless://0d6cb8e3-f6f6-4a1e-b734-ea17ac840bfc@188.114.97.6:8443?encryption=none&security=tls&type=ws&headerType=none&path=%2F%3Fed%3D2048&host=clientc.denizmoda.tr&sni=clientc.denizmoda.tr&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
 vless://2729e584-0d63-4b42-813e-c641b9913c48@www.varzesh3.com:8080?encryption=none&type=ws&path=%2F&host=gr.server2.mizbannimbaha.ir#By AghaDani
 vless://0d6cb8e3-f6f6-4a1e-b734-ea17ac840bfc@159.69.102.5:8841?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=dl.google.com#By AghaDani
-vless://0d6cb8e3-f6f6-4a1e-b734-ea17ac840bfc@themonji.com:65535?encryption=none&security=none&type=tcp&headerType=http&path=%2F#By AghaDani
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&sni=max-gb1.global.ssl.fastly.net#By AghaDani
