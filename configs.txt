@@ -1,3 +1,4 @@
+vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#By AghaDani
 vless://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?security=reality&encryption=none&pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=4806f5b119797c#By AghaDani
 vless://4087ec86-22ce-46a0-b6a4-c5f0a117e9c9@shaparak.arshiashop.org:8080?type=ws&encryption=none&path=%2F&host=&security=none#By AghaDani
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&path=/#By AghaDani
@@ -797,4 +798,3 @@ vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?encryption=no
 vless://306bf0aa-5b36-4803-ebe5-9bdde23be114@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#By AghaDani
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICIxNzIuMjMzLjExNi4zMyIsICJwb3J0IjogIjgwODEiLCAiaWQiOiAiY2NlYTZkNTUtMjMwOS00MDU5LTkzZGMtYTYyY2U3Y2QzZjdjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAiZGl2YXJjZG4uY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjYifQ==#By AghaDani
 vless://2703cda8-5cf4-019d-c4bd-6cf0c2261946@122.8.44.3:993?encryption=none&flow=xtls-rprx-vision&fp=&pbk=UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04&security=reality&sni=dl.google.com&type=tcp#By AghaDani
-vless://aabcabc-caab-abac-cabd-acabcbbaaccb@127.0.0.1:1080?security=tls&type=tcp#By AghaDani
