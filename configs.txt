@@ -1,3 +1,5 @@
+vless://2d998f70-fa42-40c8-8bc3-e5a224c16afd@fhejcbejfjfejfjdijfdj.fars-daxter.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vmess://eyJhZGQiOiAiMTcyLjY0LjE1NC4xNTAiLCAiYWlkIjogMCwgImhvc3QiOiAiY2xhc2g2LnNzci1mcmVlLnh5eiIsICJpZCI6ICI1ZjY0ZmE2NS03YjE0LTQ5YzUtOTU0ZC1hYTE1YzZiZmNhY2QiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsICJwb3J0IjogNDQzLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==#By AghaDani
 vless://7e78692a-2c4c-4be4-bfe6-95526c4197c1@188.114.97.6:443?encryption=none&type=ws&security=tls&path=%2Famin&host=dmx.ferrarikingfr.ir&sni=dmx.ferrarikingfr.ir&fp=firefox&insecure=0&allowInsecure=0#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWGhOeGlqQXZ5S0prbEM4@20.87.212.8:443?type=tcp&headerType=none#By AghaDani
 trojan://rpb9CaeQ6j@188.114.97.6:443?type=ws&security=tls&path=%2Fde&host=Di.AanAnas.Ir.&sni=Di.AanAnas.Ir.&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
@@ -796,5 +798,3 @@ trojan://humanity@45.130.125.96:443?security=tls&sni=www.calmloud.com&fp=chrome&
 trojan://mitivpn@188.114.97.6:443?security=tls&sni=global.fastly.com.mitivpn-a.site&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&path=%2Fed%3Dmitivpn#By AghaDani
 trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#By AghaDani
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#By AghaDani
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.167:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#By AghaDani
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#By AghaDani
