@@ -1,3 +1,4 @@
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?encryption=none&security=tls&sni=octopusss4.com&fp=chrome&type=ws&host=octopusss4.com&path=/tsghdws&packetEncoding=none#By AghaDani
 vless://55e2771c-5d36-429d-8f9c-e1eb460e1cca@fi.mobileemdad.top:42538?security=&encryption=none&host=fi.mobileemdad.top&headerType=http&type=tcp#By AghaDani
 vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.209.102:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ltcher25.potatosubge20.org#By AghaDani
 vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.102.248:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nlcher20.potatosubge20.org#By AghaDani
@@ -797,4 +798,3 @@ vless://93c443a3-9ee3-44f3-ae2b-d93508bb13a8@51.250.24.232:443?flow=xtls-rprx-vi
 vless://94d7eefa-5c27-4c82-b159-6048c351fb9a@144.31.230.169:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GhRS0DArxmmgxh0WYlA1vLu1HrS_1oiFmWRr0dZlPnk&sid=0f4f5970da2af8d7&sni=www.twitch.tv#By AghaDani
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@217.149.25.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#By AghaDani
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.233.47.38:2095?security=reality&sni=www.speedtest.net&type=tcp&fp=random&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&sid=bc348c28dbc7b9f5#By AghaDani
-vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&type=ws&path=%2Fvless#By AghaDani
