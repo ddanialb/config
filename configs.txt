@@ -1,3 +1,6 @@
+vless://85f4cf3a-0f7a-4ec0-8c0c-9164111d69c8@104.248.141.0:2044?type=xhttp&path=%2F&host=&mode=auto&security=none#By AghaDani
+trojan://x87mz9nza0n4uj3v@chatgpt.com:443?mode=packet-up&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22uplinkHTTPMethod%22%3A%22POST%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=newdf.mobailerayan.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=newdf.mobailerayan.ir#By AghaDani
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.164:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.67:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
@@ -248,7 +251,6 @@ vless://ac81eae5-3f36-4832-a4e3-9d1d18180c94@ips.it.mobileemdad.top:42538?securi
 vless://acb44c41-2cf7-4952-bd8f-b99e4d9dc9ff@fr-pro.duckdns.org:8443?encryption=none&type=grpc&security=reality&mode=gun&sni=www.cloudflare.com&fp=chrome&insecure=1&allowInsecure=1&pbk=dpqQiyBUge60ZE4cO4LBWhQPB3BJxpBFq7kU8aV8iF0&sid=99&spx=%2F7VLpBIE0LaaM7Ol#By AghaDani
 vless://1532690d-c0c0-42d5-b7ff-f00799c0b6c1@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=0&host=italyan.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
 vless://1532690d-c0c0-42d5-b7ff-f00799c0b6c1@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=0&host=netheroijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
-vless://85f4cf3a-0f7a-4ec0-8c0c-9164111d69c8@104.248.141.0:2044?type=xhttp&path=%2F&host=&mode=auto&security=none#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#By AghaDani
 vmess://eyJhZGQiOiAibnMyLmtleWdpZnQuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibnMyLmtleWdpZnQuaXIiLCAiaWQiOiAiN2UwNWFmYjctMTBiZS00YmJkLTlmYmUtY2FjODNkZjdkZjI5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwODIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==#By AghaDani
 vless://c1f2ca97-9955-4b88-ae22-b63e57f3839f@88.99.73.167:80?path=%2Fevilcu&security=none&encryption=none&host=its.realreza.ir&type=ws#By AghaDani
@@ -796,5 +798,3 @@ trojan://SoftNetConnect@194.5.192.89:443?type=xhttp&security=reality&path=%2F&mo
 trojan://SoftNetConnect@194.5.192.89:8443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&sid=ca14e14437&spx=%2F#By AghaDani
 vless://ef9d2063-0140-472b-8b17-ba02ba4b4435@104.19.153.236:8443?path=%2F&security=tls&encryption=none&insecure=0&host=kir24.msvpnir1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=kir24.msvpnir1.workers.dev#By AghaDani
 vmess://eyJhZGQiOiJpdC5jb25uZnVsbC5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDdhNDY0M2MtMWI3Mi00MTk5LWI1NGQtODEwZGE4ZDBlNjU3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJCeSBBZ2hhRGFuaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://734d7287-27d5-4ed4-ad86-8639669e0607@172.86.109.206:17121?path=%2F&security=none&encryption=none&host=www.google.com&type=ws#By AghaDani
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
