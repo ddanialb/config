@@ -1,3 +1,4 @@
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&type=ws&path=/assignment#By AghaDani
 trojan://mitivpn@188.114.97.6:443?security=tls&sni=global.fastly.com.mitivpn-a.site&alpn=http%2F1.1&type=ws&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&path=%2Fed%3Dmitivpn#By AghaDani
 trojan://SoftNetConnect@194.5.192.89:2087?security=tls&sni=www.yahoo.com&type=grpc#By AghaDani
 trojan://SoftNetConnect@194.5.192.89:8443?security=tls&sni=www.yahoo.com&type=tcp&headerType=none#By AghaDani
@@ -797,4 +798,3 @@ vless://09f38245-bdbf-456e-b992-d1f44773c96e@speedtestnetggogleyahoo.abczy.ir:44
 vless://103a3eaa-c357-49f5-92b2-7a1d55f4a7dd@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=speedtestnetggogleyahoo.abczy.ir&path=%2F45512%2Fmehdi#By AghaDani
 vless://221ce8b4-17ce-4678-8bf2-5e9f1bd7d55c@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=speedtestnetggogleyahoo.abczy.ir&path=%2F26849%2Fmehdi#By AghaDani
 vless://4359d38b-92f3-4e90-b6f0-3d7657a209c6@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=speedtestnetggogleyahoo.abczy.ir&path=%2F19868%2Fmehdi#By AghaDani
-vless://26a304a4-6b22-4510-a5b7-729115035fe3@speedtestnetggogleyahoo.abczy.ir:443?encryption=none&security=tls&sni=speedtestnetggogleyahoo.abczy.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=speedtestnetggogleyahoo.abczy.ir&path=%2F44387%2Fmehdi#By AghaDani
