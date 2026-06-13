@@ -1,4 +1,11 @@
 vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=&encryption=none&headerType=none&type=tcp#By AghaDani
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#By AghaDani
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#By AghaDani
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop:2096?mode=gun&security=none&encryption=none&type=grpc&serviceName=fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop#By AghaDani
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop:2095?security=reality&encryption=none&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&headerType=none&fp=random&spx=%2F&type=tcp&sni=refersion.com&sid=bc348c28dbc7b9f5#By AghaDani
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop:2095?security=reality&encryption=none&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&headerType=none&fp=random&spx=%2F&type=tcp&sni=www.speedtest.net&sid=bc348c28dbc7b9f5#By AghaDani
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
 vless://a93df7ad-7ebf-4271-8183-31efc390cfe3@62.220.122.178:442?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://82a7f52c-f047-4f8c-b913-3ea1f29bdb38@it-8.flowersred.ru:443?security=reality&encryption=none&pbk=5pj_m0SB8p5ah-Jc7QZrF5iEVeeLyZY8fWM6OZWj5FM&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#By AghaDani
 vless://5c73671a-a773-4d11-8fe8-155c77d18cb1@du.mobileemdad.top:42542?security=&encryption=none&host=du.mobileemdad.top&headerType=http&type=tcp#By AghaDani
@@ -791,10 +798,3 @@ trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&host=www.ig
 trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=1&sni=www.ignitelimit.com#By AghaDani
 trojan://humanity@188.114.96.4:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#By AghaDani
 trojan://humanity@141.193.213.21:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=0#By AghaDani
-trojan://humanity@104.19.229.21:443?path=%2Fassignment%3FL=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#By AghaDani
-trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#By AghaDani
-vless://7c1c080c-ded9-4669-ac8c-f4a9e9a087ac@c.cjclub.ir:8880?type=ws&encryption=none&path=%2F&host=&security=none#By AghaDani
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
-trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#By AghaDani
-vless://03289d40-f73d-4dfc-cecb-83d26f0a1ade@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#By AghaDani
-trojan://Nova-Proxy@8.39.125.191:2083?path=%2F&security=tls&insecure=1&host=spring-queen-a95f.cewon19053.workers.dev&type=ws&allowInsecure=1&sni=spring-queen-a95f.cewon19053.workers.dev#By AghaDani
