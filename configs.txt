@@ -1,3 +1,9 @@
+vless://060cd76b-72e1-478f-b6c9-8e6d2bdc5517@151.101.109.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#By AghaDani
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=google.com&type=ws#By AghaDani
+vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#By AghaDani
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#By AghaDani
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=reality&encryption=none&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=3c#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.149:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#By AghaDani
 vless://d205ae68-0819-473c-b425-6c5947ac2f8d@198.154.93.102:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&security=reality&sid=dd&sni=cars.morro-settings.ru&type=tcp#By AghaDani
 vless://a6349c3f-5234-4821-80b4-d99b33f0924d@45.196.224.93:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=ece180c605b5453c&sni=storage.yandex.net&type=tcp#By AghaDani
@@ -31,7 +37,6 @@ vless://5f1dbabe-be61-42fa-cbde-dc84ce43c638@116.202.96.72:11810?path=%2F193.123
 vless://510c038f-5deb-4ecd-8743-790e8cb588de@108.162.198.121:443?path=%2Fv2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet&security=tls&encryption=none&host=rough-darkness-8ece.moradbey77.workers.dev&fp=chrome&type=ws&sni=rough-darkness-8ece.moradbey77.workers.dev#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#By AghaDani
@@ -114,11 +119,7 @@ vless://1532690d-c0c0-42d5-b7ff-f00799c0b6c1@188.114.97.6:8443?mode=auto&securit
 vless://1532690d-c0c0-42d5-b7ff-f00799c0b6c1@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=germwoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
 vless://1532690d-c0c0-42d5-b7ff-f00799c0b6c1@151.101.109.223:443?path=%2F&security=tls&encryption=none&insecure=0&host=frenchji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
 vless://1532690d-c0c0-42d5-b7ff-f00799c0b6c1@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=Swedenman.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=google.com&type=ws#By AghaDani
 vless://077e09f7-c0c0-4664-be02-7e808057f0bf@62.60.195.195:2087?mode=auto&path=%2F%3Fed%3D2560%2Fv2ray&security=tls&encryption=none&alpn=h2,http/1.1&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&allowinsecure=0&type=xhttp&sni=manserve.komanserver.ir#By AghaDani
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#By AghaDani
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=reality&encryption=none&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=3c#By AghaDani
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#By AghaDani
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#By AghaDani
 vless://5da76c9b-2e7f-46f4-9392-83c651d03a55@169.40.32.127:28688?security=none&encryption=none&headerType=http&type=tcp#By AghaDani
@@ -566,7 +567,6 @@ vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=%2Fws%3F
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@45.85.119.122:2096?path=%2Fws%3Fed&security=tls&encryption=none&insecure=0&host=com.hozheen.ir&type=ws&allowInsecure=0&sni=872ede3847653442.hozheen.ir#By AghaDani
 vless://ac006062-f051-43c6-bd4c-f409285c8635@configtow.yallda.org:443?mode=auto&path=%2Fv2raylink&security=tls&encryption=none&insecure=0&host=www.yallda.com&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.yallda.com#By AghaDani
 vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
-vless://060cd76b-72e1-478f-b6c9-8e6d2bdc5517@151.101.109.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
 vmess://eyJhZGQiOiAiMTA0LjE3LjY5LjE0NiIsICJhaWQiOiAwLCAiaG9zdCI6ICJ1czZyQ1FhY2pHcS5pbml2dHJhay54eXoiLCAiaWQiOiAiZGU4YTZmZDUtOWI3Zi00ZjVjLTk4MDAtYjNmZjU5YmMwZDQ0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92aWRlby9iY3hRcmVzZCIsICJwb3J0IjogODg4MCwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=#By AghaDani
 vless://8269dbfc-fc76-4b5a-91ba-4364915799a9@104.19.16.243:80?path=%2Fvless%23Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=none&encryption=none&host=127.0.0.1.www.sheedtest.com.mrarsha%E8%BB%8A%E7%9A%84%E4%BA%BA.k%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B00.%E6%88%BF%E9%96%93.wonkacapitano.buzz.&type=ws#By AghaDani
 trojan://0cc6b4268dea0ba8@5.44.249.53:3306?security=tls&type=ws&sni=n2.gladns.com&path=/gateway/connect&host=TG.WangCai_1#By AghaDani
