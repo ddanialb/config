@@ -1,3 +1,4 @@
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.87.222:8008#By AghaDani
 trojan://tg-dns68@162.159.152.36:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#By AghaDani
 trojan://abcbcaa-baac-baac-bcda-ccbaabbbacac@127.0.0.1:8080?security=tls&type=tcp#By AghaDani
@@ -797,4 +798,3 @@ vless://TMG_f82d5cde563@147.45.221.254:443?mode=auto&path=%2F8mABA-Y1zu3de&secur
 vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@89.167.80.120:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@193.176.240.129:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=SG11.artarona.ir&sni=SG11.artarona.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
 vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=sdffgh.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#By AghaDani
-vless://22cf9e1d-81bd-4340-ad54-b567b417d89c@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=dnlu2.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#By AghaDani
