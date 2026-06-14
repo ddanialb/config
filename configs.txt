@@ -1,3 +1,9 @@
+vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.99.177:2083?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#By AghaDani
+vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.99.177:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#By AghaDani
+vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.112.220:2096?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#By AghaDani
+vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.112.154:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#By AghaDani
+vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.99.177:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#By AghaDani
+vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.99.177:2087?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#By AghaDani
 vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.38.0:2087?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#By AghaDani
 trojan://SoftNetConnect@130.185.123.26:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.112.154:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#By AghaDani
@@ -7,10 +13,8 @@ vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.99.177:2053?path=%2F&securit
 vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.112.220:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#By AghaDani
 trojan://SoftNetConnect@130.185.123.26:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=%2F#By AghaDani
 vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.38.0:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#By AghaDani
-vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.112.154:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#By AghaDani
 trojan://SoftNetConnect@130.185.123.26:8443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=%2F#By AghaDani
 trojan://8r%3C%5B9%27l6hAO%238ZQi@b138.124.50.47:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram#By AghaDani
-vless://6cb3b9f3-2c17-408b-9aa5-d20b18695a5d@104.17.99.177:2087?path=%2F&security=tls&encryption=none&insecure=0&host=ez-acda8d.ezaccess11c286e.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-acda8d.ezaccess11c286e.workers.dev#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.comb:8443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#By AghaDani
 trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5ab3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443?security=tls#By AghaDani
 vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&encryption=none&pbk=nA87ol2_2BADZHfXhH00wy3fNe4R8TiGG_IQbzWbPnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.linkedin.com&sid=56c96c1d14#By AghaDani
@@ -794,7 +798,3 @@ vless://9ec16323-954c-4b09-aec9-367e18844fa8@channel.t-me-sh4dow-vpn.workers.dev
 trojan://8r%3C%5B9%27l6hAO%238ZQi@84.200.192.87:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram#By AghaDani
 vless://64a28ed6-2238-42d9-8452-b83674f741e5@141.193.213.30:2053?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2053&host=sunny-comet-55.curiocar.com&sni=sunny-comet-55.curiocar.com&fp=edge&alpn=h2%2Chttp%2F1.1&allowInsecure=1#By AghaDani
 vless://396264e4-ff0f-45ad-8779-733073119dbd@cfa.sororain.com:443?type=xhttp&encryption=none&host=usbad.osaip.net&path=%2Fapi%2Fv1%2Fupload&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=0&sni=usbad.osaip.net&mode=auto#By AghaDani
-vless://00000000-0000-4000-8000-000000000000@149.28.138.97:30680?encryption=none&type=ws&path=%2F%40Marisa_kristi&host=6-4duf7t7tz2hxw9v.g43lodfymjzfsy1qm9w4pgjyekeipu8ifuld8knorbjz3vy9.workers.dev&security=tls&sni=6-4duf7t7tz2hxw9v.g43lodfymjzfsy1qm9w4pgjyekeipu8ifuld8knorbjz3vy9.workers.dev&fp=chrome#By AghaDani
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTExNTg0NS1jYzIzLTQwODItOTA1ZS04NjlmZTIxMmRmZWY=@account-center.zzdy25.com:38777#By AghaDani
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#By AghaDani
