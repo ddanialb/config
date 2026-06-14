@@ -1,3 +1,5 @@
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#By AghaDani
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@hamrahaval.soft26.ir:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&spx=%2Fil4uDVFQ4uJ9mPb&type=xhttp&sni=www.yahoo.com&sid=6f3192#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
 vless://46834b61-a623-42cd-9171-a94572ffe56c@79.133.126.199:31009?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://2f5244cb-d56d-4a0d-34e2-8acf2d1ebed5@snapp.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=dns.xelivo.ir&path=%2FBetForward&security=tls&sni=dns.xelivo.ir&type=ws#By AghaDani
@@ -796,5 +798,3 @@ vless://53146906-5cb5-4332-ac19-d4822762b1cd@cell.connectingissues.ir:80?mode=au
 trojan://4uClHoLEl4RZgxr0Oup0SQ@2.56.202.65:443?type=ws&host=app.marrinamm.net&path=/wp-admin.php?ed%3D2560&security=tls&sni=app.marrinamm.net&alpn=http/1.1&fp=firefox&allowInsecure=0#By AghaDani
 vless://36ba1e32-089f-49b8-b7d7-5fe48f6d7dc7@199.232.78.159:80?type=xhttp&encryption=none&path=%2Fxhttp&host=simorghbot.global.ssl.fastly.net&mode=auto&x_padding_bytes=0&extra=%7B%22xPaddingBytes%22%3A%220%22%7D&security=none#By AghaDani
 vless://673a10ba-99dd-4074-93bf-e78a06ad3c85@188.213.198.238:7080?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://673a10ba-99dd-4074-93bf-e78a06ad3c85@188.213.198.238:8090?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://%40V2ConfigPro@216.24.57.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=youknowali.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=youknowali.dpdns.org#By AghaDani
