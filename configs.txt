@@ -1,3 +1,8 @@
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.5:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=1&host=octopusss4.com&type=ws&allowInsecure=1&sni=octopusss4.com#By AghaDani
+vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@91.107.147.56:8443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.106:8443?security=tls&encryption=none&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&sni=cdn9-33.vk-cdnvideo.com#By AghaDani
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#By AghaDani
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbSIsImhvc3QiOiIiLCJpZCI6IjFlMTJlNjIwLWM4ZWItNDc3YS04NmQ0LWNiMWQ5N2M4ZTZmZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InhodHRwIiwicGF0aCI6Ii9waHAvYWRtaW4vbG9nL0B2MmJveF92Mi9AdjJib3hfdjIvQHYyYm94X3YyL0B2MmJveF92Mj9lZD0yMDQ4IiwicG9ydCI6Ijg0NDMiLCJwcyI6IkJ5IEFnaGFEYW5pIiwic2N5IjoiYXV0byIsInNuaSI6ImdFcnRPdzEubE9vbE9vbE9vbE9vLmNPTSIsInRscyI6InRscyIsInR5cGUiOiJwYWNrZXQtdXAiLCJ2IjoiMiJ9
 vless://ad00e861-4e85-464b-95a7-dca95e7fbfd9@77.237.73.153:443?encryption=none&security=none&type=tcp#By AghaDani
 vless://8fbf1009-9003-4888-b4e3-5d5517bf1d57@p.get.cc.cd:8080?encryption=none&host=play.google.com&path=%2F&security=none&type=httpupgrade#By AghaDani
@@ -290,7 +295,6 @@ vless://2f1863a4-32fa-4d7c-807c-e960e3668975@37.152.186.192:2082?path=%2F&securi
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@89.167.80.120:8443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@194.182.77.110:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@45.131.4.246:2087?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=IGVsgsg.cdnpros.ir&fp=chrome&type=ws&allowInsecure=0&sni=IGVsgsg.cdnpros.ir#By AghaDani
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@91.107.147.56:8443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.166.66:4043?security=reality&encryption=none&pbk=ymlfKdtlbiHM7nfc15dfg_bnv0tnyd3GZR06Gz5W6R4&headerType=&fp=random&spx=%2FsIGtMxONSuR6ENa&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=c0c541f3#By AghaDani
 vless://4ca15f10-3fc0-4a45-807c-2d45b23c3c84@185.143.232.18:80?path=%2Fpathhhh&security=&encryption=none&host=22324.44070.ir&type=ws#By AghaDani
 vless://4ca15f10-3fc0-4a45-807c-2d45b23c3c84@185.143.232.17:80?path=%2Fpathhhh&security=&encryption=none&host=22324.44070.ir&type=ws#By AghaDani
@@ -794,7 +798,3 @@ vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@89.167.80.120:8443?encryption=none&
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@80.211.135.85:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@194.182.77.110:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@91.107.147.56:8443?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@88.216.67.230:2083?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=Arm2.downloadgameiran.ir&sni=Arm2.downloadgameiran.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@88.216.67.230:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=IGVsgsg.iraniranshopdashnoard.ir&mode=auto&sni=IGVsgsg.iraniranshopdashnoard.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#By AghaDani
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@88.216.67.230:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=Rabir.iranucshop.ir&sni=Rabir.iranucshop.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@45.131.4.246:2087?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=IGVsgsg.cdnpros.ir&sni=IGVsgsg.cdnpros.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
