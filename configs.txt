@@ -1,3 +1,6 @@
+vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#By AghaDani
+vless://f894003f-2185-4906-bb3f-a0dc0ee4af0a@172.66.155.84:443?encryption=none&type=xhttp&security=tls&path=%2F%3Fed%3D2560%2Fv2ray&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=nl.studio-chavosh.ir&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0#By AghaDani
+vless://ce846a9a-cfd2-4086-b484-caf1f6e4503e@www.speedtest.net:80?mode=packet-up&path=%2F&security=none&encryption=none&host=xn--ciqw7gu0bc2o9kjszc247i.reza-barfi.xyz.&type=xhttp#By AghaDani
 vless://f71ecbed-d37a-78d6-3875-5f505c958d0c@66.33.23.75:443?encryption=none&security=tls&sni=subgift-production.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=subgift-production.up.railway.app&path=%2Fws%2Ff71ecbed-d37a-78d6-3875-5f505c958d0c#By AghaDani
 vless://50931f69-737d-4830-9e47-f5a64ae2b1f2@198.169.2.1:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=night.subgift.xyz&path=%2Fsubgift&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#By AghaDani
 vless://f71ecbed-d37a-78d6-3875-5f505c958d0c@66.33.23.63:443?encryption=none&security=tls&sni=subgift-production.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=subgift-production.up.railway.app&path=%2Fws%2Ff71ecbed-d37a-78d6-3875-5f505c958d0c#By AghaDani
@@ -16,9 +19,7 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.18:8443?security=tls&enc
 vless://11cd9b14-7128-4887-acac-2ab549d26664@77.73.233.129:46024?type=ws&encryption=none&path=%2Ftest&host=play.google.com&security=none#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0#By AghaDani
 trojan://humanity@www.multiplydose.com:443?security=tls&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#By AghaDani
-vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
-vless://f894003f-2185-4906-bb3f-a0dc0ee4af0a@172.66.155.84:443?encryption=none&type=xhttp&security=tls&path=%2F%3Fed%3D2560%2Fv2ray&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=nl.studio-chavosh.ir&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&insecure=0&host=%40ProxyVPN11&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://3b0d0482-187d-4f9d-a448-f99c41eec1ea@91.107.166.66:4043?security=reality&encryption=none&pbk=ymlfKdtlbiHM7nfc15dfg_bnv0tnyd3GZR06Gz5W6R4&headerType=none&fp=chrome&spx=%2FrkUO2l8YDWFCnk3&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=9aca3d#By AghaDani
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#By AghaDani
@@ -797,4 +798,3 @@ vless://efe57eed-df5e-405e-92d7-f89c21d5d1a2@database.horluma.ir:42268?security=
 vless://efe57eed-df5e-405e-92d7-f89c21d5d1a2@cd2.phoneshop98.ir:2053?path=%2Fshop&security=tls&encryption=none&host=login.epiconline.ir&type=ws&sni=login.epiconline.ir#By AghaDani
 vless://efe57eed-df5e-405e-92d7-f89c21d5d1a2@cd2.phoneshop98.ir:2087?path=%2Fshop&security=tls&encryption=none&host=html.epiconline.ir&type=ws&sni=html.epiconline.ir#By AghaDani
 vless://efe57eed-df5e-405e-92d7-f89c21d5d1a2@error.horluma.ir:42268?security=none&encryption=none&type=httpupgrade#By AghaDani
-vless://efe57eed-df5e-405e-92d7-f89c21d5d1a2@cd2.phoneshop98.ir:2083?path=%2Fshop&security=tls&encryption=none&host=py.epiconline.ir&type=ws&sni=py.epiconline.ir#By AghaDani
