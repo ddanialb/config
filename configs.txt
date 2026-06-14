@@ -1,3 +1,5 @@
+trojan://mitivpn@188.42.88.92:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=d.gamingdll.ir&sni=gamingdll.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
+trojan://mitivpn@188.42.88.92:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=d.gamingdll.ir&sni=d.gamingdll.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=greb.loralden.com&sid=3620820fe66d6731#By AghaDani
 vless://708e7929-a262-4fb9-b09d-e70e2bc84b7b@gamefictoinspeed.info:8443?mode=stream-one&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=moback2.notrogame.com&fp=chrome#By AghaDani
 vless://376c5245-c048-466d-bbc3-d7cc7d211084@31.184.244.103:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=-HEcgWiHU8YiN6fCI9xd1_1Cr63SOoKlbH6G13VKGlg&security=reality&sid=f16c652e4f1ef0&sni=icloud.com&spx=%2FbRpgaQkFTxbrsSS&type=tcp#By AghaDani
@@ -270,8 +272,6 @@ vless://c8c77e5e-b217-4f4b-9933-1845bcf4152b@37.140.242.53:443?security=reality&
 vless://7e224f81-6bb0-4e43-8b08-acf6b124e589@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.147.24:50099#By AghaDani
 vless://bc23e569-a9d3-4079-cd35-4c60ee060c3e@47.250.195.25:19108?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-trojan://mitivpn@188.42.88.92:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=d.gamingdll.ir&sni=gamingdll.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
-trojan://mitivpn@188.42.88.92:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=d.gamingdll.ir&sni=d.gamingdll.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&security=none&type=ws&path=%2F#By AghaDani
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.15.137:8080?security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#By AghaDani
 vless://b5b09cf7-78cc-4db1-9d18-476e92878e08@45.194.10.93:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#By AghaDani
