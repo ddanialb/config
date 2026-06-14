@@ -1,3 +1,4 @@
+vless://ad00e861-4e85-464b-95a7-dca95e7fbfd9@77.237.73.153:443?encryption=none&security=none&type=tcp#By AghaDani
 vless://8fbf1009-9003-4888-b4e3-5d5517bf1d57@p.get.cc.cd:8080?encryption=none&host=play.google.com&path=%2F&security=none&type=httpupgrade#By AghaDani
 vless://9ddef725-f94a-4153-9c01-a6dc61061d58@Rofflckek.dadashinet3223.shop:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://ba3f4ae9-5669-430e-ba1c-951b269df6f9@109.207.169.184:35293?encryption=none&security=none&type=tcp#By AghaDani
@@ -191,7 +192,6 @@ vless://34cabb99-547e-4736-a538-f99135b52cc5@104.16.7.70:2053?encryption=none&se
 vless://bb349889-c3d5-4043-810e-22c215713161@89.169.35.222:53051?security=none&type=tcp#By AghaDani
 vless://34cabb99-547e-4736-a538-f99135b52cc5@104.16.7.70:2053?encryption=none&security=tls&type=ws&headerType=none&host=g3cl.kneti.ir&sni=g3cl.kneti.ir&fp=chrome#By AghaDani
 trojan://telegram-id-directvpn@3.69.162.50:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#By AghaDani
-vless://ad00e861-4e85-464b-95a7-dca95e7fbfd9@77.237.73.153:443?encryption=none&security=none&type=tcp#By AghaDani
 vless://89dd47b1-5677-44e6-85fc-7e52d4a2addc@109.205.63.187:443?security=reality&encryption=none&pbk=_1Z829fxl3oG_04DtAWpNtPbnwu0Y4n8C7bIwgCi8ww&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl-rh-modx.webedg.net#By AghaDani
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
