@@ -1,3 +1,5 @@
+trojan://96088230-67bd-11f1-a421-1239d0255272@soft98.ir:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy#By AghaDani
+vless://0c375c23-9fad-4f94-b033-f8811da23695@dota2fa.ir:26414?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://3119ae73-0386-4b9e-91a0-d69e9ebee3a6@199.232.78.159:80?mode=auto&path=%2Fxhttp&security=&encryption=none&host=simorghbot.global.ssl.fastly.net&type=xhttp#By AghaDani
 vless://ac81eae5-3f36-4832-a4e3-9d1d18180c94@ips.it.mobileemdad.top:42538?security=&encryption=none&host=ips.it.mobileemdad.top&headerType=http&type=tcp#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.53:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
@@ -34,7 +36,6 @@ vless://ccdce320-7eef-4815-8edb-c599987c2279@5.254.14.169:443?security=reality&e
 vless://98acbe44-1b56-4ac1-a5a4-3472bc694b57@172.66.171.37:443?encryption=none&security=tls&sni=odd-paper-a735.simorq19.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=odd-paper-a735.simorq19.workers.dev&path=%2Fsync#By AghaDani
 vless://6f840c92-69f2-cbff-91e7-504f75008262@amirnovas.dpdns.org:443?encryption=none&security=tls&sni=amirnovas.dpdns.org&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=amirnovas.dpdns.org&path=%2Fws%2F6f840c92-69f2-cbff-91e7-504f75008262#By AghaDani
 vless://9c10d8b0-e1fb-48d5-af5d-03ad736f37bb@188.114.97.6:2086?path=%2FeyJqdW5rIjoiMENyWGlPUjVmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODcuMTIwLjE2Ni4xNCJdfQ&security=none&encryption=none&host=snowy-fire-7369.mmdiborobav.workers.dev&type=ws#By AghaDani
-trojan://96088230-67bd-11f1-a421-1239d0255272@soft98.ir:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy#By AghaDani
 vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=Cdn8-pro.postshup.ir.&path=/?ed%3D2082&security=none#By AghaDani
 vless://35227621-c75d-59b3-9a7a-eed57d290bf6@45.85.118.100:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=frosty-waterfall-953e.voxelvoid66.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=frosty-waterfall-953e.voxelvoid66.workers.dev#By AghaDani
 vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=cdn-pro3.postshup.ir&type=httpupgrade#By AghaDani
@@ -44,7 +45,6 @@ vless://080888a9-fdea-4574-8409-6193b8d39b9f@188.114.97.6:443?path=%2Fwatson&sec
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@Chatgpt.com:8443?path=%2FV2rayNGSelllBoT---V2rayNGSelllBoT---V2rayNGSelllBoT&security=tls&encryption=none&host=nameless-sunset-62b7.jalalpoi77.workers.dev&fp=chrome&type=ws&sni=nameless-sunset-62b7.jalalpoi77.workers.dev#By AghaDani
 vless://76e90bfa-4851-438d-8a58-04b84a264039@xco.xonline.sbs:8443?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=xco.trevor.ir&mode=auto&path=%2FgetFile&security=tls&sni=xco.trevor.ir&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://3abddd98-1402-4352-b87c-ce8340d33b68@fi.mobileemdad.top:42538?type=tcp&headerType=http&host=fi.mobileemdad.top&path=/&security=none#By AghaDani
-vless://0c375c23-9fad-4f94-b033-f8811da23695@dota2fa.ir:26414?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#By AghaDani
 vless://e966d5c7-d78b-475d-b53d-cf13e5acaef5@188.114.97.6:8443?mode=auto&path=%2FTelegram%40MGv2rayOfficial-Telegram%40MGv2rayOfficial-Telegram%40MGv2rayOfficial-Telegram%40MGv2rayOfficial-Telegram%40MGv2rayOfficial-Telegram%40MGv2rayOfficial-Telegram%40MGv2rayOfficial%3Fed%3D1024&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=api.mgvip.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=api.mgvip.ir#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#By AghaDani
