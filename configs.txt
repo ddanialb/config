@@ -1,3 +1,5 @@
+vless://ad00e861-4e85-464b-95a7-dca95e7fbfd9@77.237.73.153:443?encryption=none&security=none&type=tcp#By AghaDani
+vless://21cca0e5-ad76-40fb-a5ee-5cea6531be11@g22.vitavip5.online:8880?path=%2Fapi%2Fupdate&security=none&encryption=none&host=g22.vitavip5.online&type=ws#By AghaDani
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
 vless://87348681-0a78-4ae7-48fd-1c195d702eb9@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#By AghaDani
 vless://3b2561b1-4bad-2043-cfbe-74adf706b3be@49.13.64.206:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev#By AghaDani
@@ -41,7 +43,6 @@ vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@88.216.67.230:2083?encryption=none&
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@151.101.109.223:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=DEYXX.global.ssl.fastly.net&mode=auto&sni=biography.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#By AghaDani
 vless://9733a1d0-b320-464d-a555-bb414347dd5e@snapp.ir:2086?type=ws&encryption=none&path=&host=azh.behchain.ir&security=none#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#By AghaDani
-vless://ad00e861-4e85-464b-95a7-dca95e7fbfd9@77.237.73.153:443?encryption=none&security=none&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#By AghaDani
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@188.114.97.6:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=Dnlu2.iraniranshopdashnoard.ir&mode=auto&sni=Dnlu2.iraniranshopdashnoard.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#By AghaDani
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@91.107.147.56:8443?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
@@ -797,4 +798,3 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ZlJ3ZHJlTGFCT0d3VXpDYVdtdklO@195.93.253.240:14130#By AghaDani
 vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?security=reality&encryption=none&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=d13ddfca12760d03#By AghaDani
 vless://6346c5ee-6113-4065-bdbd-a587d52bf4de@snapp.ir:443?encryption=none&security=tls&sni=majidlog.iranhony.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=majidlog.iranhony.ir&path=%2F#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.149:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#By AghaDani
