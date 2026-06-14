@@ -1,3 +1,5 @@
+vless://1f7bc177-17d0-4d8e-b906-7e3303ae6399@199.195.254.136:32894?type=ws&encryption=none&security=none&host=199.195.254.136&path=/ws#By AghaDani
+trojan://mitivpn@188.42.88.92:443?type=ws&security=tls&path=%2Fed%3Dmitivpn%2Findex.php&host=gamingdll.ir&sni=gamingdll.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 trojan://mitivpn@104.19.229.21:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=gamingdll.ir&sni=gamingdll.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 trojan://mitivpn@27.50.48.49:443?type=ws&security=tls&path=%2Findex.html%2Fed%3Dmitivpn&host=gamingdll.ir&sni=gamingdll.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 trojan://mitivpn@104.16.72.70:443?type=ws&security=tls&path=%2Findex.php%2Fed%3Dmitivpn&host=gamingdll.ir&sni=gamingdll.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
@@ -796,5 +798,3 @@ vless://b4a10cb3-9835-4027-a5d5-9404ec7b1e4e@219.76.13.183:443?encryption=none&s
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.186.212.131:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram#By AghaDani
 vless://00000000-0000-4000-8000-000000000000@43.165.189.62:55309?encryption=none&type=ws&path=%2F%40Marisa_kristi&host=6-4duf7t7tz2hxw9v.g43lodfymjzfsy1qm9w4pgjyekeipu8ifuld8knorbjz3vy9.workers.dev&security=tls&sni=6-4duf7t7tz2hxw9v.g43lodfymjzfsy1qm9w4pgjyekeipu8ifuld8knorbjz3vy9.workers.dev&fp=chrome#By AghaDani
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#By AghaDani
-vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#By AghaDani
-trojan://8r%3C%5B9%27l6hAO%238ZQi@87.251.16.237:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram+@WangCai2&Host=Koma-YT.PAGeS.Dev#By AghaDani
