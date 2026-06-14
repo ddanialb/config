@@ -1,3 +1,4 @@
+trojan://66d339d0-6844-11f1-ba30-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy#By AghaDani
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICJzbmFwcC5pciIsICJwb3J0IjogODAsICJpZCI6ICI5YWYyYzlmNi1jMzc4LTQ2OTMtOGEyNC1iZjdkNmFhZDE0YjMiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInRscyI6ICJub25lIiwgInBhdGgiOiAiL3N3YWciLCAiaG9zdCI6ICJ2aXAyLnN3YWc0ZXZlci5pciJ9#By AghaDani
 vless://7d7d4795-0205-4861-9ea7-e3303d16d411#By AghaDani
 vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.16.150.228:2096?path=%2Fproxyip%253D159.60.146.82%252C159.60.146.81&security=tls&encryption=none&host=cfoo-n0d.pages.dev&type=ws&sni=cfoo-n0d.pages.dev#By AghaDani
@@ -92,7 +93,6 @@ vmess://eyJhZGQiOiAiMTQxLjEwMS4xMjIuMTkwIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6
 trojan://humanity@45.130.125.96:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
 trojan://humanity@45.130.125.96:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#By AghaDani
 trojan://8e107680-6844-11f1-a5dc-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy#By AghaDani
-trojan://66d339d0-6844-11f1-ba30-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy#By AghaDani
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tls&sni=kr1.sanfen001.pics#By AghaDani
 trojan://8800c518-e68a-4441-a45c-cd67855784c8@jp2.sanfen001.pics:443?security=tls&sni=jp1.sanfen001.pics#By AghaDani
 trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443?security=tls#By AghaDani
