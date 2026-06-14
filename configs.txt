@@ -1,3 +1,4 @@
+vless://ad00e861-4e85-464b-95a7-dca95e7fbfd9@77.237.73.153:443?encryption=none&security=none&type=tcp#By AghaDani
 vless://97aa3096-c64d-4e97-7d0c-0c0f6770afb5@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#By AghaDani
 vless://26f2e233-0511-428f-9e42-63d665bc044d@169.40.32.51:8080?security=none&encryption=none&host=chatgpt.com&headerType=http&type=tcp#By AghaDani
 vless://d83a5316-98dd-4084-552f-ae358180aec9@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#By AghaDani
@@ -88,7 +89,6 @@ trojan://humanity@45.130.125.96:443?path=%2Fassignment&security=tls&alpn=http%2F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#By AghaDani
 vless://7096fbd7-decc-43e4-6fc0-040e13bb1502@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#By AghaDani
 vless://2f1863a4-32fa-4d7c-807c-e960e3668975@37.152.186.192:2082?path=%2F&security=&encryption=none&type=ws#By AghaDani
-vless://ad00e861-4e85-464b-95a7-dca95e7fbfd9@77.237.73.153:443?encryption=none&security=none&type=tcp#By AghaDani
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@89.167.80.120:8443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@194.182.77.110:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@45.131.4.246:2087?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=IGVsgsg.cdnpros.ir&fp=chrome&type=ws&allowInsecure=0&sni=IGVsgsg.cdnpros.ir#By AghaDani
