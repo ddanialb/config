@@ -1,3 +1,4 @@
+trojan://humanity@104.18.13.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
 vless://7ddb01ec-279c-49e3-bda1-86155ff14046@77.73.233.129:13237?path=%2Ftest&security=none&encryption=none&host=play.google.com&type=ws#By AghaDani
 vless://510c038f-5deb-4ecd-8743-790e8cb588de@104.17.177.24:443?path=%2Fv2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=curly-meadow-bd5c.advieh44.workers.dev&fp=chrome&type=ws&sni=curly-meadow-bd5c.advieh44.workers.dev#By AghaDani
 vless://b99cf749-28b8-4f72-ac8b-ff146ef1238b@176.100.36.36:443?security=reality&encryption=none&echfq=none&pbk=_aKZTKJtNUD3IRWX6W_MIVWTX8sclese0-3HeklMin0&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.github.com&sid=727ff6c8#By AghaDani
@@ -797,4 +798,3 @@ vless://34cabb99-547e-4736-a538-f99135b52cc5@104.16.7.70:2053?encryption=none&se
 vless://bb349889-c3d5-4043-810e-22c215713161@89.169.35.222:53051?security=none&type=tcp#By AghaDani
 vless://34cabb99-547e-4736-a538-f99135b52cc5@104.16.7.70:2053?encryption=none&security=tls&type=ws&headerType=none&host=g3cl.kneti.ir&sni=g3cl.kneti.ir&fp=chrome#By AghaDani
 trojan://telegram-id-directvpn@3.69.162.50:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#By AghaDani
-vless://89dd47b1-5677-44e6-85fc-7e52d4a2addc@109.205.63.187:443?security=reality&encryption=none&pbk=_1Z829fxl3oG_04DtAWpNtPbnwu0Y4n8C7bIwgCi8ww&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl-rh-modx.webedg.net#By AghaDani
