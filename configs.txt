@@ -1,3 +1,4 @@
+trojan://humanity@130.61.50.75:6443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calm#By AghaDani
 vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@cell.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@mci.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.67.74.10:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#By AghaDani
@@ -19,7 +20,6 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?security=none&
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#By AghaDani
-trojan://humanity@130.61.50.75:6443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calm#By AghaDani
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
 vless://aeef8eee-5206-4d24-84e6-0a80687f758d@tr.tehranionliine.ir:80?path=%2F&security=&encryption=none&type=ws#By AghaDani
 vless://807ef1eb-c243-4a3a-9583-af6aabda20a5@abr.centralnet.cv:2083?security=none&allowInsecure=0&encryption=none&type=ws&path=/#By AghaDani
