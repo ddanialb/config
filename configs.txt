@@ -1,3 +1,5 @@
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
+trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=jxjdvskcbdhoaofbdoeteocbskdvd#By AghaDani
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.53:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xf.ylks.xyz#By AghaDani
 trojan://SoftNetConnect@130.185.123.26:8443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=%2F#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreXdOS0xPbEFha21nUnhhOXhxdkhV@141.98.169.248:25757#By AghaDani
@@ -19,7 +21,6 @@ trojan://humanity@104.16.174.117:443?sni=www.ignitelimit.com#By AghaDani
 vmess://eyJhZGQiOiAiNTcuMTI5LjU5LjIwMiIsICJhaWQiOiAwLCAiaG9zdCI6ICJmYXBlbmcub3JnIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiA0NDMsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJmYXBlbmcub3JnIn0=#By AghaDani
 vmess://eyJhZGQiOiAiOC4yMTguODYuMjUwIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI3MjM1NmJmNy00ODdiLTQyYzAtYTdmMi04NDUxMzZiMzM1MDMiLCAibmV0IjogImh0dHAiLCAicGF0aCI6ICIiLCAicG9ydCI6IDIyMzYyLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiOC4yMTguODYuMjUwIn0=#By AghaDani
 vless://aacbbac-acab-acba-acdb-abcbcbccabaa@127.0.0.1:8080?security=tls&type=tcp#By AghaDani
-trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=jxjdvskcbdhoaofbdoeteocbskdvd#By AghaDani
 vless://d6f8f540-5dbf-4f16-8e3e-37697cf7eb6d@3.67.85.74:333?mode=stream-one&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=KyB5n_bhNTO6mJFR3NaxNVkk01-J7phohSBm91WvQgw&fp=randomized&spx=%2FCShqC8noJqzPPfE&type=xhttp&sni=www.python.org&sid=c282a2#By AghaDani
 trojan://mitivpn@188.114.97.202:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=d.gamingdll.ir&path=%2Fed%3Dmitivpn#By AghaDani
 trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#By AghaDani
@@ -797,4 +798,3 @@ trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&insecu
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.68:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#By AghaDani
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn7-39.vk-cdnvideo.com&type=tcp#By AghaDani
