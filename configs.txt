@@ -1,12 +1,14 @@
+trojan://mitivpn@188.42.88.92:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=d.gamingdll.ir&sni=gamingdll.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
+trojan://mitivpn@188.42.88.92:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=d.gamingdll.ir&sni=d.gamingdll.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
+vless://708e7929-a262-4fb9-b09d-e70e2bc84b7b@gamefictoinspeed.info:8443?mode=stream-one&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=moback2.notrogame.com&fp=chrome#By AghaDani
+vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@45.80.108.216:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#By AghaDani
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#By AghaDani
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.15.137:8080?security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#By AghaDani
 vless://de38fbe2-199a-4189-988f-a98a12b5debe@104.18.154.87:443?mode=packet-up&path=%2Fde&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=de.paarsa.info&fp=chrome&type=xhttp&allowInsecure=0&sni=de.paarsa.info#By AghaDani
 vless://de38fbe2-199a-4189-988f-a98a12b5debe@104.18.154.15:443?mode=packet-up&path=%2Fde&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=de.paarsa.info&fp=chrome&type=xhttp&allowInsecure=0&sni=de.paarsa.info#By AghaDani
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.12.54:443?security=tls&sni=aZADneT-FreEdoM-iRAnIAN1.pAGeS.DEV&type=ws&host=aZADnEt-fReedom-irANIaN1.paGeS.Dev&path=/Telegram@V2ray_Alpha/?ed%3D2560&fp=chrome#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.130.143.253:443#By AghaDani
 trojan://53933382-fb70-48bd-adf5-363ae1972459@99tw01.tfzhc.top:443?allowInsecure=1#By AghaDani
-vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@45.80.108.216:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#By AghaDani
-vless://708e7929-a262-4fb9-b09d-e70e2bc84b7b@gamefictoinspeed.info:8443?mode=stream-one&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=moback2.notrogame.com&fp=chrome#By AghaDani
-trojan://mitivpn@188.42.88.92:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=d.gamingdll.ir&sni=gamingdll.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
-trojan://mitivpn@188.42.88.92:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=d.gamingdll.ir&sni=d.gamingdll.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://cb1c797b-72e1-44ef-8f93-b740775056bb@169.40.32.242:8080?path=%2FPath&security=none&encryption=none&host=169.40.32.242&type=ws#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp#By AghaDani
@@ -796,5 +798,3 @@ vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@95.85.226.56:443?security=reality&e
 vless://9a414d2d-3756-4512-9e9f-13cdfbec6fc5@ez-d0de9f.gmailam.workers.dev:80?path=%2F&security=none&encryption=none&host=ez-d0de9f.gmailam.workers.dev&fp=chrome&type=ws&sni=ez-d0de9f.gmailam.workers.dev#By AghaDani
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNhYmFiY2EtYWNhYi1iYWFjLWFjZGItY2JhYWNhYmNiY2FiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=#By AghaDani
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@167.99.87.174:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ea.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#By AghaDani
-vless://e277ac9b-3225-4381-a9fb-3585419f7142@love.ns.cloudflare.com:443?type=ws&security=tls&sni=34cdnws.iamali.info&fp=chrome&alpn=http%2F1.1&path=%2F34cdnws&host=34cdnws.iamali.info&encryption=none#By AghaDani
-vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@abdULlah.ns.cloUdflare.com:443?type=xhttp&security=tls&sni=s6-io3ybpjg.khabareammat.com&fp=chrome&alpn=h2&path=/#By AghaDani
