@@ -1,3 +1,5 @@
+vless://080888a9-fdea-4574-8409-6193b8d39b9f@188.114.97.6:443?path=%2Fwatson&security=tls&encryption=none&insecure=0&host=nl.ferrarikingfr.ir&fp=firefox&type=ws&allowInsecure=0&sni=nl.ferrarikingfr.ir#By AghaDani
+trojan://SoftNetConnect@185.204.169.164:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=ca14e14437#By AghaDani
 vless://f1f9cecd-5ee5-4658-a6be-df0df24fcc36@14.102.228.60:8443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=nl-1cf.harchihast.com&fp=chrome&type=xhttp&allowInsecure=0&sni=Nl-1cf.hArChihast.com.#By AghaDani
 vless://f1f9cecd-5ee5-4658-a6be-df0df24fcc36@tr-1r.harchihast.com:2080?security=reality&encryption=none&pbk=wwWNQXQHcZm7TOPWdD7LCpQd2OvwWyGZzWiZG8osP2k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=230c6f9362e4551f#By AghaDani
 vless://c8f80e13-322b-47f0-9270-f9aaba2cde49@download.ebrahimiqeshm.ir:2053?path=%2Fapi%2Fv2%2Fstream&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=download.ebrahimiqeshm.ir&fp=chrome&type=ws&allowInsecure=0&sni=download.ebrahimiqeshm.ir#By AghaDani
@@ -348,7 +350,6 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443/?type=ws&encrypt
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880/?type=grpc&encryption=none#By AghaDani
 vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&security=reality&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.167:8880/?type=grpc&encryption=none#By AghaDani
-trojan://SoftNetConnect@185.204.169.164:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=ca14e14437#By AghaDani
 hysteria2://90h5qo8tmd4xg6a9@tr.iranfastspeed.com.tr:37030?sni=77.83.245.253&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=sjkdtjyv7gnxhg9f#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#By AghaDani
@@ -797,4 +798,3 @@ vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.16:443?security=reality&e
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn7-39.vk-cdnvideo.com#By AghaDani
 vless://4b162e24-7f55-4d5a-9eaf-13c8b4a1d7ec@45.80.108.128:443?security=tls&sni=CARONLINE.FIERLINE.LINK&type=grpc&serviceName=CHANNEL%3DV2_GO&fp=randomized&alpn=h2%2Chttp%2F1.1#By AghaDani
-vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#By AghaDani
