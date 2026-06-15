@@ -1,3 +1,9 @@
+vless://510c038f-5deb-4ecd-8743-790e8cb588de@104.17.177.24:443?path=%2Fv2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=curly-meadow-bd5c.advieh44.workers.dev&fp=chrome&type=ws&sni=curly-meadow-bd5c.advieh44.workers.dev#By AghaDani
+vless://68d63958-8226-4bb4-88ab-6ff544374fc7@91.107.185.59:44728?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&security=reality&sid=22&sni=aws.amazon.com&spx=%2F3cLU9siuR8rpOmL&type=tcp#By AghaDani
+vless://269d898c-f864-4760-8dd9-3cdae1414681@snapp.ir:2052?encryption=none&host=h3.bolfia.ir&path=%2Fardee&security=none&type=ws#By AghaDani
+trojan://mitivpn@104.16.72.70:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gamingdll.ir&path=%2Findex.php%2Fed%3Dmitivpn#By AghaDani
+trojan://mitivpn@104.19.229.21:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gamingdll.ir&path=%2Fed%3Dmitivpn#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRGVDSFN1NGx0OHFmbENTNXpET3k4@195.93.253.245:49137#By AghaDani
 vless://3ba65e62-5a84-464b-94a7-418f0ed53523@185.97.119.48:443?type=tcp&encryption=none&path=%2F&host=cloudflare.com&headerType=http&security=none#By AghaDani
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#By AghaDani
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#By AghaDani
@@ -80,12 +86,9 @@ vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=realit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZTI4NzYzMWRjNGZjOGZj@62.146.231.112:12012#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#By AghaDani
-trojan://mitivpn@104.16.72.70:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gamingdll.ir&path=%2Findex.php%2Fed%3Dmitivpn#By AghaDani
-trojan://mitivpn@104.19.229.21:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gamingdll.ir&path=%2Fed%3Dmitivpn#By AghaDani
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#By AghaDani
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#By AghaDani
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#By AghaDani
-vless://510c038f-5deb-4ecd-8743-790e8cb588de@104.17.177.24:443?path=%2Fv2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=curly-meadow-bd5c.advieh44.workers.dev&fp=chrome&type=ws&sni=curly-meadow-bd5c.advieh44.workers.dev#By AghaDani
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#By AghaDani
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?type=ws&host=vms.lifetime50.workers.dev&path=#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#By AghaDani
@@ -795,6 +798,3 @@ vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=%
 vless://6f4478b4-a854-4b08-bfc8-fb750010bfa8@ps2.dservice.ir:2082?path=%2FDL%3Fed%3D2053&security=&encryption=none&host=ps3.dservice.ir&type=ws#By AghaDani
 vless://b2f996bf-620e-47b8-8f75-5823467c552e@185.226.93.107:443?encryption=none&security=none&type=tcp&headerType=http&host=cdn-apple.com#By AghaDani
 trojan://0e681470-6845-11f1-8364-1239d0255272@news.microsoft.com:443/?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#By AghaDani
-trojan://f6b207d0-6844-11f1-ad36-1239d0255272@news.microsoft.com:443/?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#By AghaDani
-ss://bm9uZTphYmJjYWFjLWFjYmEtY2JhYS1iY2RhLWFiY2FjYmJjYWFjYg==@127.0.0.1:1080#By AghaDani
-ss://YWVzLTEyOC1nY206MjY5ZjcxYjktYzQ1Yi00M2YzLThjNDgtZWI1Zjk4NmFhNzA3@unicomus.mipglxi.cn:6630#By AghaDani
