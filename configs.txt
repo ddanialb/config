@@ -1,3 +1,4 @@
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#By AghaDani
 vless://96351ed4-c94d-4c59-8a14-8e7587c1a511@167.82.101.251:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=dnlu.global.ssl.fastly.net&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=biography.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#By AghaDani
 vless://67d3248c-6407-49b6-a590-cba611c5a72c@suolar.yellowsky.ir:2053?mode=auto&path=%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=frankloyal.appleseraj.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=frankloyal.appleseraj.ir#By AghaDani
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@fan.soft26.ir:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&spx=%2Fil4uDVFQ4uJ9mPb&type=xhttp&sni=www.yahoo.com&sid=6f3192#By AghaDani
@@ -197,7 +198,6 @@ vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@89.167.25.28:11005?security=reality
 trojan://mitivpn@216.24.57.13:443?path=%2Findex.html%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#By AghaDani
 vless://7799027a-6565-401c-aeef-8eb8dbe3c5a6@snapp.ir:80?type=ws&path=%2F&host=kabotar.garfar.ir&security=none#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#By AghaDani
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#By AghaDani
 vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=cdn-pro5.postshup.ir&type=httpupgrade#By AghaDani
 vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@45.130.125.160:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=tesdt.arvanabr.xyz&fp=chrome&type=ws&allowInsecure=1&sni=tesdt.arvanabr.xyz#By AghaDani
 vless://55e2771c-5d36-429d-8f9c-e1eb460e1cca@fi.mobileemdad.top:42538?type=tcp&headerType=http&host=fi.mobileemdad.top&path=/&security=none#By AghaDani
