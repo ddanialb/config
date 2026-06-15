@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkJ5IEFnaGFEYW5pIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vless://b35941d3-c650-49e5-b960-e9069ceca4a6@104.26.6.159:80?path=%2F&security=&encryption=none&host=ez-9f1051.ezaccess18b09ba.workers.dev&fp=chrome&type=ws&sni=ez-9f1051.ezaccess18b09ba.workers.dev#By AghaDani
 vless://b35941d3-c650-49e5-b960-e9069ceca4a6@mtn.folo-domi.ir:80?path=%2F&security=&encryption=none&host=ez-9f1051.ezaccess18b09ba.workers.dev&fp=chrome&type=ws&sni=ez-9f1051.ezaccess18b09ba.workers.dev#By AghaDani
 vless://b35941d3-c650-49e5-b960-e9069ceca4a6@172.66.47.69:80?path=%2F&security=&encryption=none&host=ez-9f1051.ezaccess18b09ba.workers.dev&fp=chrome&type=ws&sni=ez-9f1051.ezaccess18b09ba.workers.dev#By AghaDani
@@ -797,4 +798,3 @@ trojan://mitivpn@188.114.97.202:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
 vless://822aa2cb-b279-4edd-aeb9-a5c53b4db5ed@104.17.122.161:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-tock33.asdascssdgw21.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-tock33.asdascssdgw21.workers.dev#By AghaDani
 vless://38183009-00e1-4335-a15a-04a1fc29317e@185.226.93.8:36362?security=reality&encryption=none&pbk=xhUNx8w5R3Ts6W0tZhKDSBOXF8absgALSoyNDH54kAU&headerType=&fp=chrome&spx=%2FbDphh20MPN7DCGO&type=tcp&sni=www.nvidia.com&sid=d741#By AghaDani
-vless://4b616b6f-6f6c-4e65-7773-cea5827dd1af@20.90.66.7:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=super-duper-trout-gx455v67qxgjcw96p-443.app.github.dev#By AghaDani
