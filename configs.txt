@@ -1,3 +1,4 @@
+vless://b4157dd7-014f-4ac2-a05f-79e06e0279d4@172.67.193.36:8080?security=none&type=httpupgrade&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=%2FDaily_Configs-netmaster%3Fed%3D2048#By AghaDani
 vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Itsrezu2.dr-ping.com&fp=chrome&type=xhttp&allowInsecure=0&sni=Itsrezu2.dr-ping.com#By AghaDani
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICIxMDQuMjYuNC41NyIsICJwb3J0IjogIjgwODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImU2ZDc2OTI3LWVkZDEtNDQyYi05MmE0LWZhMDMxZjUyMmM0MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXBpL3YzL2Rvd25sb2FkLmdldEZpbGUiLCAiaG9zdCI6ICJzc3N1Yi52Mi4wMDEuc3Nyc3ViLmNvbSIsICJ0bHMiOiAiIn0=#By AghaDani
 vmess://eyJhZGQiOiAiOTYuNDcuMjMwLjUiLCAiaG9zdCI6ICJpbWFmYWtlLmxvY2tlciIsICJzbmkiOiAiaW1hZmFrZS5sb2NrZXIiLCAiaWQiOiAiZmE4Zjg5MTEtMmU5Yi00OTRlLTlhOGQtZjgwMjM5ZWUyMjE0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6IDYzMzExLCAidGxzIjogInRscyIsICJmcCI6ICJjaHJvbWUiLCAidiI6IDIsICJhaWQiOiAwLCAidHlwZSI6ICJub25lIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==#By AghaDani
@@ -797,4 +798,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?encryption=none&
 trojan://mitivpn@104.16.72.70:443?security=tls&sni=gamingdll.ir&alpn=http%2F1.1&type=ws&host=gamingdll.ir&path=%2Findex.php%2Fed%3Dmitivpn#By AghaDani
 trojan://mitivpn@27.50.48.49:443?security=tls&sni=gamingdll.ir&alpn=http%2F1.1&type=ws&host=gamingdll.ir&path=%2Findex.html%2Fed%3Dmitivpn#By AghaDani
 vless://3421a66c-0bd3-4eeb-8bb1-d50b35afd110@193.151.140.146:31375?encryption=none&security=none&sni=refersion.com&type=tcp&headerType=none#By AghaDani
-trojan://mitivpn@104.19.229.21:443?security=tls&sni=gamingdll.ir&alpn=http%2F1.1&type=ws&host=gamingdll.ir&path=%2Fed%3Dmitivpn#By AghaDani
