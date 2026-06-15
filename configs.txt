@@ -1,3 +1,7 @@
+vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=greb.loralden.com&sid=3620820fe66d6731#By AghaDani
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRGVDSFN1NGx0OHFmbENTNXpET3k4@195.93.253.245:49137?type=tcp&headerType=none#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MzY4ZjA1NTI0M2UyMjVm@135.125.219.2:12911?type=tcp&headerType=none#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080?type=tcp&headerType=none#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308?type=tcp&headerType=none#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#By AghaDani
@@ -794,7 +798,3 @@ vless://8f6e9139-ed50-4323-afe8-b84f7ce47473@188.114.97.6:443?encryption=none&ty
 vless://07bfc6ab-0a02-4e19-841e-4fc97ecc6fb4@45.85.119.181:443?encryption=none&security=tls&type=ws&headerType=none&host=forczech.fairit.ir&sni=8cc2d04cda0c4433.fairit.ir#By AghaDani
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&host=wstg.datasynctrue.online&type=ws#By AghaDani
 vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080/?type=tcp&encryption=none#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.10:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.183:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=ams1.fromblancwithlove.com#By AghaDani
-vless://7c352f3b-6535-788f-fb0c-f28a76d6deb6@rvg2-production.up.railway.app:443?path=%2Fws%2F7c352f3b-6535-788f-fb0c-f28a76d6deb6&security=tls&encryption=none&alpn=http%2F1.1&fp=chrome&type=ws#By AghaDani
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
