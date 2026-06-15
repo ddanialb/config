@@ -1,3 +1,5 @@
+vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?security=tls&encryption=none&headerType=none&type=tcp&sni=proxy.wastech.org#By AghaDani
+vless://36a60115-ab75-4458-8ca3-abcc20199e94@solitary-glade-4e78.ali202030.workers.dev:2053?path=%2FeyJqdW5rIjoiU3h1NGtZMDllIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=solitary-glade-4e78.ali202030.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=solITARY-gLaDe-4E78.Ali202030.woRKeRs.DeV#By AghaDani
 vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIyMzI0IiwicHMiOiJCeSBBZ2hhRGFuaSIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://29b2695f-dcc2-489c-bc43-5b6be1c06bc6@91.107.174.146:14815?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&brand=@Arvand_soul#By AghaDani
@@ -796,5 +798,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#By Agh
 vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?encryption=none&type=tcp&security=reality&headerType=none&sni=sw1.panel11.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&sid=8b263e22ba03b4c1&flow=xtls-rprx-vision#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#By AghaDani
 hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?allowInsecure=1&insecure=1&security=tls&sni=cn.cremedelamer.com#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@207.211.214.42:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&type=tcp#By AghaDani
-vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@bypass.ch-gt-02.com:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#By AghaDani
