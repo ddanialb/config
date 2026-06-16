@@ -1,3 +1,6 @@
+trojan://telegram-id-directvpn@35.157.158.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
+vmess://eyJhZGQiOiIxNTQuOTIuOS45OCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2JsdWUiLCJwb3J0Ijo4MCwicHMiOiJCeSBBZ2hhRGFuaSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@nl2.farafile.com:7185?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=PmmoEXhS1D8EyJQDEvMYI-KMmg7kRqhtVqRlLHABslc&headerType=none&fp=chrome&type=tcp&sni=yahoo.co#By AghaDani
 vless://c2e1d7e9-cb26-40fa-bf69-7d7f74cbc6f5@test.axylegend.ir:10489?encryption=none&fp=ios&pbk=BWFQ-BxFck2L0gjbXILc0Sh_rOy_YH9YYFf5kw5SsAI&security=reality&sid=c5a3ab7b&sni=play.google.com&spx=%2FZ9jY7K2vjTKxoe4&type=tcp#By AghaDani
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@Chatgpt.com:8443?path=%2FV2rayNGSelllBoT---V2rayNGSelllBoT---V2rayNGSelllBoT&security=tls&encryption=none&host=nameless-sunset-62b7.jalalpoi77.workers.dev&fp=chrome&type=ws&sni=nameless-sunset-62b7.jalalpoi77.workers.dev#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.131:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
@@ -34,7 +37,6 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.133:443?security=reality
 vless://89dd47b1-5677-44e6-85fc-7e52d4a2addc@109.205.63.187:443?security=reality&encryption=none&pbk=_1Z829fxl3oG_04DtAWpNtPbnwu0Y4n8C7bIwgCi8ww&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl-rh-modx.webedg.net#By AghaDani
 vless://a63daf4e-e245-4497-af49-9976c2ef51b7@188.114.97.6:443?path=%2Fuploader.php&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=information.gamecenteriran.com&fp=random&type=ws&allowInsecure=0&sni=information.gamecenteriran.com#By AghaDani
 trojan://b1952da9-8a2a-4e2e-a79c-61914f9e6a9f@37.46.18.128:41050?security=reality&pbk=imFeKLbcdRQYFJZT6aPrQNoi_qGtUfPqptwAp7AyZBg&headerType=none&fp=edge&spxt=%2F&type=tcp&sni=ywww.oracle.com&sid=f56959ba4318b2e9#By AghaDani
-vless://ee73a665-dee3-4e8e-a8e3-7d0e3e0d2d9c@nl2.farafile.com:7185?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=PmmoEXhS1D8EyJQDEvMYI-KMmg7kRqhtVqRlLHABslc&headerType=none&fp=chrome&type=tcp&sni=yahoo.co#By AghaDani
 vless://af1427b3-6257-4e99-97d5-3ddd6288784a@151.101.108.223:443?path=%2F&security=tls&encryption=none&insecure=0&host=nesfeshzksab.global.ssl.fastly.net&type=ws&allowInsecyure=0&sni=default.ssl.fastly.net#By AghaDani
 vless://388aa389-e335-4522-8a2d-b48947af43e4@snapp.ir:80?path=%2F&security=none&encryption=none&host=vip.subrexo.ir&type=ws#By AghaDani
 vless://b300d35e-abca-41b4-a0bd-f4a59d02c52c@104.18.34.88:443?security=tls&encryptiotn=none&insecure=0&host=forgermany.fairit.ir&type=ws&allowInsecure=0&sni=5a6e2070c718304e.fairit.ir#By AghaDani
@@ -57,8 +59,6 @@ vless://65d6e2ed-f6f5-4100-9324-d000f6f39bb8@134.199.159.242:443?security=none&e
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.84:45553?security=tls&sni=ch.01.naiun.bilibili.com#By AghaDani
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.158.217:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-privatevpns@35.157.158.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-trojan://telegram-id-directvpn@35.157.158.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-vmess://eyJhZGQiOiIxNTQuOTIuOS45OCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2JsdWUiLCJwb3J0Ijo4MCwicHMiOiJCeSBBZ2hhRGFuaSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vless://f028c2d5-ac86-4da0-979e-e89be3fdd2e8@18.184.226.106:443?mode=stream-one&path=%40namedzadim%40namedzadim%40namedzadim%40namedzarim%40namedzadim%40namedzadim&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=tRraaUkegIcUioLh0DaxobRBlJRF8kv8WRgDWudV-S4&fp=firefox&spx=%2FajGaP5bbHwCfpCY&type=xhttp&sni=yahoo.com&sid=de544d#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRSnMxd08yaFlvYVljYkZ0YjNFVVBNWW91ZTZZSTBJMQ%3D%3D@87.107.160.6:1011#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdn7-39.vk-cdnvideo.com&headerType=none&fp=safari&type=tcp#By AghaDani
