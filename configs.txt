@@ -1,3 +1,4 @@
+vless://b9d60fbb-0783-4e3d-92d9-070ad06e13a0@s1.gmax12.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s#By AghaDani
 vless://f0b771a2-d57f-4ee9-555f-b39d578502fa@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#By AghaDani
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.215:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#By AghaDani
@@ -42,7 +43,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#By AghaDani
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#By AghaDani
 trojan://SoftNetConnect@185.204.168.149:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 vless://b9d60fbb-0783-4e3d-92d9-070ad06e13a0@ips.it.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=ips.it.mobileemdad.top#By AghaDani
-vless://b9d60fbb-0783-4e3d-92d9-070ad06e13a0@s1.gmax12.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://8d59945b-0f5f-498d-aee4-82cf62faad46@193.93.169.30:443?encryption=none&fp=firefox&pbk=8gmseWvE09KA0mdLWQv9OxQMLQNYa5pSSH0CSjUtRD0&security=reality&sid=2654b1&sni=play.google.com&spx=%2FD7oc2218aQ5xwI8&type=tcp#By AghaDani
 trojan://SoftNetConnect@185.204.168.149:2087?type=grpc&security=reality&authority=185.204.169.129&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=%2F#By AghaDani
 trojan://SoftNetConnect@185.204.168.149:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=%2F#By AghaDani
