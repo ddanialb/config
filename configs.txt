@@ -1,3 +1,7 @@
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
+vless://9cad2004-ec74-47ed-a552-d32a0edbb2bc@165.245.236.251:65535?path=%2F&security=none&encryption=none&type=httpupgrade#By AghaDani
+vless://9cad2004-ec74-47ed-a552-d32a0edbb2bc@165.245.236.251:58802?security=reality&encryption=none&pbk=nXuZGcsrFVc3xmjjXFCucxgystwjB7Xvc4-S9QqLABM&headerType=http&fp=randomized&spx=%2FJiPtroTPwjLNvfA&type=tcp&sni=www.sony.com&sid=150f39800cd159#By AghaDani
+vless://9cad2004-ec74-47ed-a552-d32a0edbb2bc@165.245.236.251:2053?security=none&encryption=none&headerType=http&type=tcp#By AghaDani
 vless://c2e1d7e9-cb26-40fa-bf69-7d7f74cbc6f5@test.axylegend.ir:10489?encryption=none&fp=ios&pbk=BWFQ-BxFck2L0gjbXILc0Sh_rOy_YH9YYFf5kw5SsAI&security=reality&sid=c5a3ab7b&sni=play.google.com&spx=%2FZ9jY7K2vjTKxoe4&type=tcp#By AghaDani
 vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s#By AghaDani
 vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&host=pan3.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#By AghaDani
@@ -14,7 +18,6 @@ vless://718ff826-3d64-441c-b1ec-54a1d7394931@mci.connectingissues.ir:80?mode=aut
 vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@84.201.164.26:446?mode=gun&security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&fp=chrome&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#By AghaDani
 vless://44f7eb71-de22-4a9c-8d5a-64fb7115c82f@45.205.0.55:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=panel.fredomiran.com&fp=chrome&type=xhttp&allowInsecure=0&sni=panel.fredomiran.com#By AghaDani
 vless://9f135709-60a1-4a9b-b31c-78d326d8752a@188.114.97.6:443?mode=stream-one&path=%2Fassignment----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE&security=tls&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&host=www.middle.cc.cd&fp=firefox&type=xhttp&sni=www.middle.cc.cd#By AghaDani
-trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#By AghaDani
 vless://abd880a5-d08f-4dfe-b8f5-d4b61892163a@95.164.55.194:443?security=reality&encryption=none&pbk=MGKWbIse5wfZwDzLCuVOv4_Z_c1D0dBWsSyLQdrpmlo&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=e8d2a1b4c39f8877#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#By AghaDani
@@ -795,6 +798,3 @@ vless://f0665c21-06de-42cd-ac6e-ab952f2bdb5d@46.101.254.149:44134?encryption=non
 vless://26b81986-4b87-44c3-b95c-3165a2928bdd@138.197.191.214:47991?encryption=none&type=tcp&headerType=none#By AghaDani
 trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL%2BFc5K@207.126.167.162:443?type=tcp&security=tls&headerType=none&sni=207.126.167.162&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 vless://61beba7a-28a8-457c-96d9-c40bc30180a9@64.226.68.92:25339?encryption=none&type=tcp&headerType=none#By AghaDani
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?type=tcp&security=tls&headerType=none&sni=38.54.64.247&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
-vless://cf83f4fb-2e14-4f88-b589-ee2b5e84bfce@207.154.219.36:34383?encryption=none&type=tcp&headerType=none#By AghaDani
-vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@104.18.12.149:443?encryption=none&type=xhttp&security=tls&path=%2FMeh%3Fdi%3D443&host=GERMAN.sarzamiiinahang.ir&mode=auto&sni=GERMAN.sarzamiiinahang.ir&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
