@@ -1,3 +1,6 @@
+vless://71152717-dc50-4fee-a13d-c6656b51e341@45.130.125.126:443?encryption=none&type=ws&host=cdn-pro3.postshup.ir.&path=/news&security=tls&fp=chrome&sni=cdn-pro3.postshup.ir.&alpn=h3,h2#By AghaDani
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.67:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn9-33.vk-cdnvideo.com#By AghaDani
+trojan://telegram-id-privatevpns@35.157.158.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://7772d968-52d2-459b-88c5-4c6d0a20f92a@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.67:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.170:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
@@ -89,7 +92,6 @@ trojan://humanity@45.130.125.96:443?mux=&path=%2Fassignment&security=tls&alpn=ht
 trojan://humanity@104.18.152.97:443?mux=&path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&muxConcurrency=-1&sni=www.ignitelimit.com#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#By AghaDani
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@104.21.95.156:8880?path=%2F&security=&encryption=none&host=2.v2.www.speedtest.net.fra-shop.ir&type=httpupgrade#By AghaDani
-vless://71152717-dc50-4fee-a13d-c6656b51e341@45.130.125.126:443?encryption=none&type=ws&host=cdn-pro3.postshup.ir.&path=/news&security=tls&fp=chrome&sni=cdn-pro3.postshup.ir.&alpn=h3,h2#By AghaDani
 vless://71152717-dc50-4fee-a13d-c6656b51e341@Cd1.postshup.ir:443?encryption=none&type=ws&host=cdn-pro2.postshup.ir.&path=/news&security=tls&fp=chrome&sni=cdn-pro2.postshup.ir.&alpn=h3,h2#By AghaDani
 vless://71152717-dc50-4fee-a13d-c6656b51e341@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=cdn-pro5.postshup.ir&path=/?ed%3D2082&security=none#By AghaDani
 vless://71152717-dc50-4fee-a13d-c6656b51e341@104.16.72.139:443?encryption=none&type=ws&host=cdn-pro4.postshup.ir.&path=/news&security=tls&fp=chrome&sni=cdn-pro4.postshup.ir.&alpn=h3,h2#By AghaDani
@@ -107,7 +109,6 @@ vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.34:443?encryption=none&secu
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.84:45553?security=tls&sni=ch.01.naiun.bilibili.com#By AghaDani
 vless://e6f9ad6e-4166-4b98-85c8-53d75ec3832f@83.228.225.29:44050?security=reality&encryption=none&pbk=Yg-PzXlYZ_7DW1ug8dtOagVJ7SeaRzVUL9FNuRUFgw4&host=yahoo.com&headerType=http&fp=chrome&spx=%2FIOmIaBoZae9in4s&type=tcp&sni=www.yahoo.com&sid=b3#By AghaDani
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.158.217:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#By AghaDani
-trojan://telegram-id-privatevpns@35.157.158.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-directvpn@35.157.158.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vmess://eyJhZGQiOiAiMTU0LjkyLjkuOTgiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImRkNDFiNWNiLWI3MmUtNGE4Yy1jNzVhLTNlY2M5MjhkNmViMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYmx1ZSIsICJwb3J0IjogODAsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9#By AghaDani
 vless://ac2d70ef-eceb-4f98-9477-f0f27a18aad0@fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ece180c605b5453c#By AghaDani
