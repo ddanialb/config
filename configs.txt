@@ -1,7 +1,7 @@
+vless://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:2096?security=tls&sni=us.XiAoeR.us.Kg&type=ws&path=%2FH334WIRLtBW6tTq#By AghaDani
 vless://c2e1d7e9-cb26-40fa-bf69-7d7f74cbc6f5@test.axylegend.ir:10489?encryption=none&fp=ios&pbk=BWFQ-BxFck2L0gjbXILc0Sh_rOy_YH9YYFf5kw5SsAI&security=reality&sid=c5a3ab7b&sni=play.google.com&spx=%2FZ9jY7K2vjTKxoe4&type=tcp#By AghaDani
 vless://024c5ef7-e927-41a9-abdf-e628a3359411@185.204.168.149:2083?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Ed5yexAbpTFkIr5a1OhlGUOj_JZGz3RZ4S3CdTYYoDs&sid=9cb5&spx=%2F%3Fguccounter%3D1&flow=xtls-rprx-vision#By AghaDani
 trojan://SoftNetConnect@185.204.168.149:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
-vless://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:2096?security=tls&sni=us.XiAoeR.us.Kg&type=ws&path=%2FH334WIRLtBW6tTq#By AghaDani
 trojan://SoftNetConnect@185.204.168.149:2087?type=grpc&security=reality&authority=185.204.169.129&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=%2F#By AghaDani
 trojan://SoftNetConnect@185.204.168.149:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=%2F#By AghaDani
 trojan://SoftNetConnect@185.204.168.149:8443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=%2F#By AghaDani
