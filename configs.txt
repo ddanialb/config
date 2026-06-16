@@ -1,3 +1,7 @@
+vless://7846a6ad-c767-4ed8-968f-f6d4aedf4def@bot-ep-q7rqcz.samanidempire.org:443?type=ws&encryption=none&path=/87435b09&host=bot-ep-q7rqcz.samanidempire.org&security=tls&fp=&alpn=http%2F1.1#By AghaDani
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#By AghaDani
+vless://c2e1d7e9-cb26-40fa-bf69-7d7f74cbc6f5@test.axylegend.ir:10489?encryption=none&fp=ios&pbk=BWFQ-BxFck2L0gjbXILc0Sh_rOy_YH9YYFf5kw5SsAI&security=reality&sid=c5a3ab7b&sni=play.google.com&spx=%2FZ9jY7K2vjTKxoe4&type=tcp#By AghaDani
+vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#By AghaDani
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.26.5.60:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#By AghaDani
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#By AghaDani
@@ -7,7 +11,6 @@ vless://a081e1ba-4681-4776-a178-496d96a713b3@91.107.185.59:44728?type=tcp&encryp
 vless://65d6e2ed-f6f5-4100-9324-d000f6f39bb8@134.199.159.242:443?security=none&encryption=none&headerType=http&type=tcp#By AghaDani
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.84:45553?security=tls&sni=ch.01.naiun.bilibili.com#By AghaDani
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.158.217:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#By AghaDani
-vless://c2e1d7e9-cb26-40fa-bf69-7d7f74cbc6f5@test.axylegend.ir:10489?encryption=none&fp=ios&pbk=BWFQ-BxFck2L0gjbXILc0Sh_rOy_YH9YYFf5kw5SsAI&security=reality&sid=c5a3ab7b&sni=play.google.com&spx=%2FZ9jY7K2vjTKxoe4&type=tcp#By AghaDani
 trojan://telegram-id-privatevpns@35.157.158.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-directvpn@35.157.158.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vmess://eyJhZGQiOiIxNTQuOTIuOS45OCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2JsdWUiLCJwb3J0Ijo4MCwicHMiOiJCeSBBZ2hhRGFuaSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
@@ -795,6 +798,3 @@ vless://80a0b64d-c2ce-4693-ab23-c7577ba17731@91.107.185.59:44728?type=tcp&encryp
 vmess://ewogICJhZGQiOiAidi5hcHBiYWNrZW5kLnh5eiIsCiAgImhvc3QiOiAiIiwKICAiaWQiOiAiMmM1ZGQwZmEtOTNlZi00ZDQ0LTg5NGYtZDYzOTNiNGExYWRkIiwKICAibW9kZSI6ICJhdXRvIiwKICAibmV0IjogInhodHRwIiwKICAicGF0aCI6ICIvZnQ3aXR5bzhyb3IiLAogICJwb3J0IjogMzU3NzYsCiAgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwKICAic2N5IjogImF1dG8iLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9uZSIsCiAgInYiOiAiMiIsCiAgInhQYWRkaW5nQnl0ZXMiOiAiMTAwLTEwMDAiLAogICJ4X3BhZGRpbmdfYnl0ZXMiOiAiMTAwLTEwMDAiCn0=#By AghaDani
 vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.34:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir&security=tls&sni=website.yaroo383mardak.online&type=ws#By AghaDani
 vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.126:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir&security=tls&sni=website.yaroo383mardak.online&type=ws#By AghaDani
-vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.59:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir&security=tls&sni=website.yaroo383mardak.online&type=ws#By AghaDani
-vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.232:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir&security=tls&sni=website.yaroo383mardak.online&type=ws#By AghaDani
-vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.234:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir&security=tls&sni=website.yaroo383mardak.online&type=ws#By AghaDani
