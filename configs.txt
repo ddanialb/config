@@ -1,3 +1,4 @@
+vless://750b1fd0-fcd7-48bf-a7b6-92cbbda1b502@172.67.220.1:2053?path=%2Fonfkjsnkdlvmd&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=kish.arshia-nova.ir&fp=firefox&type=ws&allowInsecure=0&sni=kish.arshia-nova.ir#By AghaDani
 vless://ac7fa669-c083-419a-874f-e8e710e1ba60@777i.ir:8443?security=reality&alpn=h2&encryption=none&pbk=LGsUSDRM9uI4-_XMbdjI1QHW-YauehcPFsaWx0R37EI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=dad3488446359a87#By AghaDani
 vless://ac7fa669-c083-419a-874f-e8e710e1ba60@188.114.97.6:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=jadid2.choosethechess.ir&fp=qq&type=ws&allowInsecure=0&sni=jadid2.choosethechess.ir#By AghaDani
 vless://ac7fa669-c083-419a-874f-e8e710e1ba60@abrservicetaban.ir:8443?security=reality&alpn=h2&encryption=none&pbk=LGsUSDRM9uI4-_XMbdjI1QHW-YauehcPFsaWx0R37EI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=dad3488446359a87#By AghaDani
@@ -18,7 +19,6 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.23.4:2095?encryption=none&ho
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.99:4443?security=&encryption=none&type=grpc#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLeGtQdkpoRE9JaHViNUZkUlM0X0hn@217.179.6.80:1080#By AghaDani
 vless://612c872d-1370-4109-8644-f0755f97e33f@89.23.107.137:443?encryption=none&fp=&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&security=reality&sid=16&sni=www.samsung.com&type=tcp#By AghaDani
-vless://750b1fd0-fcd7-48bf-a7b6-92cbbda1b502@172.67.220.1:2053?path=%2Fonfkjsnkdlvmd&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=kish.arshia-nova.ir&fp=firefox&type=ws&allowInsecure=0&sni=kish.arshia-nova.ir#By AghaDani
 vless://be5abe11-1c65-4289-b581-a5121a8719a1@82.25.63.100:1443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=usZBWuWxqOoWtx36GJ0XUaDv2KgNsRzLW6uPXpHeEEg&security=reality&sid=0441f3e34348cb45&sni=fr.snowfall.top&type=tcp#By AghaDani
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206M1VlYlltOEhXOERVN2lNczFPMHBldz09@47.80.24.245:8127#By AghaDani
 vless://b6ac93a5-ca8a-41d8-95d6-e861bf9bc110@188.114.97.99:443?security=tls&encryption=none&insecure=0&host=das.m0a.ir&fp=chrome&type=ws&allowInsecure=0&sni=das.m0a.ir#By AghaDani
