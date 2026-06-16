@@ -1,9 +1,10 @@
+vless://ZoRoVpN@zorovpn.opik.net:50420?security=reality&encryption=none&pbk=WmB10FrLwg_rM6bDUYibXOOWv2fWGzwrz_Ju-8ld9XA&headerType=&fp=chrome&spx=%2FCn5Z1RCrSzWzdo6&type=tcp&sni=www.yahoo.com&sid=295edc09#By AghaDani
+trojan://mitivpn@104.16.72.70:443?type=ws&security=tls&path=index.php%3Dmitivpn&host=linkkon-a.ir&sni=linkkon-a.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
+vless://ZoRoVpN@203.202.232.11:36068?path=%2FZoRoVpn&security=&encryption=none&host=Play.google.com&type=ws#By AghaDani
 vless://91bca4fb-34ee-4258-9442-1db6a998428c@185.143.235.253:80?path=%2Fapi%2Fv3&security=none&encryption=none&host=ping.vexacloud.sbs&type=ws#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://a081e1ba-4681-4776-a178-496d96a713b3@91.107.185.59:44728?security=reality&encryption=none&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=dbb6ea0b#By AghaDani
 vless://c2e1d7e9-cb26-40fa-bf69-7d7f74cbc6f5@test.axylegend.ir:10489?encryption=none&fp=ios&pbk=BWFQ-BxFck2L0gjbXILc0Sh_rOy_YH9YYFf5kw5SsAI&security=reality&sid=c5a3ab7b&sni=play.google.com&spx=%2FZ9jY7K2vjTKxoe4&type=tcp#By AghaDani
-vless://ZoRoVpN@zorovpn.opik.net:50420?security=reality&encryption=none&pbk=WmB10FrLwg_rM6bDUYibXOOWv2fWGzwrz_Ju-8ld9XA&headerType=&fp=chrome&spx=%2FCn5Z1RCrSzWzdo6&type=tcp&sni=www.yahoo.com&sid=295edc09#By AghaDani
-vless://ZoRoVpN@203.202.232.11:36068?path=%2FZoRoVpn&security=&encryption=none&host=Play.google.com&type=ws#By AghaDani
 vless://1166019d-23e3-4418-48b7-19b3bc8c2569@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#By AghaDani
 trojan://b1952da9-8a2a-4e2e-a79c-61914f9e6a9f@37.46.18.128:41050?security=reality&pbk=imFeKLbcdRQYFJZT6aPrQNoi_qGtUfPqptwAp7hfAyZBg&headerType=none&fp=edge&spx=%2F&type=tcp&sni=www.oracle.com&sid=f56959ba4318b2e9#By AghaDani
 vless://a081e1ba-4681-4776-a178-496d96a713b3@91.107.185.59:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=aws.amazon.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#By AghaDani
@@ -304,7 +305,6 @@ vless://a4738cae-0c24-4d9d-9318-6572e55a0c10@pov2.iran-mehrbu.ir:2020?security=n
 vless://a4738cae-0c24-4d9d-9318-6572e55a0c10@127.0.0.1:127?security=none&type=tcp&headerType=&path=&host=#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#By AghaDani
-trojan://mitivpn@104.16.72.70:443?type=ws&security=tls&path=index.php%3Dmitivpn&host=linkkon-a.ir&sni=linkkon-a.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://7772d968-52d2-459b-88c5-4c6d0a20f92a@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#By AghaDani
 vless://7772d968-52d2-459b-88c5-4c6d0a20f92a@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.163:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
