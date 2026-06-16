@@ -1,7 +1,11 @@
-vless://b3939095-14db-47ec-9c15-2619440cc54e@217.163.76.118:2086?encryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
+vless://64647238-c6a2-4142-8c74-c1be239140ab@client.jison.ir:443?type=ws&path=%2Fws&host=sdt.jison.ir&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ft#By AghaDani
+vless://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
+vless://b3939095-14db-47ec-9c15-2619440cc54e@27.50.48.49:2086?encryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://9843588f-413a-4cac-a593-9d32ca66f0af@awgshop24.ru:8443?security=reality&encryption=none&pbk=1NWDb6BZXGh0h3CIMZtuBHnBIMAHpxcy-WSz1T-dylc&headerType=none&fp=random&spx=%2F0JgLkyzlE7BAmS6&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=d1d99597038144#By AghaDani
-vless://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
+vless://b3939095-14db-47ec-9c15-2619440cc54e@45.130.125.69:2086?encryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
+vless://2cc64cad-1a77-4a40-8d98-3834a95d0a44@65.109.189.154:2052?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
+vless://b3939095-14db-47ec-9c15-2619440cc54e@217.163.76.118:2086?encryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=%2Fudfyfws&security=tls&encryption=none&host=octopusss5.info&allowinsecure=0&type=ws&sni=octopusss5.info#By AghaDani
 vless://b3939095-14db-47ec-9c15-2619440cc54e@104.21.17.144:2086?encryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
 vless://b3939095-14db-47ec-9c15-2619440cc54e@208.103.161.101:2086?encryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
@@ -11,7 +15,6 @@ vless://b3939095-14db-47ec-9c15-2619440cc54e@noora.ir:2086?encryption=none&host=
 vless://b3939095-14db-47ec-9c15-2619440cc54e@198.41.203.219:2086?encryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
 vless://b3939095-14db-47ec-9c15-2619440cc54e@104.18.169.21:2086?encryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
 vless://b3939095-14db-47ec-9c15-2619440cc54e@5.10.214.53:2086?encryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
-vless://2cc64cad-1a77-4a40-8d98-3834a95d0a44@65.109.189.154:2052?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://b3939095-14db-47ec-9c15-2619440cc54e@45.130.125.96:2086?encryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
 vless://b3939095-14db-47ec-9c15-2619440cc54e@165.215.250.12:2086?encryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
 vless://a6a523c0-9ba0-0b34-dc52-a05ccd128502@151.101.56.6:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=wwwfukkgffffii.global.ssl.fastly.net&fp=firefox&type=ws&sni=global.fastly.com#By AghaDani
@@ -487,7 +490,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICJz
 vless://109f3cfa-8fc5-4a44-8a46-5ae3c8c262ff@ahmad-ir.3patify.com:37214?security=&encryption=none&host=google.com&headerType=http&type=tcp#By AghaDani
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICJzdGFuZGFyZDMuZXowNTM1LmlyIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjM0ZTgwNjJkLWE2MjYtNGI4Yy04YTBkLTgzMGMxM2M5MjYwNCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAibm9uZSIsICJzbmkiOiAiIiwgImZwIjogIiIsICJhbHBuIjogIiIsICJhbGxvd0luc2VjdXJlIjogIjAifQ==#By AghaDani
 vless://8882c88f-e5d5-4519-938e-3c0f60c61c92@www.jorquna.ir:443?security=reality&encryption=none&pbk=k2hbpFLj1gfVXbx0Hae2bvMIZIaBwJcVG71XiEDkSD0&headerType=none&fp=firefox&spx=%2Fl7fQJYMI6OVOIfN&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=21cee1c9ab#By AghaDani
-vless://64647238-c6a2-4142-8c74-c1be239140ab@client.jison.ir:443?type=ws&path=%2Fws&host=sdt.jison.ir&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ft#By AghaDani
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@local.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&host=shirin-kose.de&type=xhttp#By AghaDani
 vless://64647238-c6a2-4142-8c74-c1be239140ab@client.jison.ir:443?type=ws&path=%2Fws&host=sdt.jison.ir&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fty.jison.ir#By AghaDani
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#By AghaDani
@@ -796,5 +798,3 @@ vless://f5be20ee-1960-433c-aaf6-78b4650da0d2@bo-c0ys.onrender.com:443?path=%2Fvl
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.166:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#By AghaDani
-vless://02c10b0d-7d5e-4df6-b8ad-18f0f6cc7422@gr1.avenpulse.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
-vless://665c11ef-4723-4396-a8a1-45d013e68e6b@144.31.171.249:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=bootpl1.strangerwhale.fun&alpn=h2%2Chttp%2F1.1#By AghaDani
