@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@35.157.158.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://96088230-67bd-11f1-a421-1239d0255272@soft98.ir:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy#By AghaDani
 trojan://PKL3uDp4tNwp%3D2FzMqcSb.G8qbaB-mf%3D7b@185.137.157.83:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=fra83.centralapp.click#By AghaDani
 vless://464045bb-0b22-4bcd-a6a8-e27057ed2b9b@185.97.116.42:34828?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
@@ -5,7 +6,6 @@ vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@64.188.83.220:443?security=reality&
 vless://7a3274fc-89c5-4668-5a8e-621a6e61c39c@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaWkxNUlOVU1sc1htUlFMSzdZR3NacHF6YXdtOU13azFxb0p5VGNpTTNnPQ@k1.cover20.ir:52502#By AghaDani
 trojan://telegram-id-directvpn@35.157.158.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-trojan://telegram-id-privatevpns@35.157.158.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://510c038f-5deb-4ecd-8743-790e8cb588de@104.17.177.24:443?path=%2Fv2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=curly-meadow-bd5c.advieh44.workers.dev&fp=chrome&type=ws&sni=curly-meadow-bd5c.advieh44.workers.dev#By AghaDani
 vless://0092a8e6-bd4f-4274-b65e-c3ad491ac8aa@91.107.185.59:44728?security=reality&encryption=none&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=dbb6ea0b#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
