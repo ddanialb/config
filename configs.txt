@@ -1,3 +1,4 @@
+vless://2a79921d-9364-44cc-b56a-cfb650dfe858@74.49.214.31:2053?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=bxeghTOnQ9.lucypro.ir#By AghaDani
 trojan://telegram-id-privatevpns@52.47.35.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-directvpn@52.47.35.202:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://1166019d-23e3-4418-48b7-19b3bc8c2569@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#By AghaDani
@@ -189,7 +190,6 @@ vless://6c22648a-18f5-4249-9ace-72a1639d4190@104.17.122.123:2083?mode=auto&path=
 trojan://b1952da9-8a2a-4e2e-a79c-61914f9e6a9f@37.46.18.128:41050?security=reality&pbk=imFeKLbcdRQYFJZT6aPrQNoi_qGtUfPqptwAp7AyZBg&headerType=none&fp=edge&spx=%2F&type=tcp&sni=www.obracle.com&sid=f56959ba4318b2e9#By AghaDani
 vless://a63cc71e-6fbc-4bc2-b261-fe95779d9626@khoroos3.helsinki2upload.shop:443?security=reality&encryption=none&pbk=Q-H-Ms4z6u98HaVt4kWXs4BVOOefdHzj5xIMf9RqWDg&headerType=none&fp=chrome&spx=%2Fg7KiuKzWhn0c3z2&type=tcp&sni=www.aparat.com&sid=1dc47d91#By AghaDani
 vless://af1427b3-6257-4e99-97d5-3ddd6288784a@151.101.108.223:443?path=%2F&security=tls&encryption=none&insecure=0&host=nesfeshzksab.global.ssl.fastly.net&type=wjs&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
-vless://2a79921d-9364-44cc-b56a-cfb650dfe858@74.49.214.31:2053?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=bxeghTOnQ9.lucypro.ir#By AghaDani
 vless://c8147e95-4699-4a7e-b921-33d36b689402@reye.tunacdn.ir:80?pathn=%2F&security=none&encryption=none&type=ws#By AghaDani
 vless://388aa389-e335-4522-8a2d-b48947af43e4@snapp.ir:80?path=%2F&security=none&encryption=none&host=vip.subrexo.ir&type=ws#By AghaDani
 vless://b300d35e-abca-41b4-a0bd-f4a59d02c52c@104.18.34.88:443?security=tls&encryption=none&insecure=0&host=forgermany.fairit.ir&typeb=ws&allowInsecure=0&sni=5a6e2070c718304e.fairit.ir#By AghaDani
