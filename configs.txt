@@ -1,3 +1,4 @@
+vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s#By AghaDani
 vless://d6c8c72b-32ae-4ef5-8637-fb162d4eea81@199.232.244.3:443?encryption=none&security=tls&sni=global.fastly.com&fp=randomized&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=ChromeAppleWebKit.global.ssl.fastly.net&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#By AghaDani
 vless://c2e1d7e9-cb26-40fa-bf69-7d7f74cbc6f5@test.axylegend.ir:10489?encryption=none&fp=ios&pbk=BWFQ-BxFck2L0gjbXILc0Sh_rOy_YH9YYFf5kw5SsAI&security=reality&sid=c5a3ab7b&sni=play.google.com&spx=%2FZ9jY7K2vjTKxoe4&type=tcp#By AghaDani
 vless://2a79921d-9364-44cc-b56a-cfb650dfe858@74.49.214.31:2053?encryption=none&security=tls&sni=bxeghTOnQ9.lucypro.ir&insecure=0&allowInsecure=0&type=ws&path=%2F#By AghaDani
@@ -13,7 +14,6 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.84:45553?security=tls&
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.158.217:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-privatevpns@35.157.158.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-directvpn@35.157.158.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s#By AghaDani
 vmess://eyJhZGQiOiIxNTQuOTIuOS45OCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2JsdWUiLCJwb3J0Ijo4MCwicHMiOiJCeSBBZ2hhRGFuaSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.166:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
