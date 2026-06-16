@@ -1,3 +1,4 @@
+vless://7e343f77-eea2-4806-a7d1-f61430c04c25@164.138.202.34:443?mode=auto&security=reality&encryption=none&pbk=PBI0qUBzRCC-_jVxDMel54jOvdUEX6Eif1ep_dwTEUs&type=xhttp&sni=yahoo.com&sid=fe238b83#By AghaDani
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#By AghaDani
 trojan://humanity@162.159.17.189:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#By AghaDani
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.19:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#By AghaDani
@@ -305,7 +306,6 @@ vless://985cee46-76c8-402e-bfbe-825ca70a3684@185.143.233.120:443?encryption=none
 vless://985cee46-76c8-402e-bfbe-825ca70a3684@185.143.233.5:443?encryption=none&type=xhttp&allowInsecure=0&mux=true&security=tls&sni=dl3.zynalo.ir&fp=randomized&path=%2F&host=dl3.zynalo.ir#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://985cee46-76c8-402e-bfbe-825ca70a3684@45.85.119.9:443?encryption=none&type=xhttp&allowInsecure=0&mux=true&security=tls&sni=dl4.abrcdnir.com&fp=randomized&path=%2F&host=dl4.abrcdnir.com#By AghaDani
-vless://7e343f77-eea2-4806-a7d1-f61430c04c25@164.138.202.34:443?mode=auto&security=reality&encryption=none&pbk=PBI0qUBzRCC-_jVxDMel54jOvdUEX6Eif1ep_dwTEUs&type=xhttp&sni=yahoo.com&sid=fe238b83#By AghaDani
 vless://985cee46-76c8-402e-bfbe-825ca70a3684@93.126.46.27:443?encryption=none&type=xhttp&mux=true&security=tls&sni=dl13.zynari.ir&fp=randomized&host=dl13.zynari.ir#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://985cee46-76c8-402e-bfbe-825ca70a3684@185.143.234.200:443?encryption=none&type=xhttp&allowInsecure=0&mux=true&security=tls&sni=dl8.zynari.ir&fp=randomized&path=%2F&host=dl8.zynari.ir#By AghaDani
