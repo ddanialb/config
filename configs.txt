@@ -1,3 +1,5 @@
+vless://e6f9ad6e-4166-4b98-85c8-53d75ec3832f@83.228.225.29:44050?encryption=none&type=tcp&security=reality&headerType=http&host=yahoo.com&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Yg-PzXlYZ_7DW1ug8dtOagVJ7SeaRzVUL9FNuRUFgw4&sid=b3&spx=%2FIOmIaBoZae9in4s#By AghaDani
+trojan://mitivpn@104.16.72.70:443?path=index.#By AghaDani
 vless://db9bbff2-224b-4017-b756-31dc7783a7be@81.29.146.82:443?mode=gun&security=reality&encryption=none&pbk=-SzGn-eWCRi_84ngEx3V4ogiu3OzjzeSx8ae_I0yhxA&fp=edge&type=grpc&sni=yahoo.com#By AghaDani
 vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s#By AghaDani
 vless://44f7eb71-de22-4a9c-8d5a-64fb7115c82f@45.205.0.55:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=panel.fredomiran.com&mode=auto&path=%2F&security=tls&sni=panel.fredomiran.com&type=xhttp&x_padding_bytes=100-1000#By AghaDani
@@ -796,5 +798,3 @@ trojan://jxkxadDj6kCu3Bv04jmcvDxC2aHyIRWvF%2FNotfO5GYs%3D@89.167.82.102:2080?sec
 vmess://ewogICJhZGQiOiAiODkuMTY3LjgyLjEwMiIsCiAgImlkIjogImRmM2JjMDYyLWY4NmEtNDk5Zi04MmJlLTc0YmM5MzgzMGRhMSIsCiAgIm5ldCI6ICJ0Y3AiLAogICJwb3J0IjogNDQ0MywKICAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLAogICJzY3kiOiAiYXV0byIsCiAgInRscyI6ICJub25lIiwKICAidHlwZSI6ICJub25lIiwKICAidiI6ICIyIgp9#By AghaDani
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2Fvip1&security=tls&alpn=h2&encryption=none&insecure=0&host=hamshahriesfahan.com&fp=chrome&type=ws&allowInsecure=0&sni=speedtest.net#By AghaDani
 vless://8847d8ad-19e1-4220-9c7a-6d3255e895b0@172.66.47.69:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=pLeAsEbEttErCalLsAuL.hOzhEeN.iR&fp=chrome&type=ws&allowInsecure=0&sni=ce144e7aafbcebb8.hozheen.ir#By AghaDani
-vless://d5cca7ad-4774-43cb-8bc7-fc8b8f41e0b0@az.gameirani.com:8080?path=%2Faz&security=&encryption=none&host=az.zynoxa.ir&type=ws#By AghaDani
-vless://5e19a8d5-2b9c-4974-afba-312b96f5ed53@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#By AghaDani
