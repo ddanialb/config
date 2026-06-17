@@ -1,3 +1,4 @@
+trojan://MiTiVPN@188.114.97.6:443?mux=&path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=wwww.95r.ir&fp=chrome&type=ws&muxConcurrency=-1&sni=wwww.95r.ir#By AghaDani
 vless://8e310f61-f5e2-40e6-9c62-da6ee15435cf@116.203.6.53:8841?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=docs.google.com#By AghaDani
 vless://8e310f61-f5e2-40e6-9c62-da6ee15435cf@wutw.themonji.com:8844?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 trojan://humanity@208.103.161.170:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#By AghaDani
@@ -797,4 +798,3 @@ trojan://humanity@104.18.11.110:443?path=%2Fassignment&security=tls&insecure=1&f
 trojan://humanity@172.64.147.210:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#By AghaDani
 vmess://eyJhZGQiOiI5NS4yMTcuMTc1LjE3MCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI1ZDQ3MmZjYi0yYTNiLTQ0YTEtYTA4Yi0wMzZlMTYxZWU5M2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE0OTkxIiwicHMiOiJCeSBBZ2hhRGFuaSIsInNjeSI6IiIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://humanity@172.64.147.166:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#By AghaDani
-vless://2330f424-ef1f-47ad-a42a-815e5c576820@chatgpt.com:2087?mode=stream-up&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=r1.firefly-service.com#By AghaDani
