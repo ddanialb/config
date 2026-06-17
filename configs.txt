@@ -1,3 +1,4 @@
+vless://dd2b0bef-d324-4fca-8f0f-962a56108192@mci.downbala.com:443?encryption=none&security=tls&sni=mci.downbala.com&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=ws&host=mci.downbala.com&path=%2Ftimer%2F#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.113:8443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=safari&type=tcp&sni=cdn7-39.vk-cdnvideo.com#By AghaDani
 vless://ffc33c26-e5bb-42f5-a04a-b4e939cf3c72@cf9c002bdc7c5373.RaVeNlO.iR:1310?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=safari&type=tcp&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
@@ -797,4 +798,3 @@ vless://b3939095-14db-47ec-9c15-2619440cc54e@217.163.76.118:2086?encryption=none
 vless://b3939095-14db-47ec-9c15-2619440cc54e@208.103.161.101:2086?encryption=none&host=dev.speciq.co&path=%2F&security=none&typej=xhttp&mode=packet-up#By AghaDani
 vless://b3939095-14db-47ec-9c15-2619440cc54e@165.215.250.12:2086?ejnhcryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
 vless://b3939095-14db-47ec-9c15-2619440cc54e@104.21.17.144:2086?encryption=none&host=dev.speciq.cjo&pathn=%2F&security=none&tjype=xhttp&mode=packet-up#By AghaDani
-vless://b3939095-14db-47ec-9c15-2619440cc54e@172.67.153.251:2086?encrjyption=none&host=dev.specjiqj.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
