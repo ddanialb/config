@@ -1,3 +1,4 @@
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ams1.fromblancwithlove.com&insecure=1&allowInsecure=1#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#By AghaDani
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#By AghaDani
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=chrome&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#By AghaDani
@@ -503,7 +504,6 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&enc
 trojan://humanity@208.103.161.170:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?encryption=none&type=ws&path=%2Fvless#By AghaDani
 trojan://%25%7Bq%3Aqf%7D%27ogr%3B@www.speedtest.net:443?path=%2FeyJqdW5rIjoieDVyTzlGQktZZUJjIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http%2F1.1&insecure=0&host=lumosconfig.codmdemonyt1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=lumOSCONfiG.coDmDemoNYt1.WOrkerS.DEv#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ams1.fromblancwithlove.com&insecure=1&allowInsecure=1#By AghaDani
 vless://f26de170-f15a-47e0-a7ff-84bf96abd158@lumosconfig.codmdemonyt1.workers.dev:443?path=%2FeyJqdW5rIjoicEVhR1VWNjJWU1hUdEtNSSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lumosconfig.codmdemonyt1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=LuMOscONfig.cOdMDeMoNyT1.WorKeRS.DEV#By AghaDani
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?encryption=none&type=ws&security=tls&path=%2Fvws%2F&host=bab-6.site&sni=bab-6.site&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://5314ab7e-c093-40f1-8798-fd4ac7eab69a@www.chatgpt.com:443?path=%2Fws%3Fed&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.tUPfWAL1mQ-xZDnUHMthTFU1cqIX6PbUsBzSH0OJGEE&insecure=0&host=upload.myvipnet.com&fp=chrome&type=ws&allowInsecure=0&sni=upload.myvipnet.com#By AghaDani
