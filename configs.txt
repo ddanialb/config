@@ -1,3 +1,5 @@
+vless://750b1fd0-fcd7-48bf-a7b6-92cbbda1b502@172.67.220.1:2053?path=%2Fonfkjsnkdlvmd&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=kish.arshia-nova.ir&fp=firefox&type=ws&allowInsecure=0&sni=kish.arshia-nova.ir#By AghaDani
+vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.133:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn4-35.yahoo.com&sid=7e77e7e2cf2b7a79#By AghaDani
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#By AghaDani
 vless://0eb6b808-3594-4165-a1cd-4aaa14036032@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#By AghaDani
@@ -100,7 +102,6 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.84:45553?security=tls&
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.158.217:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-privatevpns@35.157.158.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#By AghaDani
-vless://750b1fd0-fcd7-48bf-a7b6-92cbbda1b502@172.67.220.1:2053?path=%2Fonfkjsnkdlvmd&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=kish.arshia-nova.ir&fp=firefox&type=ws&allowInsecure=0&sni=kish.arshia-nova.ir#By AghaDani
 vless://15d3018a-4d97-4dc4-833a-2384111710bd@37.152.188.63:443?security=tls&allowInsecure=0&encryption=none&type=tcp&path=/&sni=algorithmmarket.ir&fp=chrome&headerType=http&alpn=h2,http/1.1#By AghaDani
 trojan://SoftNetConnect@185.204.169.164:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=ca14e14437#By AghaDani
 vmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkJ5IEFnaGFEYW5pIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -271,7 +272,6 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&en
 vless://b263b2ab-17af-43e2-9000-bc22b7929d00@46.4.162.63:443?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv1.yunus.guru:443?security=reality&encryption=none&pbk=-X9CZv5MYKivpxPVP1vdgFKf2AJWmZ0Pju-j8LFmlh4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rezerv1.yunus.guru&sid=6c88854e73e86773#By AghaDani
 vless://d6c8c72b-32ae-4ef5-8637-fb162d4eea81@199.232.244.3:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=ChromeAppleWebKit.global.ssl.fastly.net&fp=randomized&type=xhttp&allowInsecure=0&sni=global.fastly.com#By AghaDani
-vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#By AghaDani
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=pan1.global.ssl.fastly.net&path=%2F#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#By AghaDani
