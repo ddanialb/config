@@ -1,12 +1,14 @@
-vless://11475b92-0ea9-4ac8-b143-882db431fc35@188.213.198.238:7080?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
+vless://d6105da5-e735-4559-8c46-daef0f7cc1c2@xray.devironi.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=xray.devironi.ir&fp=chrome&type=ws&allowInsecure=0&sni=xray.devironi.ir#By AghaDani
+vless://46a73b46-17df-419c-91d3-0b5247384e04@vip.accuratenetworkchecker.ir:443?security=none&encryption=mlkem768x25519plus.native.0rtt.BMUxibbej8vwea4oIcOWqFm5elDWiZ1-nnrsiWzvQGc&headerType=none&type=tcp#By AghaDani
 vless://53146906-5cb5-4332-ac19-d4822762b1cd@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#By AghaDani
+vless://91679c30-bc1f-35e4-2cb2-ff0358e3d823@tmesubgift.up.railway.app:443?path=%2Fws%2F91679c30-bc1f-35e4-2cb2-ff0358e3d823&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#By AghaDani
+vless://11475b92-0ea9-4ac8-b143-882db431fc35@188.213.198.238:7080?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://4e441223-73ff-428e-b3e7-9a4da5b0957e@188.114.96.3:2096?path=%2FeyJqdW5rIjoiQlR3VHNNYlFjRnIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=broad-moon-00dc.hsvhdyxgdhsj.workers.dev&fp=chrome&type=ws&sni=broad-moon-00dc.hsvhdyxgdhsj.workers.dev#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeXg1YXpXU1NBOEJtYWpP@20.107.209.255:443?outline=1&prefix=POST%20s33c4f0Q#By AghaDani
 vless://59dd07bb-04ea-442b-8d9e-ac52b63e9010@104.21.52.77:443?path=%2FeyJqdW5rIjoiUkI0M1BUNkdOckQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=delicate-grass-7a09.hsuegdbxjdirfh.workers.dev&fp=chrome&type=ws&sni=deliCaTe-graSS-7a09.hSueGdbxJDiRfh.WORKeRS.DEV#By AghaDani
 vless://11475b92-0ea9-4ac8-b143-882db431fc35@188.213.198.238:4050?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://11475b92-0ea9-4ac8-b143-882db431fc35@188.213.198.238:8090?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtcG9seTEzMDU6U2ZmWmtMcUwraGI2MmF1SysxdVVjdWZpbnVManQ4RTgrUHJjZFJEMWNLND0%3D@net10.shaygan.site:8080#By AghaDani
-vless://91679c30-bc1f-35e4-2cb2-ff0358e3d823@tmesubgift.up.railway.app:443?path=%2Fws%2F91679c30-bc1f-35e4-2cb2-ff0358e3d823&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#By AghaDani
 vless://382874cf-38f0-48a2-a1ca-592710b006fc@140.248.185.253:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ%3D@108.181.58.239:8388#By AghaDani
@@ -796,5 +798,3 @@ trojan://humanity@104.18.185.26:443?path=%2Fassignment&security=tls&insecure=0&f
 vless://79063e8c-8acc-49f3-bbec-a03bdd04ceca@go.barnamenevis.qzz.io:2083?path=%2FeyJqdW5rIjoia243SGI3UG41IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=go.barnamenevis.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=GO.BarnameneVIs.qzz.io#By AghaDani
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=apiv2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#By AghaDani
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#By AghaDani
-trojan://humanity@vip3.kaixincloud.top:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#By AghaDani
-trojan://humanity@104.17.25.173:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#By AghaDani
