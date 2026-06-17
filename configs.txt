@@ -1,3 +1,4 @@
+vless://359b9ad3-0009-4655-8872-d0ab566751d3@45.81.58.159:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=e832b8629fff3263.hozheen.ir#By AghaDani
 vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan3.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
 vless://d6c8c72b-32ae-4ef5-8637-fb162d4eea81@199.232.244.3:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=ChromeAppleWebKit.global.ssl.fastly.net&fp=randomized&type=xhttp&allowInsecure=0&sni=global.fastly.com#By AghaDani
 vless://64647238-c6a2-4142-8c74-c1be239140ab@client.jison.ir:443?path=%2Fws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=sdt.jison.ir&type=ws&allowInsecure=0&sni=fty.jison.ir#By AghaDani
@@ -797,4 +798,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&en
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.131:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.67:8443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
 trojan://humanity@104.16.174.121:443?path=%2Fassignment&security=tls&alpn=null&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@ams1.fromblancwithlove.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
