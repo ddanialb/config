@@ -1,3 +1,6 @@
+vless://8e310f61-f5e2-40e6-9c62-da6ee15435cf@116.203.6.53:8844?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
+vless://8e310f61-f5e2-40e6-9c62-da6ee15435cf@116.203.6.53:8842?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=ios&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&sid=2a7f6b8788caca70#By AghaDani
+vless://8e310f61-f5e2-40e6-9c62-da6ee15435cf@188.114.97.6:2053?encryption=none&security=tls&type=ws&headerType=none&path=%2Flanding%3Fed%3D256&host=clientc.themonji.com&sni=clientc.themonji.com&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
 vless://1791b0db-8b39-4520-8df7-20889fca1afb@sv3.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#By AghaDani
 vless://46a73b46-17df-419c-91d3-0b5247384e04@vip.accuratenetworkchecker.ir:443?security=none&encryption=mlkem768x25519plus.native.0rtt.BMUxibbej8vwea4oIcOWqFm5elDWiZ1-nnrsiWzvQGc&headerType=none&type=tcp#By AghaDani
 vless://c44b5b93-438f-41ca-8cdc-2a9869e931f1@afra.iran158.site:30443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=afra.iran158.site#By AghaDani
@@ -795,6 +798,3 @@ trojan://humanity@172.64.147.52:443?path=%2Fassignment&security=tls&insecure=0&f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#By AghaDani
 vless://e8bf51de-efc9-42a4-be50-1a6bc3170c63@144.31.128.61:443?security=reality&encryption=none&pbk=xx8vYPWtNhcn3i4iprMYCsURqX9hmTz_8tA_vuE1_GI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fe12#By AghaDani
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#By AghaDani
-trojan://humanity@104.18.152.229:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
-vless://36a41d68-7ee1-4eac-80de-76848f5879da@s2.meoshop.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=server.meoshop.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=server.meoshop.ir#By AghaDani
-trojan://humanity@172.64.146.127:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#By AghaDani
