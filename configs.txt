@@ -1,3 +1,4 @@
+vless://a5f574a3-9f5d-4272-a627-5bbfb3ab8363@193.176.240.129:2096?encryption=none&host=SG4.artarona.ir&path=%2F&security=tls&sni=SG4.artarona.ir&type=ws#By AghaDani
 trojan://mitivpn@45.130.125.220:443?type=ws&security=tls&path=index.html%3Dmitivpn&host=linkkon-a.ir&sni=linkkon-a.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 trojan://mitivpn@104.16.72.70:443?type=ws&security=tls&path=index.php%3Dmitivpn&host=linkkon-a.ir&sni=linkkon-a.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://02c10b0d-7d5e-4df6-b8ad-18f0f6cc7422@gr1.avenpulse.ir:2087?encryption=none&type=tcp&headerType=http&host=play.google.com#By AghaDani
@@ -156,7 +157,6 @@ vless://fab395a9-f09f-4bff-a389-74b019dc114a@88.216.67.230:80?encryption=none&ex
 vless://25edf8ad-50ff-4160-b1ab-b088c6a8d70c@104.17.148.22:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=Kabir.cdnpros.ir&mode=auto&path=%2F&security=none&type=xhttp#By AghaDani
 vless://66e5f7d5-617e-4065-9014-cadd2d2ca8d2@104.16.72.251:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI2.fastspeeds.ir&mode=auto&path=%2F&security=none&type=xhttp#By AghaDani
 vless://8c4d91d0-8642-43be-8a6a-95a8c4ea190d@104.17.148.22:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI2.fastspeeds.ir&mode=auto&path=%2F&security=none&type=xhttp#By AghaDani
-vless://a5f574a3-9f5d-4272-a627-5bbfb3ab8363@193.176.240.129:2096?encryption=none&host=SG4.artarona.ir&path=%2F&security=tls&sni=SG4.artarona.ir&type=ws#By AghaDani
 vless://51a696b4-41a2-43cb-85ff-c8343f66e794@193.176.240.129:2096?encryption=none&host=SG4.artarona.ir&path=%2F&security=tls&sni=SG4.artarona.ir&type=ws#By AghaDani
 vless://a5f574a3-9f5d-4272-a627-5bbfb3ab8363@193.176.240.129:2096?encryption=none&host=SG7.artarona.ir&path=%2F&security=tls&sni=SG7.artarona.ir&type=ws#By AghaDani
 trojan://0ab59a11983d4ce7862d156c164d927d@www.speedtest.net:443?path=%2FeyJqdW5rIjoiajRMMndudHIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMDkuMTIyLjE5OC4xMjciXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=FAST-RouTE-Dd4E2d.fREefIREmO7964.wOrKerS.dev&fp=chrome&type=ws&allowInsecure=0&sni=FAST-Route-DD4E2D.FREEfiReMO7964.WOrkeRS.DEV#By AghaDani
