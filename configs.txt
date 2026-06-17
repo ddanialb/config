@@ -1,3 +1,5 @@
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?encryption=none&security=none&type=tcp&headerType=http&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir#By AghaDani
+vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#By AghaDani
 vless://612c872d-1370-4109-8644-f0755f97e33f@85.208.139.100:443?security=reality&encryption=none&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=16#By AghaDani
 vless://befe7627-61aa-4b19-9f26-43923d89ebe5@154.222.9.48:8443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=8d3293f0066e129a#By AghaDani
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#By AghaDani
@@ -796,5 +798,3 @@ vless://fab395a9-f09f-4bff-a389-74b019dc114a@104.16.72.251:80?encryption=none&ex
 vless://c6c4f1c9-1ce2-4113-ac55-e4d764224d4f@104.17.148.22:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=DEY.cdnpros.ir&mode=auto&path=%2F&security=none&type=xhttp#By AghaDani
 vless://3ee169b8-54b0-482a-beff-6490d31e5328@45.131.6.203:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=DEY.cdnpros.ir&mode=auto&path=%2F&security=none&type=xhttp#By AghaDani
 vless://fab395a9-f09f-4bff-a389-74b019dc114a@88.216.67.230:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI.torprospeed.ir&mode=auto&path=%2F&security=none&type=xhttp#By AghaDani
-vless://25edf8ad-50ff-4160-b1ab-b088c6a8d70c@104.17.148.22:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=Kabir.cdnpros.ir&mode=auto&path=%2F&security=none&type=xhttp#By AghaDani
-vless://66e5f7d5-617e-4065-9014-cadd2d2ca8d2@104.16.72.251:80?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI2.fastspeeds.ir&mode=auto&path=%2F&security=none&type=xhttp#By AghaDani
