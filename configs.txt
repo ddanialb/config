@@ -1,3 +1,6 @@
+vless://c5fa60f7-d9cc-4934-af03-7a83da5ce266@37.152.188.63:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&headerType=http&host=&path=%2F&security=tls&sni=algorithmmarket.ir&type=tcp#By AghaDani
+vless://7117a0c0-1e53-47c0-98d0-98af4f24f366@www.cdnwizardxray.com.vidboxco.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=www.cdnwizardxray.com#By AghaDani
+vless://7117a0c0-1e53-47c0-98d0-98af4f24f366@www.copy5.ir.vidboxco.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.copy5.ir#By AghaDani
 vless://f394bd2b-9d7a-47e2-86eb-e664f35e5a83@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#By AghaDani
 trojan://telegram-id-privatevpns@3.64.2.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://cffdecca-486a-4bfc-bf13-0c9cf2ba326b@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#By AghaDani
@@ -163,8 +166,6 @@ vless://a5f574a3-9f5d-4272-a627-5bbfb3ab8363@193.176.240.129:2096?encryption=non
 vmess://eyJhZGQiOiAiODkuMTY3LjgyLjEwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiY2Y0MGI5NjUtYjBlZC00OWEwLTgzYTEtNTNmMmEwMTE4M2I0IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0NDMiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=#By AghaDani
 vmess://eyJhZGQiOiAiODkuMTY3LjgyLjEwMiIsICJpZCI6ICJiYThhMGI4Yi00YzEzLTRjMmItYmUyYi1mZmJhMWE2MDczYTYiLCAibmV0IjogInRjcCIsICJwb3J0IjogNDQ0MywgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==#By AghaDani
 vless://aa37fc1c-ac22-49d8-a723-4b5cd1c8c681@mars.starshipcrew.ir:80?path=%2Fspacexipo&security=none&encryption=none&host=mars.starshipcrew.ir&type=ws#By AghaDani
-vless://7117a0c0-1e53-47c0-98d0-98af4f24f366@www.cdnwizardxray.com.vidboxco.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=www.cdnwizardxray.com#By AghaDani
-vless://7117a0c0-1e53-47c0-98d0-98af4f24f366@www.copy5.ir.vidboxco.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.copy5.ir#By AghaDani
 trojan://SoftNetConnect@185.204.169.164:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=ca14e14437#By AghaDani
 vless://aa37fc1c-ac22-49d8-a723-4b5cd1c8c681@mars.starshipcrew.ir:80?encryption=none&host=mars.starshipcrew.ir&path=%2Fspacexipo&security=none&type=ws#By AghaDani
 vless://b263b2ab-17af-43e2-9000-bc22b7929d00@46.4.162.63:443?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
@@ -797,4 +798,3 @@ vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.16.150.228:2096?path=%2F&securi
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&type=ws&host=pan1.global.ssl.fastly.net&path=%2F#By AghaDani
 vless://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?encryption=none&security=tls&sni=default.ssl.fastly.net&type=ws&host=bazaryabab.global.ssl.fastly.net&path=%2F#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.113:8443?encryption=none&security=tls&sni=cdn7-39.vk-cdnvideo.com&alpn=http%2F1.1&type=tcp&headerType=none#By AghaDani
-trojan://humanity@104.16.71.213:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#By AghaDani
