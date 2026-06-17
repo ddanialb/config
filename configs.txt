@@ -1,3 +1,4 @@
+trojan://SoftNetConnect@130.185.123.26:42549?type=tcp&security=tls&headerType=none&sni=www.speedtest.net&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.166.66:2096?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&security=reality&sid=68723956186d&sni=www.cloudflare.com&spx=%2FQWCQnbvZoPJA491&type=tcp#By AghaDani
 vless://7117a0c0-1e53-47c0-98d0-98af4f24f366@www.cdnwizardxray.com.vidboxco.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=www.cdnwizardxray.com#By AghaDani
 vless://7117a0c0-1e53-47c0-98d0-98af4f24f366@www.copy5.ir.vidboxco.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.copy5.ir#By AghaDani
@@ -797,4 +798,3 @@ vless://985cee46-76c8-402e-bfbe-825ca70a3684@185.143.233.200:443?encryption=none
 vless://985cee46-76c8-402e-bfbe-825ca70a3684@188.114.97.1:443?encryption=none&type=xhttp&allowInsecure=0&mux=true&security=tls&sni=dl7.airpromci.com&fp=randomized&path=%2F&host=dl7.airpromci.com#By AghaDani
 vless://985cee46-76c8-402e-bfbe-825ca70a3684@185.143.233.120:443?encryption=none&type=xhttp&allowInsecure=0&mux=true&security=tls&sni=dl6.zynari.ir&fp=randomized&path=%2F&host=dl6.zynari.ir#By AghaDani
 vless://985cee46-76c8-402e-bfbe-825ca70a3684@45.85.119.9:443?encryption=none&type=xhttp&allowInsecure=0&mux=true&security=tls&sni=dl4.abrcdnir.com&fp=randomized&path=%2F&host=dl4.abrcdnir.com#By AghaDani
-vless://985cee46-76c8-402e-bfbe-825ca70a3684@93.126.46.27:443?encryption=none&type=xhttp&mux=true&security=tls&sni=dl13.zynari.ir&fp=randomized&host=dl13.zynari.ir#By AghaDani
