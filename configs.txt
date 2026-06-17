@@ -1,7 +1,9 @@
+trojan://mitivpn@45.130.125.220:443?type=ws&security=tls&path=index.html%3Dmitivpn&host=linkkon-a.ir&sni=linkkon-a.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
+trojan://mitivpn@104.16.72.70:443?type=ws&security=tls&path=index.php%3Dmitivpn&host=linkkon-a.ir&sni=linkkon-a.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
+vless://02c10b0d-7d5e-4df6-b8ad-18f0f6cc7422@gr1.avenpulse.ir:2087?encryption=none&type=tcp&headerType=http&host=play.google.com#By AghaDani
 vless://749af24e-7abb-4743-8821-3debf9d0146d@77.83.203.139:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.icloud.com&fp=chrome&insecure=1&allowInsecure=1&pbk=YzqTuPSCgvHL2zNInrRXQNtJNE0a1xiQsjNXV-SFrRE&sid=76#By AghaDani
 vless://749af24e-7abb-4743-8821-3debf9d0146d@hmd973-519.knife.dns.zyros.cfd:2052?encryption=none&type=httpupgrade&path=%2FphpMyAdmin%3Fq%3D%E4%B8%80%E4%BD%8D%E8%99%95%E5%A5%B3%E5%9C%A8%E5%AD%AB%E5%85%88%E7%94%9F%E7%9A%84%E8%BE%B2%E5%A0%B4%E5%B7%A5%E4%BD%9C%E3%80%82&host=9e39ccf0285c3f99.ch1.aireacondicionadomurcia.eu#By AghaDani
 vless://02c10b0d-7d5e-4df6-b8ad-18f0f6cc7422@fi.avenpulse.ir:2087?encryption=none&type=tcp&headerType=http&host=play.google.com#By AghaDani
-trojan://mitivpn@104.16.72.70:443?type=ws&security=tls&path=index.php%3Dmitivpn&host=linkkon-a.ir&sni=linkkon-a.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://a03f0942-d910-41ad-9416-ced30fc60a09@91.107.190.49:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=aws.amazon.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.69:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#By AghaDani
 vless://7cdcb15e-ec7c-4b51-9e12-2e68d1eb1d28@lumora28.playon.ir:2087?path=%2Fapi%2Fv1%2Fassets%2Fsync&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lumora28.playon.ir&fp=chrome&type=ws&allowInsecure=0&sni=lumora28.playon.ir#By AghaDani
@@ -796,5 +798,3 @@ vless://ZoRoVpN@203.202.232.11:36068?path=%2FZoRoVpn&security=none&encryption=no
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.72:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#By AghaDani
 ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#By AghaDani
 vless://9bdd3d97-27e0-40bb-ba2f-c89cbe970318@naroto.96s.ir:80?mode=auto&path=%2Fobito&security=reality&encryption=none&pbk=y_WO1jyTc3ROz1aF_FbuIranHlEbjg4jNhXiBuSnqFU&host=naroto.96s.ir&fp=chrome&spx=%2FgWP01C5SFWa4ZX1&type=xhttp&sni=www.yahoo.com&sid=25b6e1e9e80f#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#By AghaDani
-vless://Telegram-Parsashonam@www.jorquna.ir:443?security=reality&encryption=none&pbk=k2hbpFLj1gfVXbx0Hae2bvMIZIaBwJcVG71XiEDkSD0&headerType=none&fp=firefox&spx=%2Fl7fQJYMI6OVOIfN&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=21cee1c9ab#By AghaDani
