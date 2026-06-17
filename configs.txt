@@ -1,3 +1,5 @@
+vless://3e72a68f-e40d-44c6-a73d-13b99d0d1d50@se.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#By AghaDani
+vless://2775321a-b11c-b6ec-fea0-e83bd8154f90@subgift-production-1.up.railway.app:443?encryption=none&security=tls&sni=&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=&path=%2Fws%2F2775321a-b11c-b6ec-fea0-e83bd8154f90#By AghaDani
 vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?security=reality&encryption=none&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sw1.panel11.ru&sid=8b263e22ba03b4c1#By AghaDani
 vless://ac80e5c9-dd49-4836-adf4-8895b647e65f@144.76.147.225:33420?encryption=none&fp=firefox&pbk=6tWlEQHZ2qTDZyv_o8t0wbdhmp9J1XFBM5rsJu9FHQc&security=reality&sid=ccf4befa62&sni=yahoo.com&spx=%2FIoWut2uXTVtCSHv&type=tcp#By AghaDani
 vless://1bd7d8d8-f90d-4c6d-bb2b-54720f282601@down.videobazi.com:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=6ba85179e30d4fc2#By AghaDani
@@ -796,5 +798,3 @@ vless://216c57fd-302f-4c67-a6ac-eb4b7dc70b2b@xn-ip1.dbssl.ir:443?encryption=none
 trojan://telegram-id-directvpn@3.64.2.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg4.auragg.org:48350?security=reality&encryption=none&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net#By AghaDani
 vless://c6ddf2a7-5c95-46ce-afcf-f7f5ff05f464@83.168.91.242:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#By AghaDani
-vless://b263b2ab-17af-43e2-9000-bc22b7929d00@46.4.162.63:443?security=&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv1.yunus.guru:443?security=reality&encryption=none&pbk=-X9CZv5MYKivpxPVP1vdgFKf2AJWmZ0Pju-j8LFmlh4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rezerv1.yunus.guru&sid=6c88854e73e86773#By AghaDani
