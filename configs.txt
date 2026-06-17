@@ -1,3 +1,4 @@
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
 vless://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0#By AghaDani
 vless://85740ce7-18c6-4aeb-88a8-4179d75fee5e@snapp.ir:8080/?type=ws&encryption=none&path=%2Fray&host=dwn.budgetnet.ir&security=none#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=cdn7-39.vk-cdnvideo.com&brand=%40Arvand_soul#By AghaDani
@@ -797,4 +798,3 @@ vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?path=%2F
 hysteria2://odnvqb4ihg396e5z@104.252.19.102:37025?security=tls&obfs=salamander&obfs-password=%40JynMarket&insecure=0&sni=104.252.19.102#By AghaDani
 trojan://telegram-id-privatevpns@18.157.199.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-directvpn@18.157.199.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-vless://22cb94a0-aa50-40fe-a970-3fdf3972d7ee@xvpn.cky.cl:34433?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=&type=tcp#By AghaDani
