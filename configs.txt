@@ -1,6 +1,7 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.72:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
 vless://1ffcdfd3-eebb-476e-af29-ddddc8d74fa8@rafeaftabsokhtegi.com:8880?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://631ae4e0-da9a-4d17-8c7d-c96d0bfb40d5@45.38.41.9:555?encryption=none&fp=chrome&pbk=XjZAyaenH5YE8T41tWUdyJoG6D_fSZSoFgjRjpa0yDI&security=reality&sid=ad&sni=www.google.com&spx=%2FYSd6Cmmhvlmrkbf&type=tcp#By AghaDani
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#By AghaDani
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.72:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
 trojan://SoftNetConnect@185.204.169.164:2087?mode=gun&security=reality&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=160b91b3#By AghaDani
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@www.speedtest.net:80?path=%2F%3Fed%3D3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#By AghaDani
 vless://1ffcdfd3-eebb-476e-af29-ddddc8d74fa8@rafeaftabsokhtegi.com:8880?security=&encryption=none&headerType=&type=tcp#By AghaDani
@@ -797,4 +798,3 @@ vless://fdba43e2-9dc3-4c3e-a890-08ab21e60081@89.125.20.100:443?security=reality&
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?security=reality&encryption=none&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=1.oncloudnineservicestreang.com&sid=28415a7918168947#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.113:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#By AghaDani
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.246:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=cdn9-33.vk-cdnvideo.com#By AghaDani
