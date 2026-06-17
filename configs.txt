@@ -1,3 +1,4 @@
+vless://44f7eb71-de22-4a9c-8d5a-64fb7115c82f@45.205.0.58:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=panel.fredomiran.com&fp=chrome&type=xhttp&sni=panel.fredomiran.com#By AghaDani
 vless://7a667800-a5c1-424c-a248-ec3dab041e21@193.93.169.30:443?encryption=none&fp=firefox&pbk=8gmseWvE09KA0mdLWQv9OxQMLQNYa5pSSH0CSjUtRD0&security=reality&sid=ee6647ca3ccb&sni=play.google.com&spx=%2FzRO93XZ7x6yUz5L&type=tcp#By AghaDani
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#By AghaDani
 vless://d6c8c72b-32ae-4ef5-8637-fb162d4eea81@199.232.244.3:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=ChromeAppleWebKit.global.ssl.fastly.net&fp=randomized&type=xhttp&allowInsecure=0&sni=global.fastly.com#By AghaDani
@@ -797,4 +798,3 @@ vless://7117a0c0-1e53-47c0-98d0-98af4f24f366@www.s5a8.ir.vidboxco.ir:443?securit
 vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#By AghaDani
 trojan://humanity@216.24.57.1:443?type=ws&security=tls&path=%2Fassignment&sni=www.gossipglove.com&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#By AghaDani
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#By AghaDani
-vless://7117a0c0-1e53-47c0-98d0-98af4f24f366@www.cdnwizardxray.com.vidboxco.ir:443?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=&sni=www.cdnwizardxray.com&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
