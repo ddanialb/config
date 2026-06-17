@@ -1,3 +1,4 @@
+trojan://SoftNetConnect@185.204.169.164:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=ca14e14437#By AghaDani
 ss://Y2hhY2hhMjAtaWyV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0uMXZZbVczSDQ=@149.28.255.6:816#By AghaDani
 ss://YWVzLTEyOC1nY206ycu2hhZG93c29ja3M=@37.19.198.243:443#By AghaDani
 trojan://MiTiVPN@45.131.4.118:443?security=tls&sni=linkkon-w.ir&alpn=http%2F1.1&type=ws&host=linkkon-w.ir&path=%2Fed%3Dmitivpn#By AghaDani
@@ -797,4 +798,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.199:8443?encryption=non
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.18.38.202:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.38:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#By AghaDani
 vless://e0346ac5-f345-44d9-a969-54378934e49f@z4.ramito.ir:2052?path=%2F&security=none&encryption=none&host=n4.ramito.ir&type=ws#By AghaDani
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=chrome&type=tcp&headerType=none#By AghaDani
