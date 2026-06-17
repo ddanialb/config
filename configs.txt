@@ -1,3 +1,4 @@
+vless://1572e9c1-78a9-4f14-a8fc-1790dce03787@91.107.149.166:8002?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://1572e9c1-78a9-4f14-a8fc-1790dce03787@91.107.149.166:8505?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://1572e9c1-78a9-4f14-a8fc-1790dce03787@91.107.149.166:7171?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://1572e9c1-78a9-4f14-a8fc-1790dce03787@91.107.149.166:2095?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
@@ -31,7 +32,6 @@ trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&insecure
 vless://4b00d726-e072-429b-997e-f07affea3b7f@162.159.81.104:80?path=%2FeyJqdW5rIjoiUEVTdDRlR2hhc0JuYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ&security=&encryption=none&host=icy-darkness-8ff1.farzambia12mo.workers.dev&type=ws#By AghaDani
 vless://6a281777-20c5-467c-844c-b34b3a818492@hm.khoycityman.ir:41319?security=none&encryption=none&host=play.google.com&headerType=http&type=tc#By AghaDani
 vmess://eyJhZGQiOiIxMDQuMTYuNTIuMTUwIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoicmFuZG9tIiwiaG9zdCI6IiIsImlkIjoiZjJkYjliZTgtNGNhYS00ZTAzLWE4YmEtYjlkNjc4ZThiY2MyIiwibmV0IjoieGh0dHAiLCJwYXRoIjoiL3BocC9hZG1pbi9sb2cvQHYyYm94X3YyL0B2MmJveF92Mi9AdjJib3hfdjIvQHYyYm94X3YyP2VkPTIwNDgiLCJwb3J0IjoiMjA1MyIsInBzIjoiQnkgQWdoYURhbmkiLCJzY3kiOiJhdXRvIiwic25pIjoiZ0VydE93MS5sT29sT29sT29sT28uY09NIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vless://1572e9c1-78a9-4f14-a8fc-1790dce03787@91.107.149.166:8002?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://c27538ca-d170-4182-87e5-aee87c8a0c4a@188.114.97.6:443?encryption=none&host=small-voice-c4c5.itsnewrzan.workers.dev&path=%2Fproxyip%3D40.233.87.120&security=tls&sni=small-voice-c4c5.itsnewrzan.workers.dev&type=ws#By AghaDani
 trojan://MiTiVPN@188.114.97.6:443?path=index.php%3Fmitivpn&security=tls&alpn=http%2F1.1&host=cdn.95r.ir&fp=chrome&type=ws&sni=cdn.95r.ir#By AghaDani
 trojan://MiTiVPN@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=wwww.95r.ir&fp=chrome&type=ws&sni=wwww.95r.ir#By AghaDani
