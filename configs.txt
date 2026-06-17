@@ -1,3 +1,5 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#By AghaDani
+vless://ecd04270-a335-4a68-9680-9512c3a59254@fastly.videobazi.com:443?security=tls&encryption=none&insecure=1&host=azaboijji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#By AghaDani
 vless://61083b26-db4c-4361-0544-5f0fa242deeb@snapp.ir:2087?encryption=none&type=ws&host=cdn.xelira.ir&path=/BetForward&security=tls&fp=chrome&sni=cdn.xelira.ir&alpn=h2,http/1.1,h3#By AghaDani
 trojan://MiTiVPN@104.21.18.41:443?type=ws&security=tls&path=%2Fcdn%3Dmitivpn&host=linkkon-w.ir&sni=linkkon-w.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
@@ -796,5 +798,3 @@ vless://b3939095-14db-47ec-9c15-2619440cc54e@208.103.161.101:2086?encryption=non
 vless://b3939095-14db-47ec-9c15-2619440cc54e@165.215.250.12:2086?ejnhcryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
 vless://b3939095-14db-47ec-9c15-2619440cc54e@104.21.17.144:2086?encryption=none&host=dev.speciq.cjo&pathn=%2F&security=none&tjype=xhttp&mode=packet-up#By AghaDani
 vless://b3939095-14db-47ec-9c15-2619440cc54e@172.67.153.251:2086?encrjyption=none&host=dev.specjiqj.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
-vless://b3939095-14db-47ec-9c15-26194j40cc54e@ip.sb:2086?encryption=none&host=dev.speciq.co&path=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
-vless://b3939095-14db-47ec-9c15-2619440cc54e@noora.ir:2086?encryption=none&host=dev.speciq.co&pajth=%2F&security=none&type=xhttp&mode=packet-up#By AghaDani
