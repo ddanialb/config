@@ -1,3 +1,6 @@
+vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@suolar.yellowsky.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bulghari.appleseraj.ir&fp=chrome&type=xhttp&sni=bulghari.appleseraj.ir#By AghaDani
+vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080/?type=tcp&encryption=none#By AghaDani
+vless://7799027a-6565-401c-aeef-8eb8dbe3c5a6@snapp.ir:80?type=ws&path=%2F&host=kabotar.garfar.ir&security=none#By AghaDani
 vless://76a556ba-cec0-4323-81d4-546ea40a360c@fir.iratom.com:80?security=none&type=xhttp&headerType=&path=%2F&host=center.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#By AghaDani
 vless://76a556ba-cec0-4323-81d4-546ea40a360c@fmci.iratom.com:80?security=none&type=xhttp&headerType=&path=%2F&host=center.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#By AghaDani
 vless://76a556ba-cec0-4323-81d4-546ea40a360c@mci.iratom.com:443?security=tls&type=ws&headerType=&path=%2Fatom10%3Fed%3D2560&host=d2.iratom.com&sni=d2.iratom.com&fp=#By AghaDani
@@ -750,9 +753,7 @@ vless://thug-tales@31.56.177.245:8443?security=reality&encryption=none&pbk=zYOFl
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#By AghaDani
 vless://48d28481-1d0f-4e3f-afd2-a0361ca50efa@nimbaha.yousefbn.com.turkcloud.ir:2022?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp¬e=@FreeOnlineVPN#By AghaDani
 vless://216c57fd-302f-4c67-a6ac-eb4b7dc70b2b@xn-ip1.dbssl.ir:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=xn-fr.dbssl.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=xn-fr.dbssl.ir#By AghaDani
-vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080/?type=tcp&encryption=none#By AghaDani
 vless://0ceffd8e-f934-44e1-9da9-4de93802da24@2.59.163.171:2053?security=reality&encryption=none&pbk=koRqYFz-aez3u654ePSV-UG1JMUhPGrfyqA5LpMaCCo&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=teamdocs.su&sid=e014a21095be#By AghaDani
-vless://7799027a-6565-401c-aeef-8eb8dbe3c5a6@snapp.ir:80?type=ws&path=%2F&host=kabotar.garfar.ir&security=none#By AghaDani
 vmess://eyJhZGQiOiAiNTEuMTk1LjIzNS43MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTllMjhmNzgtYzMxYi00NjEzLTlkOWYtMWU2NzMyYTMxZjQ2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDUyIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#By AghaDani
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#By AghaDani
@@ -797,4 +798,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?security=tls&enc
 vless://0a8681e2-d3e7-4bf8-b7a7-5e24b1063ceb@83.147.252.52:443?security=reality&encryption=none&pbk=iC8Bb2OV8PgEI0_4RPZecUE3vm6vsLnZ42zvbPeVIgw&headerType=none&type=tcp&sni=www.yahoo.com&sid=cb4d31a32bc04d7e#By AghaDani
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@108.162.195.230:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#By AghaDani
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
-vless://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0#By AghaDani
