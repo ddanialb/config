@@ -1,7 +1,9 @@
+vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#By AghaDani
+trojan://telegram-id-directvpn@15.236.14.109:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
+trojan://telegram-id-privatevpns@15.236.14.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://d32fef78-e18e-4f7a-9542-6f72456718af@2.27.22.238:110?encryption=none&security=none&type=tcp#By AghaDani
 vless://ea17caba-a5c4-4847-abce-105e65ee96d0@51.83.251.22:31961?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#By AghaDani
-vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#By AghaDani
 vless://e8d4b024-968d-478d-a201-a862958ec69a@188.121.111.137:443?security=&encryption=none&headerType=&type=tcp#By AghaDani
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=global.fastly.com#By AghaDani
 vless://d52259c7-591e-4879-b998-f4f4f6bbebd6@xn-ip1.dbssl.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=fl.dbssl.ir&mode=auto&path=%2F&security=tls&sni=fl.dbssl.ir&type=xhttp&x_padding_bytes=100-1000#By AghaDani
@@ -796,5 +798,3 @@ trojan://MiTiVPN@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http/1.
 vless://b4cbf736-c255-443a-b56f-e366a330ebe8@gb.fennix.cyou:443?encryption=mlkem768x25519plus.native.0rtt.pmGluiXLGVeoLV6PfVcn0xa_dpEwHT6BVN5Qyetaskw&host=&path=%2Fassets&security=tls&type=ws#By AghaDani
 vless://ce967499-9b55-480f-9d8e-6f2d37bba843@45.84.157.90:4102?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=badesaba.ir&fp=chrome&type=ws&sni=badesaba.ir#By AghaDani
 vless://9a1ca418-134f-4750-b97a-55ea81135742@167.82.101.251:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
-vless://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
-vless://36a41d68-7ee1-4eac-80de-76848f5879da@s1.meoshop.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=server.meoshop.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=server.meoshop.ir#By AghaDani
