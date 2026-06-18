@@ -1,6 +1,13 @@
+vless://36375980-bac6-4803-a183-6f1f2dee74bf@xn-ip1.dbssl.ir:2083?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&host=xn-fr.dbssl.ir&mode=auto&path=%2F&security=tls&sni=xn-fr.dbssl.ir&type=xhttp&x_padding_bytes=100-1000#By AghaDani
+ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0@162.19.254.232:2083#By AghaDani
+vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.34:443?encryption=none&security=tls&sni=website.yaroo383mardak.online&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir#By AghaDani
+vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@www.speedtest.net:2096?path=%2Fv2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet&security=tls&encryption=none&host=nhjydtgd454.manijippqw.workers.dev&fp=chrome&type=ws&sni=nhjydtgd454.manijippqw.workers.dev#By AghaDani
+vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.126:443?encryption=none&security=tls&sni=website.yaroo383mardak.online&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir#By AghaDani
+vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.59:443?encryption=none&security=tls&sni=website.yaroo383mardak.online&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir#By AghaDani
+vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.232:443?encryption=none&security=tls&sni=website.yaroo383mardak.online&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir#By AghaDani
+vless://a491b1c4-1141-4f59-9731-e0621f6e452f@8.6.112.234:443?encryption=none&security=tls&sni=website.yaroo383mardak.online&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir#By AghaDani
 vless://a491b1c4-1141-4f59-9731-e0621f6e452f@www.speedtest.net:443?encryption=none&security=tls&sni=website.yaroo383mardak.online&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=website.yaroo383mardak.online&path=%2F%40mahdi_383ir#By AghaDani
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#By AghaDani
-vless://36375980-bac6-4803-a183-6f1f2dee74bf@xn-ip1.dbssl.ir:2083?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&host=xn-fr.dbssl.ir&mode=auto&path=%2F&security=tls&sni=xn-fr.dbssl.ir&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://382874cf-38f0-48a2-a1ca-592710b006fc@140.248.185.253:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=&encryption=none&host=panel.dibaux.ir&type=ws#By AghaDani
 vless://3757a383-ca03-4d85-a4f0-5c9602a8949a@webb.gdsrguydsrghj.ir:1010?security=&encryption=none&headerType=http&type=tcp#By AghaDani
@@ -23,7 +30,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.5:443?path=%2Findex.html%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=vwytnu.pages.dev&ech=encryptedsni.com%2Budp%3A%2F%2F178.22.122.101&type=ws&allowInsecure=0&sni=vwytnu.pages.dev#By AghaDani
 trojan://MiTiVPN@151.101.110.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
-vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@www.speedtest.net:2096?path=%2Fv2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet&security=tls&encryption=none&host=nhjydtgd454.manijippqw.workers.dev&fp=chrome&type=ws&sni=nhjydtgd454.manijippqw.workers.dev#By AghaDani
 trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&sni=linkkon-w.ir#By AghaDani
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#By AghaDani
 trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=linkkon-w.ir&fp=chrome&type=ws&sni=linkkon-w.ir#By AghaDani
@@ -792,9 +798,3 @@ vless://c77d5867-7528-4062-8370-700eaf351560@cdn.textin.ir:2053?path=%2Fws%3Fed%
 vless://c77d5867-7528-4062-8370-700eaf351560@cdn8.nomac.ir:2082?path=%2F&security=none&encryption=none&host=fr2.nomac.ir&type=ws#By AghaDani
 vless://c77d5867-7528-4062-8370-700eaf351560@cdn8.nomac.ir:2082?path=%2F&security=none&encryption=none&host=de1.nomac.ir&type=ws#By AghaDani
 vless://8bb4bc79-2bf2-42af-9793-714fbb9f5244@01e2930b4a38cee0.vErTateCH.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
-vless://8bb4bc79-2bf2-42af-9793-714fbb9f5244@37ddec16bdec6d73.rICKunIVerSIty.Ir:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
-vless://8bb4bc79-2bf2-42af-9793-714fbb9f5244@nlns1.rICKunIVerSIty.Ir:7005?security=reality&encryption=none&pbk=yuhrNGOXd061lVl8AfE9wc7ctTApk-K6XAVnArJpWF8&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=dd9da58e3c5c641c#By AghaDani
-vless://8bb4bc79-2bf2-42af-9793-714fbb9f5244@eba0b7f2facd443e.RaVeNlO.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
-vless://136c2c8a-69df-4f3b-ad87-8f4782a8c4d1@cctvhikvision.center:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=%2Fapi-v1#By AghaDani
-vless://1ad4f619-c81a-44d7-9e4d-6e9f19115cab@bytodev.global.ssl.fastly.net:80?path=%2Fws&security=&encryption=none&type=ws#By AghaDani
-vless://e963d1e2-76bb-4e36-9470-3e1e17031676@ez-91bb9f.ezaccess1949d32.workers.dev:80?path=%2F&security=none&encryption=none&host=ez-91bb9f.ezaccess1949d32.workers.dev&fp=chrome&type=ws&sni=ez-91bb9f.ezaccess1949d32.workers.dev#By AghaDani
