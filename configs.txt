@@ -1,3 +1,7 @@
+trojan://MiTiVPN@151.101.110.219:443?security=tls&sni=global.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=mitivpn.global.ssl.fastly.net&path=%2Fed%3Dmitivpn#By AghaDani
+vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@104.26.0.7:443?encryption=none&security=tls&sni=baguette.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=baguette.adaspoloandco.com&path=%2FGoorBah#By AghaDani
+trojan://SoftNetConnect@194.5.193.58:8443?security=reality&sni=www.yahoo.com&fp=chrome&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=%2F&type=tcp&headerType=none#By AghaDani
+vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@104.18.152.231:2053?encryption=none&security=tls&sni=bulghari.appleseraj.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#By AghaDani
 vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=pan3.global.ssl.fastly.net&path=%2F#By AghaDani
 vless://9126b19d-53c8-4236-9f87-3bb88bf37804@global.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://9126b19d-53c8-4236-9f87-3bb88bf37804@mci.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#By AghaDani
@@ -794,7 +798,3 @@ ss://YWVzLTI1Ni1nY206bzlCWm13WGpwaWwxcTd1OVViRWlHZ1d4V0pYeC9UdDIwZnVrUFQyL2xBOD0
 trojan://humanity@www.calmloud.com:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmloud.com&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 trojan://humanity@172.64.147.223:443?type=ws&security=tls&path=%2Fassignment&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 trojan://humanity@172.67.155.199:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmloud.com&fp=ios&insecure=0&allowInsecure=0#By AghaDani
-trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=%2Fassignment&sni=www.gossipglove.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
-trojan://humanity@104.18.152.229:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=r1.mizulina.top#By AghaDani
