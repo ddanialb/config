@@ -1,3 +1,4 @@
+vless://cc0ce0ab-7286-4183-85f5-e855c052aef7@91.107.176.136:443?encryption=none&type=tcp&headerType=http&host=play.google.com#By AghaDani
 trojan://SoftNetConnect@194.5.193.58:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=c7#By AghaDani
 trojan://SoftNetConnect@194.5.193.58:2087?mode=gun&security=reality&authority=185.204.169.129&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=96a17085678b#By AghaDani
 vless://89049f79-320b-48a0-b1cf-110165cae30c@194.5.193.58:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#By AghaDani
@@ -797,4 +798,3 @@ vless://4119b0d2-1a04-4f4e-bb64-90d5292e6f18@pnl.irantilci.ir:2083?mode=auto&pat
 vless://0762de97-50e6-4a2b-af28-4b5f62005b16@62.60.148.47:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Bu5meN7LyRrB2ku0RF1Q9QHkdabrorXZsxXwHMeblCU&security=reality&sid=00e7a86fc971698a&sni=www.sony.com&spx=%2FoH3rQaA1U60kdNr&type=tcp#By AghaDani
 trojan://VN3zRAL4Hq@45.130.125.156:8080?type=ws&security=none&path=/da&host=s3.aananas.ir#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
