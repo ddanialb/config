@@ -1,6 +1,7 @@
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare.czkcdn.cn:443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#By AghaDani
-vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@www.speedtest.net:2096?path=%2Fv2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet&security=tls&encryption=none&host=nhjydtgd454.manijippqw.workers.dev&fp=chrome&type=ws&sni=nhjydtgd454.manijippqw.workers.dev#By AghaDani
 vmess://eyJhZGQiOiIyMTMuMTU2LjE1Mi43NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJAVjJSYXl5Tkd2cG4iLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvVjJSYXl5Tkd2cG4iLCJwb3J0IjoiMjA4NiIsInBzIjoiQnkgQWdoYURhbmkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://66a8358c-0a23-426f-498e-bff153d3d50b@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.poravo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.poravo.ir#By AghaDani
+vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@www.speedtest.net:2096?path=%2Fv2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet&security=tls&encryption=none&host=nhjydtgd454.manijippqw.workers.dev&fp=chrome&type=ws&sni=nhjydtgd454.manijippqw.workers.dev#By AghaDani
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#By AghaDani
 vless://ce967499-9b55-480f-9d8e-6f2d37bba843@194.116.236.222:4111?mode=gun&security=reality&encryption=none&pbk=DW2C6G0T-udzyIjKtBHiEZFkJT1OE2AcQaGjnpI2pno&fp=qq&type=grpc&serviceName=yourServiceName&sni=www.icloud.com&sid=9e0df5878ac2f3c8#By AghaDani
 trojan://humanity@159.112.235.52:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#By AghaDani
@@ -797,4 +798,3 @@ trojan://nhqAnGSvb5sNjWHvSNpishGMFK2vZnD%2BwhcA1P7erYs%3D@89.167.82.102:2053?sec
 trojan://nhqAnGSvb5sNjWHvSNpishGMFK2vZnD%2BwhcA1P7erYs%3D@89.167.82.102:2080?security=none&headerType=&type=tcp#By AghaDani
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bm5aYjIzM3diOGg5Y1pkbHdwSHdkSXQ0R1RBbGJLN0RRSk9CZE9ldzNTMD06bmhxQW5HU3ZiNXNOaldIdlNOcGlzaEdNRksydlpuRCt3aGNBMVA3ZXJZcz0@89.167.82.102:443#By AghaDani
 vless://d02f96b5-9d92-4b72-8e86-2fe2e184deeb@209.38.234.66:443?encryption=mlkem768x25519plus.native.0rtt.RHOotzuuoo-ImevmMxWexITYUBQEKhuvybb1EeUZPTg&fp=chrome&headerType=http&host=&path=%2F&pbk=UqW3DfuQK6Y77RSPztD1MHMBEooixJnmQMge5BJ9uUU&security=reality&sid=9a&sni=www.sony.com&spx=%2FSU3i8MF8okEqsOy&type=tcp#By AghaDani
-vless://4da72a60-61b9-4571-a054-1bba24bf6728@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=1&host=nesfeshzksab.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#By AghaDani
