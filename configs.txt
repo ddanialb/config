@@ -1,4 +1,5 @@
 trojan://%4d%69%54%69%56%50%4e@188.114.97.6:443?path=%2Fed%3D%6d%69%74%69%76%70%6e&security=tls&alpn=http/1.1&host=wwww.95r.ir&fp=chrome&allowinsecure=0&typ#By AghaDani
+vless://Default@104.18.35.28:443?encryption=none&security=tls&sni=bbb.behtarinshow32.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bbb.behtarinshow32.ir&path=%2Fws%2FDefault#By AghaDani
 trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#By AghaDani
 vless://fe210c0f-c94e-43ad-88f4-73edddd4289a@cdn-iran3.nimternet.com:2083?path=%2Fapi&security=tls&encryption=none&insecure=0&host=cdn2.nimternet.com&type=ws&allowInsecure=0&sni=cdn2.nimternet.com#By AghaDani
@@ -797,4 +798,3 @@ vless://deecd21a-a24f-444d-b92a-2c8e41a6b05b@191.44.118.101:443?encryption=none&
 vless://7d6e2364-4673-16c6-fd58-44ba179f75fc@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=&path=%2Fws%2F7d6e2364-4673-16c6-fd58-44ba179f75fc#By AghaDani
 vless://EarnMoneyarzZoRo@zorovpn.xubi.org:44910?mode=auto&path=%2FZoRo&security=reality&encryption=none&pbk=w4Lci_q_d5bDOlsFCNoTLO9PqnRXztq97EHGGyehNiI&fp=chrome&spx=%2F2JdYnN3YMPfuaEn&type=xhttp&sni=Www.yahoo.com&sid=7e6998f6602f9c#By AghaDani
 vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@116.203.94.160:2089?encryption=none&type=tcp&headerType=none&host=telewebion.com&security=none#By AghaDani
-trojan://3c976c6e-2b94-323b-1e75-68e4877f4283@135.84.67.77:2096?path=%2Fpmo&security=tls&pbk=enabled&insecure=0&host=pmoiran.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=pmoiran.qzz.io#By AghaDani
