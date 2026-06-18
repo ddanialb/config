@@ -1,3 +1,4 @@
+vless://ea17caba-a5c4-4847-abce-105e65ee96d0@51.83.251.22:31961?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv03.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv03.perfectbulk.info#By AghaDani
 vless://e1ebbd5e-ba89-4b05-8336-de7834d14164@45.130.125.126:443?path=%2F&security=tls&encryption=none&insecure=0&host=amirsa.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=amirsa.pages.dev#By AghaDani
 vless://b69b43d1-091d-4d7c-90b2-7a8bbad9d6a9@45.130.125.126:443?path=%2FeyJqdW5rIjoiY0U2T212Y21yeEhUZHRKYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=BItter-CreDIT-61b8.b76EbA0aBb.wORkerS.dEv&fp=chrome&type=ws&allowInsecure=0&sni=BItter-CreDIT-61b8.b76EbA0aBb.wORkerS.dEv#By AghaDani
@@ -521,7 +522,6 @@ vless://cd188f35-eb8e-448f-8919-8b698b2e79d6@167.233.151.227:53650?security=&enc
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.57:8443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://c6ddf2a7-5c95-46ce-afcf-f7f5ff05f464@83.168.91.242:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#By AghaDani
 vless://6e25f7b4-efce-425a-af98-3f310623bfa2@87.120.106.210:8044?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
-vless://ea17caba-a5c4-4847-abce-105e65ee96d0@51.83.251.22:31961?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://d52259c7-591e-4879-b998-f4f4f6bbebd6@xn-ip1.dbssl.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=fl.dbssl.ir&mode=auto&path=%2F&security=tls&sni=fl.dbssl.ir&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 trojan://MiTiVPN@151.101.1.194:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&sni=global.fastly.com#By AghaDani
 vless://3e90e726-ae18-42e4-9fee-7fcc3a9db251@94.228.125.193:52649?encryption=none&fp=chrome&pbk=0HtBxWKhB1yfpxPxbrtQllGPN888TY819Cp9mWPGIBs&security=reality&sid=1c3ad425&sni=www.yahoo.com&spx=%2F3noPn1VpvglAljN&type=tcp#By AghaDani
