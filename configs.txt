@@ -1,3 +1,7 @@
+vless://1bcf886c-0f48-4e06-39d6-d979ed81a672@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.rorian.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.rorian.ir#By AghaDani
+trojan://MiTiVPN@151.101.1.194:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#By AghaDani
+vless://6fb6d8c7-6a43-41a9-9c94-755c0ebf6e56@65.109.210.149:2026?security=reality&encryption=none&pbk=yt2kyF7DABbLCwB49Hd3VuNu7-QN57GiLoeiD5vVg30&headerType=none&fp=random&spx=%2F78NzPEqg0dKb6EM&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=c576f7ccd9019b#By AghaDani
+vless://53146906-5cb5-4332-ac19-d4822762b1cd@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#By AghaDani
 vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.140.140:8880?path=%2F&security=none&encryption=none&host=azsv1.drpingservice.com&type=ws#By AghaDani
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#By AghaDani
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.17.121.98:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#By AghaDani
@@ -537,7 +541,6 @@ vless://46a73b46-17df-419c-91d3-0b5247384e04@vip.accuratenetworkchecker.ir:443?s
 vless://4e441223-73ff-428e-b3e7-9a4da5b0957e@188.114.96.3:2096?path=%2FeyJqdW5rIjoiQlR3VHNNYlFjRnIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=broad-moon-00dc.hsvhdyxgdhsj.workers.dev&fp=chrome&type=ws&sni=broad-moon-00dc.hsvhdyxgdhsj.workers.dev#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.163:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
-vless://53146906-5cb5-4332-ac19-d4822762b1cd@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#By AghaDani
 vless://91679c30-bc1f-35e4-2cb2-ff0358e3d823@tmesubgift.up.railway.app:443?path=%2Fws%2F91679c30-bc1f-35e4-2cb2-ff0358e3d823&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#By AghaDani
 vless://11475b92-0ea9-4ac8-b143-882db431fc35@188.213.198.238:7080?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeXg1YXpXU1NBOEJtYWpP@20.107.209.255:443?outline=1&prefix=POST%20s33c4f0Q#By AghaDani
@@ -795,6 +798,3 @@ vless://2959c801-7615-4852-9186-02f6efff7441@188.213.198.238:8090?security=none&
 vless://2959c801-7615-4852-9186-02f6efff7441@188.213.198.238:4050?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://2959c801-7615-4852-9186-02f6efff7441@188.213.198.238:7080?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?path=&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
-vless://136c2c8a-69df-4f3b-ad87-8f4782a8c4d1@hikvision-plus.com:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=%2Fapi-v1#By AghaDani
-vless://18b7c3c7-b93c-4424-b6c1-c4f91a93ae3a@cdn.trakin.ir:80?encryption=none&host=cdn.trakin.ir&path=%2F&security=none&type=ws#By AghaDani
-vless://aed8656b-6479-4c04-9437-c7e16aa52a06@104.21.46.80:80?type=ws&host=jolly-base-0bce.hamedpop2.workers.dev&path=/eyJqdW5rIjoidXlXRjN1SVB6MllockoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560#By AghaDani
