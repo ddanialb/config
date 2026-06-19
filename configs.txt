@@ -1,3 +1,4 @@
+vless://38b4b113-ae06-46ea-bad3-78f76e90998e@zx.hostxyz.ir:53925?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#By AghaDani
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@35.72.81.216:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#By AghaDani
 vmess://eyJhZGQiOiAiMTU1LjI1NC4xMjYuMjQ5IiwgImFpZCI6ICIwIiwgImFscG4iOiBudWxsLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiBudWxsLCAiaWQiOiAiYTAzMDg0MmEtZDI5YS00ZWE5LWE3NzYtMTRmYzRiOWUxMDJkIiwgIm5hbWUiOiAi8J+HuvCfh7ggVVMgNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDYwMDQsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiBudWxsLCAidGxzIjogIiIsICJ0eXBlIjogbnVsbCwgInYiOiBudWxsLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9#By AghaDani
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMzcuMTkuMTk4LjI0Mzo0NDM=#By AghaDani
@@ -797,4 +798,3 @@ vless://0a6fb0d0-76b3-402c-883d-d502e49ce25e@146.75.121.42:80?mode=auto&path=%2F
 vless://2562bd96-560a-4999-84fe-6f1a2a8e0ecf@cdn2.portalcode.ir:2095?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
 vless://0a6fb0d0-76b3-402c-883d-d502e49ce25e@danap.ir:2053?path=%2F&security=tls&encryption=none&insecure=0&host=cabton.nyanners.ir&fp=ios&type=httpupgrade&allowInsecure=0&sni=cabton.nyanners.ir#By AghaDani
 vless://cc0ce0ab-7286-4183-85f5-e855c052aef7@91.107.176.136:443?security=&encryption=none&host=play.google.com&headerTye=http&type=tcp#By AghaDani
-vless://0a6fb0d0-76b3-402c-883d-d502e49ce25e@chatgpt.com:2053?path=%2F&security=tls&encryption=none&insecure=0&host=cabton.nyanners.ir&fp=random&type=httpupgrade&allowInsecure=0&sni=cabton.nyanners.ir#By AghaDani
