@@ -1,4 +1,5 @@
 trojan://%4d%69%54%69%56%50%4e@188.114.97.6:443?path=%2Fed%3D%6d%69%74%69%76%70%6e&security=tls&alpn=http/1.1&host=wwww.95r.ir&fp=chrome&allowinsecure=0&typ#By AghaDani
+vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#By AghaDani
 vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#By AghaDani
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#By AghaDani
 vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=greb.loralden.com&sid=3620820fe66d6731#By AghaDani
@@ -16,7 +17,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:80
 vless://e56ab08d-4e35-448b-8825-2982a39ebe26@dfssfddsfdfdfffddfdfjdfjdjfdfd.parscon.ir:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://2c0211bd-d8db-4794-9248-4dfdb201768f@37.156.43.207:15281?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=7Tl6MxuH1PZpbKIETVPK1he_MjOLtUeMTFiEek9HQiM&sid=cc9e62e80aedfb&spx=%2F7lzxWZJnQ1JCESc#By AghaDani
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#By AghaDani
-vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#By AghaDani
 vless://7506af01-9326-4c2f-ab77-1f568435777a@admin.console.support.admin.iranvatanam.com:700?security=none&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#By AghaDani
 vless://a8203aa1-7192-478c-9d18-bf93e6eb5b2a@37.49.229.225:443?security=reality&encryption=none&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=nl.kosmosapp.ru&sid=d0a1665d1b96515e#By AghaDani
 vless://adc476f9-fc85-e10e-741e-4910cc547c1d@167.82.101.210:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdnfasts.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#By AghaDani
