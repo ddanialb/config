@@ -1,7 +1,10 @@
-vless://c564b39d-4775-4fbd-9d00-1f09032ad6fd@tun3.lesss.ir:19911?mode=auto&path=%2F&security=none&encryption=none&host=tun2.lesss.ir&type=xhttp#By AghaDani
-vless://a35cbb36-a069-46ec-aaaa-834f9f55f187@free1.ziroxcompany.ir:8080?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=free.ziroxcompany.ir#By AghaDani
-vless://b36f0d66-50e1-41fc-b921-71c009a2a453@zx.hostxyz.ir:2053?path=%2Ffragconfig&security=none&encryption=none&host=play.google.com&type=ws#By AghaDani
 vmess://eyJhZGQiOiIyMTMuMTU2LjE1Mi43NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJAVjJSYXl5Tkd2cG4iLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvVjJSYXl5Tkd2cG4iLCJwb3J0IjoiMjA4NiIsInBzIjoiQnkgQWdoYURhbmkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://549bc59c-ffb6-42c6-961e-f7ec5f735284@plan.opann.ir:80?encryption=none&fp=chrome&pbk=TVEz-RP_HhYpHsidMK10iJbAuQVcJv0Np7F87Z4z-FU&security=reality&sid=bc0c7d636b51fba1&sni=www.yahoo.com&spx=%2FQLxZc4s8azhvyXZ&type=tcp#By AghaDani
+vless://a35cbb36-a069-46ec-aaaa-834f9f55f187@free1.ziroxcompany.ir:8080?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=free.ziroxcompany.ir#By AghaDani
+vless://c564b39d-4775-4fbd-9d00-1f09032ad6fd@tun3.lesss.ir:19911?mode=auto&path=%2F&security=none&encryption=none&host=tun2.lesss.ir&type=xhttp#By AghaDani
+vless://2d5cb213-27f8-469c-a72f-3d56d2788e3d@777i.ir:8443?security=reality&alpn=h2&encryption=none&pbk=LGsUSDRM9uI4-_XMbdjI1QHW-YauehcPFsaWx0R37EI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=dad3488446359a87#By AghaDani
+vless://8768c213-2590-4753-e092-175908c93db3@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&host=dns.rorian.ir&fp=chrome&type=ws&sni=dns.rorian.ir#By AghaDani
+vless://b36f0d66-50e1-41fc-b921-71c009a2a453@zx.hostxyz.ir:2053?path=%2Ffragconfig&security=none&encryption=none&host=play.google.com&type=ws#By AghaDani
 vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#By AghaDani
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#By AghaDani
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#By AghaDani
@@ -795,6 +798,3 @@ vless://dafd485a-1460-4082-8457-37fc9b54b317@91.107.166.66:1080?encryption=none&
 vless://AlfredConfig@104.17.107.134:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#By AghaDani
 vless://2330f424-ef1f-47ad-a42a-815e5c576820@www.speedtest.net:2087?mode=stream-up&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=r1.firefly-service.com#By AghaDani
 vless://AlfredConfig@159.246.55.251:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#By AghaDani
-vless://AlfredConfig@199.181.197.176:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#By AghaDani
-vless://AlfredConfig@164.38.155.135:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#By AghaDani
-vless://6e25f7b4-efce-425a-af98-3f310623bfa2@168.222.49.147:8044?security=none&allowInsecure=0&encryption=none&type=tcp&host=play.google.com&path=/&headerType=http#By AghaDani
