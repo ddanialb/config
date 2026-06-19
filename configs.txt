@@ -1,3 +1,5 @@
+vless://6e25f7b4-efce-425a-af98-3f310623bfa2@168.222.43.121:8044?security=none&allowInsecure=0&encryption=none&type=tcp&host=play.google.com&path=/&headerType=http#By AghaDani
+vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@assets.medium.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#By AghaDani
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.70.30:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=vms.lifetime09.workers.dev&type=ws#By AghaDani
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.30:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=vms.lifetime02.workers.dev&type=ws#By AghaDani
 vless://fb081516-90c5-4fb4-905a-a0b010a53b20@185.191.118.133:443?mode=auto&path=%2Fapi%2Fv2%2Fsync&security=reality&encryption=none&pbk=3Jd6aGidCvif3QMF5HczIiYvLGAD4t7mUVignyztHRY&fp=firefox&type=xhttp&sni=www.tradingview.com&sid=7f3e6a9d0c5b8214#By AghaDani
@@ -506,7 +508,6 @@ vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@cdn.medium.com:34482?type=tcp&encry
 vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@api.openai.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#By AghaDani
 vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@assets.udemy.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#By AghaDani
 vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@app.medium.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#By AghaDani
-vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@assets.medium.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#By AghaDani
 vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@beta.medium.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#By AghaDani
 vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@api.fiverr.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#By AghaDani
 vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@blog.mozilla.org:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#By AghaDani
@@ -607,7 +608,6 @@ vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.19:443?encryption=none&flo
 vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@188.114.97.6:443?security=tls&alpn=&fp=chrome&sni=alphacdn.alphashops.shop&type=ws&path=/ws&host=alphacdn.alphashops.shop#By AghaDani
 vless://b34b42e4-b5a2-4bb8-a561-3310a9111bdb@135.125.185.76:8443?security=reality&encryption=none&pbk=L93pUmrIq1nz9Me5tE_tUNL1HmCG0cUVwdnjmP9hxhQ&headerType=none&fp=safari&spx=%2F3RO2Oc8dKFYQOoq&type=tcp&flow=xtls-rprx-vision&sni=www.wolfssl.com&sid=6367828c9a95dd81#By AghaDani
 vless://a3f47446-4408-49ee-a1cc-534647fb0972@185.143.234.234:2052?path=%2Fassets%2Fjs%2Fapp.js&security=none&encryption=none&host=maziard2.site&type=ws#By AghaDani
-vless://6e25f7b4-efce-425a-af98-3f310623bfa2@168.222.43.121:8044?security=none&allowInsecure=0&encryption=none&type=tcp&host=play.google.com&path=/&headerType=http#By AghaDani
 vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@104.18.152.231:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bulghari.appleseraj.ir&fp=chrome&type=xhttp&sni=bulghari.appleseraj.ir#By AghaDani
 vless://Default@104.18.35.28:443?encryption=none&security=tls&sni=bbb.behtarinshow32.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bbb.behtarinshow32.ir&path=%2Fws%2FDefault#By AghaDani
 vless://fe210c0f-c94e-43ad-88f4-73edddd4289a@ip1.nimternet.com:2087?path=%2F&security=tls&encryption=none&insecure=0&host=api.nimternet.com&type=ws&allowInsecure=0&sni=api.nimternet.com#By AghaDani
