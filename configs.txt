@@ -1,3 +1,4 @@
+vmess://ewogICJhZGQiOiAic25hcHAuaXIiLAogICJob3N0IjogInZpcC5zd2FnNGV2ZXIuaXIiLAogICJpZCI6ICI5NDMwODc1ZC03MjAwLTQ3Y2QtYmNiMy0yYjFjZDU5ZWMxZmQiLAogICJuZXQiOiAid3MiLAogICJwYXRoIjogIi8iLAogICJwb3J0IjogODg4MCwKICAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLAogICJzY3kiOiAiIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiLAogICJ2IjogIjIiCn0=#By AghaDani
 vless://a22f41c2-614c-a657-a753-c9d3030525a7@104.18.33.45:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=dark-disk-f8ea.cbxxxxxxxx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dark-disk-f8ea.cbxxxxxxxx.workers.dev#By AghaDani
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#By AghaDani
 vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nlxeon41x611.potatosubge20.org#By AghaDani
@@ -797,4 +798,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA@
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.60.231:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Dchrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#By AghaDani
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
 vless://9e6ba1d8-2fd6-459c-8b15-a2a4cccb6313@eservices.tamin.ir:443?path=%2Fvideo&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn.tizpabar.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.tizpabar.ir#By AghaDani
-vless://78aa1ac4-516a-44f6-9d6e-4ba21c7f67fb@cdn4.portalcode.ir:2095?encryption=none&type=httpupgrade&path=%2F&host=amnpl2.monopolitass.ir#By AghaDani
