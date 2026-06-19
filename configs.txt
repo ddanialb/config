@@ -1,3 +1,4 @@
+trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 vless://8937c203-8ec6-477f-830b-939992cba4eb@local.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#By AghaDani
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@141.193.213.10:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=firefox&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#By AghaDani
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.42:10443?security=reality&encryption=none&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#By AghaDani
@@ -797,4 +798,3 @@ vless://390ac1b2-dbef-4124-b374-4e1baf24f0bb@5.42.101.151:443?security=reality&e
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.195:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.134:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://a8b4af61-2363-4233-b0e2-2118cc61e92b@89.105.217.98:7443?security=reality&encryption=none&pbk=SRx_6rZZrRgWuFz_U7NWxm_INn2kcfYlwC299jk_9nA&headerType=none&fp=chrome&spx=%2FCzBhHYbm3LnYC6t&type=tcp&sni=yahoo.com&sid=32b8319bd4635fa6#By AghaDani
-vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:8443?security=tls&allowInsecure=0&encryption=none&type=httpupgrade&fp=chrome&alpn=h2,http/1.1#By AghaDani
