@@ -1,3 +1,6 @@
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#By AghaDani
+vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nlxeon41x611.potatosubge20.org#By AghaDani
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&headerType=none&fp=qq&type=tcp&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://f038c4b5-e7d8-4a13-9e59-6fcb2653f26e@5.75.201.233:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.a9bMi9qRANou2aYIOhaAAWJ1HrDZixQWGAAAUfJRzU4&pbk=gGlPY1C7pDUKXio0eKZSo7bVlDuwtnFAFJZ_hEbGM1E&headerType=none&fp=chrome&spx=%2FLlfFHDa6YUwVKy8&type=tcp&sni=aws.amazon.com&sid=5d57fca3a25e#By AghaDani
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.28:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#By AghaDani
 vless://b44aed8f-def1-4c36-9bc1-e758323a8049@65.109.199.53:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.nvidia.com&sid=f8&spx=%2F&flow=xtls-rprx-vision#By AghaDani
@@ -795,6 +798,3 @@ vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=%2F&securi
 vless://9e6ba1d8-2fd6-459c-8b15-a2a4cccb6313@eservices.tamin.ir:443?path=%2Fvideo&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn.tizpabar.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.tizpabar.ir#By AghaDani
 vless://78aa1ac4-516a-44f6-9d6e-4ba21c7f67fb@cdn4.portalcode.ir:2095?encryption=none&type=httpupgrade&path=%2F&host=amnpl2.monopolitass.ir#By AghaDani
 trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmloud.com&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
-vless://2d5a0e0d-eb8e-4cf1-92ec-275db66f98ee@New1.telpermi.ir:2053?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=pro.telpermi.ir&allowInsecure=0&sni=pro.telpermi.ir#By AghaDani
-vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@s1.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#By AghaDani
-trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
