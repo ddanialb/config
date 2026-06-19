@@ -1,3 +1,4 @@
+vless://06a368f4-e62e-4486-97a1-4c60bb7a0eed@client.jison.ir:443?encryption=none&security=tls&sni=fty.jison.ir&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=sdt.jison.ir&path=%2Fws#By AghaDani
 vless://ed8cc0e7-57ad-4a8f-afca-df81ca5a3a03@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#By AghaDani
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#By AghaDani
 vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=greb.loralden.com&sid=3620820fe66d6731#By AghaDani
@@ -797,4 +798,3 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.165:8443?security=tls&enc
 vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.174:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.11:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@ips.list.nonpath.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
