@@ -1,3 +1,4 @@
+vless://44f2c751-8c9b-403c-9be6-0058f7ac338c@kilime.xubi.org:666?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#By AghaDani
 trojan://humanity@198.62.62.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
 vless://b9fa5a10-c8cd-453c-911b-3d6dad4a4aff@fn2-unlimited.q09.ir:1020?security=reality&encryption=none&pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3fa2fdb7dce16b8b#By AghaDani
@@ -797,4 +798,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&enc
 vless://bcf34e48-afca-41d5-93bb-a7085d49f773@ez-60fb07.ezaccess1045bae.workers.dev:2095?path=%2F&security=none&encryption=none&insecure=0&host=ez-60fb07.ezaccess1045bae.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-60fb07.ezaccess1045bae.workers.dev#By AghaDani
 vless://69ab2e09-760b-4322-8f44-02dd9204cf1c@www.speedtest.net:2087?path=%2F&security=tls&encryption=none&insecure=0&host=ez-63ee45.fijag76408.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-63ee45.fijag76408.workers.dev#By AghaDani
 vless://b8f58a98-313c-6882-1c90-a01d46418eb5@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=%2Fws%2Fb8f58a98-313c-6882-1c90-a01d46418eb5#By AghaDani
-vless://bcf34e48-afca-41d5-93bb-a7085d49f773@ez-60fb07.ezaccess1045bae.workers.dev:2086?path=%2F&security=none&encryption=none&insecure=0&host=ez-60fb07.ezaccess1045bae.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-60fb07.ezaccess1045bae.workers.dev#By AghaDani
