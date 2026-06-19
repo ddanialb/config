@@ -1,5 +1,6 @@
-trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
+vless://8bdb8a7d-7d10-412f-8492-031b9dd40eb0@172.67.220.1:2087?path=%2Fapi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=auth.rahimravan.ir&fp=chrome&type=ws&allowInsecure=0&sni=auth.rahimravan.ir#By AghaDani
 trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#By AghaDani
+trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.34.119:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=firefox&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#By AghaDani
 vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#By AghaDani
 vless://a9d3f779-43ae-ee7d-4dc3-fa073c1797d8@dd.ircybersec.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#By AghaDani
@@ -86,7 +87,6 @@ vless://4bb063ef-12db-26d5-57c4-0af616c5fb87@tmesubgift.up.railway.app:443?path=
 vless://f08aea99-cde0-4ab9-845e-fdef08504bd5@al.luxetrip.ir:8080?encryption=none&security=none&type=xhttp&host=al.luxetrip.ir&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#By AghaDani
 vless://e3b0c56b-43e3-46b1-8960-b56100c9b894@65.109.199.53:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.nvidia.com&sid=f8&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 vless://210a8d23-8bb0-4df3-ada5-d60d421bb700@66.33.22.242:443?mode=auto&path=%2Fapi&security=tls&encryption=none&insecure=0&host=jalalprooo-production.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=jalalprooo-production.up.railway.app#By AghaDani
-vless://8bdb8a7d-7d10-412f-8492-031b9dd40eb0@172.67.220.1:2087?path=%2Fapi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=auth.rahimravan.ir&fp=chrome&type=ws&allowInsecure=0&sni=auth.rahimravan.ir#By AghaDani
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#By AghaDani
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.27.66.214:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#By AghaDani
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?Telegram=@kurdconfig&Telegram=@kurdconfig&type=tcp#By AghaDani
