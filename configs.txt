@@ -1,3 +1,4 @@
+vless://5c6ec644-1187-470d-82ed-ce01ac927109@45.145.41.39:443?security=reality&encryption=none&pbk=5XQtnf0tfYGf0Zux0lc88Uvto7dlA8-3ICVZMcc43Ts&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=pinterest.com#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&headerType=none&fp=qq&type=tcp&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=%2Fau-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#By AghaDani
 vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&sni=BpB-expO--10RaYly4zY.EXPO.App#By AghaDani
@@ -24,7 +25,6 @@ vless://5c6ec644-1187-470d-82ed-ce01ac927109@51.250.31.124:8442?security=reality
 vless://5c6ec644-1187-470d-82ed-ce01ac927109@64.188.80.58:443?security=reality&encryption=none&pbk=lJGBMgeSYrhJyK01eYOOfj-4v0Mie1ayZwbjQfm-SQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=x5.ru#By AghaDani
 vless://5c6ec644-1187-470d-82ed-ce01ac927109@45.157.234.114:9999?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443?security=reality&encryption=none&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sw1.panel11.ru&sid=8b263e22ba03b4c1#By AghaDani
-vless://5c6ec644-1187-470d-82ed-ce01ac927109@45.145.41.39:443?security=reality&encryption=none&pbk=5XQtnf0tfYGf0Zux0lc88Uvto7dlA8-3ICVZMcc43Ts&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=pinterest.com#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@77.42.33.181:1085#By AghaDani
 vless://e91968bc-2784-4a85-b482-2c09410b8b92@188.114.97.6:2053?path=%2FeyJqdW5rIjoieThXekpZYmQzOWFFN2FzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=wispy-frog-ad70.sfhurfvhgefyj.workers.dev&type=ws&allowInsecure=0&sni=wIspy-FROg-Ad70.sfHuRFVhgEfYj.WORKErS.Dev#By AghaDani
 trojan://%4d%69%54%69%56%50%4e@188.114.97.6:443?path=%2Fed%3D%6d%69%74%69%76%70%6e&security=tls&alpn=http/1.1&host=wwww.95r.ir&fp=chrome&allowinsecure=0&type=ws&sni=wwww.95r.ir#By AghaDani
