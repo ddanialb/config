@@ -1,3 +1,5 @@
+vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?encryption=none&security=none&type=ws&path=%2Fa12b0d31#By AghaDani
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@52.221.196.31:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&sid=ed41&spx=%2Fis7UqNeUm5nh8rQ&type=tcp&headerType=none#By AghaDani
 vless://38152672-e48f-4115-9dfe-1bedf1a0f82f@64.176.72.154:443?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
 vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&sid=61&spx=%2FsGULnrxkHirfMkb&type=tcp&headerType=none#By AghaDani
 trojan://humanity@104.16.71.213:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=%2Fassignment#By AghaDani
@@ -796,5 +798,3 @@ vless://e56ab08d-4e35-448b-8825-2982a39ebe26@dfssfddsfdfdfffddfdfjdfjdjfdfd.pars
 vless://06795288-3b02-0c10-9b72-f26b7bdcd82e@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/06795288-3b02-0c10-9b72-f26b7bdcd82e#By AghaDani
 vless://efd8dcae-ad9a-4909-93cd-3a12a216ead1@danap.ir:2053?encryption=none&security=tls&sni=cabton.nyanners.ir&fp=ios&insecure=0&allowInsecure=0&type=httpupgrade&host=cabton.nyanners.ir&path=/#By AghaDani
 vless://00b2c573-d37e-447b-a979-5b940be44fd4@89.116.250.135:2053?encryption=none&security=tls&type=ws&headerType=none&sni=fl.matrix-shop.ir&alpn=http/1.1#By AghaDani
-trojan://telegram-id-privatevpns@3.70.56.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-vless://0dc7f4b5-5ad1-41f4-857a-9d9ddda6f89a@cd1.consolgame.ir:2095?path=/&security=&encryption=none&host=sapogemi.consolegamenet.ir&type=httpupgrade#By AghaDani
