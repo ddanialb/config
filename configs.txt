@@ -1,7 +1,11 @@
-vless://f051461c-c9d5-4961-bdf1-c90e56ac2607@swelight.soltankabos.ir:443?encryption=none&fp=chrome&host=amtal.soltankabos.ir&path=%2Fws%3Fed%3D2560&security=tls&sni=amtal.soltankabos.ir&type=ws#By AghaDani
+vless://21586145-759e-4d6d-8108-2b2bc80db48c@ansooyefilter.njati.ir:45008?security=reality&encryption=none&pbk=WDy6zbbz16m9btElwJhyr8edgNchhm6MjWP9Mm1voCo&headerType=none&fp=chrome&spx=%2FawiPYqXTiPBgUxN&type=tcp&sni=www.amazon.com&sid=5e0d81f99c895c0b#By AghaDani
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&host=terazhediii.info&fp=chrome&type=ws&sni=terazhediii.info#By AghaDani
 vless://f001e3b3-f13d-4805-8486-5d41a3cdc327@ray2.irajapan.store:65535?security=reality&encryption=none&pbk=aF6fxF58LZaoZlo1q855KSCjk1GyTWUeNAib5Q-Q6jI&headerType=&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2b#By AghaDani
+vless://c7b7209f-b449-4092-82b0-1bf877c190e9@ez-421a72.mohamadfarajian09144538950.workers.dev:443?path=%2F&security=tls&encryption=none&host=ez-421a72.mohamadfarajian09144538950.workers.dev&fp=ios&type=ws&sni=ez-421a72.mohamadfarajian09144538950.workers.dev#By AghaDani
+vless://f051461c-c9d5-4961-bdf1-c90e56ac2607@swelight.soltankabos.ir:443?encryption=none&fp=chrome&host=amtal.soltankabos.ir&path=%2Fws%3Fed%3D2560&security=tls&sni=amtal.soltankabos.ir&type=ws#By AghaDani
 vless://347206f0-eb8f-46a1-a59c-6bc5c5360380@89.106.86.101:25130?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=UwQaEFtxHQWq3Hmtac-joTReqyfkmtfze27QCT8a5mk&sid=2d0eafa66b&spx=%2FVxW8juBSZZGUM7z&type=tcp&headerType=none#By AghaDani
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.243.193:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#By AghaDani
+trojan://telegram-id-privatevpns@13.38.243.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-directvpn@13.38.243.193:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
 hysteria2://a2d6ZPXIID@185.250.41.245:443?security=tls&obfs=salamander&obfs-password=T.me%2FV2RayyNGvpn&insecure=1#By AghaDani
@@ -27,7 +31,6 @@ vless://ad73ff14-a0e3-46d1-adc0-02ca29a32485@18.153.81.34:443?encryption=none&se
 vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9&type=tcp&headerType=none#By AghaDani
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#By AghaDani
 vless://9c513774-57f1-4047-8d88-67544bb662f3@client.jison.ir:443?type=ws&path=%2Fws&host=sdt.jison.ir&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fty.jison.ir#By AghaDani
-trojan://telegram-id-privatevpns@13.38.243.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://MiTiVPN@167.82.101.251:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 trojan://MiTiVPN@140.248.185.253:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 trojan://MiTiVPN@151.101.110.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
