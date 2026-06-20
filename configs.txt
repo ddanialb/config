@@ -1,3 +1,6 @@
+trojan://MiTiVPN@167.82.101.251:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
+trojan://MiTiVPN@140.248.185.253:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
+trojan://MiTiVPN@151.101.110.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.240.44:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#By AghaDani
 vless://7796f5bf-7433-4e00-a9fd-6233ccb91df7@fr.eorqen.ir:8086?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#By AghaDani
@@ -60,12 +63,9 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?security=tls&enc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#By AghaDani
 trojan://mitivpn@104.16.72.70:443?path=%2Findex.php%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#By AghaDani
-trojan://MiTiVPN@167.82.101.251:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=global.fastly.com#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2QXo1aXh6VHJyYUlIZ0h2Um11YnBR@91.107.162.179:1080#By AghaDani
-trojan://MiTiVPN@140.248.185.253:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#By AghaDani
-trojan://MiTiVPN@151.101.110.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBNmVFdVJRVTRBRk01a2I0ZkgxYi1n@108.61.173.149:156#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaWkxNUlOVU1sc1htUlFMSzdZR3NacHF6YXdtOU13azFxb0p5VGNpTTNnPQ@k1.cover20.ir:52502#By AghaDani
 vless://0b159f04-7538-402e-9aad-3f1872352358@216.128.158.143:443?encryption=none&fp=chrome&pbk=klRfM66C53BcaMNHjMPaqmIgLdJG2YJul7k3MHIsLUo&security=reality&sid=3cd734f5&sni=www.microsoft.com&spx=%2FBK7DmAXOsp8wbQ6&type=tcp#By AghaDani
