@@ -1,12 +1,12 @@
-vless://52333a88-607c-4484-be97-451f625e6c50@ips.list.nonpath.ir:3350?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=ios&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#By AghaDani
-vless://83bea1c3-4386-44cc-96de-e72e529a4244@s2.cvbesty.ir:58784?mode=gun&security=reality&encryption=none&pbk=THDZjFEtOb85UM7wb9gMkaQeL2sJBarNw4RJ-mBrdWM&fp=chrome&spx=%2F&type=grpc&sni=yahoo.com&sid=3f5684#By AghaDani
-vless://52333a88-607c-4484-be97-451f625e6c50@fi.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=fi.mobileemdad.top#By AghaDani
 vless://52333a88-607c-4484-be97-451f625e6c50@ips.list.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
+vless://52333a88-607c-4484-be97-451f625e6c50@ips.list.nonpath.ir:3350?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=ios&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#By AghaDani
+vless://52333a88-607c-4484-be97-451f625e6c50@fi.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=fi.mobileemdad.top#By AghaDani
 vless://52333a88-607c-4484-be97-451f625e6c50@du.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=du.mobileemdad.top#By AghaDani
-vless://52333a88-607c-4484-be97-451f625e6c50@s1.gmax12.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://52333a88-607c-4484-be97-451f625e6c50@am.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://52333a88-607c-4484-be97-451f625e6c50@dubai.gmax12.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://b3be53ff-2395-4efa-8c44-ae7d23997b07@main.devilfullspeed.com:2053?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.AXtkETbAwTM_es9j2j7hbSAI-ScH13wFgdEtVtms_jg&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=EU7T0zp5gHz8Bk6g2JGCmajFdWCNtS_8_4H60OvMW20&host=main.devilfullspeed.com&fp=ios&spx=%2F84BAmnOxYdYB7ME&type=xhttp&sni=play.google.com&sid=34f07975#By AghaDani
+vless://83bea1c3-4386-44cc-96de-e72e529a4244@s2.cvbesty.ir:58784?mode=gun&security=reality&encryption=none&pbk=THDZjFEtOb85UM7wb9gMkaQeL2sJBarNw4RJ-mBrdWM&fp=chrome&spx=%2F&type=grpc&sni=yahoo.com&sid=3f5684#By AghaDani
+vless://52333a88-607c-4484-be97-451f625e6c50@s1.gmax12.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://0fb9541a-9200-4e0e-acc4-b1f167bf15df@de.wenda.ir:80?encryption=none&security=none&type=ws&host=de.wenda.ir&path=%2Fconnect#By AghaDani
 vless://877268fc-0aaa-44ef-b138-7d6fd8b996a6@ez-f24424.ezaccess1fbd72f.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-f24424.ezaccess1fbd72f.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-f24424.ezaccess1fbd72f.workers.dev#By AghaDani
 vless://ac9daa31-f637-4dc1-b5cf-3f7dbfee23aa@ez-3db455.mehrshad1596.workers.dev:443?path=%2F&security=tls&encryption=none&host=ez-3db455.mehrshad1596.workers.dev&fp=chrome&type=ws&sni=ez-3db455.mehrshad1596.workers.dev#By AghaDani
