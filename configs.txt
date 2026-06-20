@@ -1,3 +1,4 @@
+vless://f151b85f-ddd6-04a6-1ff0-012168e7ae9d@104.19.229.21:2096?path=%2Fsync&security=tls&encryption=none&insecure=0&host=jolly-dew-3c9d.mhmdmargyr0.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jolly-dew-3c9d.mhmdmargyr0.workers.dev#By AghaDani
 vless://365d891e-73c7-4b61-85b8-cbc7e58cbdbe@65.109.217.246:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.oracle.com&sid=f8&spx=%2F#By AghaDani
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#By AghaDani
 vless://21bd2157-dc4c-4e73-a753-c3129dbeeaa6@nlir.iran158.site:40445?security=reality&encryption=none&pbk=gsk0v_y6a37-d-frX1flAxeaIoyvl7KKP8BiGk3MM0U&headerType=http&fp=random&spx=%2FiEmUpXZrsSmgerg&type=tcp&sni=www.yahoo.com&sid=3d4959c013#By AghaDani
@@ -13,7 +14,6 @@ vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4aVcyR0VsT0xXbDladGpq@4.168.196.7:443#By AghaDani
 vless://3538a8ff-3acb-417e-892e-c652b231f35a@45.130.125.221:2083?path=%2F&security=tls&encryption=none&insecure=0&host=CDN.Softarg.ir&fp=chrome&type=ws&allowInsecure=0&sni=CDN.Softarg.ir#By AghaDani
-vless://f151b85f-ddd6-04a6-1ff0-012168e7ae9d@104.19.229.21:2096?path=%2Fsync&security=tls&encryption=none&insecure=0&host=jolly-dew-3c9d.mhmdmargyr0.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jolly-dew-3c9d.mhmdmargyr0.workers.dev#By AghaDani
 trojan://MiTiVPN@140.248.185.253:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#By AghaDani
 trojan://MiTiVPN@167.82.101.251:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#By AghaDani
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#By AghaDani
