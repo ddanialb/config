@@ -1,3 +1,5 @@
+vless://2dacceea-8664-4fed-ba16-27fdd3b40f3e@s5.meoshop.ir:2053?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/&sni=baba.meoshop.ir&fp=chrome&mode=auto&alpn=h2,http/1.1&extra=%7B%0A%20%20%22xPaddingBytes%22%20:%20%22100-1000%22%0A%7D#By AghaDani
+vless://1a5d6dea-3769-43b1-a39d-7225cf01b2bd@185.147.127.101:40443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=deepl.com&sid=d56f&pbk=a-GLfBU_yhZcBKPODh1zl-Ypj-jm4nYN_fkHBhMGAGs&headerType=none#By AghaDani
 trojan://MiTiVPN@167.82.101.251:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 trojan://MiTiVPN@140.248.185.253:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 trojan://MiTiVPN@151.101.110.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-s2.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
@@ -796,5 +798,3 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?mode=gun&securi
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#By AghaDani
 vless://db29a2a9-9495-42e8-2fb1-b80564aae5c0@snap8jp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&hostu=cdn.qorilo.ir&fp=chrome&type=ws&allowInszecure=0&sni=cdn.qorilo.ir#By AghaDani
 vless://1db560b7-bc65-4ab7-be33-d2d9645203f4@snapp.ir:8080?path=%2Fray&security=none&encryption=none&host=dwn.budgetnet.ir&type=ws#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.46:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#By AghaDani
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#By AghaDani
