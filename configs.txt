@@ -1,3 +1,7 @@
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.69:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-39.vk-cdnvideo.com&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
+vless://2d6d770f-57cf-4629-bc55-3f2d5c42b4ef@germanyjkjklj.dadashinet10.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#By AghaDani
+trojan://MiTiVPN@188.114.97.6:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=wwww.95r.ir&sni=wwww.95r.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://c08d8a6c-7386-46eb-af1a-94d2a390fbd2@mehdy.mohrazai.ir:80?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#By AghaDani
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#By AghaDani
 vless://976e0c2d-72cc-4594-ad79-b7cc54bdcc66@jahan25.irbazi.com:443?path=%2Fvr1025%3Fed%3D2560&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=jahan25.irbazi.com#By AghaDani
@@ -5,7 +9,6 @@ vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@news.microsoft.com:443?path=%2Fpoiu
 vless://6f4b6e90-3e91-4ad2-8c3f-d0e4dd29264b@most-ger-8.linkey46.ru:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=most-ger-8.linkey46.ru#By AghaDani
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#By AghaDani
 ss://eyJhZGQiOiAiYXRpaW5zLmNvbS50ciIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICI5Nzc3NTkzNi0wNWVhLTRmZWEtODU2Mi1lOWViOTg1NTk3OTAiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkBuZWtvcGluZ2JvdF8yMDcxNSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiYXRpaW5zLmNvbS50ciIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==#By AghaDani
-vless://2d6d770f-57cf-4629-bc55-3f2d5c42b4ef@germanyjkjklj.dadashinet10.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@198.41.208.42:443?path=%2FV2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast&security=tls&encryption=none&host=calm-base-e99e.pofokjimi.workers.dev&fp=chrome&type=ws&sni=calm-base-e99e.pofokjimi.workers.dev#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTUptTU5vRm9NVmpTRm1n@biqpj.padafan.de:49072#By AghaDani
 vless://6e7ebc40-58a6-c567-4ae8-51b7605a272b@www.ar1.plusmusical8.ir:8880?encryption=none&security=none&type=httpupgrade&host=ygefuoegfuioy.whiteshopp.com.&path=%2F%3Fed%3D2082#By AghaDani
