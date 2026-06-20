@@ -1,3 +1,4 @@
+trojan://humanity@45.130.125.126:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=ww#By AghaDani
 vless://2ffe3aa9-557f-4e10-bfa1-cd72ce005ae4@game.dotagames.ir:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2265536%22%2C%22xPaddingBytes%22%3A%2230-250%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&host=game.dotagames.ir&fp=ios&type=xhttp&allowInsecure=0&sni=game.dotagames.ir#By AghaDani
 vless://faba5c5f-8258-4304-b2a0-7e4bef9c237b@hm.khoycityman.ir:41319?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed&security=tls&encryption=none&host=t02.tzteam.online&fp=firefox&type=ws&sni=t02.tzteam.online#By AghaDani
@@ -17,7 +18,6 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.60:8443?security=tls&en
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?encryption=none&type=ws&security=tls&path=%2F%3Fed&host=t02.tzteam.online&sni=t02.tzteam.online&fp=firefox&insecure=0&allowInsecure=0#By AghaDani
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 trojan://MiTiVPN@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#By AghaDani
-trojan://humanity@45.130.125.126:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=ww#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.140:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?encryption=none&type=ws&security=tls&path=%2F&host=bazaryabab.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#By AghaDani
 trojan://MiTiVPN@151.101.110.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-6.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
