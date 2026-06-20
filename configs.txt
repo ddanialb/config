@@ -1,3 +1,4 @@
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://976e0c2d-72cc-4594-ad79-b7cc54bdcc66@jahan25.irbazi.com:443?path=%2Fvr1025%3Fed%3D2560&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=jahan25.irbazi.com#By AghaDani
 vless://e0346ac5-f345-44d9-a969-54378934e49f@z9.asamping.ir:2052?encryption=none&security=none&type=ws&host=z5.asamping.ir&path=%2F#By AghaDani
 trojan://1tMXmaYmJ7PmnTuyaRmXaA@sv4.hosttbd.ir:10004?security=none&host=PuLaVPN.Net&headerType=none&type=tcp#By AghaDani
@@ -40,7 +41,6 @@ trojan://SoftNetConnect@83.228.224.161:42549?type=tcp&security=tls&sni=www.speed
 vless://0eb4df53-376b-4603-a622-ae60b7843155@49.12.113.224:3001?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYjhOTjkyeUtrWDFrS1FE@20.107.208.165:443#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.14:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://396791d8-ac63-43f4-8ec2-e17dd6e5dbf8@65.109.219.2:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.oracle.com&sid=f8&spx=%2F#By AghaDani
 vless://7d938228-0ee2-4758-9f33-1a6c6592b791@files.netraidly.ru:40443?security=reality&encryption=none&pbk=a1UMmt4ytNFwDizX92056cCle6dG1ASF46vf4awNXTk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=d46b#By AghaDani
 vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2096?path=%2F&security=tls&encryption=none&insecure=0&host=ez-78f74e.mhdiglbi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-78f74e.mhdiglbi.workers.dev#By AghaDani
