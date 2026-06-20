@@ -1,3 +1,6 @@
+trojan://telegram-id-directvpn@35.181.86.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
+vless://4a459930-c09e-4813-87ad-40e169bcd01b@46.8.238.55:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.145:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.97:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#By AghaDani
 trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#By AghaDani
 vless://2ffe3aa9-557f-4e10-bfa1-cd72ce005ae4@game.dotagames.ir:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2265536%22%2C%22xPaddingBytes%22%3A%2230-250%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&host=game.dotagames.ir&fp=ios&type=xhttp&allowInsecure=0&sni=game.dotagames.ir#By AghaDani
@@ -7,7 +10,6 @@ vless://c420ee7d-a567-46d2-8571-c78ac0c87428@snapp.ir:2082?security=none&type=ws
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://d8e4078f-2d41-4726-a4e0-5bab41878b58@kamo1.parsianboton.ir:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=kamo.parsianboton.ir&fp=random&type=ws&allowInsecure=0&sni=kamo.parsianboton.ir#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.71:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#By AghaDani
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.145:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#By AghaDani
 vless://c420ee7d-a567-46d2-8571-c78ac0c87428@milli.gold:8880?security=none&type=ws&headerType=&path=%2F&host=arv3.wzpower.ir#By AghaDani
 vless://c420ee7d-a567-46d2-8571-c78ac0c87428@anten.ir:2095?security=none&type=ws&headerType=&path=%2F&host=arv4.wzpower.ir#By AghaDani
 vless://c420ee7d-a567-46d2-8571-c78ac0c87428@bmi.ir:8080?security=none&type=ws&headerType=&path=%2F&host=arv1.wzpower.ir#By AghaDani
