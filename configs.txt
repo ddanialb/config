@@ -1,3 +1,5 @@
+vless://c8a8dcf1-18aa-40e6-97d5-5dae9912e51b@65.109.219.2:4043?security=reality&encryption=none&pbk=fZb2ML3bJWVeV7e2_pQ9RaHqB_kJBJr7dfx6yxXJCGI&headerType=none&fp=chrome&spx=%2FfbwsdGcmCKUzP7S&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=c05ff1c8e194#By AghaDani
+vless://c8a8dcf1-18aa-40e6-97d5-5dae9912e51b@65.109.219.2:2096?security=reality&encryption=none&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&headerType=none&fp=chrome&spx=%2F9tRKdJ4jBlR3hUX&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=6539f0972b2755af#By AghaDani
 vless://9f2ecebe-3a52-460e-80ac-74a21fffdaf7@198.41.223.119:443?path=%2FV2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet&security=tls&encryption=none&host=licfgytggv.esmalkjj.workers.dev&fp=chrome&type=ws&sni=licfgytggv.esmalkjj.workers.dev#By AghaDani
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://02c10b0d-7d5e-4df6-b8ad-18f0f6cc7422@gr1.avenpulse.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
@@ -796,5 +798,3 @@ vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?encryption=no
 vless://65f60e93-dbad-42b3-8856-7ca1c809adaa@2.27.22.238:110?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.151.6:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#By AghaDani
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#By AghaDani
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.220:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#By AghaDani
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.148.104:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#By AghaDani
