@@ -1,9 +1,12 @@
+vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@thomas.proxy.rlwy.net:39392?mode=auto&path=%2Fxh&security=reality&encryption=none&pbk=CrEL0U-ugDvMuUfmR5sM0GLZryu7oDMmA-3v812Vljo&fp=chrome&type=xhttp&sni=yahoo.com&sid=0123456789abcdef#By AghaDani
+vless://b2ec1e04-17b8-48ee-966e-5633deb7f98b@jahan25.irbazi.com:443?path=%2Fvr1025%3Fed%3D2560&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=jahan25.irbazi.com#By AghaDani
+trojan://humanity@45.130.125.126:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=ww#By AghaDani
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
+trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#By AghaDani
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://db707e06-2711-4517-9c48-6409e4608c4f@xn-ip1.dbssl.ir:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=us.dbssl.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=us.dbssl.ir#By AghaDani
 vless://41f46aa9-da29-45f6-b33e-50ed736c8646@global.cloud-play.ir:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=simeonelaparo.de&type=xhttp#By AghaDani
-vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@thomas.proxy.rlwy.net:39392?mode=auto&path=%2Fxh&security=reality&encryption=none&pbk=CrEL0U-ugDvMuUfmR5sM0GLZryu7oDMmA-3v812Vljo&fp=chrome&type=xhttp&sni=yahoo.com&sid=0123456789abcdef#By AghaDani
 vless://baf38792-aa3c-4cfb-9d5c-45a4335d7113@5.10.215.244:2095?path=%2F&security=none&encryption=none&host=de.carefreemob2.com.&type=httpupgrade#By AghaDani
-trojan://humanity@45.130.125.126:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=ww#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@159.69.21.145:1080#By AghaDani
 trojan://telegram-id-privatevpns@35.181.86.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-directvpn@35.181.86.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
@@ -507,7 +510,6 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.165:8443?encryption=none
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&sni=default.ssl.fastly.net#By AghaDani
 trojan://MiTiVPN@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=my.95r.ir&fp=chrome&type=ws&sni=my.95r.ir#By AghaDani
 vless://6bd5ec73-d9db-47c6-9189-eb08042486a4@45.74.158.211:443?encryption=none&fp=chrome&pbk=O6dnq_jsfdk60CdTutL40giV9do4VYy65bkSWYDhAz4&security=reality&sid=11060d0dd583&sni=www.nvidia.com&spx=%2FxVyz4t7b1jgLemp&type=tcp#By AghaDani
-vless://b2ec1e04-17b8-48ee-966e-5633deb7f98b@jahan25.irbazi.com:443?path=%2Fvr1025%3Fed%3D2560&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=jahan25.irbazi.com#By AghaDani
 vless://05e3b601-cc07-46dd-9766-d90f7adaa655@65.21.109.91:80?path=%2Fnotbin&security=&encryption=none&host=speedtest.com&type=ws#By AghaDani
 vless://05e3b601-cc07-46dd-9766-d90f7adaa655@65.21.109.91:443?mode=auto&path=%2Fbin&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=v0vhjyFJPMzOUrM5l1PgoQCr83mHd1rNAIK2hi8ID1s&host=speedtest.com&fp=chrome&spx=%2F0hdCYzwZBnQy1tk&type=xhttp&sni=www.samsung.com&sid=0e3f3a#By AghaDani
 vless://Tel-HqV2rayNG-HqV2rayNG@gkgjfjeifidjejfj.fars-daxter.ir:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
