@@ -1,3 +1,4 @@
+vless://5b9fbf67-e47c-4a2e-9dc2-f1a7a024a9b8@www.speedtest.net:443?path=%2FeyJqdW5rIjoiRHFvaXJXdEc2QjF1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ezaccess-project-ffd5d4.ez-b75eb6.workers.dev&fp=ios&type=ws#By AghaDani
 vless://e0346ac5-f345-44d9-a969-54378934e49f@z9.asamping.ir:2052?encryption=none&security=none&type=ws&host=z5.asamping.ir&path=%2F#By AghaDani
 trojan://SoftNetConnect@83.228.224.161:2087?type=grpc&security=reality&authority=185.204.169.129&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=%2F#By AghaDani
 trojan://SoftNetConnect@83.228.224.161:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
@@ -46,7 +47,6 @@ trojan://SoftNetConnect@194.5.193.150:443?mode=auto&path=%2F&security=reality&pb
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://2eaf3e87-edcd-479b-997e-3e693d2ec458@31.57.106.21:8080?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=cee5cf0cb56d6912#By AghaDani
 vless://2d0f4a5d-fe76-448f-8810-5f8b0d2cd237@www.speedtest.net:443?path=%2FV2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--V2rayNGSelllBoT--&security=tls&encryption=none&host=kijuyjfjydhy14.mamadfkl.workers.dev&fp=chrome&type=ws&sni=kijuyjfjydhy14.mamadfkl.workers.dev#By AghaDani
-vless://5b9fbf67-e47c-4a2e-9dc2-f1a7a024a9b8@www.speedtest.net:443?path=%2FeyJqdW5rIjoiRHFvaXJXdEc2QjF1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ezaccess-project-ffd5d4.ez-b75eb6.workers.dev&fp=ios&type=ws#By AghaDani
 vless://fdbd8287-690d-46de-a5f2-3899dc8a2ee3@45.130.125.162:8443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/?ed%3D2053&sni=cji.new-persian-song.ir&fp=chrome&mode=auto&alpn=h2,h3#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.1:8880?mode=gun&security=&encryption=none&type=grpc#By AghaDani
 vless://fdbd8287-690d-46de-a5f2-3899dc8a2ee3@45.130.125.162:8443?encryption=none&security=tls&sni=sh.mojaz-persian-music.ir&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=xhttp&path=%2F%3Fed%3D2053&mode=auto#By AghaDani
