@@ -1,3 +1,4 @@
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#By AghaDani
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?encryption=none&type=grpc&mode=gun#By AghaDani
@@ -54,7 +55,6 @@ ss://%40Net2ray@85.198.12.105:43116?security=none&encryption=none&headerType=non
 trojan://MiTiVPN@188.114.97.6:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=my.95r.ir&sni=my.95r.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 trojan://MiTiVPN@104.21.18.41:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=blog.95r.ir&sni=blog.95r.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@104.17.113.202:443?path=%2FMaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1&security=tls&encryption=none&host=bcfgdfghjf41.emilkoko.workers.dev&fp=chrome&type=ws&sni=bcfgdfghjf41.emilkoko.workers.dev#By AghaDani
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=t05.tzteam.online&fp=firefox&type=ws&allowInsecure=0&sni=t05.tzteam.online#By AghaDani
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.17.108.69:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv14.hamiibar.com&fp=chrome&type=ws&allowInsecure=0&sni=srv14.hamiibar.com#By AghaDani
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@45.90.97.132:443?security=reality&encryption=none&pbk=65T6l7e51lwKu1rzQ4FgqVPe-JyG43IqPLw6r9U2v10&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fr.bvps.cloud&sid=0befa76540b5db79#By AghaDani
