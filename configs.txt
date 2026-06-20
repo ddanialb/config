@@ -1,3 +1,4 @@
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.181:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://b82f0dc8-6ed6-4cb1-8754-3a41846eec11@104.17.179.71:2087?path=%2Fproxyip%3D45.155.102.207%3Fu%3Df37bdce86d&security=tls&encryption=none&insecure=0&host=nova-mango-spark-7b1c.nova-ef15e0.workers.dev&fp=random&type=ws&allowInsecure=0&sni=nova-mango-spark-7b1c.nova-ef15e0.workers.dev#By AghaDani
 vless://83bea1c3-4386-44cc-96de-e72e529a4244@s2.cvbesty.ir:58784?mode=gun&security=reality&encryption=none&pbk=THDZjFEtOb85UM7wb9gMkaQeL2sJBarNw4RJ-mBrdWM&fp=chrome&spx=%2F&type=grpc&sni=yahoo.com&sid=3f5684#By AghaDani
 vless://2ffe3aa9-557f-4e10-bfa1-cd72ce005ae4@game.dotagames.ir:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2265536%22%2C%22xPaddingBytes%22%3A%2230-250%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&host=game.dotagames.ir&fp=ios&type=xhttp&allowInsecure=0&sni=game.dotagames.ir#By AghaDani
@@ -169,7 +170,6 @@ vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-W
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.216:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#By AghaDani
 vless://8636964b-5603-4e35-b474-893591d8fdd9@108.162.194.165:8880?encryption=none&security=none&type=httpupgrade&host=ca.26cloud.ir&path=%2Fnapwndiapwdmapwdmna#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.222:8443?allowInsecure=1&encryption=none&fp=firefox&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#By AghaDani
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.181:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://35495e54-3b92-4835-9f51-6cba41bacb5e@3.124.172.115:440?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://0d1ae4f2-1244-4777-823e-927f185405c5@65.109.217.246:52219?security=reality&encryption=none&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.oracle.com&sid=f8#By AghaDani
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
