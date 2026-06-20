@@ -1,3 +1,6 @@
+vless://4d3c389c-8477-4875-aa65-dabf2c303de8@116.203.78.220:14099?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYVVhV0NkNTlKZEN0U0pwZUp4LTRn@18.196.94.19:443#By AghaDani
+vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=reality&encryption=none&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=05fdaa8a05be46a9#By AghaDani
 vless://c7b7209f-b449-4092-82b0-1bf877c190e9@ez-421a72.mohamadfarajian09144538950.workers.dev:443?path=%2F&security=tls&encryption=none&host=ez-421a72.mohamadfarajian09144538950.workers.dev&fp=ios&type=ws&sni=ez-421a72.mohamadfarajian09144538950.workers.dev#By AghaDani
 vless://8636964b-5603-4e35-b474-893591d8fdd9@108.162.194.165:8880?path=%2Fnapwndiapwdmapwdmna&security=none&encryption=none&host=ca.26cloud.ir&type=httpupgrade#By AghaDani
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?path=%2Fbr-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#By AghaDani
@@ -23,8 +26,6 @@ vless://696cb04f-9da9-4ffc-91e6-3571b24d2c31@152.89.253.227:8443?security=realit
 vless://6a9bc6a6-9543-4f40-b8b5-9fa31e881473@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#By AghaDani
 vless://6a9bc6a6-9543-4f40-b8b5-9fa31e881473@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#By AghaDani
 vless://6a9bc6a6-9543-4f40-b8b5-9fa31e881473@45.130.125.101:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYVVhV0NkNTlKZEN0U0pwZUp4LTRn@18.196.94.19:443#By AghaDani
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=reality&encryption=none&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=05fdaa8a05be46a9#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYVVhV0NkNTlKZEN0U0pwZUp4LTRn@18.196.94.19:443?#By AghaDani
 vless://FREE-4-ALL@107.189.21.7:443?security=reality&encryption=none&pbk=W6fS0Z-WJ5815eTp1KqxU27cff58RiLUOGTm4qwBHRw&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=C0DE#By AghaDani
 vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&path=%2F&security=tls&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&type=ws#By AghaDani
@@ -797,4 +798,3 @@ trojan://%2B%2FrFID9gXZ%2FjBDCsT6V%2Bdfgc4m5zLdnXYX6BWVHQaI0%3D@89.167.82.102:20
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OERmN2UraEtIbDgzTWpWRU1FdkpqYkZpbk9Maml6Q3hWTmIrWnVReHp5QT06Ky9yRklEOWdYWi9qQkRDc1Q2VitkZmdjNG01ekxkblhZWDZCV1ZIUWFJMD0@89.167.82.102:48461#By AghaDani
 trojan://%2B%2FrFID9gXZ%2FjBDCsT6V%2Bdfgc4m5zLdnXYX6BWVHQaI0%3D@89.167.82.102:2080?security=none&headerType=&type=tcp#By AghaDani
 vmess://eyJhZGQiOiAiODkuMTY3LjgyLjEwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNzE1ZDM4M2QtNDQ0My00ZjZhLWExODctYTY4YjhhZTc0ZGYzIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjg4ODAiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=#By AghaDani
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bm5aYjIzM3diOGg5Y1pkbHdwSHdkSXQ0R1RBbGJLN0RRSk9CZE9ldzNTMD06Ky9yRklEOWdYWi9qQkRDc1Q2VitkZmdjNG01ekxkblhZWDZCV1ZIUWFJMD0@89.167.82.102:443#By AghaDani
