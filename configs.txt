@@ -1,5 +1,6 @@
-vless://cbfc7579-2138-4ab5-b9d1-151fb1541a7e@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=germwoijji.global.ssl.fastly.net.&type=ws&sni=default.ssl.fastly.net#By AghaDani
+vless://57a55b8b-8a96-4c90-87a1-b3739126e624@185.226.93.26:34634?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#By AghaDani
 vless://76420ede-08de-4869-abeb-ad2d11729386@DaSHBoard.mobileatlass.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://cbfc7579-2138-4ab5-b9d1-151fb1541a7e@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=germwoijji.global.ssl.fastly.net.&type=ws&sni=default.ssl.fastly.net#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.180:8443?security=tls&encryption=none&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://34ea347c-29a0-48ee-0f04-341fc8a7924e@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.rorvex.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.rorvex.ir#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.181:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
@@ -120,7 +121,6 @@ vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@144.124.241.233:443?security=realit
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=%2F%3Fed%3D2560%26Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&type=ws&allowInsecure=0&sni=sni.111000.de5.net#By AghaDani
 vless://57a55b8b-8a96-4c90-87a1-b3739126e624@185.226.93.26:50420?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#By AghaDani
-vless://57a55b8b-8a96-4c90-87a1-b3739126e624@185.226.93.26:34634?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#By AghaDani
 vless://727c1114-ed5f-4bea-bae0-326bb740da48@65.109.219.2:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.oracle.com&sid=f8&spx=%2F#By AghaDani
 vless://4838cfea-d16f-446f-03c7-e50ec4d1cb6c@snapp.ir:2087?host=cdn.qorilo.ir&encryption=none&path=%2FBetForward&sni=cdn.qorilo.ir&fp=chrome&security=tls&allowInsecure=0&type=ws&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0#By AghaDani
 vless://ed007a44-5601-49d1-860a-c2182391a9e6@flae2.faradl.ir:2087?security=&encryption=none&headerType=http&type=tcp#By AghaDani
