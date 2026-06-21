@@ -1,3 +1,5 @@
+vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=a12.crowsvpn.shop&type=xhttp#By AghaDani
+vless://f2c86af8-50b3-48f6-9616-600bb2c4d0ca@xn-riga.easyodin.ir:80?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#By AghaDani
 trojan://MiTiVPN@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http/1.1&host=wwww.95r.ir&fp=chrome&allowinsecure=0&type=ws&sni=wwww.95r.ir#By AghaDani
 vless://9f2ecebe-3a52-460e-80ac-74a21fffdaf7@198.41.223.119:443?path=%2FV2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet-V2ngNet&security=tls&encryption=none&host=licfgytggv.esmalkjj.workers.dev&fp=chrome&type=ws&sni=licfgytggv.esmalkjj.workers.dev#By AghaDani
 vless://4d2f353f-73cd-44f0-834c-e4e6874551df@72.56.71.247:40443?security=reality&encryption=none&pbk=zH_3ABX1RiBh4Be_xH9QJcQMzOEI4L4zmiuTiA2_ThU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=b9a9#By AghaDani
@@ -796,5 +798,3 @@ vless://17451fec-af94-4715-8c2f-7f6839130d0a@108.165.236.144:2040?type=tcp&secur
 vless://b0d3d755-fc20-47b0-a94e-fd03d1fb2bf5@lobgfvdas.dadashinet10.ir:2044?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv.yunus.guru:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=rezerv.yunus.guru&sid=a7ec6c3316eddb11&fp=chrome&pbk=S4WFc-SD_FpmmQdM21Of7O6XmYaLlmwcmlbgO4lZQQg&headerType=none#By AghaDani
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?security=reality&sni=www.google.com&fp=chrome&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11&type=tcp&flow=xtls-rprx-vision&encryption=none#By AghaDani
-vless://f1ee343f-ceaf-4374-89a9-833ed71b4a78@91.107.155.247:48127?security=reality&sni=play.google.com&type=tcp&fp=chrome&pbk=IV870by48fv-uhnpCvJRrCCtahUqNAuvkPE4rE9sPEE&sid=abc950ff#By AghaDani
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.103:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#By AghaDani
