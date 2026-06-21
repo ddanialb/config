@@ -1,3 +1,4 @@
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://8b18183f-55ba-4f03-110a-2dd344da6ab3@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.poravo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.poravo.ir#By AghaDani
 vless://ee739eec-0ff9-4a9c-ad46-2418c251c7b1@sdeovbmttkl.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://ee739eec-0ff9-4a9c-ad46-2418c251c7b1@lobgfvdas.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
@@ -64,7 +65,6 @@ vless://1a5d6dea-3769-43b1-a39d-7225cf01b2bd@185.147.127.101:40443?security=real
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYjhOTjkyeUtrWDFrS1FE@20.107.208.165:443#By AghaDani
 trojan://humanity@45.130.125.126:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=wwhttps://t.me/V2ray_AM/1224#By AghaDani
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@se.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#By AghaDani
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?encryption=none&security=tls&sni=srv03.perfectbulk.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=srv03.perfectbulk.info&path=%2F#By AghaDani
 vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?encryption=none&security=tls&sni=BpB-expO--10RaYly4zY.EXPO.App&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bpb-expo--10rayly4zy.expo.app&path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19%3Fed#By AghaDani
 vless://542adbe5-89c5-4f5c-bb05-a3bd4feec3a2@turk.nomac.ir:2026?security=reality&encryption=none&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=db4a993c8bb355ba#By AghaDani
