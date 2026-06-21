@@ -1,3 +1,4 @@
+vless://039a1658-e86e-475f-a3a4-67cc249acada@nl2.panel11.ru:443?security=reality&encryption=none&pbk=N1HRDSdKHqdbSX_N5SUfFiokXcN-jQzu-Na244bA21I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl2.panel11.ru&sid=c64556c616970b14#By AghaDani
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 trojan://humanity@45.130.125.126:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=wwhttps#By AghaDani
 vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
@@ -797,4 +798,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#By Agha
 trojan://oJRk-2%2BNoHJ3N4frj_O2.0CzT%2BWAgdcs7b@144.31.55.35:28126?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.game-bridge.click#By AghaDani
 vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-78f74e.mhdiglbi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-78f74e.mhdiglbi.workers.dev#By AghaDani
 vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2087?path=%2F&security=tls&encryption=none&insecure=0&host=ez-78f74e.mhdiglbi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-78f74e.mhdiglbi.workers.dev#By AghaDani
-vless://4a459930-c09e-4813-87ad-40e169bcd01b@46.8.238.55:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
