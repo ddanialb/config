@@ -1,3 +1,8 @@
+trojan://humanity@45.130.125.126:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#By AghaDani
+vless://c549264d-5e6f-4c38-ac8d-c4a116635f3e@104.18.175.65:8880?security=none&allowInsecure=0&encryption=none&type=ws&host=ez-ad4635.mmd084098.workers.dev&path=/#By AghaDani
+vless://675ae813-b50c-4c39-a6aa-a903d639081a@212.95.34.102:2050?security=none&allowInsecure=0&encryption=none&type=tcp&path=/&headerType=http#By AghaDani
+vless://c549264d-5e6f-4c38-ac8d-c4a116635f3e@104.18.175.54:80?security=none&allowInsecure=0&encryption=none&type=ws&host=ez-ad4635.mmd084098.workers.dev&path=/#By AghaDani
+vless://c549264d-5e6f-4c38-ac8d-c4a116635f3e@104.18.175.54:2053?security=tls&allowInsecure=0&encryption=none&type=ws&host=ez-ad4635.mmd084098.workers.dev&path=/&sni=ez-ad4635.mmd084098.workers.dev&fp=chrome#By AghaDani
 vless://2ffe3aa9-557f#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.237:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#By AghaDani
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#By AghaDani
@@ -793,8 +798,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&en
 vless://ff18dc84-c8f8-4cdc-873d-a8a9eb0a59e2@plan.opann.ir:443?security=&encryption=none&headerType=&type=tcp#By AghaDani
 vless://c58cc0f2-116a-4e8e-a972-f0f62fca315c@72.56.122.42:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=yaODAPfguKDxgflfG-SEl8KvsZs8VyHBZvIyj34jLmI&security=reality&sid=1f76&sni=deepl.com&type=tcp#By AghaDani
 vless://c420ee7d-a567-46d2-8571-c78ac0c87428@nobat.ir:2052?security=none&type=ws&headerType=&path=%2F&host=arv5.wzpower.ir#By AghaDani
-vless://c420ee7d-a567-46d2-8571-c78ac0c87428@snapp.ir:2082?security=none&type=ws&headerType=&path=%2F&host=arv.wzpower.ir#By AghaDani
-vless://ace83bf0-40e7-4372-90f1-3d183566dd32@116.203.6.53:8841?security=none&encryption=none&host=docs.google.com&headerType=http&type=tcp#By AghaDani
-vless://66ec289f-2acf-4619-4ed8-99c32b8aa626@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.qorilo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.qorilo.ir#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@fr.bazrilornam.txt.usdtbama.site:1082#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@172.233.108.250:1083#By AghaDani
