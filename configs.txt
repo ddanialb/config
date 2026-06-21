@@ -1,3 +1,7 @@
+trojan://MiTiVPN@104.21.18.41:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=blog.95r.ir&fp=chrome&type=ws&sni=blog.95r.ir#By AghaDani
+vless://1a5d6dea-3769-43b1-a39d-7225cf01b2bd@185.147.127.101:40443?security=reality&encryption=none&pbk=a-GLfBU_yhZcBKPODh1zl-Ypj-jm4nYN_fkHBhMGAGs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=d56f#By AghaDani
+vless://1a5d6dea-3769-43b1-a39d-7225cf01b2bd@185.147.127.101:40443?security=reality&encryption=none&pbk=a-GLfBU_yhZcBKPODh1zl-Ypj-jm4nYN_fkHBhMGAGs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=d56f#By AghaDani
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#By AghaDani
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?path=%2Fbr-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#By AghaDani
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#By AghaDani
 trojan://humanity@104.17.121.43:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#By AghaDani
@@ -238,7 +242,6 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?encryption=none
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=enterprisekitten.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40VPNine1#By AghaDani
 vless://TurboConfigs@31.56.206.13:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#By AghaDani
 vless://abf52aa8-efd8-4849-8ded-fda151d4308b@194.24.161.228:58055?security=reality&encryption=none&pbk=eiDyRuMGa0Jyb2Ff4w1Pb7zTri5h38R2w0kZj0uksF4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=374b32ed91f8f023#By AghaDani
 vless://9fb2d0b1-171b-45c0-aae3-3313a73cba29@193.247.82.40:448?security=reality&encryption=none&pbk=MbaP34cAgypweQZ7L2hx1wihw_K5c3g4SBlOpgD7wRo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=e0274f4ac227090f#By AghaDani
 vless://43efc1e1-0c44-4e32-824d-653135185a87@p4.hoomankh.info:62692?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
@@ -795,6 +798,3 @@ vless://87e60810-bb71-41ea-a2a6-f05c8ab903ef@5.196.51.152:54809?flow=xtls-rprx-v
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.102:4443?security=none&type=grpc#By AghaDani
 vless://111aa362-0fbe-43a6-a2c0-94bbdbd8d980@free06.tunnely.ru:8080?encryption=none&type=ws&path=%2Fws%2F&security=none#By AghaDani
 vless://4d2f353f-73cd-44f0-834c-e4e6874551df@console.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=zH_3ABX1RiBh4Be_xH9QJcQMzOEI4L4zmiuTiA2_ThU&fp=qq&sni=deepl.com&sid=b9a9&spx=%2F#By AghaDani
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.144.48.187:443?security=reality&sni=www.intel.com&fp=firefox&pbk=hgQ3Wa09f9ectEos7QyC1LQ8bBq8lEAcAtGIDFTKin0&sid=c0&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#By AghaDani
-vless://b0d3d755-fc20-47b0-a94e-fd03d1fb2bf5@germanhjjk.dadashinet10.ir:2044?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.105:4443?security=none&type=grpc#By AghaDani
