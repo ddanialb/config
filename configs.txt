@@ -1,3 +1,4 @@
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=&encryption=none&headerType=&type=tcp#By AghaDani
 vless://6da3fb23-aaf4-4236-90f3-f4f9d44ed78d@65.109.219.2:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.oracle.com&sid=f8&spx=%2F#By AghaDani
 vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&host=bazaryabab.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#By AghaDani
 vless://91615573-084b-4a80-8ad8-a79891b0ffe6@178.83.45.142:80?security=reality&encryption=none&pbk=nm_XWU_p2aKwh8sIJ5eeAgELgdg0Lw2zJ2ct3DaBdk0&headerType=none&fp=firefox&spx=%2FYdjnjKK94QxRnxc&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=2c9016506cf4b2be#By AghaDani
@@ -797,4 +798,3 @@ vless://3d23d809-6674-446c-af67-f2b23f1c5c11@65.109.219.2:52219?type=tcp&encrypt
 vless://fa1494d1-d388-49fb-8977-3797f10082f2@65.109.186.115:8080?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=cee5cf0cb56d9912#By AghaDani
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#By AghaDani
 vless://f7a50ed6-ad61-4d74-8da3-e18bfde52056@digipay.ir:8080?encryption=none&security=none&type=ws&host=subiranlink.pro&path=%2Fnigger#By AghaDani
-vless://476a2ad5-72f2-4bd9-b8ff-969592673d2d@212.100.171.210:443?encryption=none&security=reality&sni=aws.amazon.com&fp=chrome&pbk=Y0a7YZ1nnGcqvxmdCPVK_JbSzXSZVb8P7TRZg2IZCm0&sid=a897b1b28228&spx=%2FH58Fwq6EZ4gzw7r&type=xhttp&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#By AghaDani
