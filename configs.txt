@@ -1,3 +1,4 @@
+vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@188.114.97.6:2087?path=%2Fws%3Fed%3D2580&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=speed2.techtech2.ir&fp=chrome&type=ws&allowInsecure=0&sni=speed2.techtech2.ir#By AghaDani
 vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@104.16.174.36:443?path=%2Fws%3Fed%3D2580&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=speed.thctech.ir&fp=chrome&type=ws&allowInsecure=0&sni=speed.thctech.ir#By AghaDani
 vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@45.130.125.112:443?path=%2Fws%3Fed%3D2580&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=speed.thctech.ir&fp=chrome&type=ws&allowInsecure=0&sni=speed.thctech.ir#By AghaDani
 vless://c9d13457-0578-4414-a830-f29244a6f711@201.51.1.108:40443?security=reality&encryption=none&pbk=G2WGTXVVeC2YzXaWI9gSHKjiNU3PEvN7QinuOPE1lDs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=132b#By AghaDani
@@ -797,4 +798,3 @@ vless://e413b584-e85c-4fbc-b20d-a0bf9d823a45@new.ansooyefilter.ir:443?alpn=http%
 vless://e413b584-e85c-4fbc-b20d-a0bf9d823a45@172.67.220.1:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=new2.arshia-nova.ir&path=%2Fapi%2Fv2%2Fstream&security=tls&sni=new2.arshia-nova.ir&type=ws#By AghaDani
 vless://e413b584-e85c-4fbc-b20d-a0bf9d823a45@173.245.58.84:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=new2.arshia-nova.ir&path=%2Fapi%2Fv2%2Fstream&security=tls&sni=new2.arshia-nova.ir&type=ws#By AghaDani
 vless://e413b584-e85c-4fbc-b20d-a0bf9d823a45@sub.arshia-nova.ir:8443?alpn=http%2F1.1&encryption=none&fp=chrome&host=new2.arshia-nova.ir&path=%2Fapi%2Fv2%2Fstream&security=tls&sni=new2.arshia-nova.ir&type=ws#By AghaDani
-vless://e413b584-e85c-4fbc-b20d-a0bf9d823a45@admin.ansooyefilter.ir:2083?encryption=none&fp=firefox&pbk=jbkvYfUsJX5cdT5PuCYuOy05WTiUXWEgYL23friKKDA&security=reality&sid=5ddefaac&sni=www.speedtest.net&spx=%2FDjy9tVcNzJgtq9d&type=tcp#By AghaDani
