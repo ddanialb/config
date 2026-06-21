@@ -1,3 +1,4 @@
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn7-39.vk-cdnvideo.com&headerType=none&fp=safari&type=tcp&allowInsecure=0#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#By AghaDani
 vmess://eyJhZGQiOiIxMDQuMTcuMTIxLjQzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvbWt1enlnaXYuY29tIiwiaWQiOiJlOTk0N2I0Mi0yN2VkLTQwMWUtYjc1ZS1jOWViZDM1N2MwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgQWdoYURhbmkiLCJzY3kiOiJhdXRvIiwic25pIjoib21rdXp5Z2l2LmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd4.videobazi.com:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#By AghaDani
@@ -797,4 +798,3 @@ vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443/?type=tcp&encry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://48ba1134-5f61-5d52-d902-195aec4a0191@104.17.121.16:2086?encryption=none&security=none&sni=namystelf.awdadsaw1311321.workers.dev&fp=chrome&type=ws&host=namystelf.awdadsaw1311321.workers.dev&path=%2Fsync#By AghaDani
-ss://X_RAY_VPN1@31.56.206.13:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
