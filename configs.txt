@@ -1,6 +1,6 @@
 vless://cbfc7579-2138-4ab5-b9d1-151fb1541a7e@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=germwoijji.global.ssl.fastly.net.&type=ws&sni=default.ssl.fastly.net#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.180:8443?security=tls&encryption=none&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://76420ede-08de-4869-abeb-ad2d11729386@DaSHBoard.mobileatlass.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.180:8443?security=tls&encryption=none&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://34ea347c-29a0-48ee-0f04-341fc8a7924e@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.rorvex.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.rorvex.ir#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.181:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://0b2c62fb-f1d2-dcec-1159-b7084862501c@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=%2Fws%2F0b2c62fb-f1d2-dcec-1159-b7084862501c#By AghaDani
