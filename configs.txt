@@ -1,3 +1,5 @@
+vless://e2600ed3-eb3c-420d-9081-389c67b543b8@free2.cratel.qzz.io:2083?path=%2F%40CratelNetwork&security=tls&encryption=none&insecure=0&host=cratel.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=cratel.qzz.io#By AghaDani
+vless://e2600ed3-eb3c-420d-9081-389c67b543b8@free.cratel.qzz.io:2083?path=%2F%40CratelNetwork&security=tls&encryption=none&insecure=0&host=cratel.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=cratel.qzz.io#By AghaDani
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@104.17.113.202:443?path=%2FMaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1---MaSTeRSeRVeR1&security=tls&encryption=none&host=bcfgdfghjf41.emilkoko.workers.dev&fp=chrome&type=ws&sni=bcfgdfghjf41.emilkoko.workers.dev#By AghaDani
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?encryption=none&type=ws&path=%2F#By AghaDani
 trojan://telegram-id-directvpn@35.181.88.108:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
@@ -796,5 +798,3 @@ vless://ccdce320-7eef-4815-8edb-c599987c2279@5.254.14.169:443?encryption=none&fl
 vless://83b572ef-e449-415b-82df-cb15bf0cbff7@node.cvedcvpn.ru:8443?type=xhttp&security=reality&fp=chrome&pbk=v02iTjpqjLz_wMquGn3z-MELSOeOFYzs_SF1EbQg_0U&sid=a4f8c92d&sni=www.twitch.tv&mode=auto#By AghaDani
 vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?security=reality&encryption=none&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4d3ff920673f7534#By AghaDani
 vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@89.208.97.95:443?encryption=none&type=tcp&security=reality&headerType=none&sni=amazon.fr&fp=chrome&pbk=OhHt4eEk9pZVzDpt37apm_7DRM0qP6_D4yJBCK0n02A&sid=5701e710c025b4b8&spx=/&flow=xtls-rprx-vision#By AghaDani
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=enterprisekitten.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#By AghaDani
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&sni=google.com#By AghaDani
