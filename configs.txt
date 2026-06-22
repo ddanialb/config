@@ -1,3 +1,5 @@
+vless://efcc8f68-3245-43b8-92a9-f1db09ef6662@ez-591b98.nahan908080.workers.dev:8080?path=%2F&security=none&encryption=none&host=ez-591b98.nahan908080.workers.dev&fp=chrome&type=ws&sni=ez-591b98.nahan908080.workers.dev#By AghaDani
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vmess://eyJhZGQiOiJwYW5lbC5jcGFuZWwuMTBvZmJlc3QuaXIiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoibmwuY2hlbGxzZXJ2aWNlLmlyIiwiaWQiOiIzNTdkNzE2MC05ZGM0LTQyNzItOTgwZi01MWQ4MWI0NDgwOWIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6IkJ5IEFnaGFEYW5pIiwic2N5IjoiYXV0byIsInNuaSI6Im5sLmNoZWxsc2VydmljZS5pciIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://b612ebb2-a56a-44a9-9765-a61ceac64ccb@www.arvancloud.ir:8080?encryption=none&host=vip.melotus.ir&path=%2Fwss&security=none&type=ws#By AghaDani
 vless://cac0b33b-e5bd-48de-89dd-783fe5fb384e@snapp.ir:80?type=ws&encryption=none&path=%2F&host=v2meli.bestiran98.ir&security=none#By AghaDani
@@ -409,7 +411,6 @@ trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2
 vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bastani.purplrose.ir&fp=random&type=ws&allowInsecure=0&sni=bastani.purplrose.ir#By AghaDani
 vless://77fc16d2-5145-4aa3-952c-7caaf25cd921@skko.consolgame.ir:1002?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=E5n-njx-57MxDzVpCwsqmc9wKeYRjyd2tg2yAUJ_sFU&sid=28711478c2a20a18#By AghaDani
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#By AghaDani
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://1572e9c1-78a9-4f14-a8fc-1790dce03787@91.107.149.166:8505?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:45012?path=%2F&security=none&encryption=none&type=httpupgrade#By AghaDani
 vless://8a53834d-435a-496c-bcc3-a66088e5b926@Riga1.ns.asriranfun.ir:29551?path=%2F&security=none&encryption=none&type=ws#By AghaDani
@@ -797,4 +798,3 @@ trojan://telegram-id-privatevpns@15.224.63.38:22222?security=tls&alpn=http/1.1&h
 vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all44.allenshop100.ir:443?encryption=none&fp=chrome&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&security=reality&sid=98fa0b00d09419f7&sni=play.google.com&type=tcp#By AghaDani
 vless://d93e8144-46ae-447f-830b-722af6b49063@104.24.19.64:2053?path=%2F&security=tls&encryption=none&host=amir.amirsoltan23.workers.dev&fp=android&type=ws&sni=amir.amirsoltan23.workers.dev#By AghaDani
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
-vless://08bf5696-2293-4aa6-9bb8-879b37e438e0@www.speedtest.net:2083?security=reality&encryption=none&pbk=jbkvYfUsJX5cdT5PuCYuOy05WTiUXWEgYL23friKKDA&headerType=none&fp=firefox&spx=%2FJMZ3iTAlcJHv4xE&type=tcp&sni=www.speedtest.net&sid=cacb2d3c65#By AghaDani
