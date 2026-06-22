@@ -1,3 +1,5 @@
+trojan://telegram-id-directvpn@13.37.56.251:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
+trojan://telegram-id-privatevpns@13.37.56.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://dd8d3617-5185-447c-a25d-3ada2f840e00@7d17a0c3abfe3c8c.nazi.deldadehtarin.ir:8443?security=reality&alpn=h2&encryption=none&pbk=LGsUSDRM9uI4-_XMbdjI1QHW-YauehcPFsaWx0R37EI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=dad3488446359a87#By AghaDani
 vless://dd8d3617-5185-447c-a25d-3ada2f840e00@4c27416e4ef0c1cf.movies.deldadehtarin.ir:8443?security=reality&alpn=h2&encryption=none&pbk=LGsUSDRM9uI4-_XMbdjI1QHW-YauehcPFsaWx0R37EI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=dad3488446359a87#By AghaDani
 vless://82d47c52-9738-4d40-93a4-220bab575c60@213.176.16.179:443?security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&fp=chrome&type=grpc&serviceName=grpc&sni=treng.loralden.com&sid=ed72a429f0135a3f#By AghaDani
@@ -796,5 +798,3 @@ vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@78.40.193.172:443?encryption=none&f
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.146:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.148:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.201:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.97:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@185.229.190.245:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#By AghaDani
