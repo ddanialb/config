@@ -1,3 +1,4 @@
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://cac57cbc-bda9-44cf-a501-0a9c0e876bec@main.devilfullspeed.com:2053?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.AXtkETbAwTM_es9j2j7hbSAI-ScH13wFgdEtVtms_jg&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=EU7T0zp5gHz8Bk6g2JGCmajFdWCNtS_8_4H60OvMW20&host=main.devilfullspeed.com&fp=ios&spx=%2FYulhFid8gNfinFW&type=xhttp&sni=play.google.com&sid=e6d15e#By AghaDani
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#By AghaDani
 vless://2ffe3aa9-557f-4e10-bfa1-cd72ce005ae4@game.dotagames.ir:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2265536%22%2C%22xPaddingBytes%22%3A%2230-250%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&host=game.dotagames.ir&fp=ios&type=xhttp&allowInsecure=0&sni=game.dotagames.ir#By AghaDani
@@ -62,7 +63,6 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.24.151:80?path=%2F%3Fed%3D2
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?secu#By AghaDani
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#By AghaDani
 trojan://humanity@188.114.98.0:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#By AghaDani
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#By AghaDani
 vless://593338cb-749a-4687-88f9-a382e773ff41@s1.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=sub.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sub.zynavo.ir#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.57.151:80?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
