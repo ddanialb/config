@@ -1,12 +1,14 @@
+trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?encryption=none&security=none#By AghaDani
+vless://06081ec9-2f11-4839-bb5b-04764ea922e7@108.162.194.165:2053?mode=packet-up&path=%2Fdl%3Fid%3D5556&security=tls&encryption=none&extra=&insecure=0&host=ca4.26cloud.ir&fp=random&type=xhttp&allowInsecure=0&sni=ca4.26cloud.ir#By AghaDani
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
+vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-up&path=%2Fdl%3Fid%3D5556&security=tls&encryption=none&extra=&insecure=0&host=ca4.26cloud.ir&fp=random&type=xhttp&allowInsecure=0&sni=ca4.26cloud.ir#By AghaDani
+vless://06081ec9-2f11-4839-bb5b-04764ea922e7@108.162.194.165:2053?mode=packet-up&path=%2Fdl%3Fmain%3D55223&security=tls&alpn=h3%2Ch2&encryption=none&extra=&insecure=0&host=in2.26cloud.ir&fp=random&type=xhttp&allowInsecure=0&sni=in2.26cloud.ir#By AghaDani
 vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-up&path=%2Fdl%3Fmain%3D55223&security=tls&alpn=h3%2Ch2&encryption=none&extra=&insecure=0&host=in2.26cloud.ir&fp=random&type=xhttp&allowInsecure=0&sni=in2.26cloud.ir#By AghaDani
 vless://e6ad58ac-aa05-4c83-8f4d-886920cfa906@run.befreewithus.space:2083?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dna.heydroshop.ir&fp=chrome&type=ws&sni=dna.heydroshop.ir#By AghaDani
 trojan://humanity@srv1.khatibirepair.ir:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
 vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@188.114.97.6:8080?mode=auto&path=%2Fxhttp&security=none&encryption=none&host=aziz.carderrr.com.&type=xhttp#By AghaDani
-vless://06081ec9-2f11-4839-bb5b-04764ea922e7@108.162.194.165:2053?mode=packet-up&path=%2Fdl%3Fid%3D5556&security=tls&encryption=none&extra=&insecure=0&host=ca4.26cloud.ir&fp=random&type=xhttp&allowInsecure=0&sni=ca4.26cloud.ir#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#By AghaDani
-vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-up&path=%2Fdl%3Fid%3D5556&security=tls&encryption=none&extra=&insecure=0&host=ca4.26cloud.ir&fp=random&type=xhttp&allowInsecure=0&sni=ca4.26cloud.ir#By AghaDani
 vless://29c59caf-1cb7-400a-b1fb-d9f814956f5c@sdeovbmttkl.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
-vless://06081ec9-2f11-4839-bb5b-04764ea922e7@108.162.194.165:2053?mode=packet-up&path=%2Fdl%3Fmain%3D55223&security=tls&alpn=h3%2Ch2&encryption=none&extra=&insecure=0&host=in2.26cloud.ir&fp=random&type=xhttp&allowInsecure=0&sni=in2.26cloud.ir#By AghaDani
 vless://29c59caf-1cb7-400a-b1fb-d9f814956f5c@germanubhf.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://29c59caf-1cb7-400a-b1fb-d9f814956f5c@germanhjjk.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://29c59caf-1cb7-400a-b1fb-d9f814956f5c@germanyjkjklj.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
@@ -14,7 +16,6 @@ vless://29c59caf-1cb7-400a-b1fb-d9f814956f5c@lobgfvdas.dadashinet10.ir:2044?encr
 vless://d0fa9189-c4c2-499c-a29e-014a03bd7136@panel.karmatel.ir:80?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=panel.karmatel.ir&fp=chrome&type=ws#By AghaDani
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?path=%2F&security=tls&encryption=none&host=srv03.perfectbulk.info&fp=chrome&type=ws&sni=srv03.perfectbulk.info#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptRHB2M1BDQnZENDlXVEtzUkxBUndFSFNiWFNtYUhWMw==@1.1.1.1:1080#By AghaDani
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.com#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
 trojan://humanity@104.18.152.210:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
@@ -797,4 +798,3 @@ vless://Telegram-%40Cooonfig-%40Cooonfig@91.107.252.157:80?security=&encryption=
 trojan://MITIVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1%2Ch2&insecure=1&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#By AghaDani
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@45.40.145.21:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=cdn3.goofymoofy.com&type=xhttp#By AghaDani
 trojan://SoftNetConnect@37.156.45.237:42549?security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#By AghaDani
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@166.62.113.21:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=cdn3.goofymoofy.com&type=xhttp#By AghaDani
