@@ -1,3 +1,7 @@
+vless://e7d3fb75-034f-4f3f-83d6-33845dafa81c@140.248.185.253:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEdVBlNkpXbGRjbFIxT3dh@20.107.208.165:443#By AghaDani
+vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@162.159.44.7:2053?encryption=none&fp=chrome&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#By AghaDani
 vless://3532d5cc-e1f6-25d4-d647-d1dfd613ce18@ez-6d822c.ezaccess1599f82.workers.dev:8080?encryption=none&security=none&sni=ez-6d822c.ezaccess1599f82.workers.dev&fp=chrome&type=ws&host=ez-6d822c.ezaccess1599f82.workers.dev&path=/sync&allowInsecure=0#By AghaDani
 vless://a3aa6d67-78f3-4930-a0ce-03da722ea1e9@ser3.fredomiran.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=panel.fredomiran.com&fp=chrome&type=xhttp&allowInsecure=0&sni=panel.fredomiran.com#By AghaDani
 vless://0e49e208-e09e-49bc-afee-2907e5419107@80.64.24.118:443?security=reality&encryption=none&pbk=8UWFWRTGQEwvG_tmQPDnZOxxVsTmLI2aEjONq1Ad0Hk&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=rus.tropatg.ru&sid=531e2895f6b53c8f#By AghaDani
@@ -62,7 +66,6 @@ vless://3532d5cc-e1f6-25d4-d647-d1dfd613ce18@ez-6d822c.ezaccess1599f82.workers.d
 vless://06081ec9-2f11-4839-bb5b-04764ea922e7@108.162.194.165:2053?mode=packet-up&path=%2Fdl%3Fmain%3D55223&security=tls&alpn=h3%2Ch2&encryption=none&extra=&insecure=0&host=in2.26cloud.ir&fp=random&type=xhttp&allowInsecure=0&sni=in2.26cloud.ir#By AghaDani
 vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-up&path=%2Fdl%3Fmain%3D55223&security=tls&alpn=h3%2Ch2&encryption=none&extra=&insecure=0&host=in2.26cloud.ir&fp=random&type=xhttp&allowInsecure=0&sni=in2.26cloud.ir#By AghaDani
 vless://dcaed4ae-95b0-4c96-807c-ec716474c066@us-1.easyodin.ir:443?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#By AghaDani
-vless://d26598cf-2cdf-4219-80d0-94646dff160d@141.193.154.182:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@88.216.67.230:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=cdn3.goofymoofy.com&type=xhttp#By AghaDani
 vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all44.allenshop100.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp&headerType=none#By AghaDani
 vless://2ffe3aa9-557f-4e10-bfa1-cd72ce005ae4@game.dotagames.ir:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2265536%22%2C%22xPaddingBytes%22%3A%2230-250%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&host=game.dotagames.ir&fp=ios&type=xhttp&#By AghaDani
@@ -637,7 +640,6 @@ ss://CHEF_VPN@chefox.kkkl.ir:443?security=reality&encryption=none&pbk=7DQXReCCCM
 ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kyiv02.npvnot.com:443#By AghaDani
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#By AghaDani
 vless://cb7b5122-7030-4d3d-9590-da00fafe1c05@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEdVBlNkpXbGRjbFIxT3dh@20.107.208.165:443#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://b1ac23fb-b336-4d37-a3c0-64b29c4ef3a4@s2.tehranionliine.ir:80?encryption=none&type=ws&path=/&security=none#By AghaDani
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#By AghaDani
@@ -796,5 +798,3 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.11:8443?security=tls&sni=
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&sni=enterprisekitten.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision&encryption=none#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?security=tls&sni=ams1.fromblancwithlove.com&allowInsecure=1&type=tcp&encryption=none#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?security=tls&sni=ams1.fromblancwithlove.com&allowInsecure=1&fp=chrome&type=tcp&encryption=none#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.72:8443?security=tls&sni=ams1.fromblancwithlove.com&allowInsecure=1&type=tcp&encryption=none#By AghaDani
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@185.229.190.245:8443?security=tls&sni=cdn3-87.vk-cdnvideo.com&allowInsecure=1&fp=chrome&type=tcp&encryption=none#By AghaDani
