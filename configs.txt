@@ -1,3 +1,5 @@
+trojan://SoftNetConnect@77.110.114.75:8443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=78851a413f5033b0#By AghaDani
+trojan://SoftNetConnect@77.110.114.75:2087?security=reality&pbk=pnrbo0MG4n719Yt3YhvL_SvV37NOmHm0_vbRnbRxaz0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=3e503fccee5701#By AghaDani
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#By AghaDani
 vless://17186ef5-7a33-4d80-bece-9feb3743532d@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#By AghaDani
 vless://1970926e-e41b-44e2-8f1e-e2eacb985f57@65.109.248.144:5742?mode=multi&security=reality&encryption=none&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&fp=firefox&spx=%2FjVErh2En06eEq0Q&type=grpc&sni=play.google.com&sid=1d9b1242d5#By AghaDani
@@ -13,8 +15,6 @@ vless://7ea0f774-0cb5-4d3b-b158-c251e9699340@turk.nomac.ir:2026?security=reality
 vless://7ea0f774-0cb5-4d3b-b158-c251e9699340@pl.codesystem.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6IFvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLAogICJhZGQiOiAiMTg1LjE1My4yMzEuMTY3IiwKICAicG9ydCI6IDQ5OTQ2LAogICJpZCI6ICI0MWI3MzMwMy01NjIyLTQ3MzYtZmZjMS1iNjBhYmMxZjIzNDciLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJodHRwIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAibm9uZSIKfQ==#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkR2hwZHRWRHd5Q05zQTRn@20.166.91.10:443#By AghaDani
-trojan://SoftNetConnect@77.110.114.75:8443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=78851a413f5033b0#By AghaDani
-trojan://SoftNetConnect@77.110.114.75:2087?security=reality&pbk=pnrbo0MG4n719Yt3YhvL_SvV37NOmHm0_vbRnbRxaz0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=3e503fccee5701#By AghaDani
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.250:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SkZrbm9iUW90RkZZYUZX@20.166.91.10:443#By AghaDani
 vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@germnode.dostupnet.ru:9443?security=reality&encryption=none&pbk=ydtP6Nv3EqKvbnCYoozfIk5q7ihoNWQsdd8UPqGFu2M&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=germnode.dostupnet.ru&sid=ffaa1a2421f17932#By AghaDani
