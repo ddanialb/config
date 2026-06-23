@@ -1,3 +1,5 @@
+vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.cdnwizardxray.com.vidboxco.ir:443?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=&sni=test2.iranvatanam.com&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
+vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.sourceforge.net:2086?security=none&type=httpupgrade&headerType=&path=%2F&host=test2.iranvatanam.com#By AghaDani
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto&path=%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nuren1.aPPleseraj.IR.&fp=chrome&type=xhttp&allowInsecure=0&sni=nuren1.aPPleseraj.IR.#By AghaDani
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:443?encryption=none&security=tls&sni=ZqFsGsMr.cAfUnEaR.InFo&fp=chrome&type=ws&host=ZqFsGsMr.cAfUnEaR.InFo&path=%2F#By AghaDani
 trojan://telegram-id-privatevpns@13.36.118.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
@@ -66,9 +68,7 @@ vless://469c3d0a-a276-441d-bd03-d46cb84f5909@sub.arshia-nova.ir:2087?alpn=http%2
 vless://469c3d0a-a276-441d-bd03-d46cb84f5909@172.67.220.1:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=homayon198.ir&path=%2Flogin&security=tls&sni=homayon198.ir&type=ws#By AghaDani
 vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.cdnwizardxray.org.vidboxco.ir:443?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=&sni=www.cdnwizardxray.org&fp=chrome#By AghaDani
 vless://469c3d0a-a276-441d-bd03-d46cb84f5909@173.245.58.84:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=homayon198.ir&path=%2Flogin&security=tls&sni=homayon198.ir&type=ws#By AghaDani
-vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.cdnwizardxray.com.vidboxco.ir:443?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=&sni=test2.iranvatanam.com&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
 vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.8a3.net.vidboxco.ir:443?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=&sni=www.8a3.net&fp=chrome#By AghaDani
-vless://ab67fdd6-f86c-431b-b0ed-ceb2073a42a0@www.sourceforge.net:2086?security=none&type=httpupgrade&headerType=&path=%2F&host=test2.iranvatanam.com#By AghaDani
 vless://2bc46788-af1d-4f63-9612-cdd60ba1e7f6@hm.khoycityman.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&sid=8792&spx=%2FVQANa71LVVeClee&type=tcp&headerType=none#By AghaDani
 vless://02dd2e7c-77c6-4384-9b16-453fd4e95a4c@217.9.12.58:443?mode=gun&security=reality&encryption=none&pbk=hLx8TLJmiERzIkXT1rpRgV8S1oN-i9cE2N5o7Wi_0TQ&type=grpc&serviceName=grpc&sni=www.microsoft.com&sid=7a3f9e2b1c8d4f6a#By AghaDani
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.228:8880?encryption=none&security=none&type=grpc#By AghaDani
