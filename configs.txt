@@ -1,3 +1,4 @@
+vless://e432072b-0e4f-4a66-a4c5-7a3c49d2997c@x.hostxyz.ir:21502?path=%2Ffragconfig&security=none&encryption=none&host=play.google.com&type=ws#By AghaDani
 vless://Masir_Sefid@83.228.227.31:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=%2Fx9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#By AghaDani
 vless://Masir_Sefid@83.228.227.31:443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=%2Fx9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#By AghaDani
 vless://b92ed761-7503-40fc-ab5d-b7d164cf9758@194.116.236.15:443?encryption=none&fp=chrome&pbk=k6u9NGgIiiz2k4N73VIwNu7BnNJUH9ub0NKxOGv40CI&security=reality&sid=8c7f585e7e7b243e&sni=varzesh3.com&spx=%2Fbzg87wrYin5v5lV&type=tcp#By AghaDani
@@ -797,4 +798,3 @@ trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.97:443?security=tls&insecu
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.119:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.87:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
