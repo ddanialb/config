@@ -1,3 +1,4 @@
+trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#By AghaDani
 vless://0ef837a7-bf9c-441c-ad27-829f80041374@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@154.223.16.96:6697#By AghaDani
 vless://e432072b-0e4f-4a66-a4c5-7a3c49d2997c@x.hostxyz.ir:21502?path=%2Ffragconfig&security=none&encryption=none&host=play.google.com&type=ws#By AghaDani
@@ -314,7 +315,6 @@ trojan://MITIVPN@151.101.242.172:80?path=%2Fed%3Dmitivpn&security=none&host=miti
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.150.140:80?path=%2FTelegram%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#By AghaDani
 vless://94498f1a-26c1-4d86-a38c-fb33e0eb1ded@188.114.97.6:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=icloud-ios-chrome.yas-nowin.ir#By AghaDani
 vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@sw-1.coinbridge.nl:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d&type=grpc&authority=&serviceName=data-sync&mode=gun#By AghaDani
-trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#By AghaDani
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.162.231.140:80?path=%2FTelegram%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=chrome&type=ws#By AghaDani
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.191.140:80?path=%2FTelegram%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#By AghaDani
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@74.49.214.140:80?path=%2FTelegram%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#By AghaDani
