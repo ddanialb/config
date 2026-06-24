@@ -1,3 +1,4 @@
+vless://737fa505-90cc-4234-93a4-ac8a2aaaf723@pl.codesystem.ir:8080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#By AghaDani
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#By AghaDani
 vless://ab8540c2-2651-4769-9c32-0971ca3fe893@164.92.210.231:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-5f13ed.aztyaztyazty.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-5f13ed.aztyaztyazty.workers.dev#By AghaDani
 vless://77fc16d2-5145-4aa3-952c-7caaf25cd921@jsjeke.consolgame.ir:1153?security=reality&encryption=none&pbk=E5n-njx-57MxDzVpCwsqmc9wKeYRjyd2tg2yAUJ_sFU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=28711478c2a20a18#By AghaDani
@@ -506,7 +507,6 @@ vless://fe92baef-f346-4b07-bf9c-09bb144e11f4@104.18.230.222:2053?sni=riga.zerodo
 vless://c3805a94-6114-4cc4-a833-44f43df6a4a7@olds-2.lubbs.de:2086?path=%2F&security=&encryption=none&host=nim-art2.mimkiscx.ir&type=httpupgrade#By AghaDani
 vless://083ffec9-52f2-42d2-b4ac-1a97adbf9a9b@167.233.109.213:19741?path=%2F&security=none&encryption=none&type=ws#By AghaDani
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@167.68.4.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#By AghaDani
-vless://737fa505-90cc-4234-93a4-ac8a2aaaf723@pl.codesystem.ir:8080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.51:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#By AghaDani
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@31.25.88.11:443?path=%2Fproxyip%3D3cfb8e26.tp30304.ip.090227.xyz&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#By AghaDani
 vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb4.oneokapp.com:443?mode=gun&security=tls&encryption=none&insecure=1&type=grpc&serviceName=grpc-api&allowInsecure=1&sni=gb4.oneokapp.com#By AghaDani
