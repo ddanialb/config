@@ -1,3 +1,5 @@
+vless://e8aac132-e213-4a6b-98ca-d5c4b239e963@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
+vless://37449985-a4a7-4c16-ae6c-464e46b4939e@khoroos4.helsinki2upload.shop:443?security=reality&encryption=none&pbk=H31-ZOmrmgdlPwXBr7K-NuEW5Ro3qAnXwS-W0gxsjxQ&headerType=none&fp=chrome&spx=%2FWmAS2BcSqmCQEO5&type=tcp&sni=www.aparat.com&sid=cc441e7e540f#By AghaDani
 vless://29f6f7e9-3e61-4b9d-94a2-7805285b8459@185.226.119.109:9431?type=tcp#By AghaDani
 vless://29f6f7e9-3e61-4b9d-94a2-7805285b8459@185.226.119.109:8733?type=tcp#By AghaDani
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
@@ -796,5 +798,3 @@ vless://659a9075-d5ab-4fd2-bf34-b37043fae832@31.25.89.134:443?path=%2Fproxyip%3D
 vless://8933a967-2f9d-4ec8-8172-a28445cadead@ser3.rsacloud.ir:8443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=Panel.rsacloud.ir&mode=auto&path=%2Fxhttp&security=tls&sni=Panel.rsacloud.ir&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://8f7a9509-561c-41b3-ae97-97793a74460e@sinavip5.cnavippanel.com:8091?security=none&type=tcp&headerType=http&path=/&host=play.google.com#By AghaDani
 vless://ec797c83-0b8d-4d5c-b556-1d786ca074c3@thomas.proxy.rlwy.net:39392?encryption=none&type=xhttp&security=reality&path=%2Fxh&mode=auto&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=CrEL0U-ugDvMuUfmR5sM0GLZryu7oDMmA-3v812Vljo&sid=0123456789abcdef#By AghaDani
-trojan://O4O8.Ew%2BujFX6GJBQ%3DxQr.heGwux0GYHqk@45.61.52.243:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=45.61.52.243#By AghaDani
-vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@rfvbtghnuyjmikolpqaz.sd.noafra.ir:80/?encryption=none&host=play.google.com&type=tcp&headerType=http#By AghaDani
