@@ -1,5 +1,6 @@
-vless://1ea04eb0-1470-4c41-ab75-8e3de65b0ef6@hm.khoycityman.ir:41319?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#By AghaDani
+trojan://MiTiVPN@151.101.1.242:443?type=ws&security=tls&pathض=%2Fde%3Dmitivpn&host=www.f6r.ir&sni=www.f6r.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
+vless://1ea04eb0-1470-4c41-ab75-8e3de65b0ef6@hm.khoycityman.ir:41319?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://SoonTeam@sexi.carderrr.com:443?path=%2Ftelegram%40SoonTeam&security=none&encryption=none&host=anten.ir&type=ws#By AghaDani
 vless://1e30245e-efff-dfbf-d078-367454ead3af@91.99.116.101:2085?path=%2F---ping---www.speedtest.net%3Fed%3D2080&security=none&encryption=none&host=dlll.taz-min.com&type=ws#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.108.151:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
@@ -797,4 +798,3 @@ vless://d5b30ef2-bd47-49c4-b6bc-a79ab0712477@91.107.158.48:443?Telegram=@Gozarga
 vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=reality&encryption=none&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=3c#By AghaDani
 vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&security=tls&path=%2F&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#By AghaDani
 vless://7bae942f-03d8-42f1-9de8-259f580b7ea6@zeus-panel-7rtl8g.zeus-uj1cvu.workers.dev:2052?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#By AghaDani
-vless://ae2bed26-3f4b-4fe9-ac67-7e505fa70d4b@gp1.steptofsvo.com:18443?mode=gun&security=reality&encryption=none&authority=&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=gp1.steptofsvo.com&sid=5c766813929a1fdd#By AghaDani
