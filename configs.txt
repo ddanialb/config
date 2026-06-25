@@ -1,3 +1,4 @@
+vless://77530b59-d579-4032-9f92-e0c9ed46a0da@46.4.162.63:443?security=none&type=tcp#By AghaDani
 trojan://telegram-id-privatevpns@18.197.212.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://4d504497-c8cb-4c46-afd4-19573f7c92a3@188.114.97.6:2053?path=%2FeyJqdW5rIjoiVThjQ3A4ZFphbzFlIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=aged-sun-66ef.hsjsteyehfbxhdgh.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=agED-sUN-66ef.HsJSteYeHFbxHdgH.WORKeRS.DEv#By AghaDani
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
@@ -797,4 +798,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:808
 trojan://MiTiVPN@151.101.101.101:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#By AghaDani
 trojan://MiTiVPN@151.101.96.96:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#By AghaDani
 vless://9e1c2f7c-8a21-4ef3-b015-3e8e1d7a0588@ez-e989d9.ezaccess104f94a.workers.dev:2087?path=/&security=tls&encryption=none&insecure=0&host=ez-e989d9.ezaccess104f94a.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-e989d9.ezaccess104f94a.workers.dev#By AghaDani
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#By AghaDani
