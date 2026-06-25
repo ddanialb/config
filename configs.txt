@@ -1,3 +1,5 @@
+vless://aa9453dc-0e52-4628-8911-933c5286a9da@francev1.sorcepack.ir:56626?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#By AghaDani
+vless://21702d6d-7b35-4faa-8462-c23dc7e20e00@telewebion.com.Fin2.ShAkHlE.iR:52525?security=none&encryption=none&host=status.play.google.com&headerType=http&type=tcp#By AghaDani
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=cloud.pedramhost.ir&type=httpupgrade#By AghaDani
 vless://8dce60ab-0707-413c-aa99-28ce2f52dfe0@172.66.162.109:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=De1.velarlink.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=De1.velarlink.dpdns.org#By AghaDani
 vless://9cca42c5-972e-453c-b47f-29fd4a54b44b@5.75.207.247:43225?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
@@ -451,7 +453,6 @@ vless://7f9146e3-4663-4ebd-bc40-b21968c36d52@manager.xyzxz.qzz.io:443?encryption
 vless://ef5b296d-e083-4de2-a96e-b07b2077be3c@manager.xyzxz.qzz.io:443?encryption=none&security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=grpc&authority=manager.xyzxz.qzz.io&serviceName=%2F36842%2Fmehdi&mode=gun#By AghaDani
 trojan://YDuMlzzicu@manager.xyzxz.qzz.io:443?security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=manager.xyzxz.qzz.io&path=%2F56536%2Fmehdi#By AghaDani
 vless://530ca222-29d9-48f6-806d-d5bdf37e236b@manager.xyzxz.qzz.io:443?encryption=none&security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=manager.xyzxz.qzz.io&path=%2F45458%2Fmehdi#By AghaDani
-vless://21702d6d-7b35-4faa-8462-c23dc7e20e00@telewebion.com.Fin2.ShAkHlE.iR:52525?security=none&encryption=none&host=status.play.google.com&headerType=http&type=tcp#By AghaDani
 vless://56bddf0d-22d8-42a5-867f-d1b3f8b2df0b@manager.xyzxz.qzz.io:443?encryption=none&security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=grpc&authority=manager.xyzxz.qzz.io&serviceName=%2F38203%2Fmehdi&mode=gun#By AghaDani
 trojan://pVHBUQTLZO@manager.xyzxz.qzz.io:443?security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=manager.xyzxz.qzz.io&path=%2F27287%2Fmehdi#By AghaDani
 trojan://xUNPPOuUiC@manager.xyzxz.qzz.io:443?security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=grpc&authority=manager.xyzxz.qzz.io&serviceName=%2F41066%2Fmehdi&mode=gun#By AghaDani
@@ -797,4 +798,3 @@ vless://89722a6c-e074-4651-d0a7-6ad6c29ce87b@20.96.165.134:80?mode=gun&security=
 trojan://SoftNetConnect@37.156.44.157:443?type=xhttp&security=reality&path=/&mode=auto&extra={#By AghaDani
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.104.44.88:6679#By AghaDani
 trojan://humanity@104.19.2.175:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#By AghaDani
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@188.114.97.6:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dl-pack.motionbetter.ir#By AghaDani
