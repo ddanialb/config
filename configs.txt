@@ -1,3 +1,4 @@
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
 vmess://eyJhZGQiOiAiNTEuMTk1LjIzNS43MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTllMjhmNzgtYzMxYi00NjEzLTlkOWYtMWU2NzMyYTMxZjQ2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDUyIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=#By AghaDani
 vless://0d53eba0-786f-45e2-bf10-97f899edfa29@5.75.207.247:43225?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 vless://5dc683c8-db26-463c-b6f2-beae07618f97@www.speedtest.net:8080?path=/&security=none&encryption=none&host=ez-8e6568.ezaccess171a5bd.workers.dev&fp=chrome&type=ws&sni=ez-8e6568.ezaccess171a5bd.workers.dev#By AghaDani
@@ -126,7 +127,6 @@ vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@104.16.72.70:443?path=%2Fws&securit
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#By AghaDani
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#By AghaDani
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.70:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#By AghaDani
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
 trojan://telegram-id-privatevpns@13.39.209.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://62a8d012-9eb2-470d-bce2-b5e9086efa90@for.brayhame.qzz.io:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=for.brayhame.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=for.brayhame.qzz.io#By AghaDani
 vless://fc71fffb-3743-4cfe-9edb-c8cb513e9146@199.232.245.208:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=bazaryabab.global.ssl.fastly.net&path=%2F#By AghaDani
