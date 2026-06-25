@@ -1,3 +1,6 @@
+vless://8b62732c-0d4a-4f8f-80cf-f9d30de33b62@37.156.40.244:2082?encryption=none&type=tcp&security=reality&headerType=http&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=_Ep9rs71EW4BYpupN25Z91tKS4u2jyWERfrb0CY1OiE&sid=0b&spx=%2FATO3G3JijSXGTSm%2FTELEGRAM--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN#By AghaDani
+vless://8a53160d-23c4-47a3-8e25-d8f33a65490f@fastly.videobazi.com:80?mode=auto&path=%2F&security=none&encryption=none&host=Marymary.global.ssl.fastly.net&type=xhttp#By AghaDani
+vless://8a53160d-23c4-47a3-8e25-d8f33a65490f@185.171.202.108:8443?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&host=play.google.com&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#By AghaDani
 ss://YWVzLTI1Ni1nY206cCtzc2xUdlBSNWpVdUVDWndqYVRMWmlJbUpQVG5jL0J0NG43YytoMXZ5Zz0@85.198.9.136:443#By AghaDani
 vless://abc5136f-0a94-4de1-9af3-12fc7488ae2f@5.75.207.247:43225?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@local.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#By AghaDani
@@ -795,6 +798,3 @@ trojan://MiTiVPN@151.101.83.83:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mi
 vless://71788e0b-c27f-4dd2-ba78-aa682ba652b6@185.147.27.105:80?path=%2F&security=none&encryption=none&type=ws#By AghaDani
 trojan://humanity@104.18.152.219:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 trojan://MiTiVPN@151.101.50.50:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#By AghaDani
-vless://fc6ad77f-eef3-486c-8ddc-f9316a3862d5@57.131.18.123:13355?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#By AghaDani
-vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@de-01.gni-daed.ru:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&security=reality&sni=&fp=firefox&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4&type=tcp&headerType=none#By AghaDani
