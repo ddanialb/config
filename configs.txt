@@ -1,3 +1,5 @@
+trojan://telegram-id-privatevpns@18.197.212.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
+vless://4d504497-c8cb-4c46-afd4-19573f7c92a3@188.114.97.6:2053?path=%2FeyJqdW5rIjoiVThjQ3A4ZFphbzFlIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=aged-sun-66ef.hsjsteyehfbxhdgh.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=agED-sUN-66ef.HsJSteYeHFbxHdgH.WORKeRS.DEv#By AghaDani
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#By AghaDani
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?allowInsecure=0&sni=cnmfangbinxing.cnmfangbinxing-a.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing-a.workers.dev&path=/fp=randomized#By AghaDani
@@ -28,7 +30,6 @@ vless://06a368f4-e62e-4486-97a1-4c60bb7a0eed@client.jison.ir:443?path=%2Fws&secu
 vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@euro.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://0cb903e2-66a6-4e58-9793-1049b0620962@45.152.198.221:47208?mode=gun&security=reality&encryption=none&pbk=d8sNLxNRUvDCPQuMHs73mTLnMlLQCLhfR4ZsJA6reDI&fp=chrome&spx=%2FLiKDK8D8aKTSwJF&type=grpc&sni=yahoo.com&sid=06531bb7f2#By AghaDani
 vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@global.cloud-play.ir:80?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&mode=packet-up&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#By AghaDani
-trojan://telegram-id-privatevpns@18.197.212.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://f8e32ccb-7e0b-4966-837a-2a9503bc3d82@64.49.45.57:15540?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&pbk=Yg0SBHkbrgAxsRKnsNXn4SStVURNYMiPor2oMSRTblA&sid=3a81ee2c998d0e&type=tcp&headerType=none#By AghaDani
 vless://e9018602-a345-4d9e-95e1-2cd16eb36c55@hikvision-plus.com:2052?security=none&type=ws&encryption=none&host=uwu.blueknightnet.qzz.io&path=%2Fapi-v1#By AghaDani
 vless://e9018602-a345-4d9e-95e1-2cd16eb36c55@undef.network:2052?security=none&type=ws&encryption=none&host=uwu.blueknightnet.qzz.io&path=%2Fapi-v1#By AghaDani
@@ -797,4 +798,3 @@ trojan://MiTiVPN@151.101.101.101:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-
 trojan://MiTiVPN@151.101.96.96:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#By AghaDani
 vless://9e1c2f7c-8a21-4ef3-b015-3e8e1d7a0588@ez-e989d9.ezaccess104f94a.workers.dev:2087?path=/&security=tls&encryption=none&insecure=0&host=ez-e989d9.ezaccess104f94a.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-e989d9.ezaccess104f94a.workers.dev#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#By AghaDani
-vless://51c3f1a8-b5b3-4758-947b-ae6d37a7adc0@46.4.162.63:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
