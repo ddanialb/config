@@ -1,3 +1,5 @@
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.244.151:80?encryption=none&type=ws&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=max-gb1.global.ssl.fastly.net#By AghaDani
+vless://a1667f69-6ef0-4f4c-a4e6-3fe555d6da71@37.152.190.242:49194?type=ws&path=%2F&security=none#By AghaDani
 vless://f33d71f3-e9f0-4a65-9436-a5287c6a205b@uki.maf-rehbos.ir:2096?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&pbk=HLVD1CJA0s2vvnR_FWuCgKWLy8Ya-CnG1LpGHb5PABc&sid=61520d157f42e4f8#By AghaDani
 vless://f33d71f3-e9f0-4a65-9436-a5287c6a205b@my.novinazinsanat.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=HLVD1CJA0s2vvnR_FWuCgKWLy8Ya-CnG1LpGHb5PABc&sid=61520d157f42e4f8#By AghaDani
 vless://f33d71f3-e9f0-4a65-9436-a5287c6a205b@xpymhar1.azangooo.ir:2053?encryption=none&security=tls&type=ws&headerType=none&path=%2F%3Fed%3D2560&host=cpno-3x.farshe500shaneh.ir&sni=cpno-3x.farshe500shaneh.ir#By AghaDani
@@ -796,5 +798,3 @@ vless://dcbb2940-bb24-41fd-953e-2a24e34a9790@mci.cloud-play.ir:80?encryption=non
 vless://87ace6ba-7c02-46b3-9e4e-61ea450c8ae5@cl.novmber.ir:2083?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=node2.me1091.com#By AghaDani
 vless://aac3348a-5adb-45b8-875a-305102c3bfa7@Hes.purplrose.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=meh.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=meh.purplrose.ir#By AghaDani
 trojan://telegram-id-directvpn@15.237.161.109:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-vless://ba1c6da5-fa72-45cb-aa35-5dc31674becf@srv2.privacypathcloud.com:2052?encryption=none&security=none&type=xhttp&headerType=none&host=blackaids.ir&mode=auto&extra=%7B%22xPaddingBytes%22:%22100-1000%22%7D#By AghaDani
-vless://b37ab1c0-8f36-4791-9a69-fc95bcdca902@fsxhh.fastshop1.com:443?mode=packet-up&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/mammadalifsx&security=tls&encryption=none&insecure=0&host=mmdaliakbarali.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=speedtest.net#By AghaDani
