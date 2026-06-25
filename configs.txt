@@ -1,3 +1,6 @@
+vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=%2Fv2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#By AghaDani
+vless://be9bf82b-b48b-4b7e-9cba-3b86801058ba@167.82.101.251:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
+vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@188.114.97.6:80?path=%2Fnexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#By AghaDani
 vless://7a89511e-296a-4a56-bba1-e6cb457f22fd@104.16.72.70:2083?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=ys.dbssl.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=ys.dbssl.ir#By AghaDani
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#By AghaDani
 vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@mci.nexuschat.fun:80?path=%2Fnexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#By AghaDani
@@ -13,7 +16,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpieFF4ZjJwbUR4dkt6YmFjTlFGV1g4NnZvdk9Jbl85OA=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ==@45.129.96.62:41348#By AghaDani
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@93.114.98.164:443?security=reality&encryption=none&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=a796a1f52722b3a5#By AghaDani
 vless://7cea1387-028a-488c-b495-ee9aaac1bb61@stdn.iau.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=grdirect.allaccss.ir&fp=firefox&type=ws&allowInsecure=0&sni=grdirect.allaccss.ir#By AghaDani
-vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=%2Fv2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#By AghaDani
 vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.25:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#By AghaDani
 vless://40b46f64-d8a5-4496-b86f-1d6db7d4bf39@95.179.159.222:19436?encryption=none&security=none&type=tcp@oliver#By AghaDani
@@ -796,5 +798,3 @@ trojan://MiTiVPN@151.101.159.159:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.134.151:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.132.151:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2#By AghaDani
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.70:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#By AghaDani
-trojan://humanity@104.16.174.71:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#By AghaDani
-trojan://MiTiVPN@151.101.122.122:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2#By AghaDani
