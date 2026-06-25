@@ -1,3 +1,4 @@
+vless://baa35e3d-bff3-4dd2-bdf7-0efa49842404@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 vless://5fbbf263-0518-446c-8ef2-13b2001aa69d@104.17.9.5:443?alpn=http%2F1.1&ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=newgit.jisucf.cloudns.biz&path=%2Ffp%3Dchrome&security=tls&sni=newgit.jisucf.cloudns.biz&type=ws#By AghaDani
 vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.60:2087?path=%2F&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451db#By AghaDani
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#By AghaDani
@@ -46,7 +47,6 @@ trojan://v9nxntt6grgi9dkl@991827262gsgs-8822nbeoaoznzznzb.poki-pakipon.ir:80?typ
 vless://dee8bd2c-2f5c-4238-adc1-f8c5e19d8778@991827262gsgs-8822nbeoaoznzznzb.poki-pakipon.ir:443?encryption=none&type=tcp&security=reality&headerType=http&host=www.yahoo.com&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=7Tl6MxuH1PZpbKIETVPK1he_MjOLtUeMTFiEek9HQiM&sid=c14cf5fef100&spx=%2Fgp3Bmz3seGmiJPB#By AghaDani
 vless://7025da9d-e240-40a8-9b9d-75242b30f147@emadlovers.shop:9090?security=reality&encryption=none&pbk=WojJAO5zMcdBDEg_oaQxoX6Y0E-VKlsR_43S263kUiE&headerType=none&fp=chrome&spx=%2FjZrc3GHmP0l7qYS&type=tcp&sni=www.sony.com&sid=57a4e08bd1412a2d#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#By AghaDani
-vless://baa35e3d-bff3-4dd2-bdf7-0efa49842404@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 vless://62a8d012-9eb2-470d-bce2-b5e9086efa90@66.33.23.17:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=v2-production-915a.up.railway.app&fp=chrome&type=ws&allowInsecure=0#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#By AghaDani
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@104.16.7.70:8080?path=%2F&security=none&encryption=none&host=cloud.pedramhost.ir&type=httpupgrade#By AghaDani
