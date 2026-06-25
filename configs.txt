@@ -1,3 +1,4 @@
+trojan://38b890e9-b864-27d5-8759-0872d520b320@autumn-leaf-474d.tahapassmail.workers.dev:2053?path=/Taha&security=tls&host=autumn-leaf-474d.tahapassmail.workers.dev&fp=chrome&allowinsecure=0&type=ws&sni=autumn-leaf-474d.tahapassmail.workers.dev#By AghaDani
 vless://b1ac23fb-b336-4d37-a3c0-64b29c4ef3a4@s2.tehranionliine.ir:80?encryption=none&type=ws&path=/&security=none#By AghaDani
 vless://516d6b1a-0147-46fb-b95d-71a4d432971f@193.151.131.131:21659?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://186eb0b0-d18c-4f77-b4de-3a2d72582c6d@snapp.ir:80?encryption=none&security=none&type=ws&host=mhi.mgshoponline.ir&path=/#By AghaDani
@@ -797,4 +798,3 @@ vless://a565443a-d82f-4d6f-a7d0-5cce1f098f21@ferari.axade.ir:11000?security=real
 vless://ba1c6da5-fa72-45cb-aa35-5dc31674becf@srv3.privacypathcloud.com:80?encryption=none&security=none&type=ws&headerType=none&path=/ssss?ed=2560&host=PrivacyPath.com#By AghaDani
 vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?allowInsecure=0&sni=fry2.brocollisuper.click&type=grpc&serviceName=grpc-api&security=tls#By AghaDani
 trojan://4d3cf4e8e1084450@172.66.47.119:443?security=tls&sni=adSaDaFDAFsaSFa.PaGES.DeV&fp=ios&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=adsadafdafsasfa.pages.dev&path=%2FeyJqdW5rIjoiRlFidVd4VGFGaTZhciIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#By AghaDani
-trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
