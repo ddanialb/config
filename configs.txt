@@ -1,3 +1,7 @@
+vless://Telegramm%3AX_RAY_VPN1@91.228.227.86:721?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.60:2087?path=%2F&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#By AghaDani
+vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.60:2083?path=%2F&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#By AghaDani
+vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.60:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#By AghaDani
 vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.60:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#By AghaDani
 trojan://MiTiVPN@151.101.56.6:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=cdn-mitivpn.global.ssl.fastly.net&path=%2Fde&sni=global.fastly.com&type=ws#By AghaDani
 vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.40:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#By AghaDani
@@ -31,7 +35,6 @@ vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?encryption=none&
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d515d6cfdfe60b02&sni=storage.yandex.net&type=tcp#By AghaDani
 vless://5bbb20d4-51ff-471f-845e-c7f5fb55cd55@riga-1.easyodin.ir:443?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#By AghaDani
 trojan://humanity@198.202.211.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#By AghaDani
-vless://Telegramm%3AX_RAY_VPN1@91.228.227.86:721?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://baf6726b-1900-4d23-b760-ada7fe2f6d25@138.199.159.149:48290?security=reality&encryption=none&pbk=KFTbe_Hkcy4x5DbQTRoUpSjux-NU1YVwFHHFjVKXyGg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=23e882de408ef82a#By AghaDani
 vless://5bbb20d4-51ff-471f-845e-c7f5fb55cd55@riga-1.easyodin.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@uk-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#By AghaDani
@@ -795,6 +798,3 @@ vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.26.15.16:8080?security=none&enc
 vless://c0938841-1b6e-47a3-ad26-e795e0f7aeb2@chatgpt.com:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=cdn5.tehrancloud.net#By AghaDani
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
 vless://06a368f4-e62e-4486-97a1-4c60bb7a0eed@client.jison.ir:443?path=%2Fws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=sdt.jison.ir&type=ws&allowInsecure=0&sni=fty.jison.ir#By AghaDani
-vless://ce967499-9b55-480f-9d8e-6f2d37bba843@83.147.253.245:4111?mode=gun&security=reality&encryption=none&pbk=DW2C6G0T-udzyIjKtBHiEZFkJT1OE2AcQaGjnpI2pno&fp=qq&type=grpc&serviceName=yourServiceName&sni=www.icloud.com&sid=9e0df5878ac2f3c8#By AghaDani
-vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:8443?path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=httpupgrade&allowInsecure=0#By AghaDani
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#By AghaDani
