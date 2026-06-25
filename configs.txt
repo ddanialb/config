@@ -1,3 +1,7 @@
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.98:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#By AghaDani
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@213.35.127.18:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=%2F&sni=hhcm.hhxaf.cc.cd&type=ws#By AghaDani
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.64.235.157:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=%2F&sni=hhcm.hhxaf.cc.cd&type=ws#By AghaDani
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#By AghaDani
 vless://40bf0425-e1b5-41a0-aad8-b482d2aee498@fastly.videobazi.com:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=gerz.global.ssl.fastly.net&type=xhttp#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.57.151:80?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
@@ -794,7 +798,3 @@ vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.155:8443/?type=tcp&encryp
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.38.47:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#By AghaDani
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.123:443#By AghaDani
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443#By AghaDani
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.241.151:80?encryption=none&type=ws&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&host=max-gb1.global.ssl.fastly.net#By AghaDani
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.120:443#By AghaDani
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.97:443#By AghaDani
-vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@5.129.236.132:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&security=reality&sid=a8399289e18af5f4&sni=ams-01.gni-daed.ru&type=tcp#By AghaDani
