@@ -1,3 +1,4 @@
+trojan://Mitivpn@151.101.56.6:443?path=%2Fslowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://b10bb7aa-74a5-4c73-aec9-a883e7688d8b@pasa.majedtechnical.ir:443?security=reality&encryption=none&pbk=Yqp623aIfpUvxLZLsm-7ZgnMMVvvE2jnhYoyprnhmjs&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=36754b52bf611364#By AghaDani
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto&path=%2Fclud%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=franceix.dtvialon.com#By AghaDani
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto&path=%2Fclud%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=gzz.dtvialon.com#By AghaDani
@@ -158,7 +159,6 @@ vless://8b1b9e4f-ac15-4219-ad6b-05079054c2cb@cctvhikvision.center:2052?path=%2Fa
 vless://cc28f940-aac2-418c-ab50-a011596d834a@kim1.wiziii.xyz:2083?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=wiz1.jooje.lat&type=xhttp&allowInsecure=0&sni=wiz1.jooje.lat#By AghaDani
 vless://45c8d20e-0222-4b16-8d21-37318456b980@47.79.149.248:38388?security=reality&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#By AghaDani
 vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?path=%2F&security=&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#By AghaDani
-trojan://Mitivpn@151.101.56.6:443?path=%2Fslowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://82bcfd17-37d2-4bf2-be7f-c338b8e959b0@84.32.209.210:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=statusdetector404.ru&fp=firefox&pbk=Zq6qL8R76CWAsWlI1m_684JcC6Jw_kFAZNshxfjivB0&sid=6ba85179e30d4fc2&type=tcp&headerType=none#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzMTJmYm5tZjlFSEpUWnZX@20.166.126.19:443?outline=1&prefix=POST%20t33e606Q#By AghaDani
 vless://2e129e7d-8c3e-4e85-a9d9-c27d6b09c628@66.33.22.225:30756?type=tcp&encryption=none&path=%2F%40V2rayCR7&host=play.google.com&headerType=http&security=none#By AghaDani
