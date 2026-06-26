@@ -1,3 +1,4 @@
+vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=%2Fmedia14&security=tls&encryption=none&insecure=0&host=media14.ftmsoft.com&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#By AghaDani
 trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
 trojan://Mitivpn@151.101.56.6:443?path=%2Fslowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://XXVIPXX%3AX_RAY_VPN1@91.228.227.86:721?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
@@ -46,7 +47,6 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@ps2.dservice.ir:2095?path=%2FDL%3Fed%3D2053&security=none&encryption=none&host=ps2.dservice.ir&type=ws#By AghaDani
 vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?path=%2F&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&fp=chrome&type=ws&sni=default.ssl.fastly.net#By AghaDani
 vless://6cdaf496-ccc9-4df8-9187-bf1ffeddf17e@hes.purplrose.ir:8443?mode=auto&path=%2F&security=tls&encryption=none&host=maze.purplrose.ir&fp=chrome&type=xhttp&sni=maze.purplrose.ir#By AghaDani
-vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=%2Fmedia14&security=tls&encryption=none&insecure=0&host=media14.ftmsoft.com&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#By AghaDani
 vless://54ef6629-6d37-4eac-b78c-8cf03f6f93d4@82.158.120.168:443?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://3ace64d9-05e7-4e8f-b130-9fcba76638e6@tun.w-ert.org:444?mode=auto&path=%2F&security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&fp=chrome&type=xhttp&sni=www.aparat.com&sid=ca4134a0ed2592b6#By AghaDani
 vless://421e0bf7-fecd-4983-911e-9b41159389fc@snappfood.ir:443?path=/bspath&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vaslbashi.tooorkshop.ir#By AghaDani
