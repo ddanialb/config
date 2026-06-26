@@ -1,3 +1,5 @@
+vless://903123fd-84fd-45d9-abc8-08c83d704224@mci.cloud-play.ir:80?host=xenoengineer.com&encryption=none&mode=packet-up&path=%2F&type=xhttp&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=none#By AghaDani
+vless://SoonTeam@108.162.195.19:8880?extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&mode=auto&type=xhttp&encryption=none&host=sudo.domain.direct.Pannel.admin.soon.ab841.com&path=%2F%40SoonTeam&security=none#By AghaDani
 vless://c5657bbd-6ee6-4417-91af-b7a8cd7e599f@104.26.2.228:2096?encryption=none&type=ws&security=tls&path=%2F&host=caci.lezzatflow.ir&sni=caci.lezzatflow.ir&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://0f06e572-eb9a-4831-be66-0646a03b849b@185.173.144.209:37368?path=/meet&security=none&encryption=none&host=play.google.com&type=ws#By AghaDani
 ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZkA0Ni4yOS4xNjMuMTk1OjIwMTI5Pw==#By AghaDani
@@ -796,5 +798,3 @@ vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.252:443?encryption=none
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#By AghaDani
 vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.226.164:2083?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 trojan://SoftNetConnect@83.228.226.164:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
-trojan://SoftNetConnect@83.228.226.164:2087?type=grpc&security=reality&authority=185.204.169.129&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=%2F#By AghaDani
-trojan://SoftNetConnect@83.228.226.164:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=%2F#By AghaDani
