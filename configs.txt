@@ -1,3 +1,4 @@
+vless://efd04664-20b4-4de4-b258-01faf95f2eec@45.38.198.160:38265?encryption=none&fp=chrome&pbk=p6JPnKZkFMU5wvpZUHBdssFU7L_plDCw229i0STkY3A&security=reality&sid=e182&sni=www.cloudflare.com&spx=%2F57TIBgR6cGEHGdT&type=tcp#By AghaDani
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.83:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#By AghaDani
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#By AghaDani
 vless://c1c018f0-85f7-4914-a659-a02121f7dd24@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
@@ -797,4 +798,3 @@ vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&pat
 vless://8474d694-eddc-4a45-8689-7ecacb5d1d0e@00hyt.izumii.ir:6000?path=%2F%3Fed%3D2048&security=none&encryption=none&host=play.google.com&type=ws#By AghaDani
 ss://YWVzLTI1Ni1nY206cCtzc2xUdlBSNWpVdUVDWndqYVRMWmlJbUpQVG5jL0J0NG43YytoMXZ5Zz0=@85.198.9.136:443#By AghaDani
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=185.137.157.151#By AghaDani
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.53:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=ams1.fromblancwithlove.com#By AghaDani
