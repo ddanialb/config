@@ -1,3 +1,4 @@
+vless://436bc09d-fe23-47de-84ae-5aa1b06ca0dd@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 vless://f23fb93e-7668-49f4-935e-dc18b9e18f8e@de.lesss.ir:443?security=reality&encryption=none&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=bc7c4660adb53714#By AghaDani
 vless://be90311d-2a2e-43d6-b2ba-87a2f99cc444@00hyt.izumii.ir:6000?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=play.google.com#By AghaDani
 vless://XXVIPXX%3AX_RAY_VPN1@91.228.227.86:721?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
@@ -380,7 +381,6 @@ vless://b576be55-4ac5-4fda-a323-4241c6483585@ser10.fredomiran.com:443?mode=auto&
 vless://b576be55-4ac5-4fda-a323-4241c6483585@ser5.fredomiran.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=panel.fredomiran.com&fp=chrome&type=xhttp&sni=panel.fredomiran.com#By AghaDani
 vless://b576be55-4ac5-4fda-a323-4241c6483585@45.130.125.88:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=panel.fredomiran.com&fp=chrome&type=xhttp&sni=panel.fredomiran.com#By AghaDani
 vless://b576be55-4ac5-4fda-a323-4241c6483585@104.17.121.79:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=panel.fredomiran.com&fp=chrome&type=xhttp&sni=panel.fredomiran.com#By AghaDani
-vless://436bc09d-fe23-47de-84ae-5aa1b06ca0dd@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#By AghaDani
 vless://f2200cec-858a-47c3-8a29-002902319f42@pinto6.wubbalubbadubdubb.ir:1011?security=reality&encryption=none&pbk=pJ7lUsrHgLYa8lt7NPs0a47FaoBwHBWS6EA--iVQp0s&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=701d699e06514eab#By AghaDani
 vless://f2200cec-858a-47c3-8a29-002902319f42@pinto1.wubbalubbadubdubb.ir:1011?security=reality&encryption=none&pbk=pJ7lUsrHgLYa8lt7NPs0a47FaoBwHBWS6EA--iVQp0s&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=701d699e06514eab#By AghaDani
