@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppNnFqMVFpOWJLdkZmSU0w@20.234.9.106:443#By AghaDani
 trojan://K2xoybDV07ODnkPzGppwHrV3Q_lYhwdB@sv5.hosttbd.ir:10005?security=none&type=tcp&headerType=none#By AghaDani
 trojan://K2xoybDV07ODnkPzGppwHrV3Q_lYhwdB@sv4.hosttbd.ir:10004?security=none&type=tcp&headerType=none#By AghaDani
 trojan://K2xoybDV07ODnkPzGppwHrV3Q_lYhwdB@sv1.hosttbd.ir:10001?security=none&type=tcp&headerType=none#By AghaDani
@@ -45,7 +46,6 @@ vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@104.16.72.70:443?path=%2Fws%3Fed&se
 trojan://d682c8f4-e719-577e-cbe9-2e5b00000000@0406.infinityconfig7.workers.dev:443?security=tls&sni=0406.infinityconfig7.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=0406.infinityconfig7.workers.dev&path=%2Fsync#By AghaDani
 vless://d682c8f4-e719-577e-cbe9-2e5b00000000@0406.infinityconfig7.workers.dev:443?encryption=none&security=tls&sni=0406.infinityconfig7.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=0406.infinityconfig7.workers.dev&path=%2Fsync#By AghaDani
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.12.41:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppNnFqMVFpOWJLdkZmSU0w@20.234.9.106:443#By AghaDani
 vless://1ca2c927-f8ba-4475-94cb-f85e0fb03ff5@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D&host=static.lotussec.com&fp=firefox&type=xhttp&sni=static.lotussec.com#By AghaDani
 vless://a045dd2b-db2e-4179-acd8-35067fd8ba0d@zeus-panel-tln7ap.kingworkerr.workers.dev:8080?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-tln7ap.kingworkerr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-tln7ap.kingworkerr.workers.dev#By AghaDani
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@167.82.101.251:443?path=%2F&security=tls&encryption=none&host=fancii.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#By AghaDani
