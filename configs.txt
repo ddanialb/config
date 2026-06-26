@@ -1,3 +1,5 @@
+trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
+trojan://Mitivpn@151.101.56.6:443?path=%2Fslowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://XXVIPXX%3AX_RAY_VPN1@91.228.227.86:721?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://8c9d1e04-5d82-4da4-9d8f-69c64dfd5855@91.107.246.117:2053?security=reality&encryption=none&pbk=7agHiLUvQiPgYB10CGojC_DIwX_5cW5U59XgXuLyXRs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=f08ce28325#By AghaDani
 trojan://M%69t%69vpn@151.101.110.219:443?path=%2Fboost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
@@ -24,8 +26,6 @@ vless://a7f24c6b-4d57-4d68-b283-4d9afbd23397@89.34.230.45:18808?security=none&en
 vless://a36288af-fdb5-4d83-99b3-c4f91d830649@243iroff1.z1m1ni.shop:80?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=243iroff1.z1m1ni.shop#By AghaDani
 vless://a36b1024-70b2-476e-9caf-0fd644d5b9ac@fanlandv3.sorcepack.ir:52077?mode=gun&security=reality&encryption=none&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=chrome&type=grpc&sni=yahoo.com&sid=a7f1b353c9e43d98#By AghaDani
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#By AghaDani
-trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
-trojan://Mitivpn@151.101.56.6:443?path=%2Fslowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.101:443?path=%2Fca-cl&security=tls&encryption=none&host=unnes.ac.id.yxls.eu.cc&type=ws&sni=unnes.ac.id.yxls.eu.cc#By AghaDani
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?path=%2Fus-gllc&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#By AghaDani
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#By AghaDani
