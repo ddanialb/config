@@ -1,3 +1,4 @@
+trojan://MiTiVPN@188.114.97.6:443?type=ws&security=tls&path=%2Fde%3Dmitivpn&host=f6r.ir&sni=f6r.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@5.129.236.132:443?security=reality&encryption=none&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ams-01.gni-daed.ru&sid=a8399289e18af5f4#By AghaDani
 ss://YWVzLTI1Ni1nY206cCtzc2xUdlBSNWpVdUVDWndqYVRMWmlJbUpQVG5jL0J0NG43YytoMXZ5Zz0=@85.198.9.136:443#By AghaDani
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=185.137.157.151#By AghaDani
@@ -797,4 +798,3 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.248:443?security=realit
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=%2F&security=tls&encryption=none&insecure=0&host=newip.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#By AghaDani
 vless://0b7882c4-4b3d-4ed8-9d70-e0f57a2b7ac6@69.84.182.49:2087?path=%2Fxnxx&security=tls&encryption=none&insecure=0&host=jojo.blaackgame.ir&fp=chrome&type=ws&allowInsecure=0&sni=jojo.blaackgame.ir#By AghaDani
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?security=&encryption=none&type=grpc#By AghaDani
