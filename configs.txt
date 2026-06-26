@@ -1,3 +1,8 @@
+vless://fda0244a-80e6-4be3-9fe0-e522d4910e15@5.75.207.247:44004?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#By AghaDani
+vless://a52ebda5-cf07-495f-831c-3f7995135e48@91.193.58.210:8443?encryption=none&security=tls&sni=nova-coral-core-c091.infinityconfig8.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=nova-coral-core-c091.infinityconfig8.workers.dev&path=%2F%3Fu%3Ddd4ffbed10#By AghaDani
+vless://a52ebda5-cf07-495f-831c-3f7995135e48@104.17.54.45:2096?encryption=none&security=tls&sni=nova-coral-core-c091.infinityconfig8.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=nova-coral-core-c091.infinityconfig8.workers.dev&path=%2F%3Fu%3Ddd4ffbed10#By AghaDani
+vless://3129f18a-aab6-4f06-8f78-a41270c39fb1@irn.vtnazad.xyz:2083?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=irn.vtnazad.xyz&alpn=h2,http/1.1#By AghaDani
+vless://a52ebda5-cf07-495f-831c-3f7995135e48@108.162.198.13:2087?encryption=none&security=tls&sni=nova-coral-core-c091.infinityconfig8.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=nova-coral-core-c091.infinityconfig8.workers.dev&path=%2F%3Fu%3Ddd4ffbed10#By AghaDani
 vless://a52ebda5-cf07-495f-831c-3f7995135e48@104.19.148.201:8443?encryption=none&security=tls&sni=nova-coral-core-c091.infinityconfig8.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=nova-coral-core-c091.infinityconfig8.workers.dev&path=%2F%3Fu%3Ddd4ffbed10#By AghaDani
 vless://85b62084-d81e-52cd-a016-944f261d34a0@45.144.165.11:80?mode=auto&path=%2F&security=none&encryption=none&host=cJ-sPeEdTeSt.EbB.mY&type=xhttp#By AghaDani
 trojan://telegram-id-privatevpns@63.179.83.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
@@ -13,8 +18,6 @@ vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@tr.janusgate.org:443?security=reali
 trojan://telegram-id-directvpn@63.179.83.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 ss://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IkB2MnJheW5nMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#By AghaDani
 trojan://humanity@127.0.0.1:40443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
-vless://a52ebda5-cf07-495f-831c-3f7995135e48@91.193.58.210:8443?encryption=none&security=tls&sni=nova-coral-core-c091.infinityconfig8.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=nova-coral-core-c091.infinityconfig8.workers.dev&path=%2F%3Fu%3Ddd4ffbed10#By AghaDani
-vless://a52ebda5-cf07-495f-831c-3f7995135e48@104.17.54.45:2096?encryption=none&security=tls&sni=nova-coral-core-c091.infinityconfig8.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=nova-coral-core-c091.infinityconfig8.workers.dev&path=%2F%3Fu%3Ddd4ffbed10#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#By AghaDani
 vless://eb528c71-441a-4430-867d-ab63d301d4ee@gifi.dns-crypto-yandex.com:443?mode=gun&security=reality&encryption=none&pbk=Bvdy2c0cxotdTPXwX1DXQ2RQDcWdRpNCaABu2tCwhzQ&fp=chrome&type=grpc&serviceName=grpc&sni=gifi.dns-crypto-yandex.com&sid=0e830794d04398#By AghaDani
 vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@tr.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tr.janusgate.org&sid=f68f32d02dbd5147#By AghaDani
@@ -37,10 +40,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:80
 vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@fi.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fi.janusgate.org&sid=05cf93ad9f36e28e#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#By AghaDani
 vless://deffbfcd-0626-365b-ff92-9b93f2fd6459@rvg-production-1ab7.up.railway.app:443?path=%2Fws%2Fdeffbfcd-0626-365b-ff92-9b93f2fd6459&security=tls&encryption=none&insecure=0&host=rvg-production-1ab7.up.railway.app&fp=firefox&type=ws&allowInsecure=0&sni=rvg-production-1ab7.up.railway.app#By AghaDani
-vless://3129f18a-aab6-4f06-8f78-a41270c39fb1@irn.vtnazad.xyz:2083?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=irn.vtnazad.xyz&alpn=h2,http/1.1#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#By AghaDani
 vless://deffbfcd-0626-365b-ff92-9b93f2fd6459@rvg-production-1ab7.up.railway.app:443?path=%2Fws%2Fdeffbfcd-0626-365b-ff92-9b93f2fd6459&security=tls&encryption=none&insecure=1&host=rvg-production-1ab7.up.railway.app&type=ws&allowInsecure=1&sni=rvg-production-1ab7.up.railway.app#By AghaDani
-vless://a52ebda5-cf07-495f-831c-3f7995135e48@108.162.198.13:2087?encryption=none&security=tls&sni=nova-coral-core-c091.infinityconfig8.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=nova-coral-core-c091.infinityconfig8.workers.dev&path=%2F%3Fu%3Ddd4ffbed10#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#By AghaDani
 trojan://Mitivpn@151.101.56.6:443?path=%2Fboost&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
@@ -63,7 +64,6 @@ vless://29662c1f-2478-4556-a9a3-b12a6a66e148@mci.sulduz.pw:2174?security=&encryp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#By AghaDani
 vless://f7371484-8044-48dd-a40d-260c7395de4d@104.16.72.70:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#By AghaDani
 vless://fda0244a-80e6-4be3-9fe0-e522d4910e15@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
-vless://fda0244a-80e6-4be3-9fe0-e522d4910e15@5.75.207.247:44004?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#By AghaDani
 vless://2f9ff69c-0f47-4f7c-85e4-f9bc124680f5@www.arvancloud.ir:8080?encryption=none&host=vip.melotus.ir&path=%2Fwss&security=none&type=ws#By AghaDani
 vless://db8b2ee3-68cb-40fb-9442-26e68f9bb834@dash.wordqress.store:43930?security=&encryption=none&headerType=&type=tcp#By AghaDani
 vless://f80cf976-c64e-4556-a07c-75b9461b5165@dash.wordqress.store:18323?security=&encryption=none&headerType=&type=tcp#By AghaDani
