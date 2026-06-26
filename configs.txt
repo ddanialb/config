@@ -1,3 +1,4 @@
+vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@138.124.4.132:443?security=reality&sni=google.com&type=grpc&serviceName=data-sync&fp=random&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d#By AghaDani
 vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@173.245.59.191:443?path=%2FGoorBah&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=baguette.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=baguette.adaspoloandco.com#By AghaDani
 vless://9c5ea2a8-150f-45b6-886c-be0d9e90f5d3@f2.iranphlox.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=xhttp&host=Fastspeedmar.global.ssl.fastly.net&path=%2F&mode=auto#By AghaDani
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aUZ4bHRxc2NKVkxKZEh1blpYUENtYjRUb0hON0xoa29lWXdwUWNVL1Bibz0@193.151.128.97:443#By AghaDani
@@ -797,4 +798,3 @@ vless://0b7882c4-4b3d-4ed8-9d70-e0f57a2b7ac6@12telegram.com.zapas.iran.janebical
 vless://0b7882c4-4b3d-4ed8-9d70-e0f57a2b7ac6@11telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=jojo.blaackgame.ir&path=%2Fxnxx&security=tls&sni=jojo.blaackgame.ir&type=ws#By AghaDani
 vless://0b7882c4-4b3d-4ed8-9d70-e0f57a2b7ac6@10telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=jojo.blaackgame.ir&path=%2Fxnxx&security=tls&sni=jojo.blaackgame.ir&type=ws#By AghaDani
 vless://0b7882c4-4b3d-4ed8-9d70-e0f57a2b7ac6@9telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=jojo.blaackgame.ir&path=%2Fxnxx&security=tls&sni=jojo.blaackgame.ir&type=ws#By AghaDani
-vless://0b7882c4-4b3d-4ed8-9d70-e0f57a2b7ac6@8telegram.com.zapas.iran.janebicall.ir:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=jojo.blaackgame.ir&path=%2Fxnxx&security=tls&sni=jojo.blaackgame.ir&type=ws#By AghaDani
