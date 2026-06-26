@@ -1,3 +1,4 @@
+trojan://Mitivpn@151.101.110.219:443?security=tls&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/boost=mitivpn&sni=ssl.fastly.com#By AghaDani
 trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#By AghaDani
 vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@154.222.9.157:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a#By AghaDani
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888/?type=tcp&encryption=none&flow=#By AghaDani
@@ -797,4 +798,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&enc
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=graph.instagram.com.cyylr.eu.cc&%3Btype=ws&%3BallowInsecure=0&%3Bsni=graph.instagram.com.cyylr.eu.cc#By AghaDani
 vless://9adb5a9e-ef33-406f-0562-34656d0a3ea2@s2.zynavo.ir:2087?mode=auto&alpn=h3%2Ch2%2Chttp%2F1.1&pcs=02dbd988f959ab1da732a2ededea00a5907badd9ec17f77e2ab72658ddcb8454&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp&security=tls&path=%2FBetForward&allowInsecure=1&host=cdn.zynavo.ir&sni=cdn.zynavo.ir&fp=chrome&encryption=none&insecure=1#By AghaDani
 vless://65756824-435e-47c0-ff31-b24a5405e79d@195.201.255.242:2052?type=tcp&security=none&path=%2F&host=bmi.ir&headerType=http#By AghaDani
-trojan://telegram-id-directvpn@13.39.122.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
