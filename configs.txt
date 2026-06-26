@@ -1,3 +1,5 @@
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#By AghaDani
+vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=%2F&security=tls&encryption=none&host=newip.global.ssl.fastly.neT.&type=ws&sni=default.ssl.fastly.net#By AghaDani
 vless://75f89edc-9d8d-4314-8530-dfa9c76e406b@3.71.8.174:1008?mode=gun&security=reality&encryption=none&pbk=GXDMecomfLm7sEDp4ZcAsoDY2HhurLg9xRGfj7hMU20&fp=chrome&type=grpc&serviceName=grpc&sni=www.apple.com&sid=cc0fe3bfea219901#By AghaDani
 vless://75f89edc-9d8d-4314-8530-dfa9c76e406b@20.74.213.64:1008?mode=gun&security=reality&encryption=none&pbk=GXDMecomfLm7sEDp4ZcAsoDY2HhurLg9xRGfj7hMU20&fp=chrome&type=grpc&serviceName=grpc&sni=www.apple.com&sid=cc0fe3bfea219901#By AghaDani
 vless://6e6af208-ed09-4051-8a18-e44f7bef2a55@hm.khoycityman.ir:50102?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#By AghaDani
@@ -575,7 +577,6 @@ vless://5e0179a9-ffe3-40c8-947b-dc6eb053a103@185.226.93.243:8444?security=realit
 vless://f77bcbf0-76ac-462f-b789-22f99838bcd9@d2.cvbesty.ir:39980?mode=gun&security=reality&encryption=none&pbk=rvASQZqW6BWYuVuV_wfzoaTz3kPXRB1i6VJlUYUwZB4&fp=chrome&spx=%2F&type=grpc&sni=play.google.com&sid=3e64c3#By AghaDani
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.202.211.1:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#By AghaDani
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#By AghaDani
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.gossipglove.com#By AghaDani
 vless://SoonTeam@108.162.195.19:8880?mode=auto&path=%2F%40SoonTeam&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=sudo.domain.direct.Pannel.admin.soon.ab841.com&type=xhttp#By AghaDani
 vless://d27a232b-de94-4204-9bae-b0c243c6b93c@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=newip.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#By AghaDani
@@ -797,4 +798,3 @@ vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@104.16.72.70:443?path=%2Fws&securit
 vless://903123fd-84fd-45d9-abc8-08c83d704224@local.cloud-play.ir:80?mode=packet-up&path=%2F%3F%40MARAMBA#By AghaDani
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.70:443?path=%2Fau-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#By AghaDani
 vless://903123fd-84fd-45d9-abc8-08c83d704224@global.cloud-play.ir:80?mode=packet-up&path=%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=none&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=connectingissues.pl&type=xhttp#By AghaDani
-vless://539dccf8-7ad6-4787-bb6c-c416b896ecaf@104.16.72.70:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=ssl.myblog.org.tr&fp=chrome&type=ws&allowInsecure=0&sni=ssl.myblog.org.tr#By AghaDani
