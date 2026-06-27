@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@13.39.71.117:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
+trojan://telegram-id-privatevpns@13.39.71.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
+vless://2c17aa06-0dcd-424c-a597-bf1e8bdd519a@Xcdn.AccuracyCloud.Ir:2053?mode=packet-up&path=%2Fdrlimit%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&host=UK.Mobailhay.ir&fp=chrome&type=xhttp&sni=Tehran.mobailhay.ir#By AghaDani
+vless://2c17aa06-0dcd-424c-a597-bf1e8bdd519a@Xcdn.AccuracyCloud.Ir:2053?mode=packet-up&path=%2Fdrlimit%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&host=GR.Mobailhay.ir&fp=chrome&type=xhttp&sni=Mashhad.Mobailhay.ir#By AghaDani
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#By AghaDani
 vless://0239395e-f490-4473-b0ae-4f3b37c75f01@185.200.196.68:5635?security=reality&encryption=none&pbk=74GNMrWP02eGR9FP2hBA8nyjHoAKKAqBnz3qNFah2w4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=bunny.net&sid=85229882bd386e72#By AghaDani
 vless://360c5784-2abd-4e5d-ab41-11394b06e4a5@servers.xvon.in:55657?type=tcp&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=servers.xvon.in#By AghaDani
@@ -794,7 +798,3 @@ vless://50ab6b59-4596-4b28-9440-fde9f5540514@18.153.49.40:2053?security=reality&
 vless://41f46aa9-da29-45f6-b33e-50ed736c8646@mci.cloud-play.ir:80?mode=auto&path=/&security=&encryption=none&extra={#By AghaDani
 vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=chrome&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&type=tcp&headerType=none#By AghaDani
 vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?encryption=none&fp=chrome&headerType=none&pbk=Crjd0I6hcasRXZcfNf7cs-YtJLpQ8u-t1CbwHIDAciU&security=reality&sid=478dc6&sni=eh.vk.com&type=raw#By AghaDani
-ss://YWVzLTI1Ni1nY206a1NMamJyQmM4NA@78.129.155.63:3030#By AghaDani
-vless://4eff695e-80b2-4bef-9400-2fe65cb8d7b1@Trk-seren.serendpiti.ir:1098?security=reality&type=xhttp&headerType=&path=%2Fpath&host=yahoo.com&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=yahoo.com&fp=chrome&pbk=-Hc8DumzuU3vH_3mhQjpM1GjzFI7Sjrpw7KRIX_7VyE&sid=7bba64a7eb72a71b#By AghaDani
-trojan://YQaScHBAK7sBvoQyg3yH1Q@Swmmd.serendpiti.ir:2086?security=none&type=ws&headerType=&path=%2Fmmdokkkk&host=Swmmd.serendpiti.ir#By AghaDani
-trojan://YQaScHBAK7sBvoQyg3yH1Q@162.159.129.53:2086?security=none&type=ws&headerType=&path=%2Fmmdokkkk&host=Gemmd.serendpiti.ir#By AghaDani
