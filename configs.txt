@@ -1,3 +1,4 @@
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@130.162.130.105:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=/#By AghaDani
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?Telegram=@kurdconfig&Telegram=@kurdconfig&security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#By AghaDani
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#By AghaDani
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6MTgwMDAsInBzIjoiQnkgQWdoYURhbmkiLCJzY3kiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbH0=
@@ -797,4 +798,3 @@ vless://a0cd0229-6f24-4145-be18-f99c0c0e4a57@rshirt.lordmakuboutiqu.site:42542?s
 vless://a0cd0229-6f24-4145-be18-f99c0c0e4a57@o6.lunaboutiqu.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://a0cd0229-6f24-4145-be18-f99c0c0e4a57@h3.capigodserv.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://a0cd0229-6f24-4145-be18-f99c0c0e4a57@p4.capigodserv.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
-vless://06e849ce-7bbc-4859-8be3-07c9e1ed63ae@snapp.ir:2095?path=%2Fsw&security=none&encryption=none&host=uia.trexnetlns.ir&type=ws#By AghaDani
