@@ -1,3 +1,5 @@
+trojan://humanity@104.16.174.36:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
+trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 vless://ff05bcc4-89df-5b97-9cb9-5df0e43d0b2b@167.82.101.210:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdnfasts.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#By AghaDani
@@ -117,7 +119,6 @@ vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@104.19.34.169:8443?encryption=none&
 vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@172.67.66.67:443?encryption=none&security=tls&sni=ez-01eeff.ezaccess19f879f.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-01eeff.ezaccess19f879f.workers.dev&path=%2Fproxyip%3D94.131.123.74%3Fu%3D135bd1e8e1#By AghaDani
 vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@8.39.125.122:8443?encryption=none&security=tls&sni=ez-01eeff.ezaccess19f879f.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-01eeff.ezaccess19f879f.workers.dev&path=%2Fproxyip%3D94.131.123.74%3Fu%3D135bd1e8e1#By AghaDani
 vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@162.159.35.249:2096?encryption=none&security=tls&sni=ez-01eeff.ezaccess19f879f.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-01eeff.ezaccess19f879f.workers.dev&path=%2Fproxyip%3D94.131.123.74%3Fu%3D135bd1e8e1#By AghaDani
-trojan://humanity@104.16.174.36:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@57.129.47.10:2053?encryption=none&security=tls&sni=ez-01eeff.ezaccess19f879f.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-01eeff.ezaccess19f879f.workers.dev&path=%2Fproxyip%3D94.131.123.74%3Fu%3D135bd1e8e1#By AghaDani
 vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@57.129.63.152:2053?encryption=none&security=tls&sni=ez-01eeff.ezaccess19f879f.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-01eeff.ezaccess19f879f.workers.dev&path=%2Fproxyip%3D94.131.123.74%3Fu%3D135bd1e8e1#By AghaDani
 vless://3515fab9-6e91-467f-b30a-7c17f0dafae5@3.66.115.225:443?encryption=none&security=tls&sni=ez-01eeff.ezaccess19f879f.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ez-01eeff.ezaccess19f879f.workers.dev&path=%2Fproxyip%3D94.131.123.74%3Fu%3D135bd1e8e1#By AghaDani
@@ -410,7 +411,6 @@ trojan://MiTiVPN@199.181.197.176:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http
 vless://52faee73-e0fe-4661-992d-67259257170f@bypass.uk-gthost-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#By AghaDani
 vless://6cdaf496-ccc9-4df8-9187-bf1ffeddf17e@hes.purplrose.ir:8443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=maze.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=maze.purplrose.ir#By AghaDani
-trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#By AghaDani
 trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
 trojan://MiTiVPN@45.131.4.118:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
