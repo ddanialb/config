@@ -1,3 +1,5 @@
+vless://98d61689-47d0-4abe-a23a-598632a7309a@ee.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee.janusgate.org&sid=018c7fb89aa975de#By AghaDani
+vless://984b9718-dd7d-4574-b501-fc4f049a47c9@5.75.207.247:41083?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.246:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#By AghaDani
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a0NzOGgweHVTTmZObmdMMVNlRExUR1JBRVdld0RuVGovYXczdU1tRWJTVT06emlIVXFQeXhKL2F0Uk5ra0NmWFZBRS83SCtSbTlocGJkL0gyU1hYRFROND0@65.109.218.60:8880#By AghaDani
 trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
@@ -36,7 +38,6 @@ vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAy
 trojan://d14188397fc44bdf@www.speedtest.net:443?alpn=http%2F1.1&fp=chrome&host=ezaccess-project-d489e3.ez-267716.workers.dev&path=%2FeyJqdW5rIjoiNm4xb2ZCdUI3R0VQNXhuYyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&sni=EZacCEss-ProjECt-D489e3.Ez-267716.worKERs.dev&type=ws#By AghaDani
 vless://ccd8d512-1802-46a8-8b9a-e9ba29dae894@ee.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee.janusgate.org&sid=adc8372900bed89a#By AghaDani
 vless://9ad34ce5-3655-402c-a03a-682c745f59fa@ee.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee.janusgate.org&sid=bf26e6b6021935c6#By AghaDani
-vless://98d61689-47d0-4abe-a23a-598632a7309a@ee.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee.janusgate.org&sid=018c7fb89aa975de#By AghaDani
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.130:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#By AghaDani
 vless://7e8158b0-449d-4350-b2b0-52b485aabc5e@151.101.69.219:443?mode=auto&path=/GaMeOpTiMiZeR?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nlqeshm.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#By AghaDani
 vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@172.67.78.254:2083?path=%2F&security=tls&encryption=none&insecure=0&host=crimson-king-301d.nexoxnet.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=crimson-king-301d.nexoxnet.workers.dev#By AghaDani
@@ -797,4 +798,3 @@ vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/194.127.19
 vless://eca11c16-cf74-4467-9d34-85bd942600a0@78.141.215.62:8080?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@89.31.125.101:812#By AghaDani
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#By AghaDani
-vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?host=arshia.lezzatArshia.ir&encryption=none&type=httpupgrade&security=none&path=%2F#By AghaDani
