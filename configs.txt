@@ -1,3 +1,4 @@
+vless://7fc0fd86-79a9-48dd-87e8-669758e9ffa8@185.48.251.195:448?type=tcp&security=reality&pbk=ncuqENP8uAV8w18kOQJlfWCC7dWjnUY1UY_5Iwtf21o&fp=chrome&sni=www.samsung.com&sid=181c8972132cca60#By AghaDani
 vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@188.114.97.5:443?path=%2Fws%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=mozconfigs.mohammadaz2sub.ir&fp=chrome&ech=udp%3A%2F%2F1.1.1.1%3A53&type=ws&allowInsecure=0#By AghaDani
 vless://3b7950ed-e076-4a51-8df2-222a88689700@ch-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d037f6f67cc90016&flow=xtls-rprx-vision#By AghaDani
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@shopify.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#By AghaDani
@@ -797,4 +798,3 @@ vless://04f7e317-d9d5-444a-b563-0e83df862282@b4.lunaparkmaku.ir:42542?security=n
 vless://04f7e317-d9d5-444a-b563-0e83df862282@v1.lunaparkmaku.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://04f7e317-d9d5-444a-b563-0e83df862282@v3.capigodserv.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 trojan://Mitivpn@iranpoems.ir:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&insecure=0&host=cdn.gamingdll.ir&fp=firefox&type=ws&allowInsecure=0&sni=cdn.gamingdll.ir#By AghaDani
-vless://04f7e317-d9d5-444a-b563-0e83df862282@ipw.ygdfw.com:8443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=iphone.lunamobil.fun&sni=iphone.lunamobil.fun#By AghaDani
