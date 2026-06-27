@@ -1,3 +1,5 @@
+vless://3195e102-c157-eed6-eaa5-13ae596360e2@rvg-production-b337.up.railway.app:443?path=%2Fws%2F3195e102-c157-eed6-eaa5-13ae596360e2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-b337.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-b337.up.railway.app#By AghaDani
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.113:8443?encryption=none&security=tls&sni=cdn7-39.vk-cdnvideo.com&fp=safari&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#By AghaDani
 vmess://eyJhZGQiOiAiMTgwLjIxNS4xMzAuMTIzIiwgImFpZCI6IDAsICJob3N0IjogIjE4MC4yMTUuMTMwLjEyMyIsICJpZCI6ICIxODE0NzJlZC0wYmI3LTQzYmUtZGNjYi03NGFjYTJiMzNlZDUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMTE1ODQsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9#By AghaDani
 vless://2c0e0bfd-bd2d-40ea-a524-a9f9aec36ea6@fastly.videobazi.com:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=dutschh.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
 trojan://b1952da9-8a2a-4e2e-a79c-61914f9e6a9f@37.46.18.128:41050?fp=chrome&pbk=imFeKLbcdRQYFJZT6aPrQNoi_qGtUfPqptwAp7AyZBg&security=reality&sid=f56959ba4318b2e9&sni=www.oracle.com#By AghaDani
@@ -796,5 +798,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#By AghaDani
 trojan://0r94LJ1UL7@news.xbxcdv.qzz.io:443?allowInsecure=0&sni=news.xbxcdv.qzz.io&alpn=h3%2Ch2%2Chttp/1.1&type=grpc&serviceName=/45577/mehdi#By AghaDani
 vless://360c5784-2abd-4e5d-ab41-11394b06e4a5@servers.xvon.in:55657?type=tcp&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=servers.xvon.in#By AghaDani
 vless://9770fce0-0b88-590f-992d-7dac8625d360@winq35461s-19523160106-direct.irgame.co:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=winq35461s-19523160106-direct.irgame.co&type=tcp#By AghaDani
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.20:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ2dtcTY1OHZjMmVqM1NF@20.223.176.12:443#By AghaDani
