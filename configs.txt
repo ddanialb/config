@@ -1,3 +1,6 @@
+trojan://telegram-id-directvpn@13.36.124.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
+trojan://telegram-id-privatevpns@13.36.124.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#By AghaDani
 vless://528defd1-2a24-43bd-b45d-874367c6f4f5@anten.ir:8880?path=/&security=none&encryption=none&host=iran.shopdn.ir&type=ws#By AghaDani
 trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#By AghaDani
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.150.140:80?path=/Telegram+@WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#By AghaDani
@@ -795,6 +798,3 @@ vless://4b00d726-e072-429b-997e-f07affea3b7f@162.159.81.177:80?type=ws&host=icy-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?type=ws&host=vms.lifetime54.workers.dev&path=/#By AghaDani
 trojan://d682c8f4-e719-577e-cbe9-2e5b00000001@0406.infinityconfig7.workers.dev:2053?security=tls&sni=0406.infinityconfig7.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=0406.infinityconfig7.workers.dev&path=%2Fsync#By AghaDani
 trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.com#By AghaDani
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#By AghaDani
-vmess://eyJhZGQiOiAiNjcuMjIwLjcyLjIzNyIsICJhaWQiOiAiMCIsICJhbHBuIjogbnVsbCwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmFtZSI6ICLwn4e68J+HuCBVUyA0MyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMjIzMjQsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6IG51bGwsICJ0bHMiOiAiIiwgInR5cGUiOiBudWxsLCAidiI6IG51bGx9#By AghaDani
-vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#By AghaDani
