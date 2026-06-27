@@ -1,3 +1,5 @@
+vless://75dc57ca-6e1c-4f7d-977e-beeb2b622ce4@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2F&host=bazaryabab.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppNnFqMVFpOWJLdkZmSU0w@20.234.9.106:443#By AghaDani
 vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.193:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&fp=chrome&type=xhttp&sni=ssj.new-persian-song.ir#By AghaDani
 vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&host=vi.mojaz-persian-music.ir&fp=chrome&type=xhttp&sni=vi.mojaz-persian-music.ir#By AghaDani
 vless://3129f18a-aab6-4f06-8f78-a41270c39fb1@irn.vtnazad.xyz:2083?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=irn.vtnazad.xyz&alpn=h2,http/1.1#By AghaDani
@@ -12,7 +14,6 @@ vmess://eyJhZGQiOiAiMTI5LjE0Ni43Ny4yNDgiLCAiYWlkIjogMCwgImlkIjogImY4MzZjNzM2LTg3
 vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@85.192.49.4:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fll.gazladder.work&sid=b415b8d7a6106ace#By AghaDani
 vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:14216?flow=&type=httpupgrade&host=&path=/&security=none#By AghaDani
 vless://bd39bd4f-fdb6-4a9d-b656-ab0dbc2f12b7@185.31.200.113:2053?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppNnFqMVFpOWJLdkZmSU0w@20.234.9.106:443#By AghaDani
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?encryption=none&type=ws&security=tls&path=%2Fdownload.php&host=sertraline.adaspoloandco.com&sni=sertraline.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&type=ws&security=tls&path=%2Fca-cl&host=unnes.ac.id.yxls.eu.cc&sni=unnes.ac.id.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?encryption=none&type=tcp&security=reality&headerType=none&sni=amd.com&fp=chrome&insecure=1&allowInsecure=1&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#By AghaDani
@@ -36,7 +37,6 @@ vless://db1b568f-8847-42bf-84e5-a51e2e49a786@212.74.39.42:17524?encryption=none&
 trojan://humanity@45.130.125.32:443?pathه=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
 vmess://eyJhZGQiOiIxMjkuMTQ2Ljc3LjI0OCIsImFpZCI6MCwiaWQiOiJmODM2YzczNi04N2ZjLTRmZGUtYWFiYy0wMDg1N2VjZGZmM2UiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjozOTQ5NSwicHMiOiJCeSBBZ2hhRGFuaSIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://8ed4b9af-fe84-4ec9-bedf-adcc76984ef2@fastly.videobazi.com:443?encryption=none&sni=default.ssl.fastly.net&security=tls&mode=auto&type=xhttp&insecure=0&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&allowInsecure=0&host=Fastspeedmar.global.ssl.fastly.net&path=%2F#By AghaDani
-vless://75dc57ca-6e1c-4f7d-977e-beeb2b622ce4@199.232.78.159:443?encryption=none&type=ws&security=tls&path=%2F&host=bazaryabab.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#By AghaDani
 vless://8ed4b9af-fe84-4ec9-bedf-adcc76984ef2@45.65.112.19:8443?pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&host=play.google.com&type=tcp&security=reality&sid=6ba85179e30d4fc2&sni=play.google.com&fp=firefox&headerType=none&encryption=none#By AghaDani
 vless://3ef170be-05d0-479c-9753-aa2f860964ea@2.27.14.29:443?security=reality&encryption=none&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a1b2c3d4e5f6#By AghaDani
 hysteria2://Z7MFGgpuzh@185.250.41.245:443?security=tls&obfs=salamander&obfs-password=T.me%2FV2RayyNGvpn&insecure=1&sni=www.wordreference.com#By AghaDani
