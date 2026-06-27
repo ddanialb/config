@@ -1,3 +1,4 @@
+vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=%2Fmedia14&security=tls&encryption=none&insecure=0&host=media14.ftmsoft.com&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#By AghaDani
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#By AghaDani
 vless://a52db7a4-f8eb-4193-8403-48af7d7f1827@84.32.100.153:443?encryption=none&security=reality&sni=www.tradingview.com&fp=firefox&pbk=3Jd6aGidCvif3QMF5HczIiYvLGAD4t7mUVignyztHRY&sid=a4b7c1d8e2f09365&type=xhttp&path=%2Fapi%2Fv2%2Fsync&mode=auto#By AghaDani
@@ -375,7 +376,6 @@ vless://565b72fb-659d-4f87-941f-cd1b643949c6@star0.kharabetam.de:8443?type=ws&en
 vless://b10bb7aa-74a5-4c73-aec9-a883e7688d8b@pasa.majedtechnical.ir:443?security=reality&encryption=none&pbk=Yqp623aIfpUvxLZLsm-7ZgnMMVvvE2jnhYoyprnhmjs&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=36754b52bf611364#By AghaDani
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=a12.crowsvpn.shop&type=xhttp#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
-vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=%2Fmedia14&security=tls&encryption=none&insecure=0&host=media14.ftmsoft.com&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#By AghaDani
 vless://64a28ed6-2238-42d9-8452-b83674f741e5@141.193.213.30:2053?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2053&host=sunny-comet-55.curiocar.com&sni=sunny-comet-55.curiocar.com&fp=edge&alpn=h2%2Chttp%2F1.1&allowInsecure=1#By AghaDani
 vless://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?path=%2F&security=none&encryption=none&host=cdn.mizbanertebatfarda.ir&type=ws#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
