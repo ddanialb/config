@@ -1,6 +1,8 @@
+vless://dbd258b1-1bd3-4cd8-8e5c-fb54fab08800@NL.IPSENTER.ORG:443?security=reality&encryption=none&pbk=x19FcTHLgg_eTYNTpwWKac46ilu-ZqarqkAxK3ahRxg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=d4b58110ca302ec5#By AghaDani
+trojan://Mitivpn@151.101.56.6:443?path=%2F&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@172.66.213.38:2095?path=%2F&security=&encryption=none&host=gr1.monopolitass.ir&type=httpupgrade#By AghaDani
-trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 trojan://humanity@104.26.14.137:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#By AghaDani
+trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
 vless://f3776c16-fbe4-4838-9603-289fe04ff471@135.125.168.16:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#By AghaDani
 vless://f3776c16-fbe4-4838-9603-289fe04ff471@45.131.6.203:8443?security=tls&type=ws&headerType=&path=%2F&host=&sni=mc6.azadbird.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
 vless://f3776c16-fbe4-4838-9603-289fe04ff471@5.252.26.151:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#By AghaDani
@@ -126,7 +128,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8
 vless://6cdaf496-ccc9-4df8-9187-bf1ffeddf17e@hes.purplrose.ir:8443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=maze.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=maze.purplrose.ir#By AghaDani
 trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 trojan://humanity@104.16.174.36:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
-trojan://Mitivpn@151.101.56.6:443?path=%2F&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 trojan://Mitivpn@151.101.110.219:443?path=%2Fboost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#By AghaDani
 trojan://MITIVPN@164.38.155.135:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
@@ -797,4 +798,3 @@ trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&inse
 trojan://Mitivpn@151.101.0.0:80?path=%2Fed%3Dmitivpn&security=none&host=3-mitivpn.global.ssl.fastly.net&type=ws#By AghaDani
 vless://f2200cec-858a-47c3-8a29-002902319f42@pinto6.wubbalubbadubdubb.ir:1011?security=reality&encryption=none&pbk=pJ7lUsrHgLYa8lt7NPs0a47FaoBwHBWS6EA--iVQp0s&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=701d699e06514eab#By AghaDani
 vless://4714b06f-21fe-e221-219b-928918d940be@rvg-production-6b96.up.railway.app:443?encryption=none&security=tls&sni=rvg-production-6b96.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-6b96.up.railway.app&path=%2Fws%2F4714b06f-21fe-e221-219b-928918d940be#By AghaDani
-vless://d271e19d-800a-4a46-9fe5-924653b71a63@72.56.32.134:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless&sni=72.56.32.134#By AghaDani
