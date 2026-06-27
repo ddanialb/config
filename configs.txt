@@ -1,4 +1,5 @@
 vless://e461afdd-7c8e-473e-815d-88b72960c6b1@151.101.56.6:443?path=%2F&security=tls&encryption=none&insecure=0&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880?mode=gun&security=&encryption=none&type=grpc#By AghaDani
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=a12.crowsvpn.shop&type=xhttp#By AghaDani
 trojan://MiTiVPN@199.181.197.176:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&host=95r.ir&fp=firefox&type=ws&sni=95r.ir#By AghaDani
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&host=3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=global.fastly.com#By AghaDani
@@ -797,4 +798,3 @@ vless://d278a1f1-a6b4-4783-8fd5-7d0d9a9dd88f@zeus-panel-7gtag4.kingworker11228pe
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/us-gllc&host=space.byu.id.yxls.eu.cc#By AghaDani
 vless://2810a184-9eb7-41b5-b0d0-224864096528@5.75.207.247:44004?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#By AghaDani
 vless://88465cb5-b8a0-4f39-aa8d-cf06f7911d95@65.109.219.2:52219?type=tcp&encryption=none&security=reality&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&fp=chrome&sni=www.oracle.com&sid=f8&spx=/#By AghaDani
-vless://0d27ab04-4523-4ae0-94b0-3e14c2089756@104.19.229.21:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=hadi.getfreecp.com&fp=chrome&type=ws&allowInsecure=0&sni=hadi.getfreecp.com#By AghaDani
