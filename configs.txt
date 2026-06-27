@@ -1,3 +1,5 @@
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?path=/us-gllc&%3Bsecurity=tls&%3Bhost=space.byu.id.yxls.eu.cc&%3Btype=ws&%3Bsni=space.byu.id.yxls.eu.cc#By AghaDani
+vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAyAn-007.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.lEiLa.dPdNs.oRg&encryption=none#By AghaDani
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#By AghaDani
 vless://4e9c2339-4136-4a44-b490-b13cc8ecef83@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 trojan://d14188397fc44bdf@www.speedtest.net:443?alpn=http%2F1.1&fp=chrome&host=ezaccess-project-d489e3.ez-267716.workers.dev&path=%2FeyJqdW5rIjoiNm4xb2ZCdUI3R0VQNXhuYyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&sni=EZacCEss-ProjECt-D489e3.Ez-267716.worKERs.dev&type=ws#By AghaDani
@@ -796,5 +798,3 @@ trojan://CHhHZoXQCp@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=se.
 vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#By AghaDani
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aUZ4bHRxc2NKVkxKZEh1blpYUENtYjRUb0hON0xoa29lWXdwUWNVL1Bibz0=@193.151.128.97:443#By AghaDani
 vless://a4b82e5a-acd1-4cbf-accb-40d4bb90ffaf@95.38.38.233:25543?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://b8e091f9-af85-4b43-8a63-81feb640d7ac@zeus-panel-hrffzx.zeus-63ob04.workers.dev:80?path=%2F&security=none&encryption=none&insecure=0&host=zeus-panel-hrffzx.zeus-63ob04.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-hrffzx.zeus-63ob04.workers.dev#By AghaDani
-vless://b8e091f9-af85-4b43-8a63-81feb640d7ac@zeus-panel-hrffzx.zeus-63ob04.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=&fp=ios&type=ws&allowInsecure=0&sni=#By AghaDani
