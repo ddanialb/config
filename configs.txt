@@ -1,6 +1,7 @@
+vless://a54fec73-26a1-4c05-b948-6a01c157927e@38.244.20.47:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=qq&pbk=HCa-dCIFGG7LF3wPOBlrRzk_T1m-YIkhmupepQy0bzI&sid=616ead1cdc4486ca#By AghaDani
+vless://1d190160-b96c-44d0-8c5c-5c531d76e3f9@188.121.118.233:19365?encryption=none&security=none&type=tcp#By AghaDani
 vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip.mojaz-persian-music.ir#By AghaDani
 ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@87.239.255.109:40282#By AghaDani
-vless://1d190160-b96c-44d0-8c5c-5c531d76e3f9@188.121.118.233:19365?encryption=none&security=none&type=tcp#By AghaDani
 vless://bfa242d3-46eb-404c-b1ef-ebc4ccd03577@104.16.72.70:8443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&host=sa.sorixset.ir&mode=auto&path=%2F@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-&security=tls&sni=sa.sorixset.ir&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=%2Fassignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#By AghaDani
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#By AghaDani
@@ -797,4 +798,3 @@ vless://3a40f6b1-8915-4f26-a9d7-a14cff2d497a@94.183.181.7:3803?encryption=none&s
 vless://75dc57ca-6e1c-4f7d-977e-beeb2b622ce4@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://57dd76e5-4588-4e45-8e7b-147092672b0f@dl1.app20.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://57dd76e5-4588-4e45-8e7b-147092672b0f@cd5.videobazi.com:2053?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=aird.app9.ir&fp=chrome&type=ws&allowInsecure=0&sni=aird.app9.ir#By AghaDani
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
