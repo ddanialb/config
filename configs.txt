@@ -1,11 +1,13 @@
+vless://9c5ea2a8-150f-45b6-886c-be0d9e90f5d3@185.171.202.145:8443?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&host=play.google.com&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#By AghaDani
+vless://7bfc999b-0a12-4600-bc6b-10ae26141a0c@h4.capigodserv.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://6ea09022-ebfb-4637-b499-3e65fdca4d21@j1.capigodserv.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://9a646f2e-71bf-4f6f-a1fc-68ec380248ae@j1.capigodserv.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://210c8277-10fb-238a-b715-82da00000000@172.64.149.54:443?encryption=none&security=tls&sni=nameless-dream-a133.ftmhkhtb.workers.dev&fp=chrome&type=ws&host=nameless-dream-a133.ftmhkhtb.workers.dev&path=%2Fmelobery#By AghaDani
 vless://72f5ffec-1e1b-45ed-81f8-875dd701437d@5.75.207.247:41083?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080?type=tcp#By AghaDani
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?encryption=none&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip&security=tls&sni=nbhhh.mrcool.kdns.fr#By AghaDani
 trojan://MiTiVPN@199.181.197.176:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
 vless://3d6e324c-664a-ca9b-869d-945d0b194c9e@d.ircybersec.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&allowinsecure=0&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#By AghaDani
-vless://9a646f2e-71bf-4f6f-a1fc-68ec380248ae@j1.capigodserv.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
-vless://6ea09022-ebfb-4637-b499-3e65fdca4d21@j1.capigodserv.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
-vless://7bfc999b-0a12-4600-bc6b-10ae26141a0c@h4.capigodserv.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://19f683ec-5f12-43c1-8d35-106a3cbc5119@k9.capigodserv.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://50ab6b59-4596-4b28-9440-fde9f5540514@63.177.240.253:2053?security=reality&encryption=none&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&headerType=none&fp=chrome&spx=%2FDhIHsYCnY67wRWL&type=tcp&sni=www.intel.com&sid=cb80bdafa6ca3e0e#By AghaDani
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=%2Fproxyip&security=tls&encryption=none&host=nbhhh.mrcool.kdns.fr&type=ws&sni=nbhhh.mrcool.kdns.fr#By AghaDani
@@ -15,7 +17,6 @@ trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=%2Fus-gllc&s
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#By AghaDani
 trojan://humanity@45.130.125.75:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#By AghaDani
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=%2Fproxyip&security=tls&encryption=none&host=nbhhh.mrcool.kdns.fr&allowinsecure=0&type=ws&sni=nbhhh.mrcool.kdns.fr#By AghaDani
-vless://210c8277-10fb-238a-b715-82da00000000@172.64.149.54:443?encryption=none&security=tls&sni=nameless-dream-a133.ftmhkhtb.workers.dev&fp=chrome&type=ws&host=nameless-dream-a133.ftmhkhtb.workers.dev&path=%2Fmelobery#By AghaDani
 vless://bc953469-14e8-4536-afbd-56dc8edf138a@194.59.215.131:672?security=none&encryption=none&type=tcp#By AghaDani
 trojan://MiTiVPN@104.21.18.41:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=blog.95r.ir&fp=chrome&type=ws&sni=blog.95r.ir#By AghaDani
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#By AghaDani
@@ -797,4 +798,3 @@ vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none
 vless://4f9e22a8-d191-4913-a28d-6aa6c1616599@140.82.35.145:443?security=tls&type=xhttp&headerType=&path=%2Fnet&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=eb8572bc7e001199.erisrtg.ir&fp=#By AghaDani
 vless://c5e850d4-c551-457c-8dba-beb0ccbad963@client.lightnin.click:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=un.lightnin.click&fp=chrome&type=ws&allowInsecure=0&sni=sni.lightnin.click#By AghaDani
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@147.185.161.152:2087?encryption=none&fp=chrome&host=weathered-brook-18b6.alvlirm741.workers.dev&path=/proxyip=212.193.35.100,185.218.0.16,83.147.255.88,138.124.255.49,185.147.26.135,79.174.80.62,185.72.145.79,82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev&type=ws#By AghaDani
-vless://b373a1db-2f88-4d97-aca4-27c3f1c6a72d@ez-78f74e.mhdiglbi.workers.dev:2087?path=/&security=tls&encryption=none&insecure=0&host=ez-78f74e.mhdiglbi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-78f74e.mhdiglbi.workers.dev#By AghaDani
