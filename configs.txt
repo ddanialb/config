@@ -1,3 +1,4 @@
+vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?type=tcp&security=reality&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&sid=4ffbd0f3117c6f&sni=yahoo.com#By AghaDani
 trojan://MiTiVPN@188.114.96.6:443?path=%2Fusa%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#By AghaDani
 trojan://MiTiVPN@45.131.4.118:443?path=%2Fusa%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#By AghaDani
 vless://9e86f6fa-a1f0-43b9-80ab-4b2ec4c3b91a@test.iraniannimdown.ir:8443?security=tls&encryption=none&insecure=1&host=test.iraniannimdown.ir&fp=chrome&type=ws&allowInsecure=1&sni=test.iraniannimdown.ir#By AghaDani
@@ -797,4 +798,3 @@ vless://57d94cf7-ca36-4c2a-bec5-90cf38588cda@15.223.121.250:41087?security=reali
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?fp=chrome&security=tls#By AghaDani
 trojan://telegram-id-directvpn@3.127.10.163:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-privatevpns@3.127.10.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.10.163:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#By AghaDani
