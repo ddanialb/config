@@ -1,3 +1,4 @@
+vless://90dc66f5-cba9-4d6e-bb8c-31bfc98b45c4@173.245.49.4:443?path=%2F&security=tls&encryption=none&insecure=0&host=voidlatency-un9gjy.gottavpnvipmulti.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=voidlatency-un9gjy.gottavpnvipmulti.workers.dev#By AghaDani
 vless://864cf6fe-3cb5-4846-9279-877175c89bab@5.75.207.247:44004?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#By AghaDani
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.25:443?security=reality&encryption=none&echfq=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#By AghaDani
 trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&headerType=none&allowinsecure=0&type=tcp&sni=www.lateralio.click#By AghaDani
@@ -797,4 +798,3 @@ vless://c6508e59-dd68-4dc0-b14f-3192e84ef843@13.231.185.74:47381?security=realit
 vmess://eyJhZGQiOiAiMTI5LjE0Ni43Ny4yNDgiLCAiYWlkIjogMCwgImlkIjogImY4MzZjNzM2LTg3ZmMtNGZkZS1hYWJjLTAwODU3ZWNkZmYzZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2N0djEzLm0zdTgiLCAicG9ydCI6IDM5NDk1LCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==#By AghaDani
 vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@85.192.49.4:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fll.gazladder.work&sid=b415b8d7a6106ace#By AghaDani
 vless://010a6106-960a-4a3c-94d3-410a50c1219d@104.253.134.92:14216?flow=&type=httpupgrade&host=&path=/&security=none#By AghaDani
-vless://bd39bd4f-fdb6-4a9d-b656-ab0dbc2f12b7@185.31.200.113:2053?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
