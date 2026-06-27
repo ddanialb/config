@@ -1,3 +1,4 @@
+vless://24ae739f-e7b7-45df-bd55-12ac982c5649@zeus-panel-2vxg7a.kingworkerpeekconfig.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=zeus-panel-2vxg7a.kingworkerpeekconfig.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-2vxg7a.kingworkerpeekconfig.workers.dev#By AghaDani
 vless://fc71fffb-3743-4cfe-9edb-c8cb513e9146@199.232.245.208:443?path=%2F&security=tls&encryption=none&host=bazaryabab.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#By AghaDani
 trojan://MiTiVPN@89.116.180.49:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&host=f6r.ir&fp=chrome&type=ws&sni=f6r.ir#By AghaDani
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
@@ -797,4 +798,3 @@ vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?mode=auto&pat
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#By AghaDani
 vless://49882640-5877-4f73-a49e-86e209d080a9@gtrhlntyi0p5.hosted-in.iranray.online:2052?security=none&encryption=none&host=54jIATfdWFqPmXO93BXl5x.ch4.node.tnw.of.to&type=httpupgrade#By AghaDani
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&security=tls&path=%2FLiL%3Fed%3D2560&sni=kingcloud.biack.ir&alpn=h3&fp=firefox&insecure=0&allowInsecure=Erfwp#By AghaDani
-vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.30:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451db#By AghaDani
