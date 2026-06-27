@@ -1,3 +1,4 @@
+trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://46882b9b-ef05-4655-a87d-47ce74d00939@54.38.224.200:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&security=reality&sid=bbfcad86d5e2e0ea&sni=icloud.com&spx=%2FbLeUDoEEUIEy3a4&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#By AghaDani
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#By AghaDani
@@ -159,7 +160,6 @@ vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?path=%2Frutube&secu
 vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#By AghaDani
 vless://50ab6b59-4596-4b28-9440-fde9f5540514@3.70.132.250:2053?security=reality&encryption=none&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&headerType=none&fp=chrome&spx=%2Fmx1XVP8c5hIWgXr&type=tcp&sni=www.intel.com&sid=69#By AghaDani
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
-trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?security=reality&encryption=none&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vodafone.co.uk&sid=d27683580fc15f1e@ThePackageCom#By AghaDani
 vless://65488bcf-8573-44ee-9b4f-9abf4390acca@65.109.218.60:2080?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
