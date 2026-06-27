@@ -1,3 +1,4 @@
+vless://55a5044d-5b35-405f-971c-ea7aacaafcb4@185.137.157.72:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=z6_OFl0jskilOOxkQcUcdQOCS4-LVndwFF9i7kIOPzg&security=reality&sid=d23753491eefde7e&sni=www.nvidia.com&type=tcp#By AghaDani
 vless://3d6e324c-664a-ca9b-869d-945d0b194c9e@dd.teain.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&host=%3Fed%3D2560%2FJOIN%2FPuLaVPN%2FJOIN%2FPuLaVPN%2FJOIN%2FPuLaVPN%2FJOIN%2FPuLaVPN%2FJOIN%2FPuLaVPN&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#By AghaDani
 vless://ccd8d512-1802-46a8-8b9a-e9ba29dae894@ee.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee.janusgate.org&sid=adc8372900bed89a#By AghaDani
 vless://9ad34ce5-3655-402c-a03a-682c745f59fa@ee.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ee.janusgate.org&sid=bf26e6b6021935c6#By AghaDani
@@ -797,4 +798,3 @@ vless://1926ce1b-bd52-430f-b04d-759c7295f0cd@5.75.207.247:44004?type=tcp&encrypt
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd&brand=@Arvand_soul#By AghaDani
 vless://51ccc2ef-0450-4421-a55d-0c03e5376985@46.101.78.84:19406?type=tcp&encryption=none&security=none#By AghaDani
 trojan://7002R3Gxo1@45.130.125.2:443?type=ws&security=tls&path=%2Fda&host=sa.farxmode.ir&sni=sa.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#By AghaDani
-vless://ff05bcc4-89df-5b97-9cb9-5df0e43d0b2b@167.82.101.210:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdnfasts.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#By AghaDani
