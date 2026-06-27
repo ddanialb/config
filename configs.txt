@@ -1,3 +1,4 @@
+vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#By AghaDani
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#By AghaDani
 vless://08db50e0-889f-44d4-8f25-2261fa704a2d@GB.FIRELINKSERVERS.IR:3452?encryption=none&type=tcp&headerType=none&security=reality&fp=qq&sni=play.google.com&pbk=2KyciFcSMf0vufAjth1UpPflqS3IbXkzV0LJkMWxYA0&sid=2e000a10b2b7b3c6#By AghaDani
 vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F&security=none&type=ws#By AghaDani
@@ -797,4 +798,3 @@ vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@est01.port-server.online:443?encryp
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.61:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net&type=tcp#By AghaDani
 trojan://Mitivpn@151.101.56.6:443?path=%2Fslowdns&security=tls&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#By AghaDani
 trojan://Mitivpn@151.101.56.6:443?host=4-4-3-mitivpn.global.ssl.fastly.net&path=%2Fslowdns&sni=ssl.fastly.com&type=ws#By AghaDani
-trojan://Mitivpn@151.101.56.6:443?alpn=http%2F1.1&fp=firefox&host=4-4-3-mitivpn.global.ssl.fastly.net&path=%2Ffastly%3Dmitivpn&sni=ssl.fastly.com&type=ws#By AghaDani
