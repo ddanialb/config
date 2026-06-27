@@ -1,3 +1,6 @@
+vless://22eca63b-d75b-46f9-a522-32f589454a2b@172.67.156.72:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.shoma.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=a.shoma.qzz.io#By AghaDani
+vless://22eca63b-d75b-46f9-a522-32f589454a2b@a.shoma.qzz.io:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.shoma.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=a.shoma.qzz.io#By AghaDani
+vless://22eca63b-d75b-46f9-a522-32f589454a2b@66.33.22.157:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=a.shoma.qzz.io#By AghaDani
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#By AghaDani
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#By AghaDani
 vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=%2FeyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&allowInsecure=0&sni=BpB-expO--10RaYly4zY.EXPO.App#By AghaDani
@@ -795,6 +798,3 @@ vless://6cdaf496-ccc9-4df8-9187-bf1ffeddf17e@hes.purplrose.ir:8443?encryption=no
 vless://09036778-56fa-4489-945b-dcb66fa304a9@5.75.207.247:2886?security=reality&encryption=none&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&headerType=none&fp=chrome&spx=%2FFw20Brs0pCyWjZO&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=62a8#By AghaDani
 trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmloud.com&insecure=0&allowInsecure=0#By AghaDani
 vless://67bc943b-00b1-4f94-8df6-2e9180b43bf6@188.121.118.233:19365?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1QDE5My4yOS4xMzkuMjI3OjgwODA=#By AghaDani
