@@ -1,3 +1,6 @@
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880?mode=gun&security=none&encryption=none&type=grpc@ThePackageCom#By AghaDani
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr@ThePackageCom#By AghaDani
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?mode=gun&security=none&encryption=none&type=grpc@ThePackageCom#By AghaDani
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.119:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0@ThePackageCom#By AghaDani
 trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0@ThePackageCom#By AghaDani
 trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.lateralio.click#By AghaDani
@@ -795,6 +798,3 @@ trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&ins
 trojan://SoftNetConnect@37.156.45.237:2087?type=grpc&security=reality&authority=185.204.169.129&mode=gun&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=%2F#By AghaDani
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#By AghaDani
 vless://fdb12587-1c15-4883-8d7a-9894641e183c@104.17.155.247:8443?encryption=none&type=ws&host=nova-mango-vault-2e63.wolf-fbi-red.workers.dev&path=/?u=3e3fff3b5b&security=tls&fp=chrome&sni=nova-mango-vault-2e63.wolf-fbi-red.workers.dev#By AghaDani
-ss://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=winq35461s-19523160106-direct.irgame.co#By AghaDani
-vless://2ef58e73-7a43-4ced-8684-be3d8f2053ef@31.76.11.23:443?type=xhttp&path=/&host=yahoo.com&mode=auto&x_padding_bytes=100-1000&extra={"xPaddingBytes":"100-1000"}&encryption=none&security=reality&sni=yahoo.com&pbk=osEhagNBzNX0-sPke0KR0dNC5OBu5xjPT2XLr7A_gVc&sid=33c3c2daaa6fa61a&fp=chrome&spx=/#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWViZjc2NTA5MDlhZjJlMzBkZDU2MGI5NzQ2ZTM1MQ@159.69.21.145:1080#By AghaDani
