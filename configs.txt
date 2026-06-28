@@ -1,3 +1,4 @@
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
 vless://1a0add93-cd1d-43e1-b607-8e7a2321a3b7@Panel.maha1dress.ir:1058?security=reality&encryption=none&pbk=dhgFCkGzxYgynWidOWnp0yAwerFFGujZULdfkZlW_zo&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=918a953ef653bbf9#By AghaDani
 vless://cb5a29be-93ac-4743-e294-ec022c167e0a@45.85.118.1:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=akbari.top#By AghaDani
 vless://09a54b06-a66b-4871-b363-8da2b266e757@home.wordqress.sbs:36271?security=&encryption=none&headerType=&type=tcp#By AghaDani
@@ -209,7 +210,6 @@ vless://b258bb67-0d9f-43f1-033b-18f6e8263a1e@s2.zynavo.ir:2087?mode=auto&path=%2
 vless://589477a6-86ab-4911-8b04-f132b47fbe5c@91.107.191.177:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto&path=%2Fclud%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=usdir.dtgoldservices.com&fp=firefox&type=xhttp&allowInsecure=0&sni=usdir.dtgoldservices.com#By AghaDani
 vless://50ab6b59-4596-4b28-9440-fde9f5540514@18.153.49.40:2053?security=reality&encryption=none&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&headerType=none&fp=chrome&spx=%2Fv2raybazi&type=tcp&sni=www.intel.com&sid=76101ace#By AghaDani
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=%2Fproxyip&security=tls&encryption=none&host=nbhhh.mrcool.kdns.fr&allowinsecure=0&type=ws&sni=nbhhh.mrcool.kdns.fr#By AghaDani
 vless://ba9be39a-3b9d-4d26-ac10-1a6c99a86e71@94.139.179.9:13766?encryption=none&type=tcp#By AghaDani
 vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:17492?path=%2Fws&security=none&encryption=none&type=ws#By AghaDani
