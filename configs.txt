@@ -1,3 +1,4 @@
+vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&security=reality&sni=www.amazon.com&type=tcp#By AghaDani
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#By AghaDani
 vless://76c011aa-2303-43c8-98c3-0e5cf7f810ce@138.124.79.141:443?security=reality&encryption=none&pbk=w-dYZr1LgXZrZSJnc7kjXJC3jmC138M_IIp1NsApvlk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=fe2e437f64f2da7a#By AghaDani
 vless://343af4c2-0fc3-471a-bee1-438ffb75eb1f@173.245.58.84:8443?alpn=h2&encryption=none&fp=chrome&host=dashboard.amirmeti.ir&path=%2Fwp-admin&security=tls&sni=dashboard.amirmeti.ir&type=ws#By AghaDani
@@ -797,4 +798,3 @@ vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@195.133.93.17:8082?type=grpc&header
 vless://8cf1e524-ce8c-4c63-8440-3ecd687f5e8d@173.245.59.14:2053?encryption=none&fp=chrome&host=still-lake-3cf7.dls2026.workers.dev&path=%2F&security=tls&sni=still-lake-3cf7.dls2026.workers.dev&type=ws#By AghaDani
 trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#By AghaDani
 vless://5fd8eed9-d101-4f9c-b4ca-5e16c255b9f5@nodejs.org:443?path=%2FeyJqdW5rIjoicEpabmUwUG1hZXVXY2xydSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ez-c2a0be.palasht1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-C2A0BE.pALAsHt1.wOrKeRs.Dev#By AghaDani
-vless://50ab6b59-4596-4b28-9440-fde9f5540514@3.70.132.250:2053?security=reality&encryption=none&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&headerType=none&fp=chrome&spx=%2FDhIHsYCnY67wRWL&type=tcp&sni=www.intel.com&sid=cb80bdafa6ca3e0e#By AghaDani
