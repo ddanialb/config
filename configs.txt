@@ -1,3 +1,4 @@
+trojan://SoftNetConnect@37.156.45.237:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=%2F#By AghaDani
 vless://9e65fe63-b771-c63d-5272-fdd700000000@nameless-moon-7c4d.shafmrhjlos23.workers.dev:443?security=tls&sni=nameless-moon-7c4d.shafmrhjlos23.workers.dev&type=ws&host=nameless-moon-7c4d.shafmrhjlos23.workers.dev&path=%2Fvasl&encryption=none&insecure=0&fp=chrome&allowInsecure=0#By AghaDani
 vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:17492?path=%2Fws&security=none&encryption=none&type=ws#By AghaDani
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#By AghaDani
@@ -797,4 +798,3 @@ vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&ty
 trojan://Mitivpn@151.101.56.6:443?type=ws&security=tls&path=%2Fde%3Dmitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@46.225.250.187:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&sid=a796a1f52722b3a5#By AghaDani
 vless://t-me-V2RayyNGvpn@92.223.62.25:11858?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444/?type=ws&encryption=none&flow=&host=play.google.com&path=%2FA2#By AghaDani
