@@ -1,3 +1,5 @@
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?type=tcp&encryption=none&security=none#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#By AghaDani
 vless://e89a8012-7794-4e54-9b6e-14b12b7e0802@5.180.173.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#By AghaDani
 ss://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.69:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#By AghaDani
@@ -796,5 +798,3 @@ vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@www.speedtest.net:2086?path=%2F%3Fe
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&security=tls&path=%2FLiL%3Fed%3D2560&sni=kingcloud.biack.ir&alpn=h3&fp=firefox&insecure=0&allowInsecure=#By AghaDani
 trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
 vless://2a2a24da-da1b-4988-bf33-82cf7601870f@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=%2FCXHW9vl2PReWApP&type=tcp&sni=www.yahoo.com&sid=f563cb8c#By AghaDani
-vless://390eaadf-88b9-4ae2-9284-955cbce4ac53@192.145.29.52:443?path=%2F&security=tls&encryption=none&host=zeus-panel-psoqz2.saedgamedotagames.workers.dev&fp=chrome&type=ws&sni=zeus-panel-psoqz2.saedgamedotagames.workers.dev#By AghaDani
-trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
