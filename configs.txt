@@ -1,3 +1,4 @@
+trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@92.38.139.63:9891?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#By AghaDani
 vless://sarii-gate-web-join-chanel-sho@geocean.sapienza-asgar.ir:443?path=%2F41381%2FGATE_WEB&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=geocean.sapienza-asgar.ir&fp=firefox&type=ws&allowInsecure=0&sni=geocean.sapienza-asgar.ir#By AghaDani
 vless://5ad9dd2c-7a04-4213-a28a-e68387c0fded@germanc1.jobwebs.ir:56626?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&type=grpc&sni=icloud.com&sid=d5e4b75249e38cbb#By AghaDani
@@ -53,7 +54,6 @@ vless://cebf5890-c51f-4541-bdba-e39e869175e1@vip.oneset.ir:1051?encryption=none&
 trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#By AghaDani
 vless://80816cd5-dcd1-4a7b-b12d-1b8561a5f097@157.119.188.249:6610?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#By AghaDani
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#By AghaDani
-trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://07dce2d7-9849-4e22-adb9-36d2763c3b89@snapp.ir:2095?path=%2F&security=none&encryption=none&host=api.aramonlineshop.ir&type=ws#By AghaDani
 vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#By AghaDani
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#By AghaDani
