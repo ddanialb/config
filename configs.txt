@@ -1,3 +1,4 @@
+vless://2c7d8e9d-d40a-49f8-b150-2d9cf4d69f4d@212.80.8.212:38941?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#By AghaDani
 vless://6a1f6c94-7785-42e2-9203-381d1f4db37e@103.100.158.203:443?security=reality&encryption=none&pbk=1xIu8ESLs4JviWXp8XaOceWAEVHqWLzNIiojA_uf8Ug&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=83feb7aa267e9ddf#By AghaDani
 vless://203fea15-b8f7-46cf-bd6a-a59811589308@167.233.10.230:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=880eeeef4927eed5#By AghaDani
 vless://74cc7d1e-65c8-4dec-8005-f682f0fa96ab@38.244.20.164:443?security=reality&encryption=none&pbk=867RbOeSOc7qDdW1Ax8jAQ_qqS6_kGAEZ4PZdpT4jyE&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=3514e9df97b32520#By AghaDani
@@ -600,7 +601,6 @@ vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?secu
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#By AghaDani
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@185.229.190.245:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#By AghaDani
 vless://488142fb-131e-4b8e-a559-3b49ce93ec12@81.12.54.106:36271?security=&encryption=none&headerType=&type=tcp#By AghaDani
-vless://2c7d8e9d-d40a-49f8-b150-2d9cf4d69f4d@212.80.8.212:38941?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#By AghaDani
 vless://6a1f0743-48ed-49da-b4f6-4e25fd58d899@web.wordqress.sbs:19609?security=&encryption=none&headerType=&type=tcp#By AghaDani
 vless://6a1f0743-48ed-49da-b4f6-4e25fd58d899@81.12.54.106:19609?security=&encryption=none&headerType=&type=tcp#By AghaDani
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.97:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#By AghaDani
