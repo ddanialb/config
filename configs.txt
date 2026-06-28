@@ -1,3 +1,4 @@
+trojan://humanity@104.18.152.219:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@tr.dtgitar.com:19667?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#By AghaDani
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#By AghaDani
@@ -797,4 +798,3 @@ vless://488142fb-131e-4b8e-a559-3b49ce93ec12@81.12.54.106:36271?security=&encryp
 vless://6a1f0743-48ed-49da-b4f6-4e25fd58d899@web.wordqress.sbs:19609?security=&encryption=none&headerType=&type=tcp#By AghaDani
 vless://6a1f0743-48ed-49da-b4f6-4e25fd58d899@81.12.54.106:19609?security=&encryption=none&headerType=&type=tcp#By AghaDani
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.97:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#By AghaDani
-vless://6ea446c1-35cd-4bff-8ac2-ea9b69107dd0@104.21.51.9:443?path=/eyJqdW5rIjoiTXlmbkdHamJvdTZ6cyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-a4722d.moraduui.workers.dev&fp=chrome&type=ws&sni=eZ-A4722D.MoRADuUI.WORkerS.dev#By AghaDani
