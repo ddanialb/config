@@ -1,3 +1,5 @@
+vless://d90fef65-4e41-4018-bf16-01d8309b3a57@81.12.54.106:19607?security=&encryption=none&headerType=&type=tcp#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#By AghaDani
 vless://fac729cf-fed9-44bd-afea-a8a1c7dae090@app.wordqress.sbs:19609?security=&encryption=none&headerType=&type=tcp#By AghaDani
 vless://577581e7-d526-42f1-adb0-6559357b0575@5.75.207.247:2886?security=reality&encryption=none&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&host=//?ed=2560/JOIN/V2&headerType=none&fp=chrome&spx=/KF3aPULpT5TYVqb&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=903c2ca9307a41f9#By AghaDani
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#By AghaDani
@@ -796,5 +798,3 @@ vless://6e9893e3-e3db-48d7-b909-e185517c44e9@local.cloud-play.ir:80?mode=packet-
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=%2Fv2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#By AghaDani
 vless://cfb5b3d3-c094-4222-99e8-53faa787c857@193.93.194.120:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=site.rumedia-cdn.com&fp=qq&pbk=dgrcO3r5wkEjcsWdEsNtgtWCe9vER6mgADXYclWXVxg&sid=8de54d32a8d3fdf9&spx=%2F&type=tcp&headerType=none¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#By AghaDani
 vless://fc71fffb-3743-4cfe-9edb-c8cb513e9146@199.232.245.208:443?path=%2F&security=tls&encryption=none&host=bazaryabab.global.ssl.fastly.net&type=ws&sni=default.ssl.fastly.net#By AghaDani
-trojan://MiTiVPN@89.116.180.49:443?path=%2Fnl%3Dmitivpn&security=tls&alpn=http%2F1.1&host=f6r.ir&fp=chrome&type=ws&sni=f6r.ir#By AghaDani
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
