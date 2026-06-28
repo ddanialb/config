@@ -1,3 +1,5 @@
+vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
+trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls&headerType=none&fp=chrome&type=tcp#By AghaDani
 vless://52adf805-c3f7-4a85-a4f6-3bd82153b118@89.106.86.101:25130?security=reality&encryption=none&pbk=UwQaEFtxHQWq3Hmtac-joTReqyfkmtfze27QCT8a5mk&headerType=none&fp=chrome&spx=%2F3tb7A89rgnyqsVe&type=tcp&sni=www.samsung.com&sid=c000ec4a08b1c166#By AghaDani
 vless://d7d69294-53f0-412a-88f3-ae4d8a19ea78@frd1.foot8all.ir:2026?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://d7d69294-53f0-412a-88f3-ae4d8a19ea78@grm1.jobwebs.ir:56626?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#By AghaDani
@@ -796,5 +798,3 @@ vmess://eyJhZGQiOiIxNzIuNjQuMTU1LjIwOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJv
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@172.64.32.75:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#By AghaDani
 vless://0982915c-ed86-4341-ba63-0fd1dd50e2ae@cf.theatak.com:443?path=%2Fchat%3Fed%3D100&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=fi-cf.theatak.com&fp=chrome&type=ws&allowInsecure=0&sni=fi-cf.theatak.com#By AghaDani
 vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:2886?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&security=reality&sid=40e5ca&sni=www.oracle.com&spx=%2FH30flwmjqp1iFuZ&type=tcp#By AghaDani
-vless://6b801a4e-ef3a-4fc8-9e14-82c40447caab@cctvhikvision.center:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fapi-ip&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sg.sogand.tr&fp=chrome&type=ws&allowInsecure=0&sni=sg.sogand.tr#By AghaDani
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http#By AghaDani
