@@ -1,3 +1,10 @@
+vless://fa420bad-1a7a-46b9-ab44-05caa7255931@65.109.186.44:45026?headerType=none&encryption=none&type=tcp&security=none#By AghaDani
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?sni=enterprisekitten.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&encryption=none&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq#By AghaDani
+vless://fa420bad-1a7a-46b9-ab44-05caa7255931@65.109.186.44:45026?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
+vless://fa420bad-1a7a-46b9-ab44-05caa7255931@65.109.186.44:45026?encryption=none&type=tcp&headerType=none&security=none#By AghaDani
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.245:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#By AghaDani
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.245:443?pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&type=tcp&fp=qq&flow=xtls-rprx-vision&encryption=none&headerType=none&sni=enterprisekitten.com#By AghaDani
+trojan://humanity@104.18.152.175:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#By AghaDani
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?type=ws&security=tls&path=%2Fus-gllc&host=space.byu.id.yxls.eu.cc&sni=space.byu.id.yxls.eu.cc&insecure=1&allowInsecure=1#By AghaDani
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&security=tls&path=%2FLiL%3Fed%3D2560&sni=kingcloud.biack.ir&alpn=h3&fp=firefox&insecure=0&allowInsecure=0#By AghaDani
@@ -791,10 +798,3 @@ vless://967b2fad-bb2a-46d1-8efb-3bfda81f7f92@176.109.85.70:443?security=reality&
 vless://c1a52d3b-9a39-4fef-a835-e5f2f0d11d1a@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 vless://eb9c6180-ed5f-4a18-8645-3a487f8088ed@141.193.213.10:2087?path=/&security=tls&encryption=none&insecure=0&host=nova-falcon-portal-27ef.nova-b77bd6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-portal-27ef.nova-b77bd6.workers.dev#By AghaDani
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@usamd.ptuu.gq:443?sni=qi79crholtc6qgd6y9n6.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#By AghaDani
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:47909?sni=is.01.naiun.bilibili.com#By AghaDani
-vless://9770fce0-0b88-590f-992d-7dac8625d360@195.231.60.106:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=winq35461s-19523160106-direct.irgame.co#By AghaDani
-vmess://eyJhZGQiOiAiNDUuODUuMTE4Ljg4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAid2cxLmFub3RoZXJ2bWVzcy5saW5rIiwgImlkIjogIjlhZThiNmMxLTc0NGYtNGFmZS1jMjdkLWYzYjM4ZTc5ZDk3NSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODQ0MyIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAid2cxLmFub3RoZXJ2bWVzcy5saW5rIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=#By AghaDani
-ss://b2744521-78b7-4c24-86f2-4f751d1cb7bf@104.18.32.47:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=private.digikala.lat&fp=chrome&type=ws&allowInsecure=0&sni=Ggjd.digikala.lat#By AghaDani
-ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#By AghaDani
-vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#By AghaDani
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#By AghaDani
