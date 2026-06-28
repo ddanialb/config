@@ -1,3 +1,4 @@
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?encryption=none&security=none&type=grpc#By AghaDani
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.165.167.99:666?path=%2Fproxy&security=tls&encryption=none&insecure=1&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&fp=chrome&type=ws&allowInsecure=1&sni=43.165.167.99#By AghaDani
 ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E%3D@47.79.144.115:40003#By AghaDani
 trojan://SoftNetConnect@37.156.45.237:443?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=%2F#By AghaDani
@@ -797,4 +798,3 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?encryption=none&ty
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&type=ws&security=tls&path=%2Fca-cl&host=unnes.ac.id.yxls.eu.cc&sni=unnes.ac.id.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 trojan://Mitivpn@151.101.56.6:443?type=ws&security=tls&path=%2Fde%3Dmitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@46.225.250.187:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&sid=a796a1f52722b3a5#By AghaDani
-vless://t-me-V2RayyNGvpn@92.223.62.25:11858?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
