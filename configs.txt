@@ -1,3 +1,12 @@
+vless://3fa3c987-8e58-491a-b26d-ecc9fdf5cea5@173.245.58.84:2083?path=%2Flogin&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=panel.jarorobo.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.jarorobo.ir#By AghaDani
+vless://3fa3c987-8e58-491a-b26d-ecc9fdf5cea5@173.245.58.84:8443?path=%2Fwp-admin&security=tls&alpn=h2&encryption=none&insecure=0&host=dashboard.amirmeti.ir&fp=chrome&type=ws&allowInsecure=0&sni=dashboard.amirmeti.ir#By AghaDani
+vless://3fa3c987-8e58-491a-b26d-ecc9fdf5cea5@172.67.220.1:2083?path=%2Flogin&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=panel.jarorobo.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.jarorobo.ir#By AghaDani
+vless://3fa3c987-8e58-491a-b26d-ecc9fdf5cea5@172.67.220.1:8443?path=%2Fwp-admin&security=tls&alpn=h2&encryption=none&insecure=0&host=dashboard.amirmeti.ir&fp=chrome&type=ws&allowInsecure=0&sni=dashboard.amirmeti.ir#By AghaDani
+vless://3fa3c987-8e58-491a-b26d-ecc9fdf5cea5@www.speedtest.net:2083?path=%2Flogin&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=panel.jarorobo.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.jarorobo.ir#By AghaDani
+vless://3fa3c987-8e58-491a-b26d-ecc9fdf5cea5@sub.arshia-nova.ir:8443?path=%2Fwp-admin&security=tls&alpn=h2&encryption=none&insecure=0&host=dashboard.amirmeti.ir&fp=chrome&type=ws&allowInsecure=0&sni=dashboard.amirmeti.ir#By AghaDani
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc#By AghaDani
+vless://ee85dc58-e243-453d-b26d-af698be99b36@188.114.97.6:80?path=%2F&security=none&encryption=none&host=zeus-panel-wj6me6.zeus-ir-netlify.workers.dev&type=ws&sni=zeus-panel-wj6me6.zeus-ir-netlify.workers.dev#By AghaDani
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&allowinsecure=1&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#By AghaDani
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#By AghaDani
 vless://ba9be39a-3b9d-4d26-ac10-1a6c99a86e71@94.139.179.9:44132?encryption=none&type=tcp#By AghaDani
@@ -9,7 +18,6 @@ vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:2360?encryption=none&f
 vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:2886?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&security=reality&sid=e19da077d7&sni=www.oracle.com&spx=%2F0mqMX2AD4eAGzhI&type=tcp#By AghaDani
 vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=%2F&security=none&type=ws#By AghaDani
 vless://1be21069-cf51-471d-a51c-c1585d26fc56@5.75.207.247:41083?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#By AghaDani
 trojan://humanity@199.181.197.111:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#By AghaDani
 ss://64c03b7a-f3f3-4d78-bc82-a233ced89cea@divar.ir.shakhle.ir:25000?mode=gun&security=reality&encryption=none&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&type=grpc&serviceName=shakhle&sni=www.yahoo.com&sid=6ba85179e30d4fc3#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.93:8880?mode=gun&security=&encryption=none&type=grpc#By AghaDani
@@ -790,11 +798,3 @@ vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@193.176.240.129:8880/?type=ws&encry
 trojan://R53uZPoBbv@cloud.n2team-iran.top:42804?security=none&type=tcp#By AghaDani
 vless://5ba3259f-bac2-4271-bf5b-29966079ae4b@81.12.54.80:26305?security=&encryption=none&headerType=&type=tcp#By AghaDani
 vless://a826b967-a335-40e6-95b9-d04ac759113d@itop.shaw-sr.ru:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F09kzplwnxj&host=itop.shaw-sr.ru&mode=auto&sni=itop.shaw-sr.ru#By AghaDani
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#By AghaDani
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.97:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By AghaDani
-vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#By AghaDani
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.speedmeter.shop:8880?mode=gun&security=&encryption=none&type=grpc#By AghaDani
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:48697?sni=gh.01.naiun.bilibili.com#By AghaDani
-vless://5d2062a4-e636-58af-b488-d6bdbea719bf@chefox.kkkl.ir:443?security=reality&encryption=none&pbk=7DQXReCCCModVwZEU9j4QFsWtzEbGNtrRHwMCk2NUD8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=C8EF#By AghaDani
-vless://ff56b54d-0bf7-47cf-a9df-ab3e39d16415@185.92.183.34:443?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=K92vEoJmJ2MBhAdYpG8xAOqQXv9_DmFz1mE2hKe0jm4&sid=c6617998&spx=%2FjdYQQfDwqiMrNXK#By AghaDani
-vless://77277328-cf59-4411-a880-95399355c5b6@hikvision-plus.com:2052?path=%2Fapi-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#By AghaDani
