@@ -1,4 +1,8 @@
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@mfa.gov.ua:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping%3Fhttps%3A%2F%2Ft.me%2Fdaily_free_vpn&mode=auto#By AghaDani
+trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&host=3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=global.fastly.com#By AghaDani
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&security=none#By AghaDani
+trojan://MiTiVPN@199.181.197.176:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&host=95r.ir&fp=firefox&type=ws&sni=95r.ir#By AghaDani
+vless://ca0de7fc-c4c8-47a0-adbe-fee8dff6e182@151.101.110.219:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&security=none#By AghaDani
 vless://64c1b992-47ff-42ef-8d6d-d7ee13c5b716@103.100.158.109:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=safari&pbk=t0i2PDg8pHUCNi_GHbe7PHAUvI3wKIvH3d3c_g26kCE&sid=4a670fd6fdbb91ad#By AghaDani
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@198.41.208.42:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2FV2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast&security=tls&encryption=none&host=calm-base-e99e.pofokjimi.workers.dev&fp=chrome&type=ws&sni=calm-base-e99e.pofokjimi.workers.dev#By AghaDani
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?type=tcp&encryption=none&security=none#By AghaDani
@@ -359,7 +363,6 @@ vless://10daa1b5-a607-4b90-be2c-28a12caa35b7@free.musiclib.ir:37151?encryption=n
 trojan://#By AghaDani
 vless://1d3290bc-11b0-4fc1-897f-bc3e34e1269c@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#By AghaDani
 vless://93a96cb4-bf29-4f02-97a1-d1771f325086@64.188.68.182:46925?encryption=none&type=ws&path=%2F#By AghaDani
-vless://ca0de7fc-c4c8-47a0-adbe-fee8dff6e182@151.101.110.219:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&security=none#By AghaDani
 vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:2360?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&security=reality&sid=833bc1c51882&sni=www.intel.com&spx=%2FHgVq3fBofDu9L36&type=tcp#By AghaDani
 vless://6aeb24c8-efc1-4a8a-8b70-f4373c57cdc2@163.128.98.252:443?security=reality&encryption=none&pbk=bOl3cE95DyTP45SarBNVL9VSwvAQETENlm0iMNaxLyo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=93a993bbc8b86684#By AghaDani
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&security=none#By AghaDani
@@ -795,6 +798,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=&encryption=none&type=grpc#By AghaDani
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@172.64.32.75:443?path=%2Fjdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#By AghaDani
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.233.63:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#By AghaDani
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?mode=gun&security=&encryption=none&type=grpc#By AghaDani
-vless://a9c0d70c-8283-4dfb-b3e0-6e797fc4ce26@cdn4.portalcode.ir:2095?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=&encryption=none&host=tu1.monopolitass.ir&type=httpupgrade#By AghaDani
-vless://1a8a5e1a-2660-482e-9ed8-d8980613c261@5.75.207.247:44004?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#By AghaDani
