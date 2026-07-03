@@ -1,3 +1,4 @@
+vless://268796e5-9933-4342-a95e-246b21436c98@57.131.19.193:443?encryption=none&fp=chrome&pbk=AfivVtkqkVstEWkYEknp4j9ShFEbZC6GhyCXQ-VKqGg&security=reality&sid=aae1a7abe47db23f&sni=www.yahoo.com&spx=%2Ft96P95TZesLmGVR&type=tcp#By AghaDani
 vless://af42f8db-09a9-4eb5-9047-e97b5a072627@199.232.78.120:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=npnl-2-two.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#By AghaDani
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.135.58:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-directvpn@13.37.135.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
@@ -5,7 +6,6 @@ vless://ead0062f-584c-4107-9276-0d435ba0ac67@92.222.128.104:443?security=reality
 vless://d25ba473-5b05-48bb-b048-e82844e2ae39@104.16.100.66:8880?encryption=none&host=misty-recipe-be74.271.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&type=ws#By AghaDani
 vless://bb4b60a3-8f64-47fc-80ef-7b98aee8eacb@104.16.147.254:2083?path=/&security=tls&encryption=none&insecure=0&host=nova-falcon-wave-c27b.nova-417494.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-falcon-wave-c27b.nova-417494.workers.dev#By AghaDani
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@nbg.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=0a1b2c3d4e5f6071#By AghaDani
-vless://268796e5-9933-4342-a95e-246b21436c98@57.131.19.193:443?encryption=none&fp=chrome&pbk=AfivVtkqkVstEWkYEknp4j9ShFEbZC6GhyCXQ-VKqGg&security=reality&sid=aae1a7abe47db23f&sni=www.yahoo.com&spx=%2Ft96P95TZesLmGVR&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NExBVEEzbHYzd0t4b1JGTWk4SHdn@warzula.shop:443#By AghaDani
 vless://0d3f3511-39af-4c3c-80e4-bdbae9f415c6@104.17.183.88:2083?fp=chrome&host=nova-atlas-vault-2458.nova-f0bd7f.workers.dev&security=tls&encryption=none&insecure=0&allowInsecure=0&type=ws&path=/&sni=nova-atlas-vault-2458.nova-f0bd7f.workers.dev#By AghaDani
 trojan://telegram-id-privatevpns@13.37.135.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
