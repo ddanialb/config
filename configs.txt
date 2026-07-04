@@ -1,3 +1,6 @@
+trojan://humanity@198.202.211.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#By AghaDani
+trojan://humanity@sourceforge.net:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#By AghaDani
+trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0#By AghaDani
 vless://11029532-fad4-4116-b8b4-a14f7d4383c4@www.speedtest.net:443?path=%2FeyJqdW5rIjoiWlhSb2tTYXJtQlo1bDkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ez-ffd2cf.vishkh46.workers.dev&fp=chrome&type=ws&sni=Ez-ffD2cf.VIshKH46.wOrkeRs.dEv#By AghaDani
 vmess://eyJhZGQiOiIxMDQuMTguMzIuNDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVzQWRVMS5sT29sT29sT29sT28uY09NLiIsImlkIjoiYThiNzU3ZDItMDhhNC00NmMzLTkyZjMtMDU1OGJlMWFkYzQ4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiL2VkPT8yMDQ4IiwicG9ydCI6IjgwODAiLCJwcyI6IkJ5IEFnaGFEYW5pIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 trojan://VN3zRAL4Hq@45.130.125.156:8080?type=ws&security=none&path=/da&host=s3.aananas.ir#By AghaDani
@@ -171,7 +174,6 @@ trojan://humanity@104.26.14.137:443?path=%2Fassignment&security=tls&insecure=0&h
 vless://2f324cb2-3534-4101-9639-ef3ea42f6e40@acela.proxy.rlwy.net:53197?mode=auto&path=%2F&security=reality&encryption=none&pbk=PS_K3inVKkyGHS6u6o3HykjoglxOrpC5R0O0V_i8Ols&fp=chrome&spx=%2F&type=xhttp&sni=is1-ssl.mzstatic.com&sid=cb#By AghaDani
 vless://d8218f97-4c0e-4995-ae71-760f2e59af17@91.107.152.129:2026?headerType=none&sid=a713a8&flow=xtls-rprx-vision&type=tcp&encryption=none&pbk=cwwVI4crOphc8XCjLqKZqqbou0itCCK19FF7ABkfH34&security=reality&fp=chrome&spx=%2FEH5qMnVEpYamD7J&sni=aws.amazon.com#By AghaDani
 vless://6e2f6c09-855c-4f9f-8e94-3a90c3f07fbd@ka1781041r.dadashinet10.ir:2044?headerType=http&type=tcp&encryption=none&host=play.google.com&security=none#By AghaDani
-trojan://humanity@198.202.211.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#By AghaDani
 vless://31ed0ed1-746a-46aa-bb54-7a3c30b90c3e@45.74.159.146:32845?path=%2F&security=none&encryption=none&type=ws#By AghaDani
 vless://9f19123a-1450-49f9-8ca4-3cc5f92f600b@depl.krepost.app:8443?mode=auto&path=%2Fkrepost&security=reality&encryption=none&pbk=5SNuJakUsFk3udLSxuAhlzrdC6Xr2snwTIHvHwT5UiI&fp=firefox&type=xhttp&sni=depl.krepost.app&sid=fe8950f135674cfc#By AghaDani
 trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
@@ -180,8 +182,6 @@ vless://9f19123a-1450-49f9-8ca4-3cc5f92f600b@plkrep.tgflow.me:443?security=reali
 vless://564397f8-4805-4433-ab5b-a24aa133bac2@hub.oneoknews.com:443?mode=gun&security=reality&encryption=none&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=hub.oneoknews.com&sid=064c2d37308aeeb6#By AghaDani
 vless://d8218f97-4c0e-4995-ae71-760f2e59af17@91.107.152.129:2026?type=tcp&spx=%2FEH5qMnVEpYamD7J&headerType=none&encryption=none&security=reality&flow=xtls-rprx-vision&pbk=cwwVI4crOphc8XCjLqKZqqbou0itCCK19FF7ABkfH34&fp=chrome&sni=aws.amazon.com&sid=a713a8#By AghaDani
 trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#By AghaDani
-trojan://humanity@sourceforge.net:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#By AghaDani
-trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0#By AghaDani
 vless://addbd8bc-dcf1-4a24-9eef-25639a32b47b@151.101.3.8:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=tsvCY5W4AP61qVbo.net&type=ws#By AghaDani
 trojan://#By AghaDani
 trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
