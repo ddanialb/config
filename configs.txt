@@ -1,3 +1,4 @@
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.6.211:443?path=%2F&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#By AghaDani
 vless://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?mode=auto&path=%2FBetForward&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#By AghaDani
 vless://f356ae17-12ad-43ce-9961-56de0725452e@173.199.117.62:3?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#By AghaDani
 trojan://MiTiVPN@151.101.56.6:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
@@ -25,7 +26,6 @@ vless://073d1d50-8478-47bf-a828-7a1b381931d5@www.speedtest.net:443?path=%2Fodiyf
 vless://52faee73-e0fe-4661-992d-67259257170f@bypass.uk-gthost-01.com:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#By AghaDani
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.49:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#By AghaDani
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#By AghaDani
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.6.211:443?path=%2F&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#By AghaDani
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@104.16.75.207:2087?mode=auto&path=/path&security=tls&alpn=h2,http/1.1&encryption=none&extra={#By AghaDani
 vless://18b70dca-cd38-4875-bf9b-c3b6839cf752@us-nyc-01.fsulink.com:64665?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EShA9_KP4Ah0-q34QZ8BelbU7gg_jLSU51CODaI3S24&security=reality&sid=f7008c7426&sni=aws.amazon.com&type=tcp#By AghaDani
 vless://18b70dca-cd38-4875-bf9b-c3b6839cf752@us-nyc-02.fsulink.com:34355?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tHb4kAmJ4Vlcrlpmz3_pRQItLsy1cHuE0DwxEWDmZQg&security=reality&sid=46627f094d&sni=aws.amazon.com&type=tcp#By AghaDani
