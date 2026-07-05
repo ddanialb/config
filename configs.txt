@@ -1,3 +1,8 @@
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#By AghaDani
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#By AghaDani
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#By AghaDani
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#By AghaDani
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#By AghaDani
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://4029a3b0-fb9a-0699-218d-5f7f78330e41@arg-production-8b86.up.railway.app:443?encryption=none&security=tls&type=ws&host=arg-production-8b86.up.railway.app&path=/ws/4029a3b0-fb9a-0699-218d-5f7f78330e41&sni=arg-production-8b86.up.railway.app&fp=safari&alpn=http/1.1#By AghaDani
@@ -793,8 +798,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?security=none&typ
 vless://6d788c81-bc95-4bb7-a276-277ff7ef8365@bypass.uk-gthost-01.com:8443?security=reality&type=raw&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=ea10cd5686751ec5&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&encryption=none#By AghaDani
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.43:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=ea10cd5686751ec5&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8#By AghaDani
 vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.alibaba.com&sid=c906f73d3ba8211f#By AghaDani
-vless://932a9656-d5ec-4ab0-a56e-4755f5420171@gg1.serviceoda.ru:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=Tl0GCbgfsNHxGGN0TzZt3_OFsPc4xe1kMkn_L3qwiS8&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=3d8b549801de#By AghaDani
-vless://9aecf22f-2cb9-41c8-b533-04534a5b150b@188.114.97.6:443?security=tls&type=ws&path=%2Fsg-amz&host=space.byu.id.r3xxe.eu.cc&packetEncoding=xudp&sni=space.byu.id.r3xxe.eu.cc&fp=chrome&encryption=none#By AghaDani
-vless://836fb09c-536a-47cb-b0d3-ae9bd6b6f4db@104.21.39.243:2083?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=ez-09c8d9.ezaccess108f950.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-09c8d9.ezaccess108f950.workers.dev#By AghaDani
-vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@162.159.93.9:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&security=none#By AghaDani
-vless://5b9fa73b-b549-480b-add9-c45e650d236f@162.159.22.111:443?security=tls&type=ws&path=%2Ffp%3Dfirefox&host=gddy.hhlfy.de5.net&packetEncoding=xudp&sni=gddy.hhlfy.de5.net&fp=chrome#By AghaDani
