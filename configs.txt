@@ -1,5 +1,5 @@
-trojan://MiTiVPN@www.speedtest.net:443?path=%2FMiTiVPN%3Dfll&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=F-ll.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F-ll.App-Cloud.ir#By AghaDani
 vless://176868f5-09fd-49fb-b09a-fe958e686341@51.210.2.9:443?encryption=none&fp=chrome&headerType=http&host=play.google.com&path=%2F&pbk=wqokZbgd9ky0tEL6SFLXx3Btlqr_zj8vCGzT3zgcvns&security=reality&sid=e5ec34265efc&sni=www.yahoo.com&spx=%2Flc5xBp7iMuwGy3H&type=tcp#By AghaDani
+trojan://MiTiVPN@www.speedtest.net:443?path=%2FMiTiVPN%3Dfll&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=F-ll.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F-ll.App-Cloud.ir#By AghaDani
 vless://f0db70ae-559e-4cba-aa00-3a04eb04c3e0@104.16.72.50:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=fm3.pages.dev#By AghaDani
 vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.50:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#By AghaDani
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=fr.carefreemob2.com.&type=httpupgrade#By AghaDani
