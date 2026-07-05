@@ -1,7 +1,8 @@
+trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
 vless://176868f5-09fd-49fb-b09a-fe958e686341@51.210.2.9:443?encryption=none&fp=chrome&headerType=http&host=play.google.com&path=%2F&pbk=wqokZbgd9ky0tEL6SFLXx3Btlqr_zj8vCGzT3zgcvns&security=reality&sid=e5ec34265efc&sni=www.yahoo.com&spx=%2Flc5xBp7iMuwGy3H&type=tcp#By AghaDani
+vless://7faf366b-7d4c-40dc-92e7-80585464ddf5@89.167.22.49:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.208.61:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#By AghaDani
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.6.211:443?path=%2F&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#By AghaDani
-vless://7faf366b-7d4c-40dc-92e7-80585464ddf5@89.167.22.49:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#By AghaDani
 trojan://MiTiVPN@199.232.78.140:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dfl&host=miticonfig.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&fp=chrome&type=ws&allowInsecure=0&sni=amoosamiii.net#By AghaDani
@@ -405,7 +406,6 @@ vless://c63c92b9-e67f-477e-873e-31996bd37f14@free1.sorvexa.ir:48134?mode=auto&pa
 vless://9b0b4404-f1eb-4551-9b88-e0aac7843c86@earthpro.wasmer.app:443?path=%2F9b0b4404&security=tls&encryption=none&insecure=0&host=earthpro.wasmer.app&type=ws&allowInsecure=0&sni=earthpro.wasmer.app#By AghaDani
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#By AghaDani
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.254:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#By AghaDani
-trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#By AghaDani
 trojan://humanity@208.103.161.170:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#By AghaDani
