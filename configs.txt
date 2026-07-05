@@ -1,3 +1,5 @@
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.137:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#By AghaDani
+vless://38296644-13bf-4d0a-a123-42844258799b@1:19063?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#By AghaDani
 vless://38296644-13bf-4d0a-a123-42844258799b@bot.sobhanpor.ir:443?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#By AghaDani
 vless://72ffdff3-610d-b6d1-9d44-8fe430fe569f@tel-timazadi-mimi.up.railway.app:443?encryption=none&security=tls&type=ws&host=tel-timazadi-mimi.up.railway.app&path=/ws/72ffdff3-610d-b6d1-9d44-8fe430fe569f&sni=tel-timazadi-mimi.up.railway.app&fp=chrome&alpn=http/1.1#By AghaDani
 vmess://eyJhZGQiOiJzMTAudGlpenBpbmcuY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJjYTE5ZjU5MC02MDU2LTQzMzctOGQ5NS0wYjQxMTRhZmI2ZDMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwODIiLCJwcyI6IkJ5IEFnaGFEYW5pIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
@@ -81,7 +83,6 @@ vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.79:443?security=reality&
 vless://7bab93fb-fc00-4868-b77a-90b825027b10@dl4.gooniforoshi.fun:443?path=%2Fdownload.php&security=tls&encryption=none&host=dl4.gooniforoshi.fun&allowinsecure=0&type=ws&sni=dl4.gooniforoshi.fun#By AghaDani
 vless://7bab93fb-fc00-4868-b77a-90b825027b10@dl3.gooniforoshi.fun:443?path=%2Fdownload.php&security=tls&encryption=none&host=dl3.gooniforoshi.fun&allowinsecure=0&type=ws&sni=dl3.gooniforoshi.fun#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXakptcVZoTjdaWGNrN0NpaVpjVWh0aHNoUDF2d3VJOQ==@bot.sobhanpor.ir:1080#By AghaDani
-vless://38296644-13bf-4d0a-a123-42844258799b@1:19063?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#By AghaDani
 trojan://telegram-id-directvpn@52.58.255.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-privatevpns@52.58.255.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.255.50:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#By AghaDani
@@ -797,4 +798,3 @@ vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&
 vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.101:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#By AghaDani
 vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.192:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#By AghaDani
 trojan://humanity@172.64.147.52:443?sni=www.multiplydose.com&type=ws&path=%2Fassignment&fp=chrome#By AghaDani
-trojan://humanity@www.ignitelimit.com:443?sni=www.ignitelimit.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#By AghaDani
