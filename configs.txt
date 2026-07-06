@@ -1,3 +1,4 @@
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?headerType=http&host=play.google.com&security=reality&encryption=none&pbk=-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8&sid=09&spx=%2FC42p6dEeWp6gGTf&sni=www.yahoo.com&fp=chrome&type=tcp#By AghaDani
 vless://13f99069-a259-4422-a294-ee59d21b54b3@uae1.appcodes.ir:2026?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=firefox&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&sid=db4a993c8bb355ba#By AghaDani
 vless://13f99069-a259-4422-a294-ee59d21b54b3@usa.appcodes.ir:2026?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=firefox&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&sid=db4a993c8bb355ba#By AghaDani
@@ -33,7 +34,6 @@ vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@forallpanel.srtongston.ir:8880?path
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@45.130.125.207:2086?mode=auto&path=%2F%3Fed%3D2082&security=none&encryption=none&host=jJ.cafearen.ir&type=xhttp#By AghaDani
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@cd3.postshup.ir:2086?mode=auto&path=%2F%3Fed%3D8192&security=none&encryption=none&host=BB.cafearen.ir&type=xhttp#By AghaDani
 vless://25b705e6-31a3-4a7c-a838-37179ceeac48@91.107.195.92:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:4227?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L5dWvFThmaEvNqnz8xbBkyT10TWINOZbn-BAdKtXNzk&security=reality&sid=d71b53053ec6e4&sni=aws.amazon.com&spx=%2FiddplozJJWE5hnQ&type=tcp#By AghaDani
 trojan://telegram-id-privatevpns@18.194.124.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://telegram-id-directvpn@18.194.124.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
