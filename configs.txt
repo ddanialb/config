@@ -1,3 +1,4 @@
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#By AghaDani
 vless://58d23d23-0d2b-4cf1-809b-2625ded3dba0@las.dearhossein-taktaz.ir:46176?fp=chrome&host=play.google.com&encryption=none&pbk=D4hKOdrSTKmI0HIYFf1-Ggy0ADaB39k7AQAZmeK9qCM&security=reality&sid=70&sni=www.yahoo.com&spx=%2Ft9MMErPLlzdH7wc&type=tcp&headerType=http#By AghaDani
 vless://67536d90-ead9-440a-9e6d-d5775631b9e2@zbvn.foot8all.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=545df9caf95f7cd8#By AghaDani
 vless://afcde39e-3357-44d0-817c-add8dc7cca01@book.korzelo.ir:2083?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#By AghaDani
@@ -31,7 +32,6 @@ vless://0432128f-eac1-45b5-8365-de6c75b8f5d0@45.130.125.207:2086?encryption=none
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#By AghaDani
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&headerType=none&fp=chrome&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#By AghaDani
 trojan://NX7LOtiM.=RdQTq..yxi-dm6OcQrkgE5rg@149.104.87.141:443?security=tls#By AghaDani
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#By AghaDani
 vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?encryption=none&type=ws&security=tls&path=%2F&host=pan3.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0#By AghaDani
 vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/8L8ji1ltYihf2SMX?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#By AghaDani
 vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#By AghaDani
