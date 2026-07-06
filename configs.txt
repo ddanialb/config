@@ -1,3 +1,6 @@
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@chatgpt.com:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=vless.hubp.de&fp=chrome&type=ws&allowInsecure=0&sni=vless.hubp.de#By AghaDani
+vless://e9adbac6-90e1-4c1f-ad17-46226d45a262@85.133.221.48:5001?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://c662cb42-b584-4b82-88f8-e2a64384bf20@5.252.26.85:443?encryption=none&pbk=sWR_Ckh6hk-HvacqbtfT8oHIqDJ7_NY4_JeHY_N4OHc&type=tcp&sid=8af36420&security=reality&headerType=http&sni=www.yahoo.com&fp=chrome&host=play.google.com&spx=%2Fst0xeIGyJX2J9ej#By AghaDani
 trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#By AghaDani
 trojan://MITIVPN@104.26.15.137:443?path=/MiTiVPN=USA&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#By AghaDani
@@ -22,9 +25,7 @@ vless://0af861ed-e514-b10b-8144-3fa80000008d@104.18.28.234:8080?encryption=none&
 trojan://MiTiVPN@45.131.4.118:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#By AghaDani
 vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto&path=/clud?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=usdir.dtgoldservices.com&fp=chrome&type=xhttp&allowInsecure=0&sni=usdir.dtgoldservices.com#By AghaDani
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#By AghaDani
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@chatgpt.com:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=vless.hubp.de&fp=chrome&type=ws&allowInsecure=0&sni=vless.hubp.de#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#By AghaDani
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#By AghaDani
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#By AghaDani
@@ -797,4 +798,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.136.49:22224?path=%2Ftelegram-
 vless://7bab93fb-fc00-4868-b77a-90b825027b10@dl3.gooniforoshi.fun:443?path=%2Fdownload.php&security=tls&encryption=none&host=dl3.gooniforoshi.fun&type=ws&sni=dl3.gooniforoshi.fun#By AghaDani
 vless://5c1d3877-9232-4832-a0d5-276db348ff3b@bot.sobhanpor.ir:443?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#By AghaDani
 vless://5c1d3877-9232-4832-a0d5-276db348ff3b@1:19063?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#By AghaDani
-vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@62.60.248.105:2053?mode=gun&security=reality&encryption=none&pbk=kwKk436AjoyIrYSQzm3VoGLoFDLIIYRGLQ-RRVFUH20&fp=chrome&spx=%2FKPC757WiVsr9e7X&type=grpc&serviceName=grpc-bf898949e88a9c94&sni=www.amazon.com&sid=b9b08cbb#By AghaDani
