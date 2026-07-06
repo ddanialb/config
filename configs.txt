@@ -1,3 +1,6 @@
+vless://41a6a386-485c-417f-971c-06167252863a@de.ipsafe2.site:38644?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=jBppNAfJaJD58H_9oQpur12q71MsYcAKYYkgYfmwKEg&host=play.google.com&fp=chrome&spx=%2Fwf5ZSaSXAWDvA0A&type=xhttp&sni=play.google.com&sid=33#By AghaDani
+trojan://telegram-id-directvpn@51.102.218.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
+trojan://telegram-id-privatevpns@51.102.218.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSw&host=S--w-w.App-Cloud.ir&sni=sws-so-o.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 trojan://MiTiVPN@hyperon.site:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSw&host=S--w-w.App-Cloud.ir&sni=sws-so-o.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
 trojan://MiTiVPN@assets.fiverr.com:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DNL&host=sjus-kdid-iodp.App-Cloud.ir&sni=nl-ll-nl.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#By AghaDani
@@ -43,7 +46,6 @@ vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?encryption=none&ty
 vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#By AghaDani
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?encryption=none&type=ws&security=tls&host=sevenfeshab.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#By AghaDani
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#By AghaDani
-vless://41a6a386-485c-417f-971c-06167252863a@de.ipsafe2.site:38644?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=jBppNAfJaJD58H_9oQpur12q71MsYcAKYYkgYfmwKEg&host=play.google.com&fp=chrome&spx=%2Fwf5ZSaSXAWDvA0A&type=xhttp&sni=play.google.com&sid=33#By AghaDani
 vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.240:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#By AghaDani
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?encryption=none&type=ws&security=tls&path=%2Fpoiuyws&host=amoosamiii.net&sni=amoosamiii.net&insecure=0&allowInsecure=0#By AghaDani
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#By AghaDani
@@ -796,5 +798,3 @@ vless://b0105618-904b-48f8-8ffc-ea5754da6206@109.120.150.17:7443?path=%2F%40Mari
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#By AghaDani
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@47.128.242.210:443/?insecure=1#By AghaDani
 vless://05782106-cb2b-4a98-a1e5-6d184f95b4f7@185.132.125.252:23456?encryption=none&flow=xtls-rprx-vision&fp=&pbk=x1JPQv9BhGD8HRqRd1zTxFR1nSmummq6cvXJ0IU6u1g&security=reality&sni=www.paypal.com&type=tcp#By AghaDani
-trojan://PI36027154@moved-osprey.rooster465.autos:443#By AghaDani
-vless://5887cc43-9f86-4d93-9903-02437398ac6c@193.233.91.118:6443?encryption=none&fp=&pbk=rmElFjgHFvEfoDxHyWh9c6PeQQGGPszM_m9pFGZpQiE&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc#By AghaDani
