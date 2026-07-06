@@ -1,3 +1,5 @@
+vless://e101431f-358c-4877-9442-242734337bf9@cdn.textin.ir:2053?path=%2Fws%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=turk1.nomac.ir&type=ws&allowInsecure=0&sni=turk1.nomac.ir#By AghaDani
+vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?headerType=http&host=play.google.com&security=reality&encryption=none&pbk=-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8&sid=09&spx=%2FC42p6dEeWp6gGTf&sni=www.yahoo.com&fp=chrome&type=tcp#By AghaDani
 vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:2886?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&security=reality&sid=3ab69b219da944&sni=www.oracle.com&spx=%2FE0ta5WUGEDo3wVj&type=tcp#By AghaDani
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&headerType=none&fp=chrome&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#By AghaDani
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@earth.lukelucky.com:2086?mode=auto&path=%2F&security=none&encryption=none&host=cC.cafearen.ir&type=xhttp#By AghaDani
@@ -9,7 +11,6 @@ vless://af42f8db-09a9-4eb5-9047-e97b5a072627@199.232.78.143:443?path=%2F%3Fed%3D
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=Nn.postshup.ir&type=httpupgrade#By AghaDani
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@45.130.125.207:2086?mode=auto&path=%2F%3Fed%3D2082&security=none&encryption=none&host=jJ.cafearen.ir&type=xhttp#By AghaDani
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@cd3.postshup.ir:2086?mode=auto&path=%2F%3Fed%3D8192&security=none&encryption=none&host=BB.cafearen.ir&type=xhttp#By AghaDani
-vless://40601c06-6fbf-4f48-bcff-2a8d57038e37@las.dearhossein-taktaz.ir:47922?headerType=http&host=play.google.com&security=reality&encryption=none&pbk=-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8&sid=09&spx=%2FC42p6dEeWp6gGTf&sni=www.yahoo.com&fp=chrome&type=tcp#By AghaDani
 vless://25b705e6-31a3-4a7c-a838-37179ceeac48@91.107.195.92:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://25b705e6-31a3-4a7c-a838-37179ceeac48@91.107.195.92:80?encryption=none&type=tcp&headerType=http&host=play.google.com#By AghaDani
@@ -328,7 +329,6 @@ vless://254bd66e-d366-46b6-8cc7-c323b1ac666a@143.198.112.154:443?security=realit
 vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@45.151.101.137:2053?mode=gun&security=reality&encryption=none&pbk=l_C0QQhMVDqhDT3-_AS8cBoOOhKksv8ubX4cf4EVjwo&fp=chrome&spx=%2F5QFfdWJo6AMdStV&type=grpc&serviceName=grpc-ru-2053-4f7b2a&sni=www.amazon.com&sid=17#By AghaDani
 vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@62.60.248.105:2053?mode=gun&security=reality&encryption=none&pbk=kwKk436AjoyIrYSQzm3VoGLoFDLIIYRGLQ-RRVFUH20&fp=chrome&spx=%2FKPC757WiVsr9e7X&type=grpc&serviceName=grpc-bf898949e88a9c94&sni=www.amazon.com&sid=b9b08cbb#By AghaDani
 vless://bb8e629e-2c93-4477-aa80-1a340ded231a@securitytrails.com:443?mode=auto&path=%2Fforall&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn.nothingelsematterss.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.nothingelsematterss.dpdns.org#By AghaDani
-vless://e101431f-358c-4877-9442-242734337bf9@cdn.textin.ir:2053?path=%2Fws%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=turk1.nomac.ir&type=ws&allowInsecure=0&sni=turk1.nomac.ir#By AghaDani
 trojan://humanity@104.16.72.2:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
 vless://f814efd4-b84c-4ec2-9fc5-9a69d9aac87b@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://ce8e7714-ec2f-40b1-a6b7-548489ced574@www.speedtest.net:443?alpn=h2,http/1.1&encryption=none&extra=#By AghaDani
