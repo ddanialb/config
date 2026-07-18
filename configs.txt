@@ -1,3 +1,13 @@
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@43.160.246.223:8443?path=%2F&security=tls&encryption=none&insecure=0&host=s5gydl.936.us.ci&type=ws&allowInsecure=0&sni=s5gydl.936.us.ci#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.189.66:443#By AghaDani
+vless://a38c256e-0032-4071-9abb-a516715fae4e@65.109.9.230:64402?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://01675f3b-e863-44ba-bd69-d0509aaf067c@i.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
+vless://03a8e966-a884-4eec-b433-c9c0b91c53a2@api1.hexogate.net:443?security=reality&encryption=none&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=4fbe35a79c1e884d#By AghaDani
+vless://01675f3b-e863-44ba-bd69-d0509aaf067c@am.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
+vless://03a8e966-a884-4eec-b433-c9c0b91c53a2@static2.hexogate.net:443?security=reality&encryption=none&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=4fbe35a79c1e884d#By AghaDani
+vless://01675f3b-e863-44ba-bd69-d0509aaf067c@myip.check.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
+vless://03a8e966-a884-4eec-b433-c9c0b91c53a2@media1.hexogate.net:443?security=reality&encryption=none&pbk=MMe0uBnEJrn2lbaXx92GrNxIbQ7Cv9ICH53k3lRgHzg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c83a7fdba5f630f8#By AghaDani
+vless://01675f3b-e863-44ba-bd69-d0509aaf067c@at-google.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#By AghaDani
 vless://03a8e966-a884-4eec-b433-c9c0b91c53a2@files1.hexogate.net:443?security=reality&encryption=none&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=66d6d3d24148fc1f#By AghaDani
 vless://01675f3b-e863-44ba-bd69-d0509aaf067c@us-google.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#By AghaDani
 vless://17508e58-86ab-4b3b-9513-b8d3269316c9@marzban-node-production-069b.up.railway.app:443?security=tls&type=ws&headerType=&path=%2Fvless&host=marzban-node-production-069b.up.railway.app&sni=marzban-node-production-069b.up.railway.app&fp=ios&alpn=h2#By AghaDani
@@ -33,13 +43,10 @@ vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICIx
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.110.1.43:7001#By AghaDani
 trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:5315?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com#By AghaDani
 vmess://eyJhZGQiOiI2NS4xMDkuMjE5LjEyNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3Y2Y5NjFhNi1hODA2LTRiODctYWFiYi05ZDBlZjZhNzY1ZDYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUyNTI1IiwicHMiOiJCeSBBZ2hhRGFuaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@43.160.246.223:8443?path=%2F&security=tls&encryption=none&insecure=0&host=s5gydl.936.us.ci&type=ws&allowInsecure=0&sni=s5gydl.936.us.ci#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.189.66:443#By AghaDani
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvME5UTTRNR05rWlMwNE9UWXhMVFEyTVdRdFlXVXlOUzB6TWpsallUQTVPREUwWkdV@free.2apzhfa.xyz:31115#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.194.165.203:22224?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.184.27:22222?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
 vless://0fcaf07c-a3c6-4660-9a6b-0b9f5055bf16@o7jzg.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#By AghaDani
-vless://a38c256e-0032-4071-9abb-a516715fae4e@65.109.9.230:64402?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.162:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&fp=firefox&allowinsecure=0&type=ws&path=%2F#By AghaDani
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&fp=firefox&type=grpc&serviceName=push.v2.FeedService&sni=api.oneokgames.com&sid=a30b344b5214d62f#By AghaDani
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&type=grpc&serviceName=push.v2.FeedService&sni=api.oneokgames.com&sid=a30b344b5214d62f#By AghaDani
@@ -128,10 +135,8 @@ vless://319c1270-87da-4fa4-ac4f-e2d5c0353fdc@206.189.49.128:37779?security=none&
 vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@tank.tarfiq.ir:38733?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&sid=09e78c1d381f98ed&type=grpc#By AghaDani
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@add.oneoker.com:443?mode=gun&security=reality&encryption=none&pbk=W329R9_hAiG_wGLcIhfbm0AA8Si7DVhz4es2aASZACY&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=add.oneoker.com&sid=9c478d3655bfa85d#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.184.27:22223?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
-vless://03a8e966-a884-4eec-b433-c9c0b91c53a2@api1.hexogate.net:443?security=reality&encryption=none&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=4fbe35a79c1e884d#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.236.62:22224?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
 vless://b2da112d-6b84-4c6e-8935-12eab65c63b6@mabar130.mobail1010.ir:2082?type=ws&path=%2F&host=mabar130.mobail1010.ir&security=none#By AghaDani
-vless://03a8e966-a884-4eec-b433-c9c0b91c53a2@static2.hexogate.net:443?security=reality&encryption=none&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=4fbe35a79c1e884d#By AghaDani
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@add.oneoker.com:443?encryption=none&security=reality&sni=add.oneoker.com&fp=chrome&pbk=W329R9_hAiG_wGLcIhfbm0AA8Si7DVhz4es2aASZACY&sid=9c478d3655bfa85d&type=grpc&authority=&serviceName=api.v1.StreamService&mode=gun#By AghaDani
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@media.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=aDNsk312UNfOEh0RiyGZdK6opt__mMyKBSglqFKFP38&fp=firefox&type=grpc&serviceName=api.v2.ObjectService&sni=media.oneokgames.com&sid=dbdbeaf4aa6e1a5c#By AghaDani
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@main.oneoker.com:443?encryption=none&type=grpc&mode=gun&sid=a9b0c08836bad3c5&security=reality&fp=firefox&serviceName=api.v1.StreamService&sni=main.oneoker.com&pbk=yiX2T6z3GavNIgnnxsoU57vgq2pdfngXAU83vhBDQlA#By AghaDani
