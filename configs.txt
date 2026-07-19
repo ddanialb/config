@@ -1,11 +1,13 @@
+vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@Tank.tarfiq.ir:38733?mode=gun&security=reality&encryption=none&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&fp=chrome&type=grpc&sni=play.google.com&sid=09e78c1d381f98ed#By AghaDani
+vless://c2b185f7-14bc-4b8b-a3d2-f05e69426230@subb.biscuitnazari.ir:8080?encryption=none&host=md.biscuitnazari.ir&path=%2Farme&security=none&type=ws#By AghaDani
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.94.156:22222?encryption=none&security=none&type=tcp#By AghaDani
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.94.156:22223?encryption=none&security=none&type=tcp#By AghaDani
 vless://79c5c513-f834-443c-bd6f-f3eb5d3a0dba@104.131.172.97:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=HYMhH6W6sNRCyYAXTRjOH28M2vbIGzZcFmImkx-0WTs&security=reality&sid=08c3c212&sni=www.intel.com&spx=%2FopRGPptwlSesjgI&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://070a2ab9-d936-4253-aa97-5eb4e0bf77f8@162.159.153.2:8880?security=none&type=splithttp&host=DailyConfigs-hhahVSHBbhh56ha.www.speedtest.net.blackoutconnection.ir.&path=%2F#By AghaDani
 trojan://MITIVPN@188.114.97.6:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dd--eee&security=tls&alpn=h2%2Chttp%2F1.1&host=Dbe1-uv-3.aPp-cLoud.IR&fp=chrome&type=ws&sni=de-vo-po.aPp-cLoud.IR#By AghaDani
 vless://882516d7-aa11-4dbd-962c-e72cd3c49c0b@167.82.101.210:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=farangis.global.ssl.fastly.neT.&fp=firefox&type=xhttp&sni=global.fastly.coM.#By AghaDani
 vless://882516d7-aa11-4dbd-962c-e72cd3c49c0b@yamal.sav-savteam.ir:6985?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.94.156:22224?encryption=none&security=none&type=tcp#By AghaDani
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.94.156:22222?encryption=none&security=none&type=tcp#By AghaDani
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.94.156:22223?encryption=none&security=none&type=tcp#By AghaDani
 vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.207:443?path=%2Fcbasur&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#By AghaDani
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.89:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.quattro-tech.ru&sid=43dcff53849b81e6#By AghaDani
 vless://afe143cb-76e2-4202-995d-da09f07b0cd9@www.speedtest.net:443?path=%2FeyJqdW5rIjoiN2pxZ1lxeHQyZ1dudjloIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ez-72da5d.ezaccess1ebe0e6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-72Da5d.eZAccEsS1eBE0E6.wOrkers.DeV#By AghaDani
@@ -796,5 +798,3 @@ trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&
 vless://6d6b7a8d-a9fa-4889-a5f4-d112c6b6f494@104.17.58.113:8880?type=ws&security=none&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=small-cake-e99b.390-a20.workers.dev#By AghaDani
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 trojan://CF68213490@wealthy-gobbler.rooster465.autos:443?sni=wealthy-gobbler.rooster465.autos&type=tcp&fp=chrome#By AghaDani
-trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#By AghaDani
-vless://645ea5d2-7d0a-4d66-940d-eefc2b84f4e9@172.64.94.251:8880?encryption=none&security=none&type=ws&host=fragrant-surf-4797.496-345.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#By AghaDani
