@@ -1,3 +1,6 @@
+trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#By AghaDani
+vless://882516d7-aa11-4dbd-962c-e72cd3c49c0b@167.82.101.210:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=farangis.global.ssl.fastly.neT.&fp=firefox&type=xhttp&sni=global.fastly.coM.#By AghaDani
+vless://882516d7-aa11-4dbd-962c-e72cd3c49c0b@yamal.sav-savteam.ir:6985?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://0c7c9ea0-80b8-4c37-a305-682b7bcfb05e@ger2.fastcodz.ir:52077?mode=gun&security=reality&encryption=none&authority=&pbk=9TjYilelwbIgUs6du2chsTvUyv_TemHoAJuVbsdYRUY&fp=firefox&type=grpc&serviceName=&sni=yahoo.com&sid=c1fcab160b4c8bed#By AghaDani
 vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.207:443?path=%2Fcbasur&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#By AghaDani
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.16:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=kb.ylks.xyz#By AghaDani
@@ -795,6 +798,3 @@ vless://ce977d82-824b-4209-87f1-0719f78d6a2e@104.18.42.163:8880?security=&encryp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#By AghaDani
 trojan://CF68213490@careful-penguin.rooster465.autos:443?sni=careful-penguin.rooster465.autos&type=tcp&fp=chrome#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#By AghaDani
-trojan://CF68213490@bright-cicada.rooster465.autos:443?sni=bright-cicada.rooster465.autos&type=tcp&fp=chrome#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#By AghaDani
-trojan://CF68213490@tolerant-rattler.rooster465.autos:443?sni=tolerant-rattler.rooster465.autos&type=tcp&fp=chrome#By AghaDani
