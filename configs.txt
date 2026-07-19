@@ -1,3 +1,8 @@
+trojan://telegram-id-privatevpns@3.127.59.36:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
+trojan://tg-dns68@162.159.153.230:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#By AghaDani
+vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@www.gov.ua:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZzVGTUtpQlM3THcxb29X@52.236.93.73:443#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bjRsekVhNmxGTlJxNTdrR1NmYWtB@77.246.98.67:443#By AghaDani
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.onetimeok.com:443?encryption=none&security=reality&sni=api.onetimeok.com&fp=chrome&pbk=CQhnOxCj9UuA67kiDGGOcXB1G_XayWfHyhmlWGeG4Uw&sid=cfb882e7dcf03ef2&type=grpc&authority=&serviceName=api.v2.ApiService&mode=gun#By AghaDani
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.191.236:666?encryption=none&security=tls&sni=43.164.191.236&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=43.164.191.236&path=%2Fproxy#By AghaDani
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveU5qUmtaV0UwWlMwelkyWTBMVFJoTkdJdFlqRXlaQzA0TTJFellXUTBOREl5T1RN@free.2weradf.xyz:36145#By AghaDani
@@ -26,9 +31,6 @@ trojan://-----------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-
 vless://a90f60c0-6566-44cf-a99f-5aaf213b72dc@nex1.liiliil.ir:2053?security=reality&encryption=none&pbk=8_j56AZHntUSXrvIhdensgf1VhC0S9lxizLkec4zX00&headerType=none&fp=ios&spx=%2FHpBSTEEFl9XaNwx&type=tcp&sni=play.google.com&sid=d40e7c9920906dbd#By AghaDani
 ss://YWVzLTI1Ni1nY206TVRSa01EUTNZbVF6WXpVMVpHVmhNbVJtT0RJeU56QXdZbVl3WldJNQ@95.38.186.235:11116#By AghaDani
 vmess://eyJhZGQiOiAic3BlZWR0ZXN0Lm5ldCIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogImZpcmVmb3giLCAiaG9zdCI6ICJEYmRqaGl3NzJlYnN1MjcyaHM1MTlqLmNvbSIsICJpZCI6ICI3ZDA1NzRjNi1kNTliLTQ2MmYtYjZlOC00Y2JmY2M5ZTc5MzQiLCAibmV0IjogIndzIiwgInBhdGgiOiAid3MvP2VkPTIwNDgiLCAicG9ydCI6ICI0NDMiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAic2N5IjogImF1dG8iLCAic25pIjogInNwZWVkdGVzdC5uZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==#By AghaDani
-trojan://telegram-id-privatevpns@3.127.59.36:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-trojan://tg-dns68@162.159.153.230:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bjRsekVhNmxGTlJxNTdrR1NmYWtB@77.246.98.67:443#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNTN1SnNaYzZkelRCWURFcWcxYTMwQmgxaEFkNEhRemdwd0NWZHB6S3dmRjJaVWg=@168.119.57.171:51348#By AghaDani
 vless://58ae6add-aa32-4a69-ba8d-5a68b29b9ec8@31.77.156.185:2087?mode=auto&path=%2F&security=reality&encryption=none&pbk=YzBMpb1dERPYZ523TWUVf9MkqH4_zrnc_t_o2IjF0W4&host=vip-de2-unlimited.relqino.ir&fp=chrome&type=xhttp&sni=yahoo.com&sid=e898156ae00ddeb8#By AghaDani
 ss://YWVzLTEyOC1nY206MjY5ZjcxYjktYzQ1Yi00M2YzLThjNDgtZWI1Zjk4NmFhNzA3@36.133.194.43:6607#By AghaDani
@@ -161,7 +163,6 @@ vless://8a9455bc-31f8-46a6-9cb1-88a6f7558289@189gm.sannest.ir:443?encryption=non
 vless://823fc22c-b127-414b-b74c-956c42db34e4@172.67.71.247:2053?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=newde2.torprospeed.ir&sni=newde2.torprospeed.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
 vless://823fc22c-b127-414b-b74c-956c42db34e4@104.16.72.251:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=GGGGDE44.XUISPEEDMS.IR&mode=auto&sni=GGGGDE44.XUISPEEDMS.IR&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
 vless://03a8e966-a884-4eec-b433-c9c0b91c53a2@media2.hexogate.net:80?security=none&encryption=none&host=account.xiaomi.com&headerType=http&type=tcp#By AghaDani
-vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@www.gov.ua:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#By AghaDani
 vless://79d45ba4-e915-4a9a-8e53-87039e83e193@64.176.73.240:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=xKBhcOO7xTV_jviXRtnlRxyUdQ0BJIi1itzPG381CGQ&security=reality&sid=9db7db&sni=www.intel.com&spx=%2FONAMNPswkgagrne&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://17508e58-86ab-4b3b-9513-b8d3269316c9@marzban-node-production-069b.up.railway.app:443?security=tls&type=ws&headerType=&path=%2Fvless&host=marzban-node-production-069b.up.railway.app&sni=marzban-node-production-069b.up.railway.app&fp=ios&alpn=h2#By AghaDani
 ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.235:20111#By AghaDani
@@ -237,7 +238,6 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@45.130.125.217:443?encryption=none&
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.133:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=random&alpn=h3#By AghaDani
 vless://5358651c-d958-4b7e-b597-a2419de0e700@s2.insta-service.ir:80?security=&encryption=none&headerType=http&type=tcp#By AghaDani
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2Fvip1&security=tls&alpn=h2&encryption=none&insecure=0&host=hamshahriesfahan.com&fp=chrome&type=ws&allowInsecure=0&sni=speedtest.net#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZzVGTUtpQlM3THcxb29X@52.236.93.73:443#By AghaDani
 vless://fe6a8eab-8afa-489b-9095-275d4acefa70@dl3-54231678trust.nivoxa.ir:30510?mode=auto&path=%2F&security=reality&encryption=none&pbk=WcasoWgozKHcoThSpH_nlQp1-dN0b28hH_LDgIbFsFo&host=myket.ir&fp=chrome&type=xhttp&sni=icloud.com&sid=3047915bf424f292#By AghaDani
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.89:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=se.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&allowinsecure=0&type=tcp&headerType=none#By AghaDani
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?encryption=none&security=tls&sni=t-netplus-4vx.pages.dev&type=ws&host=t-netplus-4vx.pages.dev&path=%2FTELEGRAM%2F%3Fed%3D2048#By AghaDani
