@@ -1,3 +1,4 @@
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#By AghaDani
 trojan://cabaabc-baca-caab-adcb-bacbbccaacba@127.0.0.1:8080?security=tls&type=tcp#By AghaDani
 vless://6471088f-de4c-4d49-aa22-6539693b9edf@fardad-ch.lorluma.ir:6800?sni=play.google.com&fp=qq&type=tcp&security=reality&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&encryption=none#By AghaDani
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?security=tls&sni=v2NGFASt-3Tm.pagES.Dev&type=ws&host=V2NgfaST-3tm.pAgeS.dEV&path=%2FRSj7f1nzMTh76aCG%3Fed%3D2560#By AghaDani
@@ -43,7 +44,6 @@ vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?encryption=none&s
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.50:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#By AghaDani
 vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxODAiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAidiI6ICIyIn0=#By AghaDani
 vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjE3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImd3ZGVmLnNicyIsICJpZCI6ICJiYzg2NDA3OC1kY2YzLTRiZjQtOGRiZi1jYTlmMjAwYjU2YmUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ3dkZWYuc2JzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=#By AghaDani
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#By AghaDani
 vless://081e8e17-ea6b-c497-07e0-f6cf63a48c4e@x4g-production-932d.up.railway.app:443?path=%2Fws%2F081e8e17-ea6b-c497-07e0-f6cf63a48c4e&security=tls&alpn=http%2F1.1&encryption=none&host=x4g-production-932d.up.railway.app&fp=chrome&type=ws&sni=x4g-production-932d.up.railway.app#By AghaDani
 trojan://f9beeb440fb77af@ht.configfast.site:59618?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=firefox&spx=%2FFLPXR0ZdoH1ame6&type=tcp&sni=google.com&sid=e3916e0f2c8b438b#By AghaDani
 vless://2b621759-756f-4b9f-b368-9de97ec6d15c@movies.vipdatacloud.com:8443?#By AghaDani
