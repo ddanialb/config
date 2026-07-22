@@ -1,3 +1,6 @@
+trojan://telegram-id-directvpn@3.73.221.195:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWFdiRk5JTnJ0bW0xVDBRTnVJbk5abFpUaW12NmNyTGNBS3RtRkRVR3hCNTVUcDA=@81.28.6.186:51348#By AghaDani
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.86.135.31:5499#By AghaDani
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwa00yWTJOelJsTWkxaU9UZzFMVFE1WkRJdE9EWTFOQzAwWWpoa05UTmxNakF5TVRj@gdyddx500.xiyunchen.cn:24706#By AghaDani
 vmess://eyJhZGQiOiAiMTA0LjE2LjY4LjM4IiwgImFpZCI6IDAsICJob3N0IjogIjdoc3MtYnV0dGVyZmx5LWQ0YzMuZmlqZXRlbTQzMi53b3JrZXJzLmRldiIsICJpZCI6ICJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FmcmhtczA3LnhmaXhlZGZsb2F0LmNmZC9saW5rd3MiLCAicG9ydCI6IDIwOTUsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9#By AghaDani
 vmess://eyJhZGQiOiAiMTA0LjE2LjYxLjgiLCAiYWlkIjogMCwgImhvc3QiOiAiZXJmYW5uZXdmcmVlbm9kZXMudmRtbXN3eXptemlnb252bmprNDQzLndvcmtlcnMuZGV2IiwgImlkIjogIjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaG1zMDIuZnhpYW9taS5zYnMvbGluayIsICJwb3J0IjogODAsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9#By AghaDani
@@ -17,10 +20,7 @@ vless://2a376e86-d906-4440-a9ec-77dc205ada18@tun.temas-bor.ir:2087?security=none
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.87.222:8008#By AghaDani
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@13.43.129.121:443#By AghaDani
 vless://d342a81f-5fe4-4fbc-8616-08f47c1a9032@panel.clmusic.ir:10443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=uQHBnYKNnGkzNPp5OH1LbfWIIgtj45igecywxgF-wjs&sid=765a&spx=%2F9d61ce76f0183c0&type=tcp&headerType=none#By AghaDani
-trojan://telegram-id-directvpn@3.73.221.195:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWFdiRk5JTnJ0bW0xVDBRTnVJbk5abFpUaW12NmNyTGNBS3RtRkRVR3hCNTVUcDA=@81.28.6.186:51348#By AghaDani
 vless://d342a81f-5fe4-4fbc-8616-08f47c1a9032@panel.clmusic.ir:33468?encryption=none&security=tls&sni=d4.clmusic.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=d4.clmusic.ir&path=%2F#By AghaDani
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.86.135.31:5499#By AghaDani
 vless://d342a81f-5fe4-4fbc-8616-08f47c1a9032@panel.clmusic.ir:2087?encryption=none&security=tls&sni=d4.clmusic.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=d4.clmusic.ir&path=%2Fapi%2Fv1#By AghaDani
 vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?security=reality&alpn=%40.networld_vpn-&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#By AghaDani
 vless://d342a81f-5fe4-4fbc-8616-08f47c1a9032@panel.clmusic.ir:8443?encryption=none&security=tls&sni=d4.clmusic.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=d4.clmusic.ir&path=%2Fassets%2Fjs%2Fapp.js#By AghaDani
