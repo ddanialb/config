@@ -1,3 +1,5 @@
+vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@support.zoom.us:8080?path=%2Ffree-server.techsonic.me&security=none&encryption=none&host=free-server.techsonic.me&type=ws#By AghaDani
+vless://0b8dfc50-9e2d-4b3c-85cd-870b478312a0@45.192.2.115:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=ece180c605b5453c&sni=yandex.net&type=tcp#By AghaDani
 trojan://IQ68037294@193.169.239.162:443?fp=chrome&sni=distinct-ibex.rooster465.autos#By AghaDani
 vless://c050a809-ad86-4849-9f90-0689d925d3a1@104.18.4.2:8880?security=none&type=ws&host=Speedtest.net----------------------------speedtest.netttttttttttttttttttttt.telactive.Net.&path=%2F%3Fed%3D80#By AghaDani
 vless://e5afa6a0-a4a6-44e3-a3e0-e05b0c67cd02@144.31.214.196:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8C9nYYjnHI6kJzjmuAFvMdGIz6LmPh89nwEC5ohLInQ&security=reality&sid=9d8eaebbfb4ee87e&sni=www.mozilla.org&type=tcp#By AghaDani
@@ -42,7 +44,6 @@ vless://5098e189-3462-4ff7-8ddd-4aaecfd060ea@45.192.2.157:443?encryption=none&fl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.24.154:50099#By AghaDani
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#By AghaDani
 vless://01c3b339-ca71-1be9-3310-de836b96b1bc@join-masterserver1-gdjtdjtgjt.up.railway.app:443?path=%2Fws%2F01c3b339-ca71-1be9-3310-de836b96b1bc&security=tls&alpn=http%2F1.1&encryption=none&host=join-masterserver1-gdjtdjtgjt.up.railway.app&fp=ios&type=ws&sni=join-masterserver1-gdjtdjtgjt.up.railway.app#By AghaDani
-vless://d4951d91-23e0-4301-a1ea-5300e0b5ec67@support.zoom.us:8080?path=%2Ffree-server.techsonic.me&security=none&encryption=none&host=free-server.techsonic.me&type=ws#By AghaDani
 vless://telegram-id-ArV2ray@speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D80&security=none&encryption=none&host=Lqro1.ir&type=ws#By AghaDani
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.132:8118#By AghaDani
 trojan://-----------%42%61%6e%56%32%72%61%79----------@37.156.45.60:438?security=reality&sni=world.yahoo.com%3A443&fp=firefox&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=4a76cd52&spx=%2F0a7fbfe99dc4e8f&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=#By AghaDani
@@ -797,4 +798,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.117.158:22223?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.252.91:22223?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
 vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:2053/?type=ws&encryption=none&host=ios-azadnet.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=ios-azadnet.pages.dev#By AghaDani
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.117:5001#By AghaDani
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.252.91:22224?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
