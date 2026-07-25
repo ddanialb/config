@@ -1,5 +1,6 @@
-vless://0d14ccf3-1f3f-44c6-86d3-f90ca7983cad@hhhh.naxv.ir:45347?type=xhttp&encryption=none&path=%2Fassets&host=myket.ir&mode=stream-up&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=none#By AghaDani
 vless://64466fd7-00d0-4e7f-ae47-1749932601da@201.79.2.141:443?security=reality&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&pbk=OqBAjoEHKMfHz1bsj1nlRmehz_h_RnnYjHlWdQmK0T8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=5218bfb83fb5b9b8#By AghaDani
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
+vless://0d14ccf3-1f3f-44c6-86d3-f90ca7983cad@hhhh.naxv.ir:45347?type=xhttp&encryption=none&path=%2Fassets&host=myket.ir&mode=stream-up&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=none#By AghaDani
 vless://899c1806-3172-408f-846c-87f0c899aacb@s104.dubaismoke.com:443?path=%2Fshop&security=tls&encryption=none&host=s1040.dubaismoke.com&fp=chrome&type=httpupgrade&sni=s104.dubaismoke.com#By AghaDani
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.152.87:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#By AghaDani
 vless://8d636170-6540-4000-9629-d91f10c01635@209.38.162.15:14596?mode=gun&security=none&encryption=none&type=grpc&serviceName=#By AghaDani
@@ -23,7 +24,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWEwZDA5Mi02ZjBlLTQ3MDEtODFlZS00NTQ2NDNkNmQ
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#By AghaDani
 vless://27cb0bdc-0bfb-47a9-8eb5-27f5ffa074d2@66.235.200.87:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=httpupgrade#By AghaDani
 vless://91851181-1804-4692-b702-a05f1b07c589@ziro.moxic.ir:443?security=reality&encryption=none&pbk=nx2_I0Kp2bT05PZRLnVUww-X3npv-MmriAw54nMscy0&headerType=none&fp=chrome&spx=%2F3ec3f0e561250e6&type=tcp&sni=play.google.com&sid=91a4#By AghaDani
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://4a5bb051-35da-410d-a7c3-b8318c1b8d87@speedtest.net:443?path=%2F%40custom_config%3Fed%3D2048&security=tls&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&alpn=h2%2Chttp%2F1.1&host=tody.ir.&fp=chrome&type=ws&sni=speedtest.net#By AghaDani
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.204.84:443?security=tls&sni=TELgRaMCxroLVPN.PagES.Dev&type=ws&host=TElGramcxrOLVPn.paGEs.Dev&path=%2FXWaLXW93BDUqwF2G%2Fc3BlZWR0ZXN0LWZyNS5nY29yZS5jb20%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#By AghaDani
 vless://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:2054?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=&mode=auto&path=%2F&security=none&type=xhttp&x_padding_bytes=100-1000#By AghaDani
