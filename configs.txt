@@ -1,3 +1,4 @@
+vless://f6f62b37-e002-42c2-8c32-51fe3da6750f@72.60.189.172:443?security=reality&encryption=none&pbk=ciEOYnFRicl1_ibRKw70jTDZKIMV7R88Qic4GpVzSXA&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=55cbb453c4bea99b#By AghaDani
 trojan://NQ26071394@35.181.65.111:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ready-kangaroo.rooster465.autos#By AghaDani
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#By AghaDani
 vless://3e334a36-946e-4ab8-871a-75442c3d6269@78.46.195.8:1070?security=reality&encryption=none&pbk=dODBH3TVhSwElfHRRlIBu5mtTOh3Opm_EYplb3Wqkic&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=62398309a87b4f27#By AghaDani
@@ -797,4 +798,3 @@ vless://672e23dd-be41-44fc-b606-e6891fee5e6f@Firozkoh.Sav-savteAm.iR:55555?secur
 vless://a1b1567f-3b9d-4717-86b9-6fd30f84226c@panel.jorgotr.ir:1000?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
 vless://a1b1567f-3b9d-4717-86b9-6fd30f84226c@w1s1.nyxenpro.ir:2053?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=cdo.jorgotr.ir&mode=auto&sni=cdo.jorgotr.ir#By AghaDani
 trojan://aG6ci43qJX@179.237.75.149:54194?mode=gun&security=reality&pbk=_tfmzLvkjkTGfsPKgi7lSf4cEN-XgTFVdmXYPUjHf1M&fp=firefox&spx=%2F&type=grpc&sni=world.yahoo.com%3A443#By AghaDani
-vless://a1b1567f-3b9d-4717-86b9-6fd30f84226c@cdn1.portalcode.ir:2053?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=cdo.jorgotr.ir&mode=auto&sni=cdo.jorgotr.ir#By AghaDani
