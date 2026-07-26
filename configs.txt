@@ -1,3 +1,4 @@
+vless://b6749f13-cd63-4bc4-b165-5d120b7a1ff4@5.75.196.139:5039/?type=tcp&encryption=none&sni=www.yahoo.com&fp=firefox&security=reality&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&sid=2e8424a2696cb606#By AghaDani
 trojan://MiTiVPN@151.101.1.194:443?path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN%3DSw&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#By AghaDani
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.139:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#By AghaDani
 vless://81f9b6e0-638a-4e94-9119-f93909b6bebd@134.209.180.189:41941?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
@@ -168,7 +169,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.178:443?allowInsecure=0&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.199.33.104:22672?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#By AghaDani
 vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@uk.levikogjgfdd.ir:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=chrome&spx=%2F&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#By AghaDani
 vless://70f28a55-1e6c-4082-aef4-2dc2cfa78fca@51.89.226.11:2053?mode=gun&security=reality&encryption=none&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=chrome&type=grpc&serviceName=api.v1.data&sni=play.google.com&sid=524efc1f88592266#By AghaDani
-vless://b6749f13-cd63-4bc4-b165-5d120b7a1ff4@5.75.196.139:5039/?type=tcp&encryption=none&sni=www.yahoo.com&fp=firefox&security=reality&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&sid=2e8424a2696cb606#By AghaDani
 vless://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?security=&encryption=none&headerType=&type=tcp#By AghaDani
 vless://0108c657-a9bd-4c99-9179-74050cf78889@ua1.levikogjgfdd.ir:443?type=tcp&security=reality&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#By AghaDani
 vless://14400b5d-a218-4ed0-b4a9-d703a3501911@max-ep.443.erangle.ru:14368?path=%2F&security=tls&encryption=none&insecure=0&host=max-ep.443.erangle.ru&fp=chrome&type=httpupgrade&allowInsecure=0&sni=max-ep.443.erangle.ru#By AghaDani
