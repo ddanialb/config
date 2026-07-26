@@ -1,3 +1,4 @@
+vless://1972d7cb-00d8-423e-91db-62f01b2289a6@91.98.202.214:1373?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://3b522f6b-1b18-470f-99ee-6e99dcf73525@46.101.39.245:41089?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://3b522f6b-1b18-470f-99ee-6e99dcf73525@139.59.165.91:41089?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://54daf35c-dcd6-42d9-9568-b0914f5537c1@46.101.62.198:15518?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
@@ -797,4 +798,3 @@ vless://1377372b-3ecf-4300-86fa-511c265a1338@104.25.0.86:8080?security=none&encr
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.47:443?security=tls&sni=yk.ylks.xyz&type=ws&path=%2Ffreecodes#By AghaDani
 vless://c9632efd-87f8-4655-ac59-17f3bc444647@tr.fredomiran.com:443?security=reality&encryption=none&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&host=play.google.com&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=719eea5118aa0d04#By AghaDani
 trojan://telegram-id-privatevpns@13.53.116.199:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.204.84:443?security=tls&sni=TELgRaMCxroLVPN.PagES.Dev&type=ws&host=TElGramcxrOLVPn.paGEs.Dev&fp=randomized&alpn=h2,http/1.1#By AghaDani
