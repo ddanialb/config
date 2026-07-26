@@ -1,3 +1,5 @@
+vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bastani.purplrose.ir&fp=random&type=ws&allowInsecure=0&sni=bastani.purplrose.ir#By AghaDani
+vless://9aa22854-b213-44c1-b966-14284fce33df@89.110.84.36:31067?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
 vless://0108c657-a9bd-4c99-9179-74050cf78889@ua1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.160.141:22223?encryption=none&security=none&type=tcp#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.160.141:22222?encryption=none&security=none&type=tcp#By AghaDani
@@ -440,7 +442,6 @@ vless://2d7c8eef-49c0-4d89-a74f-591ea805274d@103.27.156.63:443?mode=gun&security
 vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#By AghaDani
 vless://b0aeb6f0-ff78-4316-ba8f-673d8bedd94b@89.124.108.27:443?encryption=none&security=none&type=ws&path=%2Frw#By AghaDani
 vless://0c5853e1-a606-4aa2-bbfa-86a7b58d43b1@nl1-azad.albertwize.ir:4588?security=reality&encryption=none&pbk=49LjRovubjQuO8F6gMKlHZ7eTCbhpx-61rUszaTJYWk&headerType=none&fp=chrome&spx=%2Fc35feea118504ea&type=tcp&sni=aparat.com&sid=fa2401aad82386b5#By AghaDani
-vless://9aa22854-b213-44c1-b966-14284fce33df@89.110.84.36:31067?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http#By AghaDani
 vless://0108c657-a9bd-4c99-9179-74050cf78889@ua1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#By AghaDani
 vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?&security=reality&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&fp=chrome&sni=download.nvidia.com&type=xhttp#By AghaDani
@@ -797,4 +798,3 @@ vless://2b1b4acf-109c-454d-8a9a-6acc48ed64eb@38.180.70.206:8080?type=tcp&securit
 trojan://telegram-id-privatevpns@13.36.124.71:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
 vless://a3eb4c35-c1df-4448-968c-f6229cba9de0@probabblynot.fazelextremeisreal.com:29870?security=reality&encryption=none&pbk=cWrLzTqWRYMQq8vsgN7rHtUxrDdqxDLNEWAuo_eXlRU&headerType=none&fp=chrome&spx=%2FThCIJ6AlpUdv5Oh&type=tcp&sni=www.refersion.com&sid=821863f0#By AghaDani
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.174:443?path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#By AghaDani
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#By AghaDani
