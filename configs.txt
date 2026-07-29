@@ -1,3 +1,5 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.169:22222?security=&encryption=none&headerType=&type=tcp#By AghaDani
+vless://c14b13d3-600e-4f82-88c7-a377ea38e9a0@104.194.151.208:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=g5jvQuRdqL4tR79pfiikolnOcOWygUetTMzLGfXFyzs&fp=chrome&spx=%2FY5alHrKc1NTylF7&type=xhttp&sni=www.amd.com&sid=7dc61e7cf06ba3#By AghaDani
 vless://05d30a1a-7525-46af-897a-504035ef2633@cdn-xui185.korvexe.ir:45367?security=reality&encryption=none&pbk=OeFiglavZSIdPfUbSXwiNgOZQ2P_CiyW9VrV1hXIVmI&headerType=none&fp=chrome&spx=%2FOZH4xsReHoYR3tE&type=tcp&sni=qapartners.sec.samsung.com&sid=9d79bd#By AghaDani
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=&encryption=none&headerType=&type=tcp#By AghaDani
@@ -796,5 +798,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.195.2.243:22222?encryption=none&
 vless://23e895c5-1f50-dfc4-bc3f-b134581a80d4@www.ar.plus.mashtinet.shop:80?security=none&encryption=none&path=%2F&type=ws&host=wwwfffffii.global.ssl.fastly.net#By AghaDani
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiQnkgQWdoYURhbmkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vless://23e895c5-1f50-dfc4-bc3f-b134581a80d4@gbbbb.qarvian.ir:1155?encryption=none&mode=packet-up&type=xhttp&sid=753cd5c2&spx=%2F&pbk=X5Ge9DYHJsT9TuO9nfTz2FSLANY0IbrtNbHgJ66q5QQ&sni=icloud.com&host=play.google.com&security=reality&fp=firefox#By AghaDani
-vmess://eyJhZGQiOiJpci5sb3J6ZW1hLmlyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjIwNzVlZDNiLTNhOTEtNDFjMy04OGIzLWM5NWI3MjlhNjZiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0Ijo0NDgsInBzIjoiQnkgQWdoYURhbmkiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.195.2.243:22223?encryption=none&type=tcp&security=none&headerType=none#By AghaDani
