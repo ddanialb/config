@@ -1,3 +1,5 @@
+vless://7590522a-2c24-439d-b146-83245a44e062@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={#By AghaDani
+trojan://humanity@172.64.146.127:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#By AghaDani
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29445?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&security=reality&sid=1297b6f0f6dc88d0&sni=www.twitch.tv&type=raw#By AghaDani
 trojan://humanity@#By AghaDani
 vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&type=raw&sni=yahoo.com&fp=chrome&sid=46ef6b9bc8&pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&encryption=none#By AghaDani
@@ -14,7 +16,6 @@ vless://099244b9-2168-4dbd-870e-cbbe9d6eb573@188.164.248.81:2087?encryption=none
 vless://29ca503d-e6b8-4509-b666-48133f450857@185.239.69.147:8443?encryption=none&host=learn00.evany.de5.net&path=/fdip=tw.william.us.ci!txt&security=tls&sni=learn00.evany.de5.net&type=ws#By AghaDani
 vless://5aafc2be-9348-4dec-b896-f4a91253bbca@support.zoom.us:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/id-tksi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#By AghaDani
 vless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@172.67.137.154:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&path=ws&security=tls&sni=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&type=ws#By AghaDani
-trojan://humanity@172.64.146.127:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#By AghaDani
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gr4.levikogjgfdd.ir:3031?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#By AghaDani
 vless://129b50b6-060d-475c-b1de-b87c2a67051f@www.baipiao.eu.org:8880?encryption=none&host=shrill-waterfall-bfe2.416.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&type=ws#By AghaDani
 vless://537e61e5-f177-4a52-87d7-ec3d34e08bca@176.109.85.122:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs&security=reality&sid=27e53bbcab7593d7&sni=yandex.ru&spx=/&type=raw#By AghaDani
@@ -797,4 +798,3 @@ trojan://NY64qe3QO5@62.60.238.19:45765?security=reality&sni=www.amd.com&fp=chrom
 vless://32186fa3-e649-4d5e-8411-a78c73935ac6@212.192.2.193:13206?security=reality&encryption=none&pbk=UVOpIaI37TfaKsksHvDEC5cg9qLsc1YOmlBrceD8CXA&headerType=http&fp=qq&spx=%2F&type=tcp&sni=play.google.com&sid=f2a3e53d4f058a#By AghaDani
 trojan://telegram-id-directvpn@18.194.20.156:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#By AghaDani
 hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?security=tls&obfs=salamander&obfs-password=4b6gmo4jujpapx99&insecure=0&sni=vhd.nth.gelzaro.ir#By AghaDani
-vless://f5576b8c-57b3-40cd-9c09-dba9f3106435@fast.cd-tur4.ir:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#By AghaDani
