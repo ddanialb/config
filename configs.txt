@@ -1,3 +1,6 @@
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#By AghaDani
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#By AghaDani
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#By AghaDani
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#By AghaDani
@@ -795,6 +798,3 @@ vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?path=%2FgPGhgE3kw
 vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?host=learn00.evany.de5.net&encryption=none&allowInsecure=0&security=tls&insecure=0&path=%2Ffdip&type=ws&sni=learn00.evany.de5.net#By AghaDani
 vless://edae0c5c-6979-44ba-b82b-1575cb5804d6@r.telewebion.ir.varzesh3.com.de:443?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sid=e915&flow=xtls-rprx-vision#By AghaDani
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.62.243:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?host=hhlfy.twiladaphne.ndjp.net&sni=hhlfy.twiladaphne.ndjp.net&encryption=none&type=ws&path=%2Ffp&insecure=0&allowInsecure=0&security=tls#By AghaDani
-vless://0f5da327-c0b9-4859-8152-70fbb9830f11@www.speedtest.net:80?path=/melo/is/needed&security=none&encryption=none&host=ch1.dontbow.store.&type=ws#By AghaDani
-vless://64a28ed6-2238-42d9-8452-b83674f741e5@digital-Robin.wp-toolbox.ir:1610?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=edge&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#By AghaDani
