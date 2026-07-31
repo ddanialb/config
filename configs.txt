@@ -1,3 +1,4 @@
+vless://52745f29-d8da-4cb7-9f95-401b946524e7@159.195.18.58:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=disk.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&fp=safari#By AghaDani
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#By AghaDani
 vless://a1368205-7481-4228-bf24-00f24ad7b267@104.105.64.121:50327/?type=tcp&encryption=mlkem768x25519plus.native.0rtt.z26m5q7KIaYsLQKcYn-2zCDFNFgFbZQRAH9h680euh8&security=reality&pbk=JW1dY-aGVyM0KlwrVBF1YX0HuCmm-MASUCj2vsniHg4&fp=chrome&sni=www.icloud.com&sid=b1de9b77b14b9d85&spx=%2F#By AghaDani
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.8.82:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
@@ -797,4 +798,3 @@ vless://fe75304a-2e17-4eae-b5ce-05b39aff83b2@95.38.233.100:28110?security=none&e
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@154.193.55.183:443?flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b&type=tcp&path=/#By AghaDani
 vless://732515c3-7e84-07b5-c630-d8f9cdd57613@fast1-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=fast1-production.up.railway.app&path=/ws/732515c3-7e84-07b5-c630-d8f9cdd57613&sni=fast1-production.up.railway.app&fp=chrome&alpn=http/1.1#By AghaDani
 vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.204.159:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#By AghaDani
-trojan://humanity@104.18.11.110:443?security=tls&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=%2F%2Fassignment#By AghaDani
