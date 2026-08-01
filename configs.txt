@@ -1,3 +1,5 @@
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#By AghaDani
+vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@86.38.214.33:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=cdn.torexa.ir&type=xhttp#By AghaDani
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#By AghaDani
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#By AghaDani
 vless://29ca503d-e6b8-4509-b666-48133f450857@ip.sb:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#By AghaDani
@@ -64,8 +66,6 @@ vless://@V2rayAMVip%3ATurboConfigs@217.179.5.62:443?security=none&encryption=non
 vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@learngerman.torexa.ir:2090?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#By AghaDani
 vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#By AghaDani
 vless://444f3779-cc79-4289-b22b-f75bc84be25e@d7e209882c98f0ecd7e209882c98f0ec.ssdhdd.org:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=tasnimnews.ir&pbk=pvY1bX3eh_RHA2foDr82nB-0UgXu1uO7xjtYKRSFuCs&sid=3b225391611b29e5#By AghaDani
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#By AghaDani
-vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@86.38.214.33:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=cdn.torexa.ir&type=xhttp#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.170:22224?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.170:22222?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.118.170:22223?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
