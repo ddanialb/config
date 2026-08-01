@@ -1,3 +1,4 @@
+vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@78.111.91.166:443?type=grpc&security=reality&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.demiurgitut.ru&mode=gun&serviceName=demiurgitut-grpc#By AghaDani
 vless://7f8d38d9-a887-47b0-8847-28baf82bcd0d@qweryumsdnbsdh-asdfbcvaflhasdjbdajmbaf-asfklf.impervasec.com:2053?type=ws&host=qweryumsdnbsdh-asdfbcvaflhasdjbdajmbaf-asfklf.impervasec.com&path=/imperva_ssh&security=tls&fp=randomized&sni=qweryumsdnbsdh-asdfbcvaflhasdjbdajmbaf-asfklf.impervasec.com#By AghaDani
 vless://942f5079-ad58-4614-a4b9-046a983c3074@51.195.141.167:39407/?encryption=none&host=speedtest.net&type=tcp&headerType=http#By AghaDani
 vless://085350bf-3af2-a06b-3006-9d7ea314475e@69.46.46.1:443?path=%2Fws%2F085350bf-3af2-a06b-3006-9d7ea314475e&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-2066.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-2066.up.railway.app#By AghaDani
@@ -797,4 +798,3 @@ vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@sys-runtime-errors.blog:443?encrypt
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MzlDNHQxVUhMTGtHY0xPVDVwMldGY2c2Ykg2RnJmTzFVRHBlYVlNVi9JOD06K0IxMDhUOEp1QVhIT3hISmpoRDZSREpBejBoY1draVRCOUpBR252anN3ST0@185.126.64.86:10536?#By AghaDani
 vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.146.59:2087?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
-vless://a03df445-0666-4d61-acde-9705009e409c@turok2.o4ka-internet.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=turok2.o4ka-internet.com&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&type=tcp&headerType=none#By AghaDani
