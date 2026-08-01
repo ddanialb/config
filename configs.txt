@@ -1,3 +1,4 @@
+vless://41e55ec5-ef82-4787-b9c6-9acb9f680843@92.246.138.69:443?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://6ede8d99-be53-4b7f-9183-255325c71bf2@198.41.209.56:8443?encryption=none&type=httpupgrade&security=tls&path=%2F&sni=fdsa.cjdpars-m.ir&insecure=0&allowInsecure=0#By AghaDani
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.66.177:2095?path=%2F&security=&encryption=none&host=cnmfangbinxingnmsl.cnm-fangbinxingnmsl-250.workers.dev&type=ws#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.66.148.223:22224?encryption=none&security=none&type=tcp#By AghaDani
@@ -349,7 +350,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.64.47.197:2096?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.227.91:2053?security=tls&sni=bPbG.168168.us.KG&type=ws&host=BPBG.168168.US.kg&path=/JyiLSQ0tECXpzezd/cHJveHlpcC5oay5meHhrLmRlZHluLmlv%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#By AghaDani
 vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@alaFI.marzban-locations.com:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#By AghaDani
 vless://1137420d-071c-466d-bd2d-92931688eafd@snapp.ir:80?path=%2F&security=none&encryption=none&host=out3.v-duravex.ir&type=ws#By AghaDani
-vless://41e55ec5-ef82-4787-b9c6-9acb9f680843@92.246.138.69:443?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://accbbaa-abca-baac-cbad-cabbccbaacab@127.0.0.1:1080?security=tls&type=tcp#By AghaDani
 vless://e996abc7-cff3-4d9f-a9dc-0d717048a345@t.avrilon.us:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.W3jtn31noFtT345Wnc8qHneslfsv5jHyqQ9Vpx-TBTw&pbk=wn5rNzAvTsOpmc6hHkw_woqwYGkFml8Uv2Klx9iydXI&headerType=none&fp=chrome&spx=%2Fa3fb14fd6e302be&type=tcp&flow=xtls-rprx-vision&sni=android.com&sid=da7004e7e7a2de#By AghaDani
 vless://@V2rayAMVip%3ATurboConfigs@217.179.5.62:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
