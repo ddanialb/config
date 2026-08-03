@@ -1,3 +1,6 @@
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#By AghaDani
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#By AghaDani
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi#By AghaDani
 vless://8c3578fe-cbaa-46eb-a20f-c834d65d9663@194.87.30.92:16739?encryption=none&security=none&type=ws&path=%2F#By AghaDani
 vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50053?encryption=none&security=reality&sni=rubr7.cheburnetnastalgia1998.com&pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&sid=eb3b7e6bbc66552e&type=grpc#By AghaDani
 vless://29ca503d-e6b8-4509-b666-48133f450857@172.66.44.97:443?encryption=none&security=tls&sni=learn00.evany.de5.net&insecure=0&allowInsecure=0&type=ws&host=learn00.evany.de5.net&path=%2Fsg-melbi#By AghaDani
@@ -795,6 +798,3 @@ vless://995381aa-7249-41ae-b0b2-8a5c34e952c9@184.tradeip.store:443?security=real
 vless://b655d952-b8d5-4d2b-b9df-460025e7968c@184.tradeip.store:443?security=reality&encryption=none&pbk=aJZZHw8BiVQMsFDsMrujF5ah2uH2FOfXd_YhjmbiyCA&headerType=none&fp=chrome&spx=%2Fe8e93b8e8083858&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=49#By AghaDani
 vless://9bf81377-d077-4569-9fc9-5f0a55180651@104.18.36.122:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=&encryption=none&host=super-feather-91c4.267.workers.dev&type=ws#By AghaDani
 vless://8c38a4be-2133-4066-96ab-201217946bbc@104.21.4.6:443?security=tls&sni=tr-full.privateip.net&type=ws&host=tr-full.privateip.net&path=%2FVLESS&fp=random&alpn=h2,http/1.1#By AghaDani
-ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.19.48.128:443#By AghaDani
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@cf.levikogjgfdd.ir:443?encryption=none&security=tls&sni=shegeftihaaa.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#By AghaDani
-vless://14957d5b-523a-44ad-928d-166eaa5fc90d@217.11.164.92:37194?headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#By AghaDani
