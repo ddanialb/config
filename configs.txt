@@ -1,3 +1,12 @@
+vless://5ed08f43-dde2-4762-9ca5-2662e9d8b51f@172.64.50.127:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
+vless://c9933799-5c03-4818-a60e-b2dac2b731fe@172.67.240.238:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
+vless://5ed08f43-dde2-4762-9ca5-2662e9d8b51f@198.41.217.64:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
+vless://c9933799-5c03-4818-a60e-b2dac2b731fe@172.64.50.127:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
+vless://5ed08f43-dde2-4762-9ca5-2662e9d8b51f@172.67.240.238:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
+vless://c9933799-5c03-4818-a60e-b2dac2b731fe@173.245.59.84:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
+vless://5ed08f43-dde2-4762-9ca5-2662e9d8b51f@190.93.246.57:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
+vless://c9933799-5c03-4818-a60e-b2dac2b731fe@162.159.147.159:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
+vless://5ed08f43-dde2-4762-9ca5-2662e9d8b51f@173.245.59.84:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
 vless://c9933799-5c03-4818-a60e-b2dac2b731fe@198.41.214.104:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.160.81:62145?#By AghaDani
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.235.130:62145?#By AghaDani
@@ -789,12 +798,3 @@ trojan://Telegram_healer_config@172.67.132.19:443?path=%2Ftr%2FbDodLFtTQwCZ6EX3f
 trojan://humanity@104.18.152.219:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 vless://0b2f0dd1-248a-4f3c-b125-6609c52e98ba@www.parsvds.ir:8080?type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed=8080&security=none#By AghaDani
 vless://564397f8-4805-4433-ab5b-a24aa133bac2@hub.oneoknews.com:443?mode=gun&security=reality&encryption=none&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&type=grpc&serviceName=api.v1.StreamService&sni=hub.oneoknews.com&sid=064c2d37308aeeb6#By AghaDani
-vless://06ceb304-69b9-4e8a-b7f0-54ff3596ba1d@5.75.196.249:8080?mode=auto&path=%2Fpath&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=hYLvEGoxIMNpQkqxVJt298bBGE1Tz8dhtXGsPsLznj0&host=hostname&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=2acf8977eb67ea0c#By AghaDani
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.66.177:2087?security=tls&sni=698Aa4AA.Swz-UUz-316.PageS.Dev&type=ws&host=698aa4aA.SwZ-uuz-316.pagEs.deV&path=%2FlUC4Ru4KdZZim5l9%2FNS40Mi43NS4xODM%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#By AghaDani
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#By AghaDani
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#By AghaDani
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi#By AghaDani
-vless://8c3578fe-cbaa-46eb-a20f-c834d65d9663@194.87.30.92:16739?encryption=none&security=none&type=ws&path=%2F#By AghaDani
-vless://e6acf17c-b19c-45ee-afda-373ba72795ce@217.149.30.124:50053?encryption=none&security=reality&sni=rubr7.cheburnetnastalgia1998.com&pbk=X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0&sid=eb3b7e6bbc66552e&type=grpc#By AghaDani
-vless://29ca503d-e6b8-4509-b666-48133f450857@172.66.44.97:443?encryption=none&security=tls&sni=learn00.evany.de5.net&insecure=0&allowInsecure=0&type=ws&host=learn00.evany.de5.net&path=%2Fsg-melbi#By AghaDani
-vless://7cea2b9e-bf67-4fd7-9fe5-9461a089230f@51.250.111.183:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=firefox&pbk=ONSC3Bp5U0cjkMca7bXlUI16izIeN0fJKoCjEdn64RQ&sid=2bb326a463fd1937&spx=%2Fmaps%2F&type=tcp&headerType=none#By AghaDani
