@@ -1,3 +1,6 @@
+vless://c9933799-5c03-4818-a60e-b2dac2b731fe@162.159.147.159:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
+vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.211:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&sid=113241ad01e99a2d&allowinsecure=0&type=tcp&headerType=none#By AghaDani
+vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@207.2.123.28:443?security=reality&encryption=none&pbk=zb1esVBjrdlitl7Z_YkRi44kC0NXVvF5U17LAXW6fDQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sa.ch-moltisanti.ru&sid=825d392c67e4#By AghaDani
 vless://5ed08f43-dde2-4762-9ca5-2662e9d8b51f@172.64.50.127:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
 vless://c9933799-5c03-4818-a60e-b2dac2b731fe@172.67.240.238:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
 vless://5ed08f43-dde2-4762-9ca5-2662e9d8b51f@198.41.217.64:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
@@ -5,7 +8,6 @@ vless://c9933799-5c03-4818-a60e-b2dac2b731fe@172.64.50.127:80?security=none&type
 vless://5ed08f43-dde2-4762-9ca5-2662e9d8b51f@172.67.240.238:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
 vless://c9933799-5c03-4818-a60e-b2dac2b731fe@173.245.59.84:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
 vless://5ed08f43-dde2-4762-9ca5-2662e9d8b51f@190.93.246.57:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
-vless://c9933799-5c03-4818-a60e-b2dac2b731fe@162.159.147.159:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
 vless://5ed08f43-dde2-4762-9ca5-2662e9d8b51f@173.245.59.84:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
 vless://c9933799-5c03-4818-a60e-b2dac2b731fe@198.41.214.104:80?security=none&type=ws&path=%2Fsecure-vpn%2F&host=ppp.19bot.ir#By AghaDani
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.160.81:62145?#By AghaDani
@@ -309,7 +311,6 @@ ss://MTk4ZDkxYmYtYjIzOS00NTg4LWFjMTktNzBiMzk4MDAzZTBjOg==@selincchanelselinc.jdy
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@2.27.27.64:443?security=reality&encryption=none&pbk=qBtxq4RZxDLCJT8i48iaGMhacv8MOI0yhIFiuwYJm08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.musicwave.net&sid=825d392c67e4#By AghaDani
 vless://225e88f5-b289-42b8-9064-b7e51f241228@104.21.69.44:2096?security=tls&sni=Iran.harchi.monster&type=grpc&serviceName=Qqwetyioodaoajskxj&fp=chrome&alpn=http/1.1#By AghaDani
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&host=Telegram%2Bid%3A%2B@V2raySeven&path=%2Fhttp#By AghaDani
-vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@207.2.123.28:443?security=reality&encryption=none&pbk=zb1esVBjrdlitl7Z_YkRi44kC0NXVvF5U17LAXW6fDQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sa.ch-moltisanti.ru&sid=825d392c67e4#By AghaDani
 vless://862619ff-2139-45fd-8413-af83f98e2880@85.234.69.159:8443?encryption=none&fp=safari&pbk=88P7fof76Zu9GEd2AVdy1_wuEXDNjSR8nvTqLfxdp0Q&security=reality&sid=07&sni=icloud.com&spx=%2F466a0f71be07a9e&type=tcp#By AghaDani
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.210.185:443?security=tls&sni=zdye.kpcloud.eu.org&type=ws&path=%2F%3Fproxyip#By AghaDani
 vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@185.65.202.156:443?security=reality&encryption=none&pbk=gtKMi9Q9ZMYxe-ZvzmbpPI-uE6YcFM84xYSw7bpKF3w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ger.leontunel.ru&sid=52c579ed2ce06c26#By AghaDani
@@ -797,4 +798,3 @@ vless://25934f65-801b-13d4-3246-55258dee8fd3@69.46.46.120:443?path=%2Fws%2F25934
 trojan://Telegram_healer_config@172.67.132.19:443?path=%2Ftr%2FbDodLFtTQwCZ6EX3ffMYJ06j9EjLse4d%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=VRE6R9qRbQI0t25TG.SRTB0M3hdbwr2cJZ8fjUr.WoRKeRS.dev#By AghaDani
 trojan://humanity@104.18.152.219:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 vless://0b2f0dd1-248a-4f3c-b125-6609c52e98ba@www.parsvds.ir:8080?type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed=8080&security=none#By AghaDani
-vless://564397f8-4805-4433-ab5b-a24aa133bac2@hub.oneoknews.com:443?mode=gun&security=reality&encryption=none&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&type=grpc&serviceName=api.v1.StreamService&sni=hub.oneoknews.com&sid=064c2d37308aeeb6#By AghaDani
