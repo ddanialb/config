@@ -1,3 +1,8 @@
+vless://ccd1c444-4812-4e11-aed1-99d3678b0b63@62.238.49.122:41982?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.140.10:22224?encryption=none&security=none&type=tcp#By AghaDani
+ss://YWVzLTI1Ni1nY206TURBeFpEVTVNV1ZpT0RCak5qbGhNVE5sWm1Fek0yUTJZbVk1TVRneA@37.32.25.196:11116#By AghaDani
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.183.113:443?security=tls&sni=71Fc1633.4646XHf5DxHxhx56Tfk4fxj46.pAgEs.dEv&type=ws&host=71fc1633.4646XhF5DXhxHX56TfK4Fxj46.PAgEs.dev&path=%2FtMi1DZPYHLK66bAG%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#By AghaDani
+vless://bcb45340-d47e-4b8b-9b00-0b050c59a1cf@188.245.84.166:38937?security=none&type=tcp&host=fast.com&headerType=http#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?security=&encryption=none&type=grpc#By AghaDani
 vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@94.130.179.44:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.160.74:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
@@ -793,8 +798,3 @@ trojan://938a1fb2b751d876bb4c8d3ba706054f@179.237.75.177:17373?security=none&hos
 trojan://MiTiVPN@151.101.56.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fgb---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=s1-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#By AghaDani
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
 vless://fdb9af65-c7eb-4b9c-853f-1a5d7dd043cc@newtun.soundfiy.ir:27194?headerType=none&encryption=none&host=myket.ir&security=none&type=#By AghaDani
-vless://e10fe1ba-e2af-4d34-94b7-05dfa9f71232@209.97.141.81:22721?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#By AghaDani
-vless://d1e3c253-7d5e-4bd5-9f16-52787a63bb65@206.81.21.46:23519?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#By AghaDani
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.exodnsdir.xyz:8880?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
-vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&encryption=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&headerType=none&type=tcp&sni=deepl.com&sid=aae8#By AghaDani
-vless://1aa1b792-e3ca-4264-85b0-b0e629e00485@165.22.125.200:35252?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#By AghaDani
