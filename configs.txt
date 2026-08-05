@@ -1,3 +1,11 @@
+vless://644d823f-3132-434a-8d25-7e9512d7e3a7@Gb.Sav-savteAm.iR:2015?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=chrome&pbk=x0CFoVxzz6ruK2614K5uIamz6R08CikYkTSHZAJgIi4&sid=fc02d45bd592b576#By AghaDani
+vless://644d823f-3132-434a-8d25-7e9512d7e3a7@FI.Sav-savteAm.iR:2014?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
+vless://644d823f-3132-434a-8d25-7e9512d7e3a7@Es.Sav-savteAm.iR:2013?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
+vless://644d823f-3132-434a-8d25-7e9512d7e3a7@Dk.Sav-savteAm.iR:2012?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
+vless://644d823f-3132-434a-8d25-7e9512d7e3a7@Cz.Sav-savteAm.iR:2011?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
+vless://644d823f-3132-434a-8d25-7e9512d7e3a7@Ch.Sav-savteAm.iR:2010?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
+vless://644d823f-3132-434a-8d25-7e9512d7e3a7@Ca.Sav-savteAm.iR:2009?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
+vless://644d823f-3132-434a-8d25-7e9512d7e3a7@Be.Sav-savteAm.iR:2008?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://644d823f-3132-434a-8d25-7e9512d7e3a7@At.Sav-savteAm.iR:2007?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://644d823f-3132-434a-8d25-7e9512d7e3a7@Fr.Sav-savteAm.iR:2006?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://644d823f-3132-434a-8d25-7e9512d7e3a7@GERy.Sav-savteAm.iR:2005?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
@@ -11,13 +19,8 @@ vless://8a96fe10-75ce-43bf-a9e4-bf34cf9cbe79@104.16.72.251:2083?mode=auto&path=%
 vless://b7aaffba-a242-4064-a076-79cde879441d@cartoon.shop.arayeshimohammadi.ir:443?ech=AHT%2BDQBwAAAgACA5uD0SvzLE8Ck%2FbTTTBegl6kBIWhTx4CuQwdxrlMzXBAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADACFjYXJ0b29uLnNob3AuYXJheWVzaGltb2hhbW1hZGkuaXIAAA%3D%3D&insecure=0&allowInsecure=0&type=tcp&headerType=none&sni=cartoon.shop.arayeshimohammadi.ir&encryption=mlkem768x25519plus.native.0rtt.Nx17lZbxJdkKHeyK-0tu3qziyc9QIRofQlq_BrzO0yg&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome#By AghaDani
 vless://644d823f-3132-434a-8d25-7e9512d7e3a7@104.17.108.65:8080?security=none&type=xhttp&headerType=&path=%2Fsav533%3Fed%3D2560&host=FAlkoraz.Sav-Savteam.iR.&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.59.68:22222?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://644d823f-3132-434a-8d25-7e9512d7e3a7@Dk.Sav-savteAm.iR:2012?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
-vless://644d823f-3132-434a-8d25-7e9512d7e3a7@Cz.Sav-savteAm.iR:2011?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
-vless://644d823f-3132-434a-8d25-7e9512d7e3a7@Ch.Sav-savteAm.iR:2010?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.199.93:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#By AghaDani
-vless://644d823f-3132-434a-8d25-7e9512d7e3a7@Ca.Sav-savteAm.iR:2009?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://42632980-9f42-4762-a313-a31e8ec88da4@77.42.125.134:1234?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
-vless://644d823f-3132-434a-8d25-7e9512d7e3a7@Be.Sav-savteAm.iR:2008?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://76b3cbba-e6ac-485a-9481-336a0415eab9@104.21.8.174:443?security=tls&sni=oLd-Disk-eFcd.JOjAhoF109.WorkErs.DEV&type=ws&host=Old-DISK-eFcD.jOJAhoF109.WOrkeRS.dev&fp=chrome&alpn=h2,http/1.1#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#By AghaDani
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.60.158.252:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#By AghaDani
@@ -795,6 +798,3 @@ trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#By AghaDani
 vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ikxldmlrb0NvbmZpZyIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9MZXZpa29Db25maWciLCJwb3J0IjoiNDQzIiwicHMiOiJCeSBBZ2hhRGFuaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJhZGQiOiJkcmJrZzE2ZWdmM2Z6bG0zLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJEckJLZzE2ZUdmM0ZabE0zLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IkJ5IEFnaGFEYW5pIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoiRHJCS2cxNmVHZjNGWmxNMy52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-vless://33918b20-9e02-4dc6-8b30-79b2d4b2e0e6@104.21.22.180:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2FeyJqdW5rIjoiUjJBU3JkVlRwSWtnciIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=aUto-scaLe-238B2B.inFra-coRE-1630dD.WorKerS.DeV&fp=chrome&type=ws&allowInsecure=0&sni=aUTo-sCALe-238B2B.infRa-CorE-1630dd.wORKerS.DEv#By AghaDani
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=none&encryption=none&type=ws#By AghaDani
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=/J5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#By AghaDani
