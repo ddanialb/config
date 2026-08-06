@@ -1,3 +1,4 @@
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.120.131:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
 vless://56b2c1c7-a36b-4ad3-b10f-1e0a92d36188@104.18.22.19:443?security=tls&sni=api7.htve.ir&type=ws&host=api7.htve.ir&path=/&fp=chrome&alpn=h2,http/1.1#By AghaDani
 vless://2be6f889-c83b-4e9b-af1f-8af71d4960ef@62.60.147.44:2002?security=none&type=tcp&host=speedtest.net&headerType=http#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.177.236:50099#By AghaDani
@@ -26,7 +27,6 @@ trojan://auto@172.66.44.249:443?allowInsecure=0&sni=fe9b5676-a2aa-4b6a-8257-cd2d
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.60.245:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.179.115:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.10.139:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.120.131:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
 vless://75fafb2b-91da-43b6-9c10-6e0e6d82c16e@46.8.78.175:10691?security=reality&encryption=none&pbk=XOmolI8aGolTsoUKZ3jSvvV3lmmxGAxOA27mO339QCM&headerType=none&fp=chrome&spx=%2F01d3b435ea4b0e0&type=tcp&sni=stg-eu-images.shop.samsung.com&sid=bd011089#By AghaDani
 vless://ea1c5e6c-4c03-4e8b-9c8b-cee6e50ba8ac@107.189.22.49:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=MmOHgwoJG-k3b7uWc33b64croB1KF68oQDrllKGJdT8&fp=chrome&spx=%2Ft4owydc0eeLGoYA&type=xhttp&sni=www.intel.com&sid=e1e6c5#By AghaDani
 vless://b927294d-b137-45ff-ac76-86d774a15c0a@159.223.108.208:443?type=tcp&security=reality&pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&fp=chrome&sni=zula.ir&sid=f394b7d3&spx=/&flow=xtls-rprx-vision#By AghaDani
