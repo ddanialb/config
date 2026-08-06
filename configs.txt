@@ -1,3 +1,7 @@
+vless://c1e9ef07-430a-4cc2-bb03-5b7dd48102d8@104.21.61.100:443?security=tls&sni=mahdiserver.ilicema.workers.dev&type=ws&host=mahdiserver.ilicema.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#By AghaDani
+vless://22b3cbba-e6ac-485a-9321-976a0415eab7@104.21.5.57:80?security=none&type=ws&host=FaLLinG-MEaDOw-2cAa.jEPOGO9305.workERs.Dev#By AghaDani
+trojan://-YZ7Suz3ZpIJjXIJobWrqw@172.67.163.61:80?allowInsecure=0&ws=1&wspath=%2Fshop#By AghaDani
+vless://65e6db84-d50f-4de9-a916-02148a71a22b@104.21.40.59:80?security=none&type=ws&host=ftp.debian.org.www.speedtest.net.ncba.ir.&path=%2F%3Fed%3D2048#By AghaDani
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.129.48:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#By AghaDani
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICIxMDQuMjEuNjkuNDQiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjdiMzA4NzU1LTExMzUtNGZlZC04MjhmLThlNDhjYTE2MDNhZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvNm1Id3FsMUhTU1Y1Rk9aZTBVVjFCWXZ1USIsICJob3N0IjogImExLndvbGYtc2hvcC5pciIsICJ0bHMiOiAidGxzIn0=#By AghaDani
 vless://VIPTelegramVIPConfigs@217.179.5.62:443?securitynone&encryption=none&host=play.google.com&hegsbcqsobaderType=http&type=tcp#By AghaDani
@@ -794,7 +798,3 @@ trojan://ND91608427@3.68.79.32:443?sni=large-baboon.rooster465.autos&type=tcp&fp
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#By AghaDani
 vless://a3d0ae99-b694-45b5-842d-25e7c33515d0@49.12.100.150:47467?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.174:443?mode=auto&path=/api/v1/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=deu683.lackerdeu.org#By AghaDani
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=Amphetamine.aDaspoloandco.com&type=ws&allowInsecure=0&sni=Amphetamine.aDaspoloandco.com#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmZBS1J0azh3Smk4ZkZ1@104.46.88.136:443#By AghaDani
-trojan://ND91608427@skilled-lioness.rooster465.autos:443?sni=skilled-lioness.rooster465.autos&type=raw&fp=chrome#By AghaDani
-trojan://ND91608427@13.36.175.151:443?security=tls&sni=classic-gator.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#By AghaDani
