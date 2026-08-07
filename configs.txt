@@ -1,3 +1,4 @@
+vless://67cb031f-e54e-47b3-81ca-3c5ca38e10d5@66.151.41.76:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.samsung.com&pbk=EyWGdhvMFTPHu-nnYll5dJsfBhfpO8gOcPRYj_eEZl4&sid=b1e6#By AghaDani
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443/?insecure=1&sni=vpn-us-002.fastervpn.world#By AghaDani
 vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&security=reality&sid=59625eb3275249ca&sni=www.tesla.com&type=tcp#By AghaDani
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.7.19:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
@@ -797,4 +798,3 @@ vless://0169fc3b-8462-4dc7-bfbd-b09c4451d78c@91.107.252.170:443?headerType=http&
 vless://90235096-9296-3d36-c77c-715577598fd5@8.222.185.236:443?encryption=none&security=tls&sni=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=l.m.j.u.w.9.y.i.m.y.s.8.p.y.us.art-us.kdns.fr&path=%2Fglasspanel%2F0038ba35_0_1bdabe931208%2F#By AghaDani
 vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:8443?encryption=none&type=grpc&security=reality&serviceName=TunService&mode=gun&sni=dl.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8#By AghaDani
 vless://b9c4f23e-5ab8-4bad-b31a-5b2eebce4e31@media.cdkshop.ir:443?encryption=none&fp=chrome&pbk=SJdAKRmq9WVXSd1T92Nbk-JftCM7JZMNpBaNCnhLYjk&security=reality&sid=6b16ee683359&sni=pwa.snapptrip.com&spx=%2Fc018f773a68a82e&type=tcp#By AghaDani
-vless://XpnTeam-11@140.248.186.45:443?encryption=none&type=ws&security=tls&path=%2F&host=Appxdn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
