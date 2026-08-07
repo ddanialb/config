@@ -1,3 +1,4 @@
+vless://413ce54e-f38c-8d82-6bca-abd345865b1b@185.171.202.229:8443?security=reality&sid=f49da53c&sni=icloud.com&host=play.google.com&mode=auto&type=xhttp&fp=firefox&pbk=xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI&spx=%2F&encryption=none#By AghaDani
 vless://2f178743-d95e-4817-9e37-df0f22e6dcb8@3x-ui-production-4ad3.up.railway.app:443?path=%2Fin1&security=tls&encryption=none&insecure=0&host=3x-ui-production-4ad3.up.railway.app&type=ws&allowInsecure=0&sni=3x-ui-production-4ad3.up.railway.app#By AghaDani
 vless://4f4f65b0-62c4-46fe-9322-31339703ae5f@aszx.dearhossein-taktaz.ir:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&sni=aszx.dearhossein-taktaz.ir#By AghaDani
 vless://2f178743-d95e-4817-9e37-df0f22e6dcb8@centerbeam.proxy.rlwy.net:33490?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
@@ -797,4 +798,3 @@ vless://XpnTeam-11@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encr
 trojan://MITIVPN@104.19.229.21:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde2---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http/1.1&host=De2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&fp=chrome&type=ws&sni=Ddee2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#By AghaDani
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@support.zoom.us:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&allowinsecure=0&type=ws&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#By AghaDani
 vless://c47b7032-5184-4034-9a81-346c35c61fc5@alma.lorqina.ir:2095?path=%2F&security=&encryption=none&host=alm.lorqina.ir&type=httpupgrade#By AghaDani
-vless://d7ec3e31-a9c4-4bdf-a2d8-7f75a8381035@cf.levikogjgfdd.ir:8880?path=%2F&security=&encryption=none&host=weathered-lake-e883.35-bc4.workers.dev&type=ws#By AghaDani
