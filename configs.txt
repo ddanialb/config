@@ -1,3 +1,4 @@
+vless://832e0199-9614-4d74-a7ba-1dca5453dab5@204.168.196.173:6985?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://476be63b-4537-4b05-91b8-066c5e5833e4@45.39.230.145:32509?security=reality&encryption=none&pbk=IenQk4fZZepVAEZpqXO-RHOyXH9JrsAEm-fRsBgOFQk&headerType=none&fp=chrome&spx=%2F611cef0c404be30&type=tcp&sni=aws-us-west-2.amazon.com&sid=2194495d#By AghaDani
 vless://476be63b-4537-4b05-91b8-066c5e5833e4@45.39.230.145:45828?security=reality&encryption=none&pbk=IenQk4fZZepVAEZpqXO-RHOyXH9JrsAEm-fRsBgOFQk&headerType=none&fp=chrome&spx=%2F611cef0c404be30&type=tcp&sni=amazonaws-china.com&sid=8d240c7c9d405dc4#By AghaDani
 vless://f692629b-3557-488a-9c9b-60775331e423@89.125.13.53:443?encryption=none&security=reality&sni=fi1-cosmostechnology.ru&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=fi1cosmos#By AghaDani
@@ -42,7 +43,6 @@ vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?mode=gun&security
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&encryption=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&headerType=none&type=tcp&sni=deepl.com&sid=aae8#By AghaDani
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Mi42Ny4xNzEuNDMiLCAicG9ydCI6IDgwLCAiaWQiOiAiYjc5YTY5NTktNmZlYi00M2JhLWIzYzctZjFhZmFlOWVhMzJjIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJVazIudm1lc3Muc2l0ZS4iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0ifQ==#By AghaDani
 vless://VIPTelegramVIPConfigs@217.179.5.62:443?securitynone&encryption=none&host=play.google.com&hegsbcqsobaderType=http&type=tcp#By AghaDani
-vless://832e0199-9614-4d74-a7ba-1dca5453dab5@204.168.196.173:6985?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#By AghaDani
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#By AghaDani
 vless://a4635959-0692-424d-bca1-d746efb648c1@209.97.139.142:28292?encryption=none&type=tcp&headerType=http&host=play.google.com#By AghaDani
 vless://7afcb514-a11f-453b-92fa-a3500a1190f9@188.114.96.3:80?security=none&type=ws&host=1.www.speedtest.net.zula.ir.zemestanil.ir&path=%2FProxy-MTM%3Fed%3D2048#By AghaDani
