@@ -1,3 +1,4 @@
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=download.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ#By AghaDani
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#By AghaDani
 vless://f04c31f7-cfab-4824-d167-4137d836ea82@i3.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://9b129a48-a1a5-4966-a6ce-13ca7c28b268@chatgpt.com:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ca.roomode.ir&fp=chrome&type=ws&allowInsecure=0&sni=ca.roomode.ir#By AghaDani
@@ -797,4 +798,3 @@ vless://7820b416-612b-4802-bfb3-665cf6a0f0b1@66.33.22.220:30721?security=reality
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#By AghaDani
 vless://0432902e-6604-40cd-bbd0-57ab4e5d909f@www.speedtest.net:443?path=%2FeyJqdW5rIjoiOENNZnB6WTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=bpb-4dc4958b.hxjkcghchv.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=bPB-4dc4958B.hXjkcgHcHv.woRkeRs.deV#By AghaDani
 vless://a710943d-2c99-4505-a85f-c60407ea1db3@172.67.129.87:2087?security=tls&sni=cdn.vipafi.pw&type=grpc&serviceName=A1etZhWDg6fnoBzK8ZT&alpn=h2#By AghaDani
-vless://b4469373-b425-4902-80d4-a00e00ada7de@91.124.63.210:50303?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#By AghaDani
