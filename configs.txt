@@ -1,3 +1,5 @@
+vless://92868492-9572-47fa-946c-9e44edeb62ec@172.247.109.66:443?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=PRLqQ27t_SqA759-vyfr1OMgcawB5sqUsUdyyEldXTs&sid=abcd1234&type=tcp&path=/#By AghaDani
+vless://caacbab-aacb-baac-adbc-bcbbacacacab@127.0.0.1:1080?security=tls&type=tcp#By AghaDani
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#By AghaDani
 vless://f04c31f7-cfab-4824-d167-4137d836ea82@i3.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#By AghaDani
@@ -68,7 +70,6 @@ vmess://eyJhZGQiOiAiMTcyLjY3LjE2MS43NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#By AghaDani
 vmess://eyJhZGQiOiAiMTA0LjIxLjE1LjM2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWI6ICLwn4eo8J+HpjEzODEyNCB8IOKaoe+4j1RlbGVncmFtID0gdC5tZS9TT1NrZXlORVQifQ==#By AghaDani
 vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@185.146.173.108:80?security=none&type=ws&host=2.fruitsstore.ir&path=%2F#By AghaDani
-vless://caacbab-aacb-baac-adbc-bcbbacacacab@127.0.0.1:1080?security=tls&type=tcp#By AghaDani
 vless://7afcb514-a11f-453b-92fa-a3500a1190f9@188.114.96.3:80?security=none&type=ws&host=1.www.speedtest.net.zula.ir.zemestanil.ir&path=%2FProxy-MTM%3Fed%3D2048#By AghaDani
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&fp=chrome&type=xhttp#By AghaDani
 vless://a3eb4c35-c1df-4448-968c-f6229cba9de0@probabblynot.fazelextremeisreal.com:29870?security=reality&encryption=none&pbk=cWrLzTqWRYMQq8vsgN7rHtUxrDdqxDLNEWAuo_eXlRU&headerType=none&fp=chrome&spx=%2FThCIJ6AlpUdv5Oh&type=tcp&sni=www.refersion.com&sid=821863f0#By AghaDani
@@ -797,4 +798,3 @@ vless://8c7ac0ea-b1e4-4c20-bc16-1437559f3ac4@sa-9fdd21f7cb2e0b19.sr-02cb4fee0c09
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.240.40:22222?encryption=none&security=none&type=tcp#By AghaDani
 vless://888193f6-6818-42f4-b223-64c9fd323b76@cd3.postshup.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=SsopsSyois.6.postshup.ir&type=httpupgrade#By AghaDani
 vless://888193f6-6818-42f4-b223-64c9fd323b76@cd3.postshup.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=gvjlxfhgj.1.use.postshup.ir&type=httpupgrade#By AghaDani
-vless://888193f6-6818-42f4-b223-64c9fd323b76@45.80.111.1:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=eEhdfhhgln.5.postshup.ir&type=httpupgrade#By AghaDani
