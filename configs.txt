@@ -1,3 +1,4 @@
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:993?security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.dell.com#By AghaDani
 vless://4038f946-bd95-5505-a111-196c05d6d92f@92.42.96.240:443?path=%2F&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#By AghaDani
 vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@85.155.101.37:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com#By AghaDani
 vless://10e2817c-9a84-4c42-9eff-a8cfd6ec9283@yt.nl.xanka.best:2761?security=reality&alpn=http%2F1.1&encryption=none&pbk=d9ncsYIjJIiCaqLszDyLhZoZ9-XMYYhBrlHUyuHFxQo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl.xanka.best&sid=a4e1fd84#By AghaDani
@@ -408,7 +409,6 @@ vless://c557cadc-0ca5-46e8-89f6-bec11efe376a@check-host.net:80?path=/Proxy-MTM?e
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.248.121.249:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#By AghaDani
 vless://eec0b5ba-5ebf-43a8-9671-c27c4552ca8b@[2001:41d0:304:300::5b56]:9124?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#By AghaDani
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?mode=gun&security=reality&encryption=none&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&fp=chrome&type=grpc&serviceName=TunService&sni=www.epson.com#By AghaDani
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:993?security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.dell.com#By AghaDani
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?mode=gun&security=reality&encryption=none&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#By AghaDani
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:993?security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.kaspersky.com#By AghaDani
 vless://0a2417ed-bf70-48a7-a35d-4b4df5954783@167.99.245.134:20846?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
