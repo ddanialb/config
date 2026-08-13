@@ -1,3 +1,5 @@
+vless://6beb2935-59a8-7933-151b-5739bd2e2870@69.46.46.16:443?path=%2Fws%2F6beb2935-59a8-7933-151b-5739bd2e2870&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-b6ac.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-b6ac.up.railway.app#By AghaDani
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.168.47.50:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime40.workers.dev&packetEncoding=xudp&encryption=none#By AghaDani
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@130.78.216.194:443?encryption=none&type=tcp&security=reality&headerType=none&sni=calm-panther.cdn.cachefleet.com&fp=random&insecure=1&allowInsecure=1&pbk=X44VAj_y9MabQeF7ZgssR57zaf2Rx5bX--BJ-U9wQ2o&flow=xtls-rprx-vision#By AghaDani
 vless://8787dd0a-095a-414e-804f-a7d16a1ae166@138.124.244.77:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=fi1.hys.braidx.tech&fp=firefox&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#By AghaDani
 trojan://humanity@104.16.72.50:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#By AghaDani
@@ -564,7 +566,6 @@ vless://f7181eb1-ace8-4f23-a825-f19c02086fba@altaria.proxy.rlwy.net:57141?type=t
 vless://f7181eb1-ace8-4f23-a825-f19c02086fba@hayabusa.proxy.rlwy.net:47311?type=tcp&encryption=none&security=reality&pbk=qIl0YxgMnDxg83jPq0VTJngbtHEYFX8j14ITAwN5A3o&fp=firefox&sni=ai.android&sid=e5bb62cdd720&spx=/yT3l12HsgEui61M#By AghaDani
 vless://03fd9b0d-5212-4d54-8b2a-9f7cd35592e9@az.awextr.ir:2095?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.Mx0f1kLg9E0uQfA79cfhs8n6akrAp8vej3lxYml4aDU&pbk=UXhVDyALV2nO_eOoB0AMneCi3RWZwOs98rklVahi4Es&host=token.safebrowsing.apple&fp=qq&type=xhttp&sni=play.googleapis.com&sid=51175528867ebe95#By AghaDani
 vless://03fd9b0d-5212-4d54-8b2a-9f7cd35592e9@site1.awexaiooo.shop:2020?security=reality&encryption=mlkem768x25519plus.native.0rtt.3mjd2WKbtUjfzkJO2SMVeOLyDFUE0bMH5T_R5H_YCV0&pbk=OyYgPJuSFg1qNrYLBRLZpiqxUVkiEP19FCZq6hJtBTs&headerType=none&fp=qq&type=tcp&sni=play.googleapis.com&sid=6ca6fedb30b640a3#By AghaDani
-vless://6beb2935-59a8-7933-151b-5739bd2e2870@69.46.46.16:443?path=%2Fws%2F6beb2935-59a8-7933-151b-5739bd2e2870&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-b6ac.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-b6ac.up.railway.app#By AghaDani
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 ss://YWVzLTI1Ni1nY206UGNPRTUybHlHTzZNRlJtNi9tNWhmdUMzTnBOb2NrRHZjbk5ZZ3ExOE5pND0@79.175.134.49:39880#By AghaDani
 vmess://eyJhZGQiOiI2NS4xMDkuMTc4LjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY2MzYxYWY4LWJiOGYtNDYwOS1iZjVkLTNmYzBmNjg4ZjQ3YiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NiIsInBzIjoiQnkgQWdoYURhbmkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
@@ -797,4 +798,3 @@ vless://4ff92e16-b3d4-411b-a1b6-88f0f94608cb@#By AghaDani
 trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=%2F%3Fed&sni=epge.muarua.filegear-sg.me&type=ws#By AghaDani
 vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?encryption=none&fp=&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&security=reality&sid=5030&sni=status.play.google.com&type=tcp#By AghaDani
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@164.37.105.2:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lE6w45X8Bwb0HscO6Wa5wnN0qlw7wUuaCW8-iYL5HAQ&security=reality&sid=bc609efa3b2d052f&sni=pnnsh.falsemirrov.com&type=tcp#By AghaDani
-trojan://AE62539071@dashing-bedbug.rooster465.autos:443#By AghaDani
