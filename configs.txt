@@ -1,3 +1,5 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.168.47.50:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime40.workers.dev&packetEncoding=xudp&encryption=none#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpudHhiMWpIZ1lsQ0I2Q20y@168.63.68.5:443#By AghaDani
 vless://8f74fd30-4e86-48fe-98d1-bf4ac8319c17@193.164.149.83:445?security=&encryption=none&headerType=&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388?#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388?#By AghaDani
@@ -92,7 +94,6 @@ vless://50414e45-4c5f-5a45-5553-7e971c924280@104.19.176.197:2083?encryption=none
 vless://50414e45-4c5f-5a45-5553-7e971c924280@104.19.169.41:80?path=%2Fstream%2FPANEL_ZEUS%2F7e971c924280%2Floc-0&security=&encryption=none&host=nzz29xe4ulqs.amirmajor91.workers.dev&fp=ios&type=ws&sni=nzz29xe4ulqs.amirmajor91.workers.dev#By AghaDani
 vless://50414e45-4c5f-5a45-5553-7e971c924280@104.17.150.98:2083?path=%2Fstream%2FPANEL_ZEUS%2F7e971c924280&security=tls&encryption=none&insecure=0&host=nzz29xe4ulqs.amirmajor91.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=nzz29xe4ulqs.amirmajor91.workers.dev#By AghaDani
 vless://50414e45-4c5f-5a45-5553-7e971c924280@104.19.244.192:80?path=%2Fstream%2FPANEL_ZEUS%2F7e971c924280&security=&encryption=none&host=nzz29xe4ulqs.amirmajor91.workers.dev&fp=ios&type=ws&sni=nzz29xe4ulqs.amirmajor91.workers.dev#By AghaDani
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.168.47.50:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime40.workers.dev&packetEncoding=xudp&encryption=none#By AghaDani
 vless://793ddc21-ef27-4420-aea5-f1776460d6ac@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#By AghaDani
 vless://34a2f75b-1061-4dbf-9721-78e5d3179f4e@marzban-node-production-75e8.up.railway.app:443?security=tls&type=ws&headerType=&path=%2Fvless&host=marzban-node-production-75e8.up.railway.app&sni=marzban-node-production-75e8.up.railway.app&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
 vless://61c5d0bf-b584-494b-ac41-c33cb1804515@161.35.219.251:40642?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
@@ -797,4 +798,3 @@ vless://3e3884db-b535-4398-aa44-eba5de76d2aa@sourceforge.net:80?path=%2F&securit
 vless://58a78476-b3a3-e2c0-29f9-bbd986c0283d@69.46.46.22:443?path=%2Fws%2F58a78476-b3a3-e2c0-29f9-bbd986c0283d&security=tls&alpn=http%2F1.1&encryption=none&host=rvg-production-319b.up.railway.app&fp=ios&type=ws&sni=rvg-production-319b.up.railway.app#By AghaDani
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&sni=deepl.com&sid=a8ae#By AghaDani
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@81.90.29.151:13868?security=reality&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=e852dc#By AghaDani
-vless://9748f5cf-493a-1c4e-d5e5-52c68516a652@x4g-production-c371.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-c371.up.railway.app&path=/ws/9748f5cf-493a-1c4e-d5e5-52c68516a652&sni=x4g-production-c371.up.railway.app&fp=ios&alpn=http/1.1#By AghaDani
