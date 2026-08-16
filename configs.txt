@@ -1,3 +1,5 @@
+vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@45.130.125.160:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=tesdt.arvanabr.xyz&fp=chrome&type=ws&allowInsecure=1&sni=tesdt.arvanabr.xyz#By AghaDani
+vless://3ba9dc6a-81e9-44fc-8d98-2d72c87a74ae@157.230.29.236:28890?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://a5d5983d-7561-43e9-8339-c6bdbbe7ba4d@cpanel.speedmizban.net:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=mangaarabics.com#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJMTROSkE5Ym44TVlQZ1BXR0tQM2daRHEzT2xGeGNMOQ==@1.1.1.1:1080#By AghaDani
 vless://a5d5983d-7561-43e9-8339-c6bdbbe7ba4d@cpanel.mizban-r.site:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=mangaarabics.com#By AghaDani
@@ -796,5 +798,3 @@ vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.226.177:443?security=reality
 vless://000f16e8-cc68-4951-b336-acd81996efde@45.155.71.170:50443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#By AghaDani
 vless://8033102198@159.195.40.19:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de7.fast-connect-service.site#By AghaDani
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@164.37.105.2:443?security=reality&encryption=none&pbk=lE6w45X8Bwb0HscO6Wa5wnN0qlw7wUuaCW8-iYL5HAQ&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pnnsh.falsemirrov.com&sid=bc609efa3b2d052f#By AghaDani
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
-trojan://AE62539071@tough-hermit.rooster465.autos:443#By AghaDani
