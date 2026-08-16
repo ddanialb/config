@@ -1,3 +1,5 @@
+ss://chacha20-ietf-poly1305:FD3rCuOsxOay@15.235.75.71:8388#By AghaDani
+vless://01f441ab-00e1-4865-90ca-6b2eff143506@68.183.41.47:36180?encryption=none&security=none&type=tcp&headerType=http&host=store.steampowered.com#By AghaDani
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@132.243.223.88:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fin2.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&allowinsecure=0&type=tcp&headerType=none#By AghaDani
 vmess://eyJhZGQiOiIxNzIuNjYuNDQuOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlBvbDEubE9vbE9vbG9PbE9vLkNPTS4iLCJpZCI6IjgxNzA1ZmY4LWVmZjAtNDEyYi1hMzFmLTFjNDM0YTIxODExMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9lZD0/MjA0OCIsInBvcnQiOiI4MDgwIiwicHMiOiJCeSBBZ2hhRGFuaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&security=tls&sni=ov.iran-servers.shop&fp=chrome&allowinsecure=0&type=ws&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM#By AghaDani
@@ -21,10 +23,8 @@ vless://4b44c6f1-a2a3-4179-91ed-5a9be1b708d7@freesocks.work:2052?encryption=none
 vless://291fe032-035e-490f-b361-126d850561c0@51.75.91.250:8090?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://2304dcae-f4da-4dc5-8c4d-45cc07ade79e@srv-2c5d25-4b5659-production.up.railway.app:443?encryption=none&type=ws&security=tls&path=%2Fws%2F2304dcae-f4da-4dc5-8c4d-45cc07ade79e&host=srv-2c5d25-4b5659-production.up.railway.app&sni=srv-2c5d25-4b5659-production.up.railway.app&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#By AghaDani
 vless://7595cd50-9326-48e4-a7#By AghaDani
-ss://chacha20-ietf-poly1305:FD3rCuOsxOay@15.235.75.71:8388#By AghaDani
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://4b44c6f1-a2a3-4179-91ed-5a9be1b708d7@cctvhikvision.center:2052?encryption=none&type=ws&path=%2F%40BlueKnight_net--%40BlueKnight_net&host=uwu.blueknightnet.qzz.io#By AghaDani
-vless://01f441ab-00e1-4865-90ca-6b2eff143506@68.183.41.47:36180?encryption=none&security=none&type=tcp&headerType=http&host=store.steampowered.com#By AghaDani
 hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#By AghaDani
 trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#By AghaDani
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&sni=dey.lnmarketplace.net#By AghaDani
