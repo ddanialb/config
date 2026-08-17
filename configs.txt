@@ -1,3 +1,5 @@
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.253.42.79:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=asia.cendora.ru&fp=chrome&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077#By AghaDani
 vless://5d2679fd-7320-4474-ac47-57adb5c99e66@it.zarqivo.ir:2083?mode=auto&path=%2F&security=reality&alpn=http%2F1.1&encryption=mlkem768x25519plus.native.0rtt.X7yH_rtU6iYW0wSgnikNtPO5mUpBj3kG-2CBVWxKAXs&pbk=lzAsZbFKsDtyUqGG4ShxyK5fbUuQrsoEMohG1Xg3KRM&fp=chrome&type=xhttp&sni=play.googleapis.com&sid=4994a3ebb255ebc9#By AghaDani
 vless://ee71862e-816b-4d26-97d2-f200898e385d@144.124.238.87:443?security=reality&encryption=none&pbk=RczU3DRITvFHE2I8iPI2aWMtiZpVrd21lFTNE1Mmwz8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cisco.com&sid=b7bbbeeeb367bf3a#By AghaDani
 vless://601e4ca5-df0a-43a1-97c2-0b1f5c0ae413@212.135.38.193:443?security=reality&flow=xtls-rprx-vision&pbk=LQ4cJhrzBRuRu3Nb3xUaHEBkPEJ7P5Uca5bFAbMj0is&sid=b8e2ce6fc1d12895&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=/#By AghaDani
@@ -796,5 +798,3 @@ vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?type=tcp&encryption=n
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?type=tcp&encryption=none&security=none#By AghaDani
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@141.101.115.71:8443?type=tcp&encryption=none&security=none#By AghaDani
 vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?type=tcp&encryption=none&security=none#By AghaDani
-vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@198.41.208.42:443?path=%2FV2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast--V2ngFast&security=tls&encryption=none&host=calm-base-e99e.pofokjimi.workers.dev&fp=chrome&type=ws&sni=calm-base-e99e.pofokjimi.workers.dev#By AghaDani
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?type=tcp&encryption=none&security=none#By AghaDani
