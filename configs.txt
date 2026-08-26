@@ -1,3 +1,6 @@
+vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&fp=&headerType=http&path=%2Fnaranv2ray&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&security=reality&sid=9e0fac51cc19d2&sni=play.google.com&type=tcp#By AghaDani
+vless://cdc86ade-9bc3-41eb-a7b9-879130378820@118.26.59.85:443?security=reality&encryption=none&pbk=-Ngz1wsLiTc5fP1MdkFMS2oor1jRoFLAYD8oOgybGFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=e6d2c443d8f7702a#By AghaDani
+vless://d713a25e-d96c-4755-94f4-9a0e0cd1ad68@bpb-panel-4e2c.sakwra939.workers.dev:443?path=/eyJqdW5rIjoiVndBTWp2RGsyc0g4TlgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjoiWzJhMDI6ODk4OjE0Njo2NDo6XSJ9?ed&security=tls&encryption=none&insecure=0&host=bpb-panel-4e2c.sakwra939.workers.dev&type=ws&allowInsecure=0&sni=bpb-PanEl-4e2C.SAkWra939.wORKErS.DEV#By AghaDani
 vless://5c04cce9-9bb8-4045-a326-8cb2050521f6@168.222.43.10:8443?encryption=none&security=none&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno@103.120.178.193:31348#By AghaDani
 vless://VIPTelegramVIPConfigs@217.179.5.62:443?securitynone&encryption=none&host=play.google.com&hegsbcqsobaderType=http&type=tcp#By AghaDani
@@ -795,6 +798,3 @@ vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@84.38.187.134:443?encryption=none&t
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.3.165:22223?encryption=none&security=none&type=tcp#By AghaDani
 vless://9e0683ba-adad-425d-b1ff-b700b04f5da3@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://263bae3e-f51c-4946-9c1f-2585347a3dd1@195.133.84.198:8443?encryption=none&type=tcp&security=none#By AghaDani
-vless://b91abe1a-80ca-417b-998b-2b542661c16f@77.110.108.231:8898?encryption=none&type=tcp&security=reality&headerType=none&sni=play.googleapis.com&fp=firefox&insecure=1&allowInsecure=1&pbk=y2ciDMmaLyu1U7wEG7Wi9buO91wWHnRtWfPLGjSZHC8&sid=6633e065744286#By AghaDani
-vless://658f7138-93c2-414d-a6c2-f332c94d4034@94.183.219.243:8443?mode=gun&security=reality&encryption=none&pbk=NI5Rkfn6zO_gF-UC1nuvJwu4SDakCXh3ygJOKU1EITU&type=grpc&sni=cdn.shopify.com&sid=f747a7a5793b5714#By AghaDani
-vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@ipw.ygdfw.com:443?path=%2Fws-de&security=tls&alpn=http%2F1.1&encryption=none&host=5c10p2e.freelanceriran98.ir&type=ws&sni=5c10p2e.freelanceriran98.ir#By AghaDani
