@@ -1,3 +1,7 @@
+hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?obfs-password=09p333uviv2qal0y&security=tls&sni=giftcard.gisora.ir#By AghaDani
+hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#By AghaDani
+vless://0bbe023b-0a73-4a1d-af0f-c3dd793cfa17@banko.cncoo.ir:443?encryption=none&security=tls&sni=banko.cncoo.ir&alpn=http/1.1&fp=chrome&type=ws&host=banko.cncoo.ir&path=/connect/yUdhkk0l8Fwb5sQ3bwI8FJcK&packetEncoding=xudp#By AghaDani
+vless://53ffd172-de4c-0032-aa77-1a6830a36cf8@135.106.142.209:443?encryption=none&type=xhttp&security=reality&sni=alfastat.ru&fp=edge&pbk=fz_xpZfQks3oa9c_d1OSokmTgmJuGbvFMkyK0Qt8w3I&sid=0066a7326f06d426&path=/assets&mode=packet-up#By AghaDani
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#By AghaDani
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#By AghaDani
 vless://14337163-3c81-4aa8-b048-bed99a24ec81@65.109.181.160:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#By AghaDani
@@ -267,7 +271,6 @@ vless://765bcd22-0092-4e0d-aea4-850a74cf70cf@46.243.235.64:443?encryption=none&s
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?encryption=none&security=reality&sni=ads.x5.ru&alpn=http/1.1&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&packetEncoding=xudp#By AghaDani
 vless://79c08658-753d-41f7-90af-dd03b0e68f75@213.156.152.110:443?encryption=none&type=http&host=amp-api-edge.apps.apple.com&method=GET&packetEncoding=xudp#By AghaDani
 vless://11168aaf-053d-479d-81f9-c5efb1a7a3cf@kv.vip3333.ir:8443?encryption=none&security=tls&sni=panel.vip3333.ir&fp=chrome&type=ws&host=panel.vip3333.ir&path=/---v2_mod_shop---/---v2_mod_shop---/---v2_mod_shop---/---v2_mod_shop---/---v2_mod_shop---/---v2_mod_shop---/---v2_mod_shop---/---v2_mod_shop---/artical/pro&packetEncoding=xudp#By AghaDani
-vless://53ffd172-de4c-0032-aa77-1a6830a36cf8@135.106.142.209:443?encryption=none&type=xhttp&security=reality&sni=alfastat.ru&fp=edge&pbk=fz_xpZfQks3oa9c_d1OSokmTgmJuGbvFMkyK0Qt8w3I&sid=0066a7326f06d426&path=/assets&mode=packet-up#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.9.166:22224?encryption=none&security=none&type=tcp#By AghaDani
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@173.245.58.75:443?encryption=none&security=tls&sni=amoosamiii.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=amoosamiii.net&path=%2Fpoiuyws@ThePackageCom#By AghaDani
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@95.143.188.10:443?encryption=none&type=xhttp&security=reality&sni=git.medrocket.ru&fp=qq&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&sid=3b5b38669a1a51c0&path=/repository&mode=auto#By AghaDani
@@ -795,6 +798,3 @@ vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.66:443?security=reality&e
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://b96d18f1-eb38-47e9-ae79-42e78fcc0ff8@kia.ipsafe2.site:24329?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://626c0789-16d1-4815-be8b-bd03959d7d12@194.26.192.76:443?security=reality&encryption=none&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl1.tsumshop.org&sid=c8c75aaf699259b4#By AghaDani
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#By AghaDani
-vless://5461acdc-7352-4182-91d2-ff30c94ebe60@69.46.46.123:443?path=%2Fws%2F5461acdc-7352-4182-91d2-ff30c94ebe60&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-production.up.railway.app#By AghaDani
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#By AghaDani
