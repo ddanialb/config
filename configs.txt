@@ -1,3 +1,4 @@
+vless://46582dc2-9d6e-83c7-069e-82bfb39fb3d9@prisonvpnc-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=prisonvpnc-production.up.railway.app&path=/ws/46582dc2-9d6e-83c7-069e-82bfb39fb3d9&sni=prisonvpnc-production.up.railway.app&fp=ios&alpn=http/1.1#By AghaDani
 vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@bulgauryexi.horlutr.ir:2087?encryption=none&type=http&host=%2F&method=GET&packetEncoding=xudp#By AghaDani
 vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@93.189.63.146:443?encryption=none&type=xhttp&security=reality&sni=mm.melbicom.net&fp=qq&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&sid=3b5b38669a1a51c0&path=/static&mode=auto#By AghaDani
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#By AghaDani
@@ -797,4 +798,3 @@ vless://3e593551-ebc4-5697-bbbc-cee730cc2dae@69.46.46.100:443?path=%2Fws%2F3e593
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?security=reality&encryption=none&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&host=%2F%3FBIA_TELEGRAM%40leviconfigs_leviconfigs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro.getvlessvpn.com&sid=b9f8f9772217538f#By AghaDani
 vless://3f20e648-9e98-40e0-723c-51a9596459c6@69.46.46.20:443?path=%2Fws%2F3f20e648-9e98-40e0-723c-51a9596459c6&security=tls&alpn=http%2F1.1&encryption=none&host=maple-compass-1e5e-production.up.railway.app&fp=ios&type=ws&sni=maple-compass-1e5e-production.up.railway.app#By AghaDani
 vless://c918759c-8017-43a7-91cd-d733f1b055b4@sv2.helpower.ir:2036?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#By AghaDani
-vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@cash.qelzino.ir:443?encryption=none&security=tls&sni=play.google.com&fp=firefox&insecure=1&allowInsecure=1&type=ws&host=google.com&path=%2F#By AghaDani
