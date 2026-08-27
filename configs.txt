@@ -1,3 +1,4 @@
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@138.197.186.182:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#By AghaDani
 trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
 vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=user-6a8d949a.noooo.win#By AghaDani
 vless://29189069-dde3-475b-8cc8-c9bcd30d5c12@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
@@ -797,4 +798,3 @@ vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@84.38.187.134:443?path=%2Frepositor
 vless://7e03eba6-a230-41ea-8eaf-2fa08b7bb779@172.239.26.211:53147?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#By AghaDani
 vless://addac6b8-90f4-422b-918e-233859b3a03e@wert4y5h.supros.ir:43234?encryption=none&security=reality&type=tcp&headerType=none&sni=www.apple.com&fp=chrome&pbk=A-WcezAbYc6GrL7gqM9Kg89OAgLBp2nxC_wrpenGlDg&sid=b7e45d3a65bfc319#By AghaDani
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@ee.alertyagency.com:443?security=reality&encryption=none&pbk=nP6l7_NPVUklPsrochXfsGGjbDHMHGWodoXN3h_6RQU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=b71a4299#By AghaDani
-vless://3398b8c0-6025-42d5-9afe-99652482a527@parstoday.ir:443?path=%2F&security=tls&encryption=mlkem768x25519plus.native.0rtt.PC90-fNa9yqDVl2pAttvWDsAlkp4Ag_NYkGuMT2K3iM&insecure=0&host=cloudhet.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=cloudhet.dearhossein-taktaz.ir#By AghaDani
