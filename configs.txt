@@ -1,3 +1,5 @@
+vless://ae2009b9-76cb-4d18-8612-7515b2b84398@64.188.59.203:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=tg1.wba-pn.ru#By AghaDani
+vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#By AghaDani
 vless://d67af820-f54c-48ab-862c-19086357f276@62.133.62.179:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#By AghaDani
 vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=%2Frepository%2F%3F%40TOOTFFARANGI%3Fed%3D2048&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=qq&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#By AghaDani
@@ -42,8 +44,6 @@ vless://1c788c0e-50a1-aa52-9cb4-e5aa1f3c0f73@69.46.46.201:443?path=%2Fws%2F1c788
 vless://6d60c73d-5915-4cf8-b155-e522dfd863bb@31.128.37.67:16560?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://fa1f8242-5c83-785b-057f-3b914585396d@69.46.46.10:443?path=%2Fws%2Ffa1f8242-5c83-785b-057f-3b914585396d&security=tls&alpn=http%2F1.1&encryption=none&host=golden-summit-7cef-production.up.railway.app&fp=ios&type=ws&sni=golden-summit-7cef-production.up.railway.app#By AghaDani
 vless://53ffd172-de4c-0037-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=%2Frepository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=qq&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#By AghaDani
-vless://ae2009b9-76cb-4d18-8612-7515b2b84398@64.188.59.203:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=tg1.wba-pn.ru#By AghaDani
-vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#By AghaDani
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?path=%2Ftyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&fp=chrome&type=ws&allowInsecure=0&sni=jp3.yohototo.top#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#By AghaDani
