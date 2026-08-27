@@ -1,3 +1,5 @@
+vless://ae2009b9-76cb-4d18-8612-7515b2b84398@64.188.59.203:443?encryption=none&type=ws&security=tls&path=%2F&sni=tg1.wba-pn.ru&insecure=0&allowInsecure=0#By AghaDani
+vless://603819a3-dd65-408a-abab-15d8dc49887f@209.97.180.137:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#By AghaDani
 vless://603819a3-dd65-408a-abab-15d8dc49887f@178.128.33.16:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#By AghaDani
 vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@84.38.187.134:443?encryption=none&type=xhttp&security=reality&path=%2Frepository%2F%3F%40TOOTFFARANGI%3Fed%3D2048&mode=auto&sni=git.xpkg.ru&fp=qq&insecure=1&allowInsecure=1&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&sid=2c9431dc7a306018#By AghaDani
 vless://603819a3-dd65-408a-abab-15d8dc49887f@167.71.7.72:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#By AghaDani
@@ -796,5 +798,3 @@ ss://YWVzLTI1Ni1nY206MTIzNDU%3D@127.0.0.1:443#By AghaDani
 vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@gr2.levikogjgfdd.ir:443?path=%2F&security=tls&encryption=none&host=telegram.us&type=ws&sni=finite-node.rtxconfigz.com#By AghaDani
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@in1.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&host=Telegram-Leviko_v2ray&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@ca4.levikogjgfdd.ir:8388#By AghaDani
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#By AghaDani
-vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@ja10.levikogjgfdd.ir:2087?mode=gun&security=reality&encryption=none&authority=Telegram-Leviko_v2ray&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#By AghaDani
