@@ -1,3 +1,5 @@
+vless://fd500516-3aa1-72d7-ac71-08000112b424@www.speedtest.net:443?path=%2Fv2&security=tls&encryption=none&insecure=0&host=a.v2boxerfree4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=a.v2boxerfree4.workers.dev#By AghaDani
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#By AghaDani
 vless://603819a3-dd65-408a-abab-15d8dc49887f@167.71.7.72:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#By AghaDani
 vless://603819a3-dd65-408a-abab-15d8dc49887f@170.64.166.34:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#By AghaDani
 vless://603819a3-dd65-408a-abab-15d8dc49887f@170.64.221.169:8880?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#By AghaDani
@@ -796,5 +798,3 @@ vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream
 vless://cda4c1aa-7ca9-42c8-9b9d-4763488b9f9e@130.185.122.106:442?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 trojan://ZcV1AKzS1KPuLXOvW3RXr%2BHFldso5hZoaMpZ%2FqbeEW4%3D@130.185.122.106:2053?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#By AghaDani
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206R1ROS2FsTEV1V28vVC9ZMi8wbGtmSDVkUWtTVTlERm1NRHV2VG1vd3pzST06WmNWMUFLelMxS1B1TFhPdlczUlhyK0hGbGRzbzVoWm9hTXBaL3FiZUVXND0@130.185.122.106:8443#By AghaDani
-vless://cda4c1aa-7ca9-42c8-9b9d-4763488b9f9e@130.185.122.106:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#By AghaDani
-vmess://eyJhZGQiOiJndWFud2FuZy5hd3Nuby5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkJ5IEFnaGFEYW5pIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
