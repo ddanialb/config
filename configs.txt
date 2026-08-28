@@ -1,3 +1,5 @@
+vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?path=%2F55072%2Fapi&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#By AghaDani
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.146.147:22223?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&encryption=none&security=none&type=tcp#By AghaDani
 vless://8e11a0cd-c78c-4c37-b622-b16ba722e6c6@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://4cda6bad-ae8a-4e96-8a8b-e7e675de626d@47.131.143.204:50334?security=reality&encryption=none&pbk=LlN9ORcAo_2zQnfRCfUXZPesvZt2I0BYVz7cABPAIlk&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=425fc4a18db86f#By AghaDani
 vless://a210cb80-f379-44e9-a103-97ba59357a46@144.31.93.193:8443?security=reality&encryption=none&pbk=ZRTNgwFRP8viY4SQOgPTfWlLWJCwY3dr0aawA7vHwhU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=xnod13x.artemida.live&sid=a1b2c3d4e5f6a7b8#By AghaDani
@@ -796,5 +798,3 @@ vless://9f5211c6-0f4b-4267-9650-44fa6be4405e@5.42.120.102:7443?type=xhttp&securi
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.173.170:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.91:2096?security=tls&sni=Eb043cc5.MKhAlilI.pagES.Dev&type=ws&host=Eb043cc5.MKhAlilI.pagES.Dev&path=%2F16z6aisdl7yttzr8#By AghaDani
 vless://e7babf3b-1275-4bee-9315-6c3b54c78440@91.228.227.112:110?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://64d413b7-b782-0009-bce2-ab7cd61208af@178.248.236.255:14443?allowInsecure=1&flow=xtls-rprx-vision&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp#By AghaDani
-vless://64d413b7-b782-0009-bce2-ab7cd61208af@178.248.236.255:62443?allowInsecure=1&flow=xtls-rprx-vision&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp#By AghaDani
