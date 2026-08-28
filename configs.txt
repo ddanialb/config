@@ -1,3 +1,4 @@
+vless://1af18552-2473-4af0-8765-4dc383bcf320@130.185.121.30:443?path=%2F&security=none&encryption=none&host=130.185.121.30&type=ws#By AghaDani
 vless://db5dc039-a37e-4c23-b7a9-bdf6c729f7f3@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://4e4cdaf0-d5f2-4e6d-a7c4-6b8021dbd87a@hol.orangesms.ir:1824?security=reality&encryption=none&pbk=JIv_D-Lpo1cosiCUgu-qzGSJwOCGciyXSZ8ucNn6aBo&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=8390ee7a5996648b#By AghaDani
 vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@192.88.182.105:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=node-nd01.rkitman.ru&sid=88d9dc52ef39c8bd#By AghaDani
@@ -23,7 +24,6 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aitvcDFwZWx2dkZudGxKWE8wTU5wdjhXdUZ0T1krOXR
 vmess://eyJhZGQiOiIxMzAuMTg1LjEyMS4zMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMTMwLjE4NS4xMjEuMzAiLCJpZCI6IjFhZjE4NTUyLTI0NzMtNGFmMC04NzY1LTRkYzM4M2JjZjMyMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMjA1MyIsInBzIjoiQnkgQWdoYURhbmkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@141.164.45.187:8091#By AghaDani
 vless://4e4cdaf0-d5f2-4e6d-a7c4-6b8021dbd87a@s1.orangesms.ir:3389?security=reality&encryption=none&pbk=fJgfoeTonZ3FfIXETWnn65nJeuioFkRcwlqFzwlAlwU&host=token.safebrowsing.apple&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=25e1eaeece23a4ca#By AghaDani
-vless://1af18552-2473-4af0-8765-4dc383bcf320@130.185.121.30:443?path=%2F&security=none&encryption=none&host=130.185.121.30&type=ws#By AghaDani
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002#By AghaDani
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%40TOOTFFARANGI&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#By AghaDani
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&flow=xtls-rprx-vision#By AghaDani
