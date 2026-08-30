@@ -1,3 +1,4 @@
+vless://b0cf4078-96b8-4e11-80a8-0f9352565a16@199.232.173.242:443?encryption=none&security=tls&sni=piracy-android.video-streams.org&fp=chrome&alpn=http%2F1.1&type=ws&host=piracy-android.video-streams.org&path=%2Fws#By AghaDani
 hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52016?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#By AghaDani
 vless://66be8be7-ae9b-4944-a91b-6e4b6b058c92@stream.tonblack.app:2053?path=%2Ftr1-cdn&security=tls&encryption=none&insecure=0&host=stream.tonblack.app&type=ws&allowInsecure=0&sni=stream.tonblack.app#By AghaDani
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-as.data-media-social.org:443?security=reality&encryption=none&pbk=D-lJlqG_tR0QSqyKj4KZRImMRfZbhp88loaf8jP0mhc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-as.data-media-social.org&sid=f3a9d2b1c7d4f608#By AghaDani
@@ -797,4 +798,3 @@ vless://c46c1fa3-194f-4c19-a9ba-690475acb717@tr1p.soundfiy.ir:61169?security=non
 vless://6be20c6b-f7c1-4f47-86b2-18f10c8e96b9@myleto.orangesms.ir:61169?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#By AghaDani
 vless://0ada5b3f-5c33-4813-9fd9-527f1af1e858@136.244.96.67:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?encryption=none&security=reality&fp=firefox&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&type=grpc&mode=gun&authority=&serviceName=media.v1.ObjectService#By AghaDani
-vless://0ada5b3f-5c33-4813-9fd9-527f1af1e858@65.20.96.231:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#By AghaDani
