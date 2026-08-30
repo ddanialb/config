@@ -1,3 +1,6 @@
+vless://34c6b520-fa66-49e9-a337-b7a6a3af28ba@fin.hostingdayam.com.tr:8452?security=reality&encryption=none&pbk=n7_Ddz9DUWdhhtPh92wOWNehjZr1ewHMvJmVyRYGhX4&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#By AghaDani
+vless://a9954637-e1d3-6981-e498-98769cd4dd35@69.46.46.21:443?path=%2Fws%2Fa9954637-e1d3-6981-e498-98769cd4dd35&security=tls&alpn=http%2F1.1&encryption=none&host=polar-canyon-c381-production.up.railway.app&fp=ios&type=ws&sni=polar-canyon-c381-production.up.railway.app#By AghaDani
+vless://7318d345-23db-4357-9408-8fc9d1cdefa4@95.216.142.36:9443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#By AghaDani
 vless://50940813-638f-4881-b5a4-51228a55a2d4@spiderpanel-production-6d54.up.railway.app:443?path=%2Fws%2F50940813-638f-4881-b5a4-51228a55a2d4&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=spiderpanel-production-6d54.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=spiderpanel-production-6d54.up.railway.app#By AghaDani
 vless://34c6b520-fa66-49e9-a337-b7a6a3af28ba@land.hostingdayam.com.tr:2053?path=%2Ffi-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=land.hostingdayam.com.tr&fp=chrome&type=ws&allowInsecure=0&sni=land.hostingdayam.com.tr#By AghaDani
 vless://70bbf524-8175-48f3-9593-cc83361574f4@404.e404ng.fun:8443?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
@@ -236,7 +239,6 @@ vless://c100e5ba-1cf5-45ce-b491-5c2b02cdde5e@parr.mechanicir.ir:10694?security=r
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@162.35.231.122:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&type=xhttp&sni=net.savesafe.run&sid=812609fa663c57fb#By AghaDani
 vless://8c2d5e7e-116a-49c4-8437-937f4bfce346@parr.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb#By AghaDani
 trojan://%40%40ZhilaVPN%40@65.109.216.227:18399?mode=auto&path=%2F&security=reality&pbk=GKuKpF3GTyegvn88lDErT42FVu7MbnV_8uZSW-q7mSo&fp=chrome&spx=%2F&type=xhttp&sni=play.google.com&sid=9af429c9fa59d7#By AghaDani
-vless://7318d345-23db-4357-9408-8fc9d1cdefa4@95.216.142.36:9443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#By AghaDani
 vless://fbc86291-4479-4975-a51c-af91c7ea89b9@185.143.232.245:2096?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=TUNDE.pasarguardpro.ir#By AghaDani
 vless://dd7ea5ae-d430-4e7b-a733-8c562f49a3de@104.252.30.239:15201?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://c100e5ba-1cf5-45ce-b491-5c2b02cdde5e@parr.mechanicir.ir:38479?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#By AghaDani
@@ -796,5 +798,3 @@ vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@31.76.39.152:2054?encryption=none&t
 vless://d31aefb3-775b-4e87-a093-a4677addf10a@144.31.140.127:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=stackoverflow.com&fp=chrome&pbk=3EwukQs0ows0H4l2atTgz_Mo5SV-v5p14D4zfA41tU4&sid=c010293d0bafac#By AghaDani
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls&sni=hy2.aspidnet.xyz#By AghaDani
 vless://056fe52c-e28f-43fd-a1f5-e87b14b59d6b@download.mehdi-cpp.ir:8087?encryption=none&type=raw&security=reality&sni=shop-us-en.amd.com&fp=chrome&pbk=fCYufMkCWiP1pkFPgZI3-PH0PYGCTsTdRck5rLZ_fXI&sid=2040&spx=/bf041fb6d10db4a#By AghaDani
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&authority=&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#By AghaDani
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&authority=&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#By AghaDani
