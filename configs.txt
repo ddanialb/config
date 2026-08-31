@@ -1,3 +1,7 @@
+vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bastani.purplrose.ir&fp=random&type=ws&allowInsecure=0&sni=bastani.purplrose.ir#By AghaDani
+vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.43:2053?encryption=none&fp=chrome&host=go.iranfree.de5.net&path=%2F&security=tls&sni=go.iranfree.de5.net&type=ws#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpudHhiMWpIZ1lsQ0I2Q20y@168.63.68.5:443#By AghaDani
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#By AghaDani
 vless://099f0859-cb81-4a57-b6d8-2c8e18030627@5.42.106.111:2200?path=%2Fv1&security=none&encryption=none&type=ws&sni=rzd.ru#By AghaDani
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@87.58.206.98:8443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#By AghaDani
 vless://626c0789-16d1-4815-be8b-bd03959d7d12@194.26.192.76:443?security=reality&encryption=none&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.tsumshop.org&sid=c8c75aaf699259b4#By AghaDani
@@ -770,7 +774,6 @@ vless://5f829d2f-2f13-450c-81ac-e9832b8e47ec@144.31.1.201:8090?type=grpc&securit
 vless://6389249c-d415-4950-9538-0566ec2438d5@146.19.248.148:9001?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#By AghaDani
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.180:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#By AghaDani
 vless://60e2a548-96aa-4850-a279-1edab743c39b@185.194.177.120:2096?security=reality&encryption=none&pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#By AghaDani
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#By AghaDani
 vless://9f0c2d79-1b63-457d-bb39-1478cff75d44@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://6389249c-d415-4950-9538-0566ec2438d5@api2.rabbithongo.ir:8880?encryption=none&security=none&type=httpupgrade&host=connectofree.aireacondicionadoalicante.org&path=%2Fws-content%2Fapp.js#By AghaDani
 vless://414b2c7f-26e8-4c08-a357-a4f00043804e@192.166.82.74:8443?security=reality&encryption=none&pbk=vmfswX2VwSAGOSd9gleiWLfZK8BVyMI7D6oMDPUjpCk&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=f15240e5244c7ba8#By AghaDani
@@ -795,6 +798,3 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?security=re
 vless://SoonTeam@dee.im-soon.com:443?path=%2F&security=&encryption=none&host=play.google.com&type=ws#By AghaDani
 vless://b35103d0-2e12-4a3b-ab50-99f6a4fca710@212.115.103.189:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=www.unscramblerer.com&headerType=http&type=tcp#By AghaDani
 vless://50414e45-4c5f-5a45-5553-9df80d553692@0lzw35eluyys.56zv22emuags.workers.dev:443?path=%2Fstream%2FPANEL_ZEUS%2F9df80d553692&security=tls&encryption=none&insecure=0&host=0lzw35eluyys.56zv22emuags.workers.dev&type=ws&allowInsecure=0&sni=0lzw35eluyys.56zv22emuags.workers.dev#By AghaDani
-vless://50414e45-4c5f-5a45-5553-9df80d553692@0lzw35eluyys.56zv22emuags.workers.dev:80?path=%2Fstream%2FPANEL_ZEUS%2F9df80d553692&security=none&encryption=none&host=0lzw35eluyys.56zv22emuags.workers.dev&type=ws#By AghaDani
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.99.148:22223?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=firefox&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#By AghaDani
