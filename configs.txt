@@ -1,3 +1,5 @@
+hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52033?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#By AghaDani
+hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52029?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.200.6:22224?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://855d1db3-f281-4150-aa16-c70935c0df50@70.34.203.254:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=firefox&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#By AghaDani
@@ -83,7 +85,6 @@ hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52036?alpn=h3&fp=chrome
 vless://79c08658-753d-41f7-90af-dd03b0e68f75@213.156.152.110:443?encryption=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#By AghaDani
 hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52033?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#By AghaDani
 vless://fb2fbf7a-17a0-4ef9-b0ec-1e35b0707eb6@104.21.51.132:8080?encryption=mlkem768x25519plus.native.0rtt.NxUupdiNQtkbNwVt0xD5FhzqzI-SSyB3tlg5Km59onY&host=de-jkas.th3store.ir&path=%2Fplay&security=none&type=httpupgrade#By AghaDani
-hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52029?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#By AghaDani
 vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@194.5.65.36:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=chrome&type=xhttp&sni=ya.ru&sid=72cd47c079c0a3df#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.152.189:50099#By AghaDani
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#By AghaDani
@@ -156,7 +157,6 @@ vless://75a24f38-6942-41fe-a42b-ff1dd873c40f@199.232.78.140:443?mode=auto&path=%
 hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52036?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#By AghaDani
 hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52026?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#By AghaDani
 hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52030?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#By AghaDani
-hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52033?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#By AghaDani
 vless://bf667068-11cb-4c37-a867-4a2b03b45555@172.67.209.127:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=&encryption=none&host=flat-sun-b8d3.225-154.workers.dev&type=ws#By AghaDani
 vless://63a1d550-f8da-456e-813c-398dd819e405@188.114.97.6:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=noisy-cherry-b46b.206-866.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=noisy-cherry-b46b.206-866.workers.dev#By AghaDani
 vless://38ede46b-d237-4c76-9de1-a10738642adc@172.66.170.53:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=&encryption=none&host=summer-hat-ba5c.430.workers.dev&fp=chrome&type=ws#By AghaDani
