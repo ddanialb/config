@@ -1,3 +1,4 @@
+vless://4f4e338c-7f35-4917-9aab-107d16c2c9c0@we.paydar.site:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#By AghaDani
 vless://c4d438f8-d8e2-4fc4-ad2d-df94cb2a08b2@g--e--r--m.cd2-ger1.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=firefox&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#By AghaDani
 vless://50414e45-4c5f-5a45-5553-3a2eeec5969f@104.16.0.63:443?path=%2Fstream%2FPANEL_ZEUS%2F3a2eeec5969f&security=tls&fragment=200-3000%2C1-2&encryption=none&insecure=0&host=ez-6cdceb.iaznp3e6ujbs.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=ez-6cdceb.iaznp3e6ujbs.workers.dev#By AghaDani
@@ -797,4 +798,3 @@ vless://50414e45-4c5f-5a45-5553-56fb7fccba36@104.25.254.199:80?path=%2Fstream%2F
 vless://OwLimbo@65.20.84.60:443?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=rW32mnGIawfF0HfU6-NYsue8jXVfGIBgEwgIEHC-FBY&sid=485c0fafd745&spx=%2Fr50vEOL8TAVH9eX&type=tcp&headerType=none&host=BIA_TELEGRAM%3F%3D%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2---%40ShadowFlux2#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080?#By AghaDani
 vless://6be20c6b-f7c1-4f47-86b2-18f10c8e96b9@alman2.pythonsaz.ir:61169?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#By AghaDani
-vless://fb9b7935-e1d8-432-b26c-d71c439fa29d@185.110.189.172:443?encryption=mlkem768x25519plus.native.0rtt.-0MXXOstBc09cB1tSeGN1pwYBzVEiVW__njsxK2hd14&security=none&type=tcp#By AghaDani
