@@ -1,3 +1,4 @@
+hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52023?security=tls&insecure=0&sni=giftcard.gateway-stream.com#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%E2%80%93madshopx%E2%80%93madshopx&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#By AghaDani
 vless://77984ae0-58cb-4bf3-9fe4-346043bf71b2@5.75.201.211:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=www.unscramblerer.com&headerType=http&type=tcp#By AghaDani
@@ -797,4 +798,3 @@ vless://d499fa8c-2e14-4bd5-a3ca-73fae7f04cb5@a2.arshia-nova.ir:443?path=%2F&secu
 vless://f0cbbd20-26c5-4b23-be62-1a9729c8428e@91.98.169.175:44702?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://f75f6bfb-8354-4c60-a787-ea207be9ccfa@lanl1.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb#By AghaDani
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=&encryption=none&host=ov-italy1.09vpn.com&type=ws&sni=ov-italy1.09vpn.com#By AghaDani
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=%2Fvless%2F&security=&alpn=http%2F1.1&encryption=none&host=ov-italy1.09vpn.com&fp=chrome&type=ws#By AghaDani
