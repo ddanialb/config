@@ -1,3 +1,5 @@
+vless://fae272a6-a184-4c91-83ed-771abdcff404@51.77.217.70:2053?security=reality&encryption=none&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=7af95330630a7327#By AghaDani
+vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&encryption=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&headerType=none&type=tcp&sni=deepl.com&sid=aae8#By AghaDani
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@de.sdssh-vid.online:443?security=reality&encryption=none&pbk=mg9K0RBg6pS2oDh28RBI026ytRERGNE9_JnkIn8OOFo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=de.sdssh-vid.online&sid=f3c4da18e7c4f744#By AghaDani
 vless://337e83cf-e9f9-4237-b27c-5649ec7ee293@finland.spacexiphone.cyou:61180?security=none&encryption=mlkem768x25519plus.native.0rtt.lSC7HBrq-INK_0mw0r8WtyVVMHuWCwjkcve00Z4i0lg&headerType=none&type=tcp#By AghaDani
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:2096?path=%2F&security=&encryption=none&host=derman.neobo-tooth.ru&type=ws#By AghaDani
@@ -43,7 +45,6 @@ vless://a3f59a62-b4ad-4f02-bfce-ef68e63ab6f7@5.129.214.249:8443?path=%2Fapi%2Fus
 vless://338efc17-02d7-433b-902a-e7d4771dc802@147.45.229.3:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=gaaga.korgivps.ru#By AghaDani
 vless://86c2939c-4506-4028-cdc9-6fe073890e81@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://XpnTeam-46@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
-vless://fae272a6-a184-4c91-83ed-771abdcff404@51.77.217.70:2053?security=reality&encryption=none&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=7af95330630a7327#By AghaDani
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=&encryption=none&fp=chrome&type=ws#By AghaDani
 trojan://humanity@185.220.100.168:443?type=ws&security=tls&sni=www.calmlunch.com&fp=chrome&path=%2Fassignment&host=www.calmlunch.com#By AghaDani
 vless://77984ae0-58cb-4bf3-9fe4-346043bf71b2@5.75.201.211:56539?encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&type=tcp&headerType=http&host=www.unscramblerer.com&security=none#By AghaDani
@@ -797,4 +798,3 @@ vless://c04e959d-3b7a-4d4f-881a-935762102704@www.zsu.gov.ua:8880?path=%2Fpyip%3D
 trojan://302cf77d-6fb7-4ac8-ae61-88e286340d59@hk03.qianmoip.win:50222?allowInsecure=1&sni=taobao.com#By AghaDani
 vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@81.90.17.117:443?security=reality&encryption=none&pbk=VoUKOKxP103a3-SYTAOKlXsxaBtpyVSE4G2cadWXJgE&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=magazin6.mervi.icu&sid=d98c716c17c0dc68#By AghaDani
 vless://2c66d559-9889-45c5-a712-d8b7a31fa04d@87.228.122.106:2200?path=%2Fv1&security=&encryption=none&host=rzd.ru&type=ws#By AghaDani
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
