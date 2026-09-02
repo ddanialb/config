@@ -1,3 +1,6 @@
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://8645697d-51c1-4e90-aca5-ba63a0392f11@ltu-02.node.lumixnet.com:443?security=reality&encryption=none&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ltu-02.node.lumixnet.com&sid=bd8a588cebc3395a#By AghaDani
+vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?path=%2F29c8fed7ca22&security=&encryption=none&host=%2F%3F--v2rayNplus--v2rayNplus--v2rayNplus--&type=ws#By AghaDani
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&host=ov-italy1.09vpn.com&type=ws&sni=ov-italy1.09vpn.com#By AghaDani
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@OV-Italy1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#By AghaDani
@@ -795,6 +798,3 @@ trojan://MiTiVPN@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%
 vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@#By AghaDani
 vless://54f3d606-f92f-462c-8c63-0718943c9ac5@66.33.22.220:18333?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&path=%2F&encryption=none&type=ws#By AghaDani
 vless://c63d2c0f-786d-49ff-9891-f63bd1ac58d7@45.59.126.91:8080?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#By AghaDani
-vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@beast.locallynet.org:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=beast.locallynet.org#By AghaDani
-vless://e6b5e08a-83fa-48d2-8a94-c6cc01fc35fd@178.214.100.10:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=beast.locallynet.org#By AghaDani
