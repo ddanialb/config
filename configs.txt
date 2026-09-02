@@ -1,3 +1,6 @@
+trojan://humanity@216.24.57.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
+vless://2642f590-2bce-4031-8f93-7eed983621f5@45.33.62.166:43595?security=reality&encryption=none&pbk=waNzNRIL_3TaF3UfgeAy1M5r8YVUeOA0nx3jPiXYZSE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=e482c0320674c651#By AghaDani
+vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.98.215:8880?security=&encryption=none&host=steep-thunder-97fa.108-d10.workers.dev&type=ws#By AghaDani
 vless://3b715892-8610-4fdc-9086-647b36af5443@fastly.videobazi.com:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=dutschh.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?security=tls&sni=turkmenistan.armanibash.Shop.&type=ws&host=turkmenistan.armanibash.Shop.&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&fp=chrome#By AghaDani
 vless://f32a99e8-05dd-478a-82c0-7688848121bd@8.210.21.65:8080?type=ws&host=mkhy.daozhang.link#By AghaDani
@@ -795,6 +798,3 @@ vless://cd9e00aa-3581-42e4-a35c-56ae3a521159@151.101.129.242:443?encryption=none
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#By AghaDani
 vless://5018af7c-dea3-427a-885c-6984e5792ce5@104.18.155.141:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ftp.xvpn.cam&fp=chrome&type=ws&allowInsecure=0&sni=ftp.xvpn.cam#By AghaDani
 vless://54d1237a-4da0-4623-9afb-bc6e229acfff@81.12.35.184:5002?encryption=none&type=tcp&security=tls&headerType=none&sni=afr-data-16.myket.ir&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=1&allowInsecure=1#By AghaDani
-vless://54d1237a-4da0-4623-9afb-bc6e229acfff@81.12.35.186:5002?encryption=none&type=tcp&security=tls&headerType=none&sni=afr-data-16.myket.ir&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1#By AghaDani
-vless://54d1237a-4da0-4623-9afb-bc6e229acfff@81.12.35.185:5002?encryption=none&type=tcp&security=tls&headerType=none&sni=afr-data-16.myket.ir&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKaXNuYWd0dlJLcDJrUV9nY21DblNZLW1tUzRPek1lSg@81.12.35.185:443#By AghaDani
