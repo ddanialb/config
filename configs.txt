@@ -1,3 +1,6 @@
+vless://053440e6-fc8d-48d9-bb4f-2675e367f64f@46.19.69.201:443?path=%2F%3FTELEGRAM--TOOTFFARANGI%3Fed%3D512&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=wsnl7.wba-pn.ru#By AghaDani
+vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&sid=ff776ff77be48b88#By AghaDani
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#By AghaDani
 vless://c6cff605-90cf-4953-bf97-0a44e43f229d@167.104.223.179:443?security=reality&encryption=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb5.murhost.network&sid=fc36b4a584871aa5#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&authority=%2F&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#By AghaDani
 vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?encryption=none&security=none&type=ws&path=%2F5c62e3c616d8#By AghaDani
@@ -108,7 +111,6 @@ vless://aab91459-f905-4164-adda-c4ec45578542@173.255.242.56:39706?security=reali
 hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#By AghaDani
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#By AghaDani
 hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52056?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#By AghaDani
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&sid=ff776ff77be48b88#By AghaDani
 hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52023?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#By AghaDani
 vless://d268e46d-6cba-44df-a2ce-c569ecf9d65e@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://04c61c94-7768-ea28-6de3-d51e18568e2c@cedar-horizon-66c3-production.up.railway.app:443?path=%2Fws%2F04c61c94-7768-ea28-6de3-d51e18568e2c&security=tls&alpn=http%2F1.1&encryption=none&host=cedar-horizon-66c3-production.up.railway.app&fp=ios&type=ws&sni=cedar-horizon-66c3-production.up.railway.app#By AghaDani
@@ -796,5 +798,3 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=realit
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#By AghaDani
 vless://4a97788b-5d8a-410c-875c-ba36930e185e@178.83.31.93:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=989gq45ogQSZLDoUTcLNSYW5v_3ER7W_6Oi_8swZzXo&security=reality&sid=cb55f541&sni=www.cloudflare.com&type=tcp#By AghaDani
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.43.187:8080?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#By AghaDani
-vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?type=tcp&headerType=none&security=reality&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&fp=qq&sni=deepl.com&sid=f7b2&spx=%2F#By AghaDani
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.230:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#By AghaDani
