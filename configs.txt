@@ -1,3 +1,4 @@
+vless://8e348ebd-1258-4d83-9721-81f922d314e9@178.239.145.21:101?security=none&encryption=none&host=mci.neteaderType=htp&type=tcp#By AghaDani
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@212.38.189.174:8090#By AghaDani
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.36:8118#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=chrome&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#By AghaDani
@@ -797,4 +798,3 @@ hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52029?alpn=h3&fp=chrome
 vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443?pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&fp=firefox&sni=www.apple.com&flow=xtls-rprx-vision&type=tcp&encryption=none&headerType=none&security=reality#By AghaDani
 vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?security=reality&encryption=none&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&host=%2F%3FTELEGRAM--TOOTFFARANGI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=foodnetwork.com&sid=1e977d0b52eab755#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&security=reality&encryption=none&authority=TELEGRAM%40V2raySamanbot&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=firefox&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#By AghaDani
-hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52028?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#By AghaDani
