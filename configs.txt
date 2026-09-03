@@ -1,3 +1,5 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.132.102.151:22222?security=&encryption=none&headerType=&type=tcp#By AghaDani
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 vless://7d741f08-d3ce-4ff1-bfe5-7dd3da062aee@varzesh3.com:80?path=%2Fws&security=&encryption=none&host=new7.safari-df.ir&type=ws#By AghaDani
 trojan://humanity@render.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.132.102.151:22224?security=&encryption=none&headerType=&type=tcp#By AghaDani
@@ -130,7 +132,6 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&se
 vless://fe1bec5d-e2f7-4d59-9ad9-4765588e8c04@78.17.187.134:2027?mode=auto&path=%2Fpatch%2F%3Fv2rayNplus--v2rayNplus--v2rayNplus&security=reality&encryption=none&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&fp=firefox&type=xhttp&sni=fn.skysafe.online&sid=6ba7b8109dad11d1#By AghaDani
 vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@95.85.230.35:443?security=reality&encryption=none&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.oblaco.bet#By AghaDani
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@89.127.196.238:443?security=reality&encryption=none&pbk=-1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8&host=%2F%3FTELEGRAM--TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-ch.upd-media.com&sid=b3c1d918e7c4f767#By AghaDani
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 vless://035c8a3d-1cec-43e2-369d-f98593af1d9a@188.114.97.3:2082?path=%2Ftfufdfute5wydh&security=none&encryption=none&host=www.chatgpt.com.1.hiphonemobile.top&type=httpupgrade#By AghaDani
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=xwrivr.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=xwrivr.pages.dev#By AghaDani
 vless://0dd9cfaa-cebd-4444-8778-70cb22737944@94.26.83.7:443?mode=gun&security=reality&encryption=none&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=2a236a7fcbe0ce61#By AghaDani
@@ -797,4 +798,3 @@ vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICIx
 vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#By AghaDani
 vless://1d8886c3-dd69-4f33-b725-fe8cb905d9c4@154.219.5.186:443?security=tls&sni=MOJ.Bklink.IR&type=grpc&serviceName=Telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&fp=chrome&alpn=http/1.1#By AghaDani
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.159.218.164:443?security=tls&sni=xing.ylks.link&type=ws&path=%2F#By AghaDani
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.128.32.98:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#By AghaDani
