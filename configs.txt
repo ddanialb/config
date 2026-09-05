@@ -1,3 +1,5 @@
+vless://5e2be2b4-8af5-4d18-a15c-d4cb4b1d6ae6@172.67.175.9:2083?path=%2F&security=tls&encryption=none&insecure=1&host=shopki.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=1&sni=shopki.dearhossein-taktaz.ir#By AghaDani
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=%2F&security=none&encryption=none&type=ws#By AghaDani
 vless://d7430ae7-320c-4658-808b-3006d0627d82@85.17.61.196:443?mode=gun&security=reality&encryption=none&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&type=grpc&serviceName=gun&sni=mint.ubuntuhosting.host&sid=3fa234ea9feaa048#By AghaDani
 trojan://humanity@104.18.152.97:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
@@ -153,7 +155,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#By AghaD
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
 vmess://eyJhZGQiOiAiZG9nLWhrLmt1bmx1bjAxZG5zLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTQ2NGNhNDAtZGQ3NS0zNzQyLWE2MjgtZDkzMWE5ZjQxM2IyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMTAyMCIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=#By AghaDani
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.232:443?security=tls&sni=hkg.ylks.link&type=ws&path=/?proxyip#By AghaDani
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=%2F&security=none&encryption=none&type=ws#By AghaDani
 vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@88.216.66.74:2053?security=tls&sni=mositr.freenods.sbs&type=ws&path=twitterfreecodes#By AghaDani
 vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@5.253.42.163:40443?security=reality&encryption=none&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=84fc#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#By AghaDani
@@ -797,4 +798,3 @@ vless://c6037cf7-d931-4027-af06-6bfb0f10684c@88.216.190.205:443?security=reality
 vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.201.28:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#By AghaDani
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.218.146:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
 vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.102.254:443?security=reality&encryption=none&pbk=2zLFL9xRZ_hAqBHIUpZrj3z5o5Bvt3OAFy5yDat7h0U&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apiv3.jarvesitw.ru&sid=2aef5875#By AghaDani
-vless://b710a6da-bcbe-474a-bdc7-9162ba483c4d@5.75.201.230:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&headerType=http&type=tcp#By AghaDani
