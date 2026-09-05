@@ -1,3 +1,5 @@
+vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?security=reality&encryption=none&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5ea7e22e889dabc5#By AghaDani
+vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%0A%20%20%22scMaxEachPostBytes%22%20%3A%20%224194304-8388608%22%2C%0A%20%20%22seqPlacement%22%20%3A%20%22query%22%2C%0A%20%20%22uplinkChunkSize%22%20%3A%20%2232768-65536%22%2C%0A%20%20%22uplinkHTTPMethod%22%20%3A%20%22POST%22%0A%7D&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=ios&spx=%2F&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#By AghaDani
 vless://4db5388a-02df-4db8-9be1-15b9a146f05e@104.23.107.241:2087?security=tls&sni=homa.mattservers.ir&type=ws&host=homa.mattservers.ir&path=%2Fws%3Fed%3D2048&fp=firefox&alpn=h2#By AghaDani
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@34.81.35.248:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#By AghaDani
 vless://06430296-e070-4048-ba38-3662c09e52bc@162.159.41.96:2087?security=tls&sni=finland.hiytocloud.ir&type=grpc&alpn=h2,http/1.1#By AghaDani
@@ -796,5 +798,3 @@ vless://c7614e71-b32a-4cd6-a775-8e11cd6f4271@104.21.4.197:2083?security=tls&sni=
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443/?insecure=1&sni=fast.wwwinternetvideo.click#By AghaDani
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.191.104:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
 vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.123:7444?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=akamai.com&type=tcp#By AghaDani
-vless://0bc31c7f-1ee2-4dd3-929b-b61ae780eb3c@141.227.174.79:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=gb.sellflow.org&type=tcp#By AghaDani
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.119.0.50:443?security=tls&sni=nnfgrr.azurewebsites.net&type=ws&host=nnfgrr.azurewebsites.net&path=/#By AghaDani
