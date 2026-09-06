@@ -1,3 +1,5 @@
+vless://55ed97fc-77d1-4802-baf3-acef70776331@185.147.26.175:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=e4aa362b5f9d07d7#By AghaDani
+vless://1c20357e-be52-4e5e-8eb6-6434adcb4b71@104.167.24.227:18443?mode=gun&security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&fp=chrome&type=grpc&serviceName=grpc&sni=gp1.steptofsvo.com&sid=5c766813929a1fdd#By AghaDani
 vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAicG9ydCI6ICIxODAiLCAic2N5IjogImF1dG8iLCAidiI6ICIyIiwgIm5ldCI6ICJyYXciLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViOiAi8J+HuvCfh7gxNjM4NDggfCDimqHvuI9UZWxlZ3JhbSA9IHQubWUvU09Ta2V5TkVUIn0=#By AghaDani
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5001#By AghaDani
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?path=/&security=tls&encryption=none&alpn=http/1.1&host=ircp-617.pages.dev.&fp=chrome&type=ws&sni=ircp-617.pages.dev.#By AghaDani
@@ -796,5 +798,3 @@ vless://12cebf33-2f96-48a3-af37-c2231e5cef75@188.114.97.6:8080?path=%2Fpyip%3Dpr
 vless://cf8087f3-0af3-4860-ab77-c253056d4b88@147.45.61.227:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=n3.plus-abc.ru&type=tcp#By AghaDani
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.182.18:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=viper-20.moriarty-web.com&type=tcp#By AghaDani
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.6:8443/?sni=hopp-germany-new.ddnsguru.com#By AghaDani
-vless://6d613d5f-1d65-48ca-b2e8-d83a2c3a17d9@172.64.80.1:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=tight-star-08eb.331-729.workers.dev&type=ws#By AghaDani
-vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.2:2087?encryption=none&path=%2F3bfc3e3ed603&security=none&type=ws#By AghaDani
