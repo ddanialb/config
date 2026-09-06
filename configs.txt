@@ -1,3 +1,5 @@
+vless://d1c44dee-3a4c-47eb-bfd0-bc5a15ac7d5f@arvancloud.ir:2095?encryption=none&security=none&type=ws&host=dashboard.hamrahconff.ir&path=%2Fpgcfws-r4#By AghaDani
+trojan://Mitivpn@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#By AghaDani
 vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#By AghaDani
 vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@45.130.125.160:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=tesdt.arvanabr.xyz&fp=chrome&type=ws&allowInsecure=1&sni=tesdt.arvanabr.xyz#By AghaDani
 vless://35235522-7ab3-4491-ab1f-839a34acaf38@66.33.22.224:20463?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=EbZise94_xpghzVLch9cYGxw4IIuP7_j5dmh1qeqch0&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=7d6a8dd767d14cab#By AghaDani
@@ -45,7 +47,6 @@ vless://d73f779e-ff9d-4b8d-93ff-78d501d5e96d@172.67.170.22:443?path=%2Fvl%2FEyWE
 hysteria2://6mk75ho4jzef3uuj@giftcard.gateway-stream.com:52057?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkbG1KcysrS1Z5T2lobDF6VTVoS0tlSTFFRzU2NFBjcFp2d2l6aUpLV0tzPQ@e3.cover20.ir:56985?type=tcp#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.126.219:22223?encryption=none&security=none&type=tcp#By AghaDani
-vless://d1c44dee-3a4c-47eb-bfd0-bc5a15ac7d5f@arvancloud.ir:2095?encryption=none&security=none&type=ws&host=dashboard.hamrahconff.ir&path=%2Fpgcfws-r4#By AghaDani
 vless://9222652c-be81-4171-9d07-ebcdbd2a82ab@207.241.172.254:4777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=8ZL2JgDP9gHkgGTbGF-uK8omfWkFplZnCH0N2_U18Uo&sid=01115788253bc845&type=tcp&headerType=none#By AghaDani
 hysteria2://6mk75ho4jzef3uuj@giftcard.gateway-stream.com:52026?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#By AghaDani
 ss://aes-256-gcm:XKFKl2rULjIp74@15.204.247.175:8008#By AghaDani
@@ -797,4 +798,3 @@ vless://ba895ce4-8c24-0003-9f22-81ee227c89d0@45.12.5.171:443?security=reality&en
 vless://3bcb31ef-840e-415d-abb3-28628add98d0@ww5.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#By AghaDani
 vless://7037b6a1-d8f0-40af-99e9-41bad4c32c51@italy.selqora.ir:22211?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://2bfe6e7e-1128-47f6-9746-e3021907208d@dedirr.shoppiz.ir:41000?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#By AghaDani
-vless://4cbefb4d-328c-411d-bf76-780df1082df8@31.76.89.110:8443?path=%2F&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&host=wikihow.com&fp=firefox&type=xhttp&sni=wikihow.com#By AghaDani
