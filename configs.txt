@@ -1,3 +1,9 @@
+vless://7c999267-a919-467d-ae09-cd77e6f95e72@49.13.168.128:3884?security=&encryption=none&headerType=&type=tcp#By AghaDani
+vless://5021eedd-289c-454f-8075-9688c3114f34@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=FastSvn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#By AghaDani
+vless://a15ecda4-9ac4-4304-a19c-bce10e0eb931@vkn.kurdnetpro.ir:8443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=OSCMA4DMTLoqEVdrcVLZbtwthE8zcZJ5mTi-N6AQDzI&host=vkn.kurdnetpro.ir&fp=chrome&spx=%2FI5btMuvwZK7Hsns&type=xhttp&sni=www.sony.com.my&sid=021f56d3#By AghaDani
+vless://2a384c40-9647-4ae4-a42d-4c89175e8768@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=FastSvn.global.ssl.fastly.net&sni=ssl.fastly.com&fp=chrome#By AghaDani
 vless://2a384c40-9647-4ae4-a42d-4c89175e8768@de9.bexait.ir:2434?encryption=none&security=reality&type=tcp&headerType=none&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718#By AghaDani
 vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@love.ns.cloudflare.com:80?security=&encryption=none&host=sRv80.hAMiIbaR.CoM&type=ws#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&spx=%2FHesarWeb&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#By AghaDani
@@ -21,7 +27,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyetee
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.72.183:22224?encryption=none&security=none&type=tcp#By AghaDani
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&allowinsecure=0&type=xhttp&mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram#By AghaDani
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.72.183:22222?encryption=none&security=none&type=tcp#By AghaDani
 vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@ccs2g.pai50288.uk:443?encryption=none&security=tls&sni=ccs2g.pai50288.uk&fp=chrome&allowinsecure=0&type=ws&path=%2Fpai50288#By AghaDani
 vless://XpnTeam-70@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
