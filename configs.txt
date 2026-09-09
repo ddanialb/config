@@ -1,3 +1,5 @@
+vless://d890b403-d536-4c32-945c-b46e250492a6@20.199.24.140:443?security=reality&encryption=none&pbk=Lk_uZjr6a6DyLsgh1VasuUCN9G2YdO32u9nFZPgHxSw&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0f5af4a2#By AghaDani
+vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:443?security=reality&encryption=none&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&headerType=none&fp=random&spx=%2FQYP1c9H45RBRVLu&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=f5#By AghaDani
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl4.moritech.net#By AghaDani
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@193.233.217.22:4100?path=%2Fv1&security=&encryption=none&type=ws#By AghaDani
 vless://%40Cooonfig%40Cooonfig@91.107.191.29:22700?security=&encryption=none&headerType=http&type=tcp#By AghaDani
@@ -796,5 +798,3 @@ vless://00882583-1f20-4701-bfa6-05f2294b07df@5.253.38.67:40444?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#By AghaDani
 vless://4a8ad012-40d3-4c9e-9492-0844ac5b5ac5@66.33.22.234:28636?security=reality&encryption=none&pbk=tOxEV12Si-9sVy_idCdjTPrELphZZcQleyTikbP17iA&headerType=&fp=chrome&spx=%2F3381ad7521cb8d7&type=tcp&sni=b2bshop.samsung.com&sid=ede813#By AghaDani
 vless://99aa11b1-318e-41d0-b250-e239b3737869@freef35vpn-4.cncoo.ir:443?path=%2Fconnect%2F-6f0Uu7uLCa_mpjO4zb7FSlx&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=freef35vpn-4.cncoo.ir&fp=chrome&type=ws&allowInsecure=0&sni=freef35vpn-4.cncoo.ir#By AghaDani
-vless://My-chanel-Telegram-ATOVPN@185.71.219.80:15260?security=&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://1d2cded7-0930-42da-a9f9-01a7adeb1642@178.83.226.142:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#By AghaDani
