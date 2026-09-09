@@ -1,3 +1,4 @@
+vless://87a4b6b9-d269-4959-bb80-1234b46c8d06@199.232.78.159:80?path=%2F&security=none&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#By AghaDani
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#By AghaDani
 trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
 vless://XpnTeam-4@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
@@ -758,7 +759,6 @@ vless://ac9d1592-e589-4d52-886e-354bdaaf83d5@itl.mobileemdad.top:443?security=re
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.212.155:22224?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://ac9d1592-e589-4d52-886e-354bdaaf83d5@ita.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=377d#By AghaDani
 vless://ac9d1592-e589-4d52-886e-354bdaaf83d5@usa3.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&sid=377d#By AghaDani
-vless://87a4b6b9-d269-4959-bb80-1234b46c8d06@199.232.78.159:80?path=%2F&security=none&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#By AghaDani
 vless://ac9d1592-e589-4d52-886e-354bdaaf83d5@tr5.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=377d#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=chrome&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=chrome&type=grpc&serviceName=node.v2.ObjectService&sid=ed0cd5cc2e26e6e7#By AghaDani
