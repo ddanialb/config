@@ -1,3 +1,4 @@
+vless://7450e6ea-c848-47d9-bfe9-5830edeec5e0@is.hivaphone.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=is.hivaphone.ir#By AghaDani
 vless://f0c415b0-0178-4754-982e-b6ae60f50aa4@185.143.234.238:8080?path=%2Fpgcfws-r4&security=&encryption=none&host=Subscrip.caroptions.ir&type=ws#By AghaDani
 vless://f0c415b0-0178-4754-982e-b6ae60f50aa4@am.matialz.ir:443?path=%2Fpgcfws-r4&security=tls&encryption=none&host=am.matialz.ir&fp=chrome&type=ws&sni=am.matialz.ir#By AghaDani
 vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJCeSBBZ2hhRGFuaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -797,4 +798,3 @@ vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#By AghaDani
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#By AghaDani
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#By AghaDani
-vless://2db436d3-89d8-4247-8c3c-2ad68a4399bc@s1.nimatd.net:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=R5u2l7FwQ13oJAcIqq7CS2bHv1soRPRIVI5mWkIixW0&fp=chrome&type=xhttp&sni=google.com&sid=52f2852b1ef027#By AghaDani
