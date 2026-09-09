@@ -1,3 +1,4 @@
+vless://XpnTeam-70@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=anyfile2file.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#By AghaDani
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.152.223:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
 vless://a1c20ba4-5d20-4a5a-9f4f-17b52091e586@de9.bexait.ir:2434?encryption=none&security=reality&type=tcp&headerType=none&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718#By AghaDani
@@ -797,4 +798,3 @@ trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?allowInsecure
 vless://0f436873-ea53-457c-81c4-db7c9823a1a1@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=FastSvn.global.ssl.fastly.net&sni=ssl.fastly.com&fp=chrome#By AghaDani
 vless://975fc322-6e38-434b-a53c-d39fed49b9a9@47.251.108.158:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SmgYcFIvvFXW3xh4gvGhIJuQsaZvWkAylcjB6TEddEs&security=reality&sid=896f52ba2cfca903&sni=www.cloudflare.com&type=tcp#By AghaDani
 ss://YWVzLTI1Ni1nY206QXlxWDhLeW55eVFMUmVPWm9yUVJRYnN2bWl3eEJRT2Y%3D@64.83.33.45:443#By AghaDani
-vless://ed94cac8-17f7-4ec6-99c4-024bf09685f7@gsv6.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=9ed2fa#By AghaDani
