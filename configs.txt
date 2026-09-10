@@ -1,3 +1,4 @@
+vless://4bda4511-b972-46e9-9afb-1e599e1964c8@178.105.30.175:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=I_9XlI6n-7ZTND49cztVVeQMPjstFEY6IzwhxOj8HH8&security=reality&sid=1c86e9&sni=amp-api-edge.apps.apple.com&spx=%2FODv4K7zgxozo2Nt&type=tcp#By AghaDani
 vless://7aeb58b8-7817-45af-ba26-e27583bc9a8e@85.120.144.98:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sciencedirect.com&fp=qq&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&type=tcp&headerType=none#By AghaDani
 trojan://ND91608427@18.179.31.199:443?security=tls#By AghaDani
 vless://bf8c3d34-c16c-423f-8ff0-9341d6621e97@194.146.223.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blog.api.www.cloudflare.com&fp=firefox&pbk=CuGfoVwpKbDfXx5Lx657c-RpIyCJgWmd2xXsLgb5AhQ&sid=273288&spx=%2Fd2792393ed05256&type=tcp&headerType=none#By AghaDani
@@ -797,4 +798,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e.236.253.20:22223?security=&encrypti
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.19.168:8880?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev#By AghaDani
 vless://7dee9736-d32f-4ac9-f22a-831b81a0b101@190.93.244.103:8880?security=none&type=ws&host=liV2rayb.善良的闪电.monster&path=/@LIGHTNING6#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e.236.253.20:22222?security=&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://12c0a2bf-6e30-463e-8077-7f0e7cfac626.114.98.44:2053?encryption=none&security=tls&type=grpc&headerType=none&serviceName=network&authority=dll.tenqivo.ir&mode=gun&sni=dll.tenqivo.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
