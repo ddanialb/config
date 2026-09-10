@@ -1,3 +1,10 @@
+vless://bc0d3c50-612d-05fe-fa4d-bc0600000000.93.247.253:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=ez-ffc5c2.ezaccess1435739.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-ffc5c2.ezaccess1435739.workers.dev#By AghaDani
+vless://bc0d3c50-612d-05fe-fa4d-bc0600000001.21.126.11:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=ez-ffc5c2.ezaccess1435739.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-ffc5c2.ezaccess1435739.workers.dev#By AghaDani
+vless://bc0d3c50-612d-05fe-fa4d-bc0600000002.24.18.153:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=ez-ffc5c2.ezaccess1435739.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-ffc5c2.ezaccess1435739.workers.dev#By AghaDani
+vless://ef3595fb-72f4-430d-9bf8-fff90327903a-1.lunoa.ru:443?headerType=none&pbk=l8vhMtOhGEsduzrsXfFg2tq3eiKVBHRQLIm0VtbUJDs&encryption=none&fp=firefox&flow=xtls-rprx-vision&type=tcp&sid=277201d753225a01&security=reality&sni=swe-1.lunoa.ru#By AghaDani
+vless://ef3595fb-72f4-430d-9bf8-fff90327903a-1.lunoa.ru:443?sni=nl-1.lunoa.ru&security=reality&flow=xtls-rprx-vision&type=tcp&fp=firefox&encryption=none&sid=277201d753225a01&headerType=none&pbk=l8vhMtOhGEsduzrsXfFg2tq3eiKVBHRQLIm0VtbUJDs#By AghaDani
+vless://238e492b-bc20-4380-92b6-135d39112ca4.68.212.173:443?security=reality&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&fp=qq&encryption=none&sni=api8.eaglors.com&sid=52ccb3687fe0b7ec&flow=xtls-rprx-vision&headerType=none&type=tcp&spx=%2F#By AghaDani
+vless://c134103b-4a52-4a8c-86c5-99b153a5e9ea.233.53.79:30650?sid=f87b09&fp=firefox&security=reality&encryption=none&sni=play-apps-features.googleusercontent.com&type=tcp&pbk=3rEI5HCj35So-rElkivoE5G2u3iYT0eNWcFjZA73Ekw&spx=%2F02338540c001ea0&headerType=none#By AghaDani
 vmess://eyJhZGQiOiAiODUuOTAuMjE3LjQyIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJwb3J0IjogIjIyMzI0IiwgInNjeSI6ICJhdXRvIiwgInYiOiAiMiIsICJuZXQiOiAicmF3IiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YjogIkBuZWtvcGluZ2JvdF85ODYgXHVkODNjXHVkZjBkIFx1MjZhMVx1ZmUwZiJ9#By AghaDani
 vless://c134103b-4a52-4a8c-86c5-99b153a5e9ea.233.53.79:30650?encryption=none&security=reality&sni=play-apps-features.googleusercontent.com&fp=firefox&pbk=3rEI5HCj35So-rElkivoE5G2u3iYT0eNWcFjZA73Ekw&sid=f87b09&spx=%2F02338540c001ea0&type=tcp&headerType=none#By AghaDani
 ss://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAicG9ydCI6ICIxODAiLCAic2N5IjogImF1dG8iLCAidiI6ICIyIiwgIm5ldCI6ICJyYXciLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIiwgInBzIjogIkBuZWtvcGluZ2JvdF85ODcgXHVkODNjXHVkZjBkIFx1MjZhMVx1ZmUwZiJ9#By AghaDani
@@ -791,10 +798,3 @@ vless://afe143cb-76e2-4202-995d-da09f07b0cd9@www.speedtest.net:443?path=%2FeyJqd
 vless://7776e69b-fec4-4f52-b905-22ef016dc599.143.233.238:8080?encryption=none&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=is.asrarshimi.ir#By AghaDani
 vless://7776e69b-fec4-4f52-b905-22ef016dc599.9.209.245:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=uu.hivaphone.ir#By AghaDani
 vless://7776e69b-fec4-4f52-b905-22ef016dc599.143.233.238:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=is.asrarshimi.ir#By AghaDani
-vless://7776e69b-fec4-4f52-b905-22ef016dc599.154.150.70:8080?encryption=none&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=is.asrarshimi.ir#By AghaDani
-vless://7776e69b-fec4-4f52-b905-22ef016dc599.237.81.88:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=fr.netnoor.ir#By AghaDani
-vless://7776e69b-fec4-4f52-b905-22ef016dc599.143.233.238:8080?encryption=none&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=Subscrip.caroptions.ir#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphVnBmTjZKMTRvOVJBY3JtWE5IZmxfck9oRFlKbWVjRw==.1.1.1:1080#By AghaDani
-vless://7776e69b-fec4-4f52-b905-22ef016dc599.9.198.202:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=un.hivaphone.ir#By AghaDani
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.5.154:2083?security=tls&sni=hk667.ylks.link&type=ws&path=%2F%3Fproxyip#By AghaDani
-vless://7776e69b-fec4-4f52-b905-22ef016dc599.143.234.238:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fpgcfws-r4&host=Subscrip.caroptions.ir#By AghaDani
