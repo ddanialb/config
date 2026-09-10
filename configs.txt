@@ -1,3 +1,4 @@
+vless://c1f840b9-84fc-4c8c-ba1b-646869079d8b@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=skyfarst.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#By AghaDani
 vless://238e492b-bc20-4380-92b6-135d39112ca4.154.193.137:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=api8.eaglors.com&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&sid=52ccb3687fe0b7ec&spx=/#By AghaDani
 vless://5cae0a32-97ea-4c2c-93a7-68784040656e.60.193.152:16944?encryption=none&security=reality&sni=afr-data-15.myket.ir&fp=chrome&pbk=qNy1QNp60ucO-KKIbM8-mEwCKyFo1J3Z31EqyTxsMFA&sid=4c454a41e4090aff&spx=%2F&type=tcp&headerType=none#By AghaDani
 vless://238e492b-bc20-4380-92b6-135d39112ca4.154.193.137:443?security=reality&encryption=none&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api8.eaglors.com&sid=52ccb3687fe0b7ec#By AghaDani
@@ -797,4 +798,3 @@ vless://12aa4a28-ef6a-49f2-9e16-4ad8fc34a6af.neninet.ir:42813?security=none&encr
 vless://76a36564-7eae-455b-ad80-c5a24536b3d5.232.78.159:443?path=%2F&security=tls&encryption=none&host=towndtime.global.ssl.fastly.neT.&type=ws&sni=ssl.fastly.com#By AghaDani
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277.90.105.210:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWhGNFJXcW9oVHBiVmF1.234.82.250:443#By AghaDani
-vless://2f0d88db-ec99-4348-94df-9877955622ba.128.224.1:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zz.irangame.lifestyle&fp=chrome&type=ws&allowInsecure=0&sni=zz.irangame.lifestyle#By AghaDani
