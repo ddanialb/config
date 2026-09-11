@@ -1,3 +1,4 @@
+vless://4dc73b6c-ed9e-4d40-8f3f-ebd15d8e702e@193.222.99.226:8545?security=reality&encryption=none&pbk=VpalqjubUqVrLmgjSjR6lKVXDierUncli66LeIyIO0M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=e98c63b3c1a5d204#By AghaDani
 vless://5e2be2b4-8af5-4d18-a15c-d4cb4b1d6ae6@104.27.13.230:8443?path=%2F&security=tls&encryption=none&insecure=1&host=shopki.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=1&sni=shopki.dearhossein-taktaz.ir#By AghaDani
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449#By AghaDani
 vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#By AghaDani
@@ -797,4 +798,3 @@ vless://619f468b-98d8-4d63-8064-495419944317-node-production-d125.up.railway.app
 vless://ee80dce9-3102-4afb-bb88-1f153bfd3ed2.wallkingdead.ir:2063?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#By AghaDani
 vless://999a8e4e-f13a-411e-b0db-e7753d982efd.232.78.159:80?encryption=none&type=ws&host=yaSharClass.global.ssl.fastly.net&security=none&path=%2F#By AghaDani
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@194.34.175.218:443?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=localhost#By AghaDani
-vless://ee80dce9-3102-4afb-bb88-1f153bfd3ed2.miniseries.ir:2019?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#By AghaDani
