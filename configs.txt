@@ -1,3 +1,5 @@
+vless://fa80d79a-0410-4e1c-8bc1-1f855e794860@91.107.187.45:2087?encryption=none&fp=&pbk=-TYsz4fk-n5bQw9DW0fPxhXiwnXFq61rSFkSpjcLrVY&security=reality&sid=313bef465a6de318&sni=play.google.com&type=tcp#By AghaDani
+vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@72.56.238.46:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=74pbcWZE8Ne6iYrsl_31qy_pWKRrILQiAWfZs2IuGR0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fin.sdssh-vid.online&sid=7e0f2634090e768b#By AghaDani
 vless://60fae325-a057-4c4a-bbea-948972d74327.proxy.rlwy.net:29877?path=%2F&security=none&encryption=none&type=ws#By AghaDani
 vless://1577b744-8004-4eef-862c-8cae0cd27ab9-2.starsping.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=edge&spx=%2F&type=xhttp&sni=www.icloud.com&sid=a88550765b9956ee#By AghaDani
 trojan://humanity.114.97.7:443?ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&insecure=0&path=%2Fassignment&sni=www.ignitelimit.com&allowInsecure=0&security=tls&type=ws#By AghaDani
@@ -796,5 +798,3 @@ vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=security.debian.org#By AghaDani
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&security=reality&sid=c84f&sni=deepl.com&type=tcp#By AghaDani
 vless://2b6d9d65-22d8-4ae7-9d75-475d309f3f5f@107.161.174.238:25800?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.ko8OoSK6H3DPQIoXWCYfX5l5W1-YmAkEWiTZJkd_TFo&host=play.google.com&type=ws#By AghaDani
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&encryption=none&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&sni=dey.lnmarketplace.net#By AghaDani
-vless://a1e98859-1c77-49d9-a2aa-df8756ffb300@46.102.132.11:19196?security=none&type=tcp&host=speedtest.net&headerType=http#By AghaDani
