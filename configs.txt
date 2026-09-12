@@ -1,3 +1,6 @@
+vless://3b6a9df3-f1d1-4bc1-94a5-0d8f2d5512b1@datpol.2clash.ru:443?security=reality&encryption=none&pbk=QOT8VdR2idgWURLucBQrAMtWtsEx1gfO8AcPEj7xhCU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=32445654#By AghaDani
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#By AghaDani
+vless://6030877e-32a0-4f16-b65e-92e076f9e3f9@47.79.32.249:443?security=reality&encryption=none&pbk=5-5-JEuwU97zcy-IJg32zruuHAOZ-85DM0YhRmzWbG4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=25d14b49bd77142e#By AghaDani
 vless://2e274cd1-3e74-4505-a878-590088561b60@media-dan1.team-pluss.ir:12345?security=reality&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&pbk=1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=2b368990a94e8cbb#By AghaDani
 vless://3b6a9df3-f1d1-4bc1-94a5-0d8f2d5512b1@188.225.27.78:443?security=reality&encryption=none&pbk=Rf2jgZShaYRQ2kh9nF79eB2KFcIdiYHwPWJyFKA_CWU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru#By AghaDani
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#By AghaDani
@@ -795,6 +798,3 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?Telegram=Cf
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.130.157:22223?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://d915fba6-d776-c48b-bd75-ce5b62a88648@x4g-production-9cd5.up.railway.app:443?path=%2Fws%2Fd915fba6-d776-c48b-bd75-ce5b62a88648&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-9cd5.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=x4g-production-9cd5.up.railway.app#By AghaDani
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0.204.233.41:8882#By AghaDani
-trojan://humanity.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.252.3:22223?encryption=none&security=none&type=tcp#By AghaDani
-vless://f1540fde-c5e2-4997-a9af-09dbff03a005@3kdsh3r8.selqora.ir:10847?security=reality&encryption=none&pbk=pir-zwp49OwLL_qRppMkl6bBlv1im9HFgbkddT-_r0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pio.hosting&sid=8ea4f847603a0be5#By AghaDani
