@@ -1,3 +1,6 @@
+trojan://M%69TiVPN@151.101.56.101:443?path=%40bored_vpn&security=tls&alpn=http%2F1.1&insecure=0&host=m%69tivpn---ss--s---m%69tivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
+vless://77330700-c6ce-424d-a8af-c36cf44fb4b0@91.99.7.24:443?security=none&encryption=none&host=www.google.com&headerType=http&type=tcp#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#By AghaDani
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvbmUuY2YuY2RuLmh5bGkueHl6IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIxODAiLCJwcyI6IkJ5IEFnaGFEYW5pIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#By AghaDani
@@ -122,7 +125,6 @@ vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@62.233.39.9:443?path=%2F&security=r
 vless://56ff50da-a238-4646-95ab-dd159634bd87@ru01.arpanet-cdn.com:8200?security=reality&encryption=none&pbk=3n5BtFuKdmxnispMzyAAsVthJxUnUZPPOJFcn_J__g4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru01.arpanet-cdn.com#By AghaDani
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@138.68.67.189:11186?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#By AghaDani
 vless://XpnTeam-23@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
-vless://77330700-c6ce-424d-a8af-c36cf44fb4b0@91.99.7.24:443?security=none&encryption=none&host=www.google.com&headerType=http&type=tcp#By AghaDani
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:443?path=%2F&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=xhttp&sni=www.epson.com#By AghaDani
 trojan://MiTiVPN@151.101.56.101:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fdes---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 trojan://MiTiVPN@167.82.76.7:443?security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
@@ -224,7 +226,6 @@ vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?path=%2F4bc027a
 vless://530868e7-d788-4595-b2d6-6a40c098164d@themeforest.net:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=crimson-sea-a4bb.343-1a7.workers.dev&packetEncoding=xudp#By AghaDani
 vless://7111212b-6bc3-459a-85b4-3b13038a19f8@cf6.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian&host=shrill-fog-67af.235-e6a.workers.dev&packetEncoding=xudp&encryption=none#By AghaDani
 vless://7e083480-e6f2-44ef-bc3b-c254a7f8bb83@150.241.65.206:443?encryption=none&type=xhttp&mode=auto&path=/api/v2/telemetry&security=reality&fp=firefox&sni=logs.medic-ml.ru&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&sid=e1ac2faf5e5f309e#By AghaDani
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
 vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?path=%2F&security=none&encryption=none&host=neth8.lunariai.ru&type=ws#By AghaDani
 vless://1563ad16-9ac7-4214-8eb7-303f745efb07@themeforest.net:8880?path=/pyip&security=&encryption=none&host=silent-cake-fb8d.69-a76.workers.dev&type=ws#By AghaDani
 trojan://humanity@216.24.57.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
@@ -797,4 +798,3 @@ vless://12af43c3-84b4-4248-878b-b75f35835487@204.168.195.30:51185?security=reali
 vless://c766b687-144e-4696-8cc8-d93f8c207d90@favmhd.deakhemashtiiirann.online:2020?security=reality&encryption=none&pbk=01TmVsvbmbveLx8HyqYg04RidqRBZg3fUYLre4kG7Ao&headerType=none&fp=chrome&type=tcp&sni=jetbrains.com&sid=21e093a23ee93e47#By AghaDani
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@104.245.242.8:8443?type=grpc&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&security=reality&fp=chrome&authority=%2FTELEGRAM-madshopx&serviceName=TunService&sni=download.nvidia.com&mode=gun#By AghaDani
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?type=grpc&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&security=reality&fp=chrome&serviceName=TunService&sni=download.nvidia.com&mode=gun#By AghaDani
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?type=xhttp&mode=auto&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&encryption=none&security=reality&fp=chrome&sni=download.nvidia.com&path=%2F#By AghaDani
