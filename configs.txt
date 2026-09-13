@@ -1,3 +1,5 @@
+vless://993cd4f7-c8b6-4de2-a594-c9eb13913bc7@tr-t1.easyodin.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#By AghaDani
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@89.47.55.9:8443?mode=gun&security=reality&encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=grpc&serviceName=TunService&sni=download.intel.com#By AghaDani
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.97.8:443?path=%2F&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=xhttp&sni=download.nvidia.com#By AghaDani
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=grpc&serviceName=TunService&sni=www.epson.com#By AghaDani
@@ -84,7 +86,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.112.22:22222?security=none&e
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#By AghaDani
 vless://1443b7a1-7ba9-4ec9-b904-2e867367b5d7@172.67.208.1:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=odd-violet-5440.asdgrweeee13.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=odd-violet-5440.asdgrweeee13.workers.dev#By AghaDani
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.195.30:8880?path=%2F&security=none&encryption=none&host=vms.lifetime38.workers.dev&type=ws#By AghaDani
-vless://993cd4f7-c8b6-4de2-a594-c9eb13913bc7@tr-t1.easyodin.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?path=%2F4bc027a44532&security=&encryption=none&type=ws#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.22.53:22222?encryption=none&security=none&type=tcp#By AghaDani
 vless://b33e4571-de3f-4249-b246-b2acf3db2f36@23.172.120.194:9000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=sheets.google.com&sid=cd0a1986719e44c8#By AghaDani
@@ -132,7 +133,6 @@ vless://7e083480-e6f2-44ef-bc3b-c254a7f8bb83@147.45.61.56:443?path=%2Fapi%2Fv2%2
 vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#By AghaDani
 vless://42d932cb-8768-41de-b57b-299252a493d2@193.160.71.249:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=edge-uk2.mystatic-cdn.ru&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&sid=ee169e93d3c277a1#By AghaDani
 vless://0d4fd99b-06ae-4ee2-fee2-fda93a9434f1@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#By AghaDani
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#By AghaDani
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#By AghaDani
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?path=%2F4bc027a44532&security=none&encryption=none&type=ws#By AghaDani
