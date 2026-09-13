@@ -1,3 +1,4 @@
+trojan://humanity@213.182.199.137:443?path=%2Fassignment&insecure=0&fp=chrome&host=www.pleadcourt.org&type=ws&security=tls&alpn=http%2F1.1&allowInsecure=0&sni=www.pleadcourt.org#By AghaDani
 vless://279a8eef-898f-44ef-b4f5-67a494f4b542@77.233.213.106:40443?security=reality&encryption=none&pbk=vAG5o6TQvpZAlvDnlyhHEFZBuSgEV_ybQigD_mGKh1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=5b98#By AghaDani
 vless://78b74194-c6fc-481b-82ef-512ed70329d1@144.31.17.66:443?security=reality&encryption=none&pbk=Kit4AiOzaBN_zhhwe8eU9SHexYW4fwAo20MnDbjPEWc&headerType=none&fp=chrome&type=tcp&sni=www.upwork.com&sid=c7514dbbd2af28b5#By AghaDani
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.252.237:2096?security=tls&sni=jp667.ylks01.eu.org&type=ws&path=/blue#By AghaDani
@@ -797,4 +798,3 @@ vless://1577b744-8004-4eef-862c-8cae0cd27ab9@de-2.starsping.com:443?encryption=n
 vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect6.nyxserver.ir:8446?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVGdVc21PQkNYakczSl83dkFqWmNR@38.242.202.36:4408#By AghaDani
 trojan://Z8pbAsQ6Ls@95.182.90.117:53?security=none&seed=rWO6wT4oAj&headerType=dns&type=kcp#By AghaDani
-vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8.137.192.241:443?fp=firefox&flow=xtls-rprx-vision&sni=pl.sdssv-vid.online&headerType=none&encryption=none&security=reality&sid=d74a5340e604148e&pbk=NuS0Su5ozBXBDDBEeBHc2AaeL4qRxK-w9SN4t0VP8Bs&type=tcp#By AghaDani
