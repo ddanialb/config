@@ -1,3 +1,5 @@
+vless://b96d18f1-eb38-47e9-ae79-42e78fcc0ff8@kia.ipsafe2.site:24329?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
+vless://1a67126c-b9c4-4e78-b96e-eabd4002ab0c@p4mhflzkouf53uhb82b2.tulfexa.ir:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=Bj9X3UJ2D5Q14wfBOwTz3s09SkFRVgMKTcn93s6kNHo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=8c0d541cdfe5e68d#By AghaDani
 trojan://MiTiVPN@199.232.78.160:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#By AghaDani
 vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@150.241.75.198:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv1.hat.onl&sid=76132b3b39704c44#By AghaDani
@@ -796,5 +798,3 @@ vless://8c561eb2-f643-49ce-b5b6-81690ec268c0@b2n.ir:2087?mode=auto&path=%2FFiShC
 vless://9a199224-c098-4e0c-89de-98c8892567cb@155.46.213.182:443?alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.x0MOFDivxkBiSqE5Ifj89Dr-FfMabYepWtVFMTjMgzI&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=daredevil.manufacturingcity.ir&mode=auto&path=%2FTelegramChannel%3A%40daredevil_404&security=tls&sni=daredevil.manufacturingcity.ir&type=xhttp&x_padding_bytes=100-1000#By AghaDani
 vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@s.yourvibe.my:443?mode=auto&path=%2Fmedia%2Fa32a5d&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0#By AghaDani
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.240.214:80?security=none&type=ws&host=us3.rtacg.com&path=/#By AghaDani
-vless://8b4c8451-7428-4372-99f1-e51bca938631@104.16.61.8:2086?security=none&type=ws&host=a1.virankade.site&path=/#By AghaDani
-vless://f9a53aa5-774e-4556-b2b7-d8b57b423b97@yellow-breeze-989b.348-9b8.workers.dev:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&encryption=none&type=ws#By AghaDani
