@@ -1,3 +1,4 @@
+vless://7bafeb9d-06ba-4c43-94f5-b8666354d1c6@80.96.112.163:443?mode=auto&path=%2Fpatch&security=reality&encryption=none&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&fp=firefox&type=xhttp&sni=rom.skysafe.online&sid=6ba7b8109dad11d1#By AghaDani
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=%2F%3FTELEGRAM-TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#By AghaDani
 vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@95.85.228.65:443?security=reality&encryption=none&pbk=PfG1V1-ODHD8CegoTVg8m4G4mw5S1QiA751yWKCkhBc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl1.hat.onl&sid=054602d818379876#By AghaDani
 vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@64.188.80.82:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fi1.hat.onl&sid=76132b3b39704c44#By AghaDani
@@ -797,4 +798,3 @@ vmess://eyJhZGQiOiIxMDQuMTYuMzIuMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@89.47.55.9:443?path=%2F&security=reality&encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=xhttp&sni=download.intel.com#By AghaDani
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@62.233.39.9:443?path=%2F&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=chrome&type=xhttp&sni=dl.dell.com#By AghaDani
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@138.68.67.189:11186?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#By AghaDani
-vless://XpnTeam-23@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
