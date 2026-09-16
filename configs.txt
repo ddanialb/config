@@ -1,3 +1,5 @@
+vless://bc272292-77b8-4ee3-9aa9-3df3018788ea@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=FastSvn.global.ssl.fastly.net&sni=ssl.fastly.com&fp=chrome#By AghaDani
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.86.165:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#By AghaDani
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.57:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#By AghaDani
 vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?mode=auto&path=%2Fapi%2Fv1%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=safari&type=xhttp&allowInsecure=0&sni=lt26.cdnfern.org#By AghaDani
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&host=%2F%3FTELEGRAM--V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#By AghaDani
@@ -796,5 +798,3 @@ vless://c2e317b0-0847-4579-9b78-7b678634ffc4@cctvhikvision.center:2052?encryptio
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.169.54.16:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cdn8848.776676.xyz&path=%2Fpicture&security=tls&sni=cdn8848.776676.xyz&type=ws#By AghaDani
 vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.59.248:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#By AghaDani
 trojan://MITIVPN@151.101.56.7:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22s.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
-vless://32721515-985b-4773-9e70-5d2e1b88a060@212.16.92.112:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#By AghaDani
-vless://18555f9e-9a8d-4f95-a70f-54910292fabc@77.239.112.241:43429?encryption=none&fp=&pbk=Q8SGL5DI3ZxostwfuYBdqpwxo8dzb-W3-T2_8Nf6Zno&security=reality&sid=e91a88be55a76c63&sni=it.nvidia.com&type=grpc#By AghaDani
