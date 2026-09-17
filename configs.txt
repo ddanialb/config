@@ -1,3 +1,4 @@
+vless://595aabd5-6924-4c59-bbd9-cf83dabe7ab6@2.189.59.2:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#By AghaDani
 vless://57e2a48b-0cc2-4b60-aacd-b36358fcba96@2.27.205.218:443?security=reality&encryption=none&pbk=DiJo9V7cQ2_dIPXjFjAEFMeLUemQmWpcbTs6ARNh7gg&fp=firefox&type=grpc&serviceName=grpc&sni=4pda.to&sid=9f3a1c7b#By AghaDani
 vless://7e0faccc-1d74-4ddf-bbdf-7258e155115d@united.macau24.com:2565?path=%2Fapi%2Fv1%2Fgpu-stream%2Fsocket%3Fed%3D2560&security=none&encryption=mlkem768x25519plus.native.0rtt.OZkVYz6Uu5zyCKee6bqFh5SbH0yByTD-2jaNO0Y5Uyo&host=play-apps-features.googleusercontent.com&type=ws#By AghaDani
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@45.88.13.5:8443?mode=gun&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#By AghaDani
@@ -797,4 +798,3 @@ vmess://ewogICAgInYiOiAiMiIsCiAgICAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwK
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#By AghaDani
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@195.133.73.65:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#By AghaDani
