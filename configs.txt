@@ -1,3 +1,4 @@
+vless://859a8187-86ca-447a-bb88-7eef624d832f@test.netfa360.ir:10265?type=tcp&encryption=mlkem768x25519plus.native.0rtt.ej79qYWofIwiySjKHulae3PuxzpTQM8GIg9yG1QyBE0&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=test.netfa360.ir#By AghaDani
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?path=%2F&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=xhttp&sni=www.epson.com#By AghaDani
 vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:8443?security=tls&encryption=none&insecure=0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=neth4.lckdwn.ru#By AghaDani
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?path=%2F&security=reality&encryption=none&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#By AghaDani
@@ -797,4 +798,3 @@ vless://ccacaabf-f43d-4397-b9d1-1b6a61010906@zula.ir:8080?security=&type=ws&path
 trojan://Telegram_healer_config@188.114.97.3:443?path=%2Ftr%2Fox5zBiRQjs2Rscy0XwxXY2ZzE%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev#By AghaDani
 hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52023?security=tls&obfs=salamander&obfs-password=detgimgm8qh8i2g2&insecure=0&sni=assets.gateway-stream.com#By AghaDani
 vless://V2XNET@188.114.98.0:443?path=%2Fxvpnws%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=or.mirikhan.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=or.mirikhan.dpdns.org#By AghaDani
-ss://chacha20-ietf-poly1305:p20Y6AFEN1pS7LJX@94.245.88.26:443#By AghaDani
