@@ -1,3 +1,4 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.185:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#By AghaDani
 vmess://eyJ2IjogIjIiLCAiYWRkIjogInJ1c3NpYS5jb20iLCAicG9ydCI6ICIyMDk1IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJiN2M1NjE3MC1lZGI0LTRjNGEtYmI2NC1lZDVlZjQwYjg3MzkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIiwgImhvc3QiOiAic3NzdWIudjIuMDAxLnNzcnN1Yi5jb20iLCAidGxzIjogIiIsICJwcyI6IFvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSJ9#By AghaDani
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#By AghaDani
 vmess://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiOWI1ZjBkOGYtNWQxYy00YzFlLWJmM2MtMzliODY1YjIzY2YzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSJ9#By AghaDani
@@ -797,4 +798,3 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&e
 vless://801e9727-b08c-4de0-85de-03307fc32935@70.34.197.89:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=Figma.com&fp=chrome&pbk=NUZo5tzBqPtKtKiOqI1QD9vIi4ApAFgHpOVM73kjPnU&sid=c34b2da45a7dc973#By AghaDani
 vless://801e9727-b08c-4de0-85de-03307fc32935@1111:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&mode=auto&sni=nx4nnsjakzk.fastserverippanel.online#By AghaDani
 trojan://humanity@104.16.174.72:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
-vless://801e9727-b08c-4de0-85de-03307fc32935@212.87.199.43:443?encryption=none&security=reality&type=tcp&headerType=none&sni=adl.windows.com&fp=chrome&pbk=MQwKv7mfS-Rd1h3cDtteSq5r8buY-EskhxLb2OA-LCE&sid=3149ce78f70b78fe#By AghaDani
