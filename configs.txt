@@ -1,3 +1,5 @@
+vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.86:443?security=reality&type=tcp&packetEncoding=xudp&sni=cdnjs.com&fp=qq&flow=xtls-rprx-vision&sid=17d334ad29b2ff40&pbk=E1te_g9q6EWQVOCgjwI4PF-cml9qqW7OEAf33tYkUxQ#By AghaDani
+vmess://ewogICAgInYiOiAiMiIsCiAgICAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwKICAgICJhZGQiOiAiaXJjLmphaGFuY2xvdWQuY2ZkIiwKICAgICJwb3J0IjogNDQzLAogICAgImlkIjogIjc5ZTM3YjE4LWMxOWQtNDQ0MS04OWIyLWRiYmQwMjk4M2JiMyIsCiAgICAibmV0IjogInRjcCIsCiAgICAidHlwZSI6ICJub25lIiwKICAgICJhaWQiOiAwLAogICAgImFscG4iOiAiIiwKICAgICJmcCI6ICIiLAogICAgInRscyI6ICJub25lIgp9#By AghaDani
 vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@104.17.148.22:443?security=tls&sni=sALAm-wOrD.pagEs.deV.&type=ws&host=saLaM-Word.PaGeS.Dev.&fp=chrome&alpn=h2,http/1.1#By AghaDani
 vless://a5ae3d6d-77e1-44c7-b07f-2b51dbc56517@ua-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#By AghaDani
 vless://Bia_too_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#By AghaDani
@@ -545,7 +547,6 @@ vless://2f2c86cb-b428-4c84-96cb-a273c4757761@neth28272738sca.resiranha.ir:4202?s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTzhlUWpXQVVWTDYxVG9VS1VjOUJaazBxblBOZko3bw==@77.92.151.68:13323#By AghaDani
 vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.244:443?security=tls&sni=nb.lovecf.ggff.net&type=ws&host=nb.lovecf.ggff.net&path=%2Fproxyip%3Dus.xiabibi.cf&fp=chrome#By AghaDani
 vless://ef805ed2-2a94-4a8c-878c-18fb8a51f4ed@jap.mguard-pro.com:443?security=reality&encryption=none&pbk=8IWU6IX0N1fGtdOrg4URBvF-7lNBUhxNJ-QP9juvAkk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=b826977e630ea7b7#By AghaDani
-vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.86:443?security=reality&type=tcp&packetEncoding=xudp&sni=cdnjs.com&fp=qq&flow=xtls-rprx-vision&sid=17d334ad29b2ff40&pbk=E1te_g9q6EWQVOCgjwI4PF-cml9qqW7OEAf33tYkUxQ#By AghaDani
 vless://bc0657a8-9d4a-4d5d-91ef-0c7b306bc685@45.135.194.220:443?security=reality&encryption=none&pbk=Kit4AiOzaBN_zhhwe8eU9SHexYW4fwAo20MnDbjPEWc&headerType=none&fp=chrome&type=tcp&sni=Miro.com&sid=c7514dbbd2af28b5#By AghaDani
 vless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@172.67.137.154:443?encryption=none&security=tls&sni=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&fp=chrome&type=ws&host=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&path=%2Fws#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTzhlUWpXQVVWTDYxVG9VS1VjOUJaazBxblBOZko3bw@45.135.194.220:14044#By AghaDani
@@ -797,4 +798,3 @@ vless://1ec9239a-4174-4496-800b-5756bdf21041@31.56.189.213:8443?mode=auto&path=%
 vless://a5469633-b780-4e13-815b-fa72582f8c4e@79.175.133.135:41754?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#By AghaDani
 trojan://moist@154.197.121.253:443?path=/?ed=2560&security=tls&host=trojan.freenods.sbs&type=ws&sni=trojan.freenods.sbs#By AghaDani
 vless://a285ca60-a9ec-4470-9914-2edabb6a3449@2.189.59.2:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#By AghaDani
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.221:22222?security=none&encryption=none&host=%2Fmade_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------&headerType=none&type=tcp#By AghaDani
