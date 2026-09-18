@@ -1,3 +1,8 @@
+vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@104.17.148.22:443?security=tls&sni=sALAm-wOrD.pagEs.deV.&type=ws&host=saLaM-Word.PaGeS.Dev.&fp=chrome&alpn=h2,http/1.1#By AghaDani
+vless://a5ae3d6d-77e1-44c7-b07f-2b51dbc56517@ua-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#By AghaDani
+vless://Bia_too_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#By AghaDani
+vmess://eyJhZGQiOiAidWsyLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJlMzY0Yjc4Ny02NTQ1LTQyZGQtYWFhNC05ZWU3NmZkMjFlODkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1JBQ0VWUE4iLCAicG9ydCI6ICI0NDMiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=#By AghaDani
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.214.235:22223?encryption=none&security=none&type=tcp#By AghaDani
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
 trojan://humanity@104.16.72.41:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
 vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
@@ -553,7 +558,6 @@ vless://bc0657a8-9d4a-4d5d-91ef-0c7b306bc685@77.92.151.68:443?security=reality&e
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYW5tMXdvdWFlaWM5ZGIz@181.215.18.196:1080#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.214.235:22222?encryption=none&security=none&type=tcp#By AghaDani
 vless://b2a788b3-6692-4dc3-b42b-01903a541789@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.214.235:22223?encryption=none&security=none&type=tcp#By AghaDani
 vless://bc0657a8-9d4a-4d5d-91ef-0c7b306bc685@176.65.151.240:57828?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#By AghaDani
 vless://e10f8bb6-d7d5-4a6f-85e0-717cc561c1a6@185.143.234.238:80?encryption=none&security=none&type=ws&host=iss.asrarshimi.ir&path=%2Fpgcfws-r4#By AghaDani
 vless://bc953469-14e8-4536-afbd-56dc8edf138a@194.59.215.131:672?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#By AghaDani
@@ -794,7 +798,3 @@ vless://a5469633-b780-4e13-815b-fa72582f8c4e@79.175.133.135:41754?security=none&
 trojan://moist@154.197.121.253:443?path=/?ed=2560&security=tls&host=trojan.freenods.sbs&type=ws&sni=trojan.freenods.sbs#By AghaDani
 vless://a285ca60-a9ec-4470-9914-2edabb6a3449@2.189.59.2:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.71.221:22222?security=none&encryption=none&host=%2Fmade_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------&headerType=none&type=tcp#By AghaDani
-ss://M2QzYjE1OWQtZTMxMy00YjRmLWIyNDgtOTliZjEwNjQxNzVhOg==@zula.ir:80#By AghaDani
-trojan://telegram-id-directvpn@3.137.42.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#By AghaDani
-vless://bcc2f72f-62ea-4d2d-914a-8a6ae5409724@78.159.245.188:6443?security=reality&encryption=none&pbk=o-QrksJtRE_UOjwUEAkN_T_3wo8HWXFo5F97BOmzKAw&host=%2Fmade_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------made_in_star------&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=docs.helpscenter.xyz&sid=4c2f8435d7555b76#By AghaDani
-vless://2c129310-f000-4b54-a036-ff7b9449a0ae@de.privatevip.ir:80?encryption=mlkem768x25519plus.native.0rtt.DV9mMIM1pLfPeR4E3BIV_tuxHRsXYCgzGAZ839k0oDY&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=de.privatevip.ir&mode=auto&path=%2F&pbk=sryNiFJGn0cTnUYpCREczkYtNgvgbN46jzstj5SKbmo&security=reality&sid=cf3ff33a91&sni=play-apps-features.googleusercontent.com&spx=%2F76ea42af09218c9&type=xhttp&x_padding_bytes=100-1000#By AghaDani
