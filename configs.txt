@@ -1,3 +1,7 @@
+vless://2dca2997-94f1-476c-bff8-f5a81f0ba2cf@prime.vorchi.eu:25354?insecure=0&allowInsecure=0&headerType=none&type=tcp&security=tls&alpn=h2%2Chttp%2F1.1&sni=t1.vorchi.eu&fp=chrome&encryption=none#By AghaDani
+vless://2dca2997-94f1-476c-bff8-f5a81f0ba2cf@prime.vorchi.eu:14987?encryption=none&fp=chrome&pbk=NOdtotQXwRzLJOBJzg19fJS4eHBlIlEab9wS8PmZaDE&security=reality&sid=023db830cf2b&sni=www.nvidia.com&type=grpc&spx=%2F72ba5d27e83469e#By AghaDani
+trojan://MiTiVPN@151.101.56.7:443?security=tls&alpn=http%2F1.1&host=mitivpn---de--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#By AghaDani
+trojan://MiTiVPN@199.232.78.188:443?security=tls&alpn=http%2F1.1&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#By AghaDani
 vless://96be3432-b9e8-4c93-b7a9-3acca5574dd3@x.t1.rzfp.ir:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=www.goo.gl#By AghaDani
 vless://96be3432-b9e8-4c93-b7a9-3acca5574dd3@m.n2.rzfp.ir:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=www.goo.gl#By AghaDani
 vless://96be3432-b9e8-4c93-b7a9-3acca5574dd3@m.n1.rzfp.ir:8443?encryption=none&security=reality&type=tcp&headerType=none&sni=www.goo.gl&fp=chrome&pbk=Od26H7_yIOnMYOyZ2vslmsd3IDoWKo3vV5kVom9OxU0&sid=377d#By AghaDani
@@ -192,8 +196,6 @@ vless://eea1c59d-70fd-4829-8ed7-21ddfe55a0da@185.62.1.8:8118?security=reality&en
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@188.114.97.6:443?security=tls&encryption=none&host=llm-api.sofurry.dpdns.org&type=ws&sni=llm-api.sofurry.dpdns.org#By AghaDani
 trojan://MiTiVPN@199.232.78.160:443?security=tls&alpn=http%2F1.1&host=mitivpn---us--s---mitivpn-1.global.ssl.fastly.net&fp=firefox&type=ws&sni=ssl.fastly.com#By AghaDani
 trojan://MiTiVPN@151.101.56.9:443?security=tls&alpn=http%2F1.1&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#By AghaDani
-trojan://MiTiVPN@199.232.78.188:443?security=tls&alpn=http%2F1.1&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#By AghaDani
-trojan://MiTiVPN@151.101.56.7:443?security=tls&alpn=http%2F1.1&host=mitivpn---de--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#By AghaDani
 vless://168d58f6-cb16-427e-88f3-02bc42b23560@62.60.219.25:2096?path=%2F&security=tls&alpn=h2&encryption=none&fp=chrome&type=ws&sni=t-1.digikalamagg.com#By AghaDani
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@surstreming.vvzzkontaktezzvv.garden:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=surstreming.vvzzkontaktezzvv.garden&sid=fb442438e2223836#By AghaDani
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
@@ -796,5 +798,3 @@ vless://c6ba83a7-c4b5-481f-8f71-0f17deff0bf2@billowing-sunset-e340.qaraatayi.wor
 trojan://humanity@45.130.125.160:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#By AghaDani
 vless://b5d6221d-e3ad-4453-b5c6-8bf7ccaa7aa5@144.31.159.86:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=de3.duck-proxy.com&type=tcp#By AghaDani
 vless://04cb9c0f-363c-4bf8-a195-2cb8bd43b02a@o.server5peekconfig.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=o.server5peekconfig.workers.dev&path=%2FeyJqdW5rIjoiSU9LdXp3R1p6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&type=ws#By AghaDani
-vless://0774160b-be44-4781-aad7-1a1745a36659@51.68.215.88:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=x-oA2H8zwILFq4PCZvvJPzUlawE2ADkVUXG3h9m2-hg&security=reality&sid=6337fd42719a0912&sni=www.icloud.com&type=tcp#By AghaDani
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&security=reality&sid=b390e0a721d242b0&sni=www.icloud.com&type=tcp#By AghaDani
