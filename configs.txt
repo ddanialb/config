@@ -1,3 +1,7 @@
+vless://96be3432-b9e8-4c93-b7a9-3acca5574dd3@x.t1.rzfp.ir:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=www.goo.gl#By AghaDani
+vless://96be3432-b9e8-4c93-b7a9-3acca5574dd3@m.n2.rzfp.ir:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=www.goo.gl#By AghaDani
+vless://96be3432-b9e8-4c93-b7a9-3acca5574dd3@m.n1.rzfp.ir:8443?encryption=none&security=reality&type=tcp&headerType=none&sni=www.goo.gl&fp=chrome&pbk=Od26H7_yIOnMYOyZ2vslmsd3IDoWKo3vV5kVom9OxU0&sid=377d#By AghaDani
+vless://96be3432-b9e8-4c93-b7a9-3acca5574dd3@m.n1.rzfp.ir:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=www.goo.gl#By AghaDani
 vless://96be3432-b9e8-4c93-b7a9-3acca5574dd3@m.f2.rzfp.ir:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=www.goo.gl#By AghaDani
 vless://96be3432-b9e8-4c93-b7a9-3acca5574dd3@k.f1.rzfp.ir:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=www.goo.gl#By AghaDani
 trojan://MiTiVPN@151.101.56.9:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
@@ -794,7 +798,3 @@ vless://b5d6221d-e3ad-4453-b5c6-8bf7ccaa7aa5@144.31.159.86:443?alpn=http%2F1.1&e
 vless://04cb9c0f-363c-4bf8-a195-2cb8bd43b02a@o.server5peekconfig.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=o.server5peekconfig.workers.dev&path=%2FeyJqdW5rIjoiSU9LdXp3R1p6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=tls&type=ws#By AghaDani
 vless://0774160b-be44-4781-aad7-1a1745a36659@51.68.215.88:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=x-oA2H8zwILFq4PCZvvJPzUlawE2ADkVUXG3h9m2-hg&security=reality&sid=6337fd42719a0912&sni=www.icloud.com&type=tcp#By AghaDani
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&security=reality&sid=b390e0a721d242b0&sni=www.icloud.com&type=tcp#By AghaDani
-vless://b8b01773-36b1-4b49-9bd0-6249f52345b4@63.141.128.22:443?encryption=none&host=MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv&path=%2FeyJqdW5rIjoiTkNUaFg0ZnJNUjhhcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv&type=ws#By AghaDani
-vless://8a36be1d-7c78-4885-8a1f-bedf5ba7db1c@www.speedtest.net:443?encryption=none&fp=chrome&host=luCky-LAB-AC6D.CAveyi8071.WoRkeRS.DEV&path=%2FrN50nmm9L1DeY73C%3Fed&security=tls&sni=luCky-LAB-AC6D.CAveyi8071.WoRkeRS.DEV&type=ws#By AghaDani
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?encryption=none&security=none&serviceName=vless&type=grpc#By AghaDani
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?encryption=none&security=none&serviceName=vless&type=grpc#By AghaDani
