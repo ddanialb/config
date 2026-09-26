@@ -1,3 +1,5 @@
+trojan://MiTiVPN@151.101.56.255:443?security=tls&alpn=http%2F1.1&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#By AghaDani
+vless://9ccf8612-5e16-4b16-834e-4df5fe3611cd@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&host=c12.com&fp=firefox&type=ws&sni=ssl.fastly.com#By AghaDani
 vless://37926fd1-9a0f-0f36-2917-cc5127934cf1@faultpass-panel-production.up.railway.app:443?encryption=none&security=tls&sni=faultpass-panel-production.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/37926fd1-9a0f-0f36-2917-cc5127934cf1&host=faultpass-panel-production.up.railway.app#By AghaDani
 vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@2.26.11.234:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#By AghaDani
 vless://162ff214-21c8-4963-a80a-6200cbad787e@almaniyatu.paslanmaz.ir:4060?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.0MBuXdIHo3Oja0bIySO5Y0xBalo340cN5ZJLM5F-Jnw&host=play.google.com&type=httpupgrade#By AghaDani
