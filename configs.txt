@@ -1,3 +1,4 @@
+vless://412301b2-8715-4afd-b2f0-9768c63669f2@itl.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=www.goo.gl&fp=edge&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#By AghaDani
 vless://412301b2-8715-4afd-b2f0-9768c63669f2@ae-google.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=delivery.mp.microsoft.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#By AghaDani
 vless://412301b2-8715-4afd-b2f0-9768c63669f2@fr13.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=ios&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=9ed2fa#By AghaDani
 vless://412301b2-8715-4afd-b2f0-9768c63669f2@ukm.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=testspeed-foreign.tci.ir&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d#By AghaDani
@@ -797,4 +798,3 @@ vless://02bd8b5a-170b-4a79-8e68-9cec710272c7@151.241.138.151:8444?encryption=non
 vless://692e3be7-ec0b-4256-b91a-1b5ac66e245e@151.101.71.148:443?allowInsecure=1&alpn=h3&encryption=none&fp=chrome&host=lonerbosstm.online&mode=packet-up&path=/&security=tls&sni=Qr.fastly.com&type=xhttp#By AghaDani
 vless://a9fb0f8c-89e9-44ee-9574-a310c5bd259c@172.67.209.127:8880?security=&encryption=none&host=autumn-leaf-eefd.119-38e.workers.dev&type=ws#By AghaDani
 vless://2b181a3a-c001-4145-845a-5d43a43837d5@8.35.211.188:8443?encryption=none&fp=chrome&host=vpn-1fj.pages.dev&path=%2F&security=tls&sni=vpn-1fj.pages.dev&type=ws#By AghaDani
-vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:34249?encryption=none&type=tcp&security=tls&sni=www.microsoft.com&allowInsecure=1#By AghaDani
