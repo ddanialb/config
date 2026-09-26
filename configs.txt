@@ -1,3 +1,8 @@
+vless://db45b571-47cc-44ef-bbf6-dfd3d411f2d8@104.18.4.130:80?path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&security=none&encryption=none&host=msjsi.azazilvpn.sbs.&type=ws#By AghaDani
+vless://6088b7a7-67c7-4be4-87c4-fd7e22e3e723@65.109.199.174:443?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#By AghaDani
+vless://206234ff-0e18-4b95-923b-90f60d846d7d@31.207.7.246:443?security=reality&encryption=none&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=nordic.global-cdn.org&sid=2d6d073dc88f22a8#By AghaDani
+vless://ffb3118d-729f-40c0-bbe8-c3172c1ea8fb@31.76.249.29:443?security=reality&encryption=none&pbk=eaeKmTj9FXqSZ9hChUDD1RB9I6dMFWzWZiosZMjrqDk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de6.boutique-hotel1108.ru#By AghaDani
+vless://22453764-c126-4f39-ba05-f4972a33f589@93.114.98.221:8443?security=&encryption=mlkem768x25519plus.native.0rtt.NQcOpgEn7mEG-CgYvLvb7qDbbZd7WyQw2SSzgNog1X8&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://XlnTeam-36@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=Appxdn.global.ssl.fastly.net&path=%2F#By AghaDani
 vless://XpnTeam-35@199.232.78.160:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=Appxdn.global.ssl.fastly.net&path=%2F#By AghaDani
 vless://c8c33e7f-0a2d-4d25-aed8-a02cf96cbc54@116.203.93.92:28355?encryption=none&security=none&type=tcp&headerType=none#By AghaDani
@@ -14,7 +19,6 @@ vless://c795bdd5-0460-42bd-927b-fbff154d2ab5@150.241.71.245:443?security=reality
 vless://db45b571-47cc-44ef-bbf6-dfd3d411f2d8@chatgpt.com:80?path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&security=&encryption=none&host=msjsi.azazilvpn.sbs.&type=ws#By AghaDani
 vless://4cf9c712-11c4-47d8-aa31-a1693a1aa4e5@2.27.204.92:443?security=reality&encryption=none&pbk=R9XXrwZNQp8uMccaUwxV8lTAvqfiGgcc2msTLfqfrlc&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nl2.makafon.online&sid=6c0fb5453951ddbc#By AghaDani
 vless://c8c33e7f-0a2d-4d25-aed8-a02cf96cbc54@116.203.93.92:28355?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://db45b571-47cc-44ef-bbf6-dfd3d411f2d8@104.18.4.130:80?path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&security=none&encryption=none&host=msjsi.azazilvpn.sbs.&type=ws#By AghaDani
 trojan://NQ26071394@square-gnat.rooster465.autos:443?security=tls#By AghaDani
 vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@45.92.219.170:8080?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.HZkmJtPesWHuoN7JnEmjat7utDPAEE6gYX0MUvIl-Wk&host=primevideo.com&type=ws#By AghaDani
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#By AghaDani
