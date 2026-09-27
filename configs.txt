@@ -1,3 +1,6 @@
+vless://9ec16323-954c-4b09-aec9-367e18844fa8@channel.t-me-sh4dow-vpn.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=channel.t-me-sh4dow-vpn.workers.dev&path=%2FeyJqdW5rIjoiWlNHcnk5RHUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%3D&security=tls&type=ws#By AghaDani
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?encryption=none&security=none&serviceName=vless&type=grpc#By AghaDani
+vless://44ff6d71-319e-4bcb-a956-58d31290e45b@150.251.143.3:16857?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lB6OaYmyeYYrTWzaE3U4Elp0TayJt4136HcLfnrdFQ0&security=reality&sid=31&sni=image.semiconductor.samsung.com&type=tcp#By AghaDani
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#By AghaDani
 vless://f0e0d780-a43b-98ef-d7fe-f628cfb1a606@130.49.77.8:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=3DYkxUg9fBA6cONioJOPrsklcMQEImEsurR6air4swo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#By AghaDani
 vless://33938142-2f48-48a3-9180-28476cf586f4@145.79.187.71:443?mode=auto&path=%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&pbk=Zz_n3cpItqh107oNUK15eu-3Ac4TpS5gB_6plrRrZj8&fp=chrome&type=xhttp&sni=rt.quicksavesafe.com&sid=9f3df965329a8e8f#By AghaDani
@@ -795,6 +798,3 @@ vless://5e03bdbb-cb39-4c6e-8ee5-eb549b5e7a70@65.109.193.102:9090?security=&encry
 vless://d544c858-b1ba-45b2-8868-8197daf2a6ee@31.76.80.230:8443?path=%2Fassets%23TELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=fin.luxes.network#By AghaDani
 vless://e42ba0b1-39a0-48fd-a80f-f3fca3bb4c6d@109.176.91.28:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=zvDl-tnM_FtSLG45j7FXchPAl1dFJaE_T0Lgy26xuXU&fp=safari&type=grpc&serviceName=simplegrpc&sni=cloudcdn-m9-15.cdn.yandex.net&sid=b9e7a1c4d8329f10#By AghaDani
 vless://c795bdd5-0460-42bd-927b-fbff154d2ab5@150.241.71.245:443?security=reality&encryption=none&pbk=ssz8kvl1tH0TUaFREVSV_X-ED0AR-eeaWpKg2jQM8D8&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=gag.fl.iki-servers.com#By AghaDani
-trojan://NQ26071394@square-gnat.rooster465.autos:443?security=tls#By AghaDani
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#By AghaDani
-trojan://NQ26071394@neat-octopus.rooster465.autos:443?security=tls#By AghaDani
