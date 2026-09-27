@@ -1,3 +1,4 @@
+vless://a0178cd2-6435-4beb-a5a6-8e50aa797068@136.148.77.42:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://2787849c-1a49-4457-9db7-efcdb2578268@192.248.179.81:80?path=%2F&security=&encryption=none&type=ws#By AghaDani
 vless://a0178cd2-6435-4beb-a5a6-8e50aa797068@65.109.218.12:5050?security=&encryption=none&headerType=http&type=tcp#By AghaDani
 vless://9e9fd625-e4d7-4944-ae7e-4145342fa5db@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pan2e.global.ssl.fastly.net&path=%2F#By AghaDani
@@ -23,7 +24,6 @@ vless://f3212c28-27b0-4188-851e-c367f58f3127@37.27.193.206:443?security=reality&
 vless://f91aac7d-a679-4a64-b479-e493bec76db0@www.medium.com:443?path=%2Fsdvhjldsob&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=shop.lilium-rozh.ir&fp=chrome&type=ws&allowInsecure=0&sni=shop.lilium-rozh.ir#By AghaDani
 vless://64d64c94-79bb-4404-8195-63e2bc4622fb@45.67.139.241:2041?encryption=mlkem768x25519plus.native.0rtt.qLeddog8qqoYvYxRfc5QSTL6znc2MiWphe0C4CkQaQ0&security=none&type=tcp&headerType=http&path=%2F#By AghaDani
 vless://f3212c28-27b0-4188-851e-c367f58f3127@94.183.154.216:2001?security=reality&encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.ViMEhCgoHZDNxf-UcUlz5PGBvDKD1OdZLK3r0aja-i4&pbk=_3keWobK7ZaY3zcm452rOAQU1cwEhIAMfdSbifhi_UU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.filimo.com&sid=051e7b231954ec0b#By AghaDani
-vless://a0178cd2-6435-4beb-a5a6-8e50aa797068@136.148.77.42:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
 vless://64d64c94-79bb-4404-8195-63e2bc4622fb@198.105.123.88:8080?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com&path=%2F#By AghaDani
 vless://f3212c28-27b0-4188-851e-c367f58f3127@94.183.154.216:1001?security=reality&encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.ejm35mx3XTS_gTck_ChVg_HHP4H9Msde_q2NDk-EtWc&pbk=KX755gv-2X6CXLfWm33OmTc3zHKHcNQK7nPZ06nki1U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.filimo.com&sid=429e38fcd14a06a8#By AghaDani
 vless://bfdb379c-e2f1-4e22-b4fd-02261501ce3d@192.209.62.143:34342?security=reality&encryption=none&pbk=lyzDzDe-gZf5XFFHoqb_C0UTed90cvor000xeOCI_Vs&fp=safari&spx=%2FPOST&type=xhttp&sni=mydesktop-api.oracle.com&sid=1b7470e8#By AghaDani
