@@ -1,3 +1,4 @@
+trojan://MiTiVPN@151.101.56.7:443?alpn=http%2F1.1&fp=chrome&insecure=0&type=ws&host=mitivpn---nl--s---mitivpn-1.global.ssl.fastly.net&path=%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2FNLSus---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN&security=tls&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://c7c397bb-4771-4768-8f22-46b41e1acf9e@82.40.62.126:8881?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://e33e40d2-859e-471f-b7dc-6f768f7cad9c@94.183.154.216:1001?security=reality&encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.ejm35mx3XTS_gTck_ChVg_HHP4H9Msde_q2NDk-EtWc&pbk=KX755gv-2X6CXLfWm33OmTc3zHKHcNQK7nPZ06nki1U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.filimo.com&sid=429e38fcd14a06a8#By AghaDani
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#By AghaDani
@@ -797,4 +798,3 @@ vless://af14315f-ffa4-4b4c-bcdf-bd155e3f6b64@199.232.78.159:443?path=%2F&securit
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.205.21.144:443#By AghaDani
 vless://af14315f-ffa4-4b4c-bcdf-bd155e3f6b64@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=looazjboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://af14315f-ffa4-4b4c-bcdf-bd155e3f6b64@IL3.kontabox.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#By AghaDani
-vless://9081f4d6-7271-49ba-bb9e-b4bb6dc0bb1e@87.120.106.125:443?security=tls&encryption=none&headerType=&type=tcp&sni=qbbnomkb5d6c.libreone.com#By AghaDani
