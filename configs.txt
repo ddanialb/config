@@ -1,3 +1,4 @@
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.76.113.240:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nvidia.com&sid=db04ce8bdb8900f1#By AghaDani
 trojan://mitivpn@199.232.78.170:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&path=%2F#By AghaDani
 trojan://mitivpn@199.232.78.101:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#By AghaDani
 vless://adcce8be-9de7-41bd-abcd-52939cec108b@104.17.191.15:8880?encryption=none&security=none&type=ws&host=fancy-haze-ab00.236-68b.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#By AghaDani
@@ -797,4 +798,3 @@ vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry3.brocollisuper.click:443?encryp
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@164.38.155.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3#By AghaDani
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@170.114.45.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#By AghaDani
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.193.29.140:80?encryption=none&security=none&fp=firefox&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#By AghaDani
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.67.215.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%2B%40WangCai2#By AghaDani
