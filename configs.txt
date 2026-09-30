@@ -1,3 +1,5 @@
+vless://XpnTeam-52@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#By AghaDani
+vless://a9892dda-a68e-4d27-8ac5-d9c4830a76a1@turntable.proxy.rlwy.net:22396?path=%2F&security=none&encryption=none&type=ws#By AghaDani
 ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNUQ2WU9TclQ2a0M3NnJv@20.123.34.66:443#By AghaDani
 vless://6cb85759-b78d-c60c-fcd9-6b5a0b1a752c@faultpass-panel-production-3edf.up.railway.app:443?encryption=none&security=tls&sni=faultpass-panel-production-3edf.up.railway.app&fp=chrome&alpn=http/1.1&type=ws&path=/ws/6cb85759-b78d-c60c-fcd9-6b5a0b1a752c&host=faultpass-panel-production-3edf.up.railway.app#By AghaDani
@@ -796,5 +798,3 @@ vless://fdc48be3-a615-41ac-8bd1-ed844c931048@104.21.201.219:443?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001?#By AghaDani
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@104.21.91.244:443?encryption=none&security=tls&sni=edgetunnel-4uw.pages.dev&fp=unsafe&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=edgetunnel-4uw.pages.dev&path=%2F#By AghaDani
 trojan://humanity@141.193.213.21:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#By AghaDani
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.190.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%2B%40WangCai2#By AghaDani
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@150.230.5.126:443?security=tls&sni=hhcm.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#By AghaDani
