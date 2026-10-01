@@ -1,3 +1,4 @@
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@143.246.208.113:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=assets-fr4.pleiades.codes&type=grpc#By AghaDani
 vless://73b03366-975a-4ca7-a41c-0f7e1b5d944a@port2.axiomed.ir:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=l75yy2sjqn5fn0gx.fornewiran-1013.workers.dev&path=%2Fvl%2FolqQqiJtpH7kVUcHl0PXN&security=tls&sni=l75yY2sJQN5Fn0Gx.fORNeWIran-1013.worKERS.DeV&type=ws#By AghaDani
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#By AghaDani
 vless://fc40ce64-3c90-4d32-8e2f-ed456a0553fd@3557942hol97645z1.garqino.ir:11000?encryption=none&headerType=http&host=wordpress.org&path=%2F&security=none&type=tcp#By AghaDani
@@ -797,4 +798,3 @@ vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&alpn=
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
 vless://7c99dc89-bf49-45c9-acc5-e43f36657518@104.21.60.29:8443?security=tls&sni=www.large-files.info&type=ws&path=/var/www/html/video/preview/download/i8o0la&alpn=http/1.1#By AghaDani
 vless://7c99dc89-bf49-45c9-acc5-e43f36657518@172.67.190.248:8443?security=tls&sni=www.large-files.info&type=ws&path=/var/www/html/video/preview/download/i8o0la&alpn=http/1.1#By AghaDani
-vless://9d672694-c146-422e-b3b5-3717a38a0fcc@104.21.84.30:2053?security=tls&sni=fr.api-music-fa.com&type=ws&host=fr.api-music-fa.com&path=/api/voip/updates/static/fr2035&fp=chrome&alpn=http/1.1#By AghaDani
