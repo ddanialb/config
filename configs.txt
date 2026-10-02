@@ -1,3 +1,4 @@
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&encryption=none&fp=chrome&mode=gun&path=/&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&security=reality&serviceName=node.v2.ObjectService&sid=ed0cd5cc2e26e6e7&sni=rs1.univesalsrv.com&type=grpc#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?encryption=none&fp=chrome&mode=gun&path=/&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&security=reality&serviceName=gw.v1.ObjectService&sid=4872856d5489c37d&sni=rs5.univesalsrv.com&type=grpc#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#By AghaDani
@@ -797,4 +798,3 @@ vless://5039623b-8a43-4da0-82cf-7e54c90470eb@www.canva.com:443?alpn=http%2F1.1&e
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#By AghaDani
 vless://e9e84ca7-611f-4843-b75b-5af8a7c6fbbe@86.62.52.5:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#By AghaDani
 vless://5039623b-8a43-4da0-82cf-7e54c90470eb@www.medium.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=shop.lilium-rozh.ir&path=%2Fsdvhjldsob&security=tls&sni=shop.lilium-rozh.ir&type=ws#By AghaDani
-vless://5039623b-8a43-4da0-82cf-7e54c90470eb@www.udemy.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=shop.lilium-rozh.ir&path=%2Fsdvhjldsob&security=tls&sni=shop.lilium-rozh.ir&type=ws#By AghaDani
