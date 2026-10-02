@@ -1,3 +1,6 @@
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
 vless://ff287528-3b62-444f-8f19-fb1eb8b163eb@trkio.uovim.ir:2086?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#By AghaDani
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
@@ -795,6 +798,3 @@ vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@77.42.20.51:1085?encryption=none&se
 vless://bf7ca7a3-a028-488e-b9f1-34e467d6d897@189.24.82.195:443?encryption=none&fp=&host=itunes.apple.com&path=%2Fws&pbk=oXHb-GX9ExLRs-CcFwllm6zp99jpx7yAdxrvAV1sZ18&security=reality&sid=3eaacc9b&sni=itunes.apple.com&type=ws#By AghaDani
 vless://fffe33b6-5735-4a71-adb1-1c154def9024@34.154.18.129:443?encryption=none&fp=&pbk=-Tb9KKp870JxcZ3Ka7Rx5ez3QBYryX4e8_jdyNZu2wE&security=reality&sid=ed278463058a6dc9&sni=www.cloudflare.com&type=tcp#By AghaDani
 vless://67a171fb-a31d-49f3-a9d6-98de350763e8@107.189.18.145:443?encryption=none&fp=firefox&security=tls&sni=restnet.duckdns.org&type=tcp#By AghaDani
-vless://0f4081e7-612b-425f-8def-eebf144aedba@2.27.249.130:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&security=reality&sid=9e15546f267baa64&sni=n11.clouderiux.com&type=tcp#By AghaDani
-vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@188.245.25.223:1085?encryption=none&security=none&type=tcp#By AghaDani
-vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@188.245.25.223:8402?encryption=none&security=none&type=tcp#By AghaDani
