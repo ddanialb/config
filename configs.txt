@@ -1,3 +1,5 @@
+vless://95f69f04-9685-41ec-9986-b2f97c8c9742@linColn.iRoNoS.iR:22000?security=reality&encryption=none&pbk=Js4-JgLBM09uVKI_Y1LmXmONAj--4mP7wy_qU0LfMgc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=93be0155b42462df#By AghaDani
+vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@177.1.186.44:443?security=reality&encryption=none&pbk=4hvjCaGIMlFeWxMYoAWTNHQOaZkGvGQREOjB3Unn7iE&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mcde.67resserv67.info&sid=29455a3a790acbd0#By AghaDani
 vless://7791aa10-f3bb-4933-a3e7-a627e5e761f4@87.120.106.214:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=djpb2hzoaa71.dx4x.com#By AghaDani
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
 trojan://49ctdxv5jip9zk2x@46.8.227.108:2083?extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=XThkBj4ZASLOEz_YOxwMQLWhUjHoHt_ghJ19ITlqKl8&security=reality&sid=b6f7f2184897&sni=www.sony.se&spx=%2Fb4fcc6795955a99&type=xhttp&x_padding_bytes=100-1000#By AghaDani
@@ -796,5 +798,3 @@ ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@213.183.41.38:9027#By AghaDani
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@185.246.155.35:9059#By AghaDani
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@103.172.116.6:9059#By AghaDani
 ss://YWVzLTEyOC1nY206NTBjZTJhYzE3N2Q4ZDhjZGFkNmI0YTY4NzM5ZTJlYTBANjYuMjMuMjAyLjU0OjEzNjI3#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.191:8388#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyS0U1T2NoSHFUcmthbXp4@94.245.92.85:443#By AghaDani
