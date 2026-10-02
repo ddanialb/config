@@ -1,3 +1,4 @@
+vless://29662c1f-2478-4556-a9a3-b12a6a66e148@mci.sulduz.pw:2174?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#By AghaDani
 vless://eb83d75d-a282-49cd-88be-395b509e013d@minimize-evenness.cdn-content.com:443?path=%2Fws&allowInsecure=0&host=minimize-evenness.cdn-content.com&encryption=none&type=ws&alpn=http%2F1.1&fp=chrome&sni=minimize-evenness.cdn-content.com&insecure=0&security=tls#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.41.213.145:22224?encryption=none&security=none&type=tcp#By AghaDani
 vless://b4090350-b91f-4920-b5c0-c3ffd2798534@159.100.13.40:8081?mode=gun&security=none&encryption=none&type=grpc#By AghaDani
@@ -473,7 +474,6 @@ vless://945e31fc-23a2-4c4f-a597-338502ae5ead@yamabiko.proxy.rlwy.net:50785?path=
 ss://YWVzLTEyOC1nY206NTY4MDZlMWY1MThiMTYxOTUwZGQxOWY1OTYwYWFmYmU@167.160.90.106:10689#By AghaDani
 vless://73b29bb2-7443-480a-ba47-cea047b231df@xray1-direct-mci1-fs-ce.freesocks.work:443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&encryption=none#By AghaDani
 vless://8551ef0a-8c45-41cf-99ef-61f643820121@hl.paxiva.ir:443?path=%2Fb3356fba&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hl.paxiva.ir&fp=chrome&type=ws&allowInsecure=0&sni=hl.paxiva.ir#By AghaDani
-vless://29662c1f-2478-4556-a9a3-b12a6a66e148@mci.sulduz.pw:2174?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#By AghaDani
 vless://95f69f04-9685-41ec-9986-b2f97c8c9742@linColn.iRoNoS.iR:22000?security=reality&encryption=none&pbk=Js4-JgLBM09uVKI_Y1LmXmONAj--4mP7wy_qU0LfMgc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=93be0155b42462df#By AghaDani
 vless://7791aa10-f3bb-4933-a3e7-a627e5e761f4@87.120.106.214:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=djpb2hzoaa71.dx4x.com#By AghaDani
 vless://e4a02db3-b0ef-4573-ab82-82be94cd6c5f@rfr.fars-remen.ir:443?security=&encryption=mlkem768x25519plus.native.0rtt.LQnRVsDhfdgLrbL5EeSyS1P6JRDWLYLkddE7vyHgj20&host=dynu.com&headerType=http&type=tcp#By AghaDani
