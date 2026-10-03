@@ -1,3 +1,4 @@
+trojan://mitivpn@199.232.78.160:443?security=tls&alpn=http%2F1.1&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&fp=firefox&type=ws&sni=ssl.fastly.com#By AghaDani
 trojan://mitivpn@167.82.76.7:443?security=tls&alpn=http%2F1.1&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#By AghaDani
 trojan://mitivpn@167.82.76.27:443?security=tls&alpn=http%2F1.1&host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcjNSTEhKTG5nYnBsUFdk@20.238.125.195:443#By AghaDani
@@ -797,4 +798,3 @@ vless://08203b91-9e5e-4072-adea-ee2b8afc0498@189.74.106.19:443?security=reality&
 vless://6d56436c-150d-11f0-b0c8-f23c913c8d2b@218.250.216.236:443?security=reality&encryption=none&pbk=c9DdggKaJGSH7FN3JgGbi9ZvsUqOGGpIr7BhzTWeTCo&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=download.windowsupdate.com#By AghaDani
 ss://YWVzLTI1Ni1nY206VTFrelNGSmlkWFZEYmtwWmVUZHRWVlJwT1ZGa1pHNTZhVlkyY1ZvNVFrVlNNMnhwYUVoclJHOVRZbXhwVVVNelJsQnlTR2RrWW13d2NUWm5ZbEk0Tmc9PQ@31.31.192.206:23008#By AghaDani
 vless://e835fdc7-c453-4e4e-9d9d-b3c5adb90082@refiqq.dextter.ir:2095?path=%2F&security=&encryption=none&host=areeedaee.dextter.ir&type=httpupgrade#By AghaDani
-vless://5623c82f-8e25-44c1-bbdc-3377e3a80477@snapp.ir:80?path=%2Fpgcfws-r4&security=none&encryption=mlkem768x25519plus.native.0rtt.rK2aQSz2wOAaLoJe61rb_TmbQxnF87VEAxGzd3TVmlY&host=goste.zowe.ir&type=ws#By AghaDani
