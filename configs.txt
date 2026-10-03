@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTQnc1YjZFOW5vSG9sQmRB@4.168.234.190:443#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuZzBYVENoZ2JKSjNTdjJk@20.238.125.195:443#By AghaDani
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@95.85.227.241:443?security=reality&encryption=none&pbk=dlX12huNd8CRSGgKGCwi1GiCLFtmRxY9b7ywKCIyWXo&host=%2F%3Ftelegram--V2ray_confiig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=proxy3d.h1guro.ovh&sid=25934afbedc65791#By AghaDani
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.165.25:9881?mode=gun&security=reality&encryption=none&authority=%2F%3Ftelegram--V2ray_confiig&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=random&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#By AghaDani
@@ -88,7 +89,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpySDdzS2UtZHRRX3BjMlZXY2p1NGp3@p2tun2.greeweb
 vless://235442f6-745c-5ae6-9efa-a10edf599b09@135.106.192.200:443?fp=randomized&encryption=none&headerType=none&flow=xtls-rprx-vision&sni=cloudcdn-m9-9.cdn.yandex.net&pbk=mAAqjyJk5xTBit_IAGE6dA01p8fUOFD1OudS2nHeGGI&type=tcp&security=reality#By AghaDani
 vless://3a87ed61-c186-4feb-b3fc-d9da4f31842f@chatgpt.com:2087?mode=stream-up&path=%2Fjoker&security=tls&alpn=h2&encryption=none&insecure=0&host=NbLxQcJv10.zUrAiNaP.DpDnS.OrG&type=xhttp&allowInsecure=0&sni=NbLxQcJv10.zUrAiNaP.DpDnS.OrG#By AghaDani
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@95.85.227.241:443?security=reality&encryption=none&pbk=dlX12huNd8CRSGgKGCwi1GiCLFtmRxY9b7ywKCIyWXo&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=proxy3d.h1guro.ovh&sid=25934afbedc65791#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTQnc1YjZFOW5vSG9sQmRB@4.168.234.190:443#By AghaDani
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcjNSTEhKTG5nYnBsUFdk@20.238.125.195:443#By AghaDani
 vless://cd0e3ada-a06f-4581-8672-5e134101ff76@autorack.proxy.rlwy.net:12717?encryption=none&security=none&type=httpupgrade&path=%2F#By AghaDani
