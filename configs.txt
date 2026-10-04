@@ -1,3 +1,7 @@
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
+vless://0b4c5159-8e1b-420b-b808-7527b49fd112@psf-1.weedly.top:80?encryption=none&security=none&type=ws&headerType=none&host=machinemag.ir#By AghaDani
+vless://7a629a11-b75a-4889-957d-dc0987a73a19@188.114.97.6:2086?path=%2FeyJqdW5rIjoieVMzbmVFWlBsd3prIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed&security=&encryption=none&host=jimifree.jimshofree1.workers.dev&type=ws#By AghaDani
+vless://41b903e0-7d0a-45d0-9b29-83086024a88b@88.218.120.60:4443?security=reality&encryption=none&pbk=-psPIZaOXQOuX1O1BpZ0_zyXEvx1YwW6ouBIkYGb2Dg&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sni4.streisand.lt&sid=612d8fa72c#By AghaDani
 vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
@@ -782,7 +786,6 @@ vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?path=%2Ftyxyws%23te
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#By AghaDani
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&authority=%2F%3Ftelegram--V2ray_confiig&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#By AghaDani
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3Ftelegram--V2ray_confiig&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&type=ws&sni=milan.adaspoloandco.com#By AghaDani
 vless://cd0e3ada-a06f-4581-8672-5e134101ff76@66.33.22.239:12717?path=%2F&security=none&encryption=none&type=httpupgrade#By AghaDani
 vless://09b4615b-ab36-4ef6-aec9-e1bc6433b9d3@trn35.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=070a23aed243#By AghaDani
@@ -795,6 +798,3 @@ trojan://UX82473651@engaging-toucan.rooster465.autos:443?allowInsecure=1&sni=eng
 trojan://UX82473651@pretty-rat.rooster465.autos:443?allowInsecure=1&sni=pretty-rat.rooster465.autos#By AghaDani
 trojan://UX82473651@main-fawn.rooster465.autos:443?allowInsecure=1&sni=main-fawn.rooster465.autos#By AghaDani
 vless://bdaf42dd-f75b-4594-d5f8-51c0feeb8406@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
-vless://2e8cd1fa-0dcc-4402-bb99-be3d623fc1d5@fast.jkerm.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
-trojan://UX82473651@balanced-stag.rooster465.autos:443?allowInsecure=1&sni=balanced-stag.rooster465.autos#By AghaDani
-trojan://UX82473651@intense-sole.rooster465.autos:443?allowInsecure=1&sni=intense-sole.rooster465.autos#By AghaDani
