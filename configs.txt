@@ -1,3 +1,5 @@
+vless://c381ed79-f3c9-4028-85ae-687795d89ece@DE.IPSENTER.ORG:443?security=reality&encryption=none&pbk=4-ou3SyJYZ2ptF0vXFdc02yIRTF4VF8m2XcUKJPsUyQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=1128da54b05ec30c#By AghaDani
+vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@nether2.noirex.ir:8453?security=reality&encryption=none&pbk=-f8Ix0XhjT2FMkoLtyXjUSD9YbxW-Xp3Ay8_cc7Bi30&headerType=none&fp=chrome&type=tcp&sni=www3.donyumvps.tr&sid=d2f4a8b1#By AghaDani
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 vless://31f03b0d-2ed6-4799-aa45-d5e9f4bfeed2@redsportshop.up.railway.app:443?allowInsecure=0&insecure=0&sni=redsportshop.up.railway.app&fp=chrome&path=%2Fws%2F31f03b0d-2ed6-4799-aa45-d5e9f4bfeed2&alpn=http%2F1.1&type=ws&host=redsportshop.up.railway.app&security=tls&encryption=none#By AghaDani
 vless://689b65e0-57a8-41ba-804d-10c079c2b393@13.143.174.201:2087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.meridian-labs.net&fp=chrome&pbk=dBvFkg2zny545Ws6H_LXKEohOYV2MW_zACRrRQE1IUg&sid=992e5a9a&type=tcp&headerType=none#By AghaDani
@@ -796,5 +798,3 @@ vless://5ff69dde-8a9e-453f-8b01-b8717a438019@146.75.56.143:443?mode=packet-up&pa
 vless://0913f566-ab62-4637-9783-d571273c093e@pasarguard17-production.up.railway.app:443?path=%2Fgw%2F3d801b12-a333-452c-b9d5-90ece1a8d68c%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pasarguard17-production.up.railway.app&fp=edge&type=ws&allowInsecure=0&sni=pasarguard17-production.up.railway.app#By AghaDani
 ss://YWVzLTEyOC1nY206NmM0OTkzYWNkMWNhN2YxMmYwYTE4YmRjYjNjMzdjNmM@66.23.201.172:10272#By AghaDani
 ss://YWVzLTEyOC1nY206ODNmZDZhMjQtNDFjMi00MTU4LWFjMTgtNmZjZjBiODQyNzY0@91.199.84.65:20004#By AghaDani
-vless://f75b14d4-561a-4565-8814-6726a01e41e6@77.42.28.120:1280?path=%2F&security=none&encryption=none&host=is1-ssl.mzstatic.com&type=ws#By AghaDani
-ss://YWVzLTEyOC1nY206NzBkYWExNjk1OTdjNGJiZTE3M2YwZjg4NmNlNGViZTk@14.1.29.107:11379#By AghaDani
