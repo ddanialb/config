@@ -1,3 +1,4 @@
+vless://2860e569-4c06-4950-af3e-3b72d892cdf2@faranse.duravex.net:8443?path=%2F&security=&encryption=none&host=faranse.duravex.net&type=ws#By AghaDani
 vless://bf977795-6cd8-4b51-983e-f8a962352e1d@87.120.252.191:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=worldoftanks.com&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4#By AghaDani
 vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?encryption=none&host=2.naxm.ir&path=%2F&security=none&type=wsoliver#By AghaDani
 vless://fc48c074-dd47-4e4c-bf36-30d40733bcef@81.90.21.26:443?security=reality&encryption=none&pbk=BPGMalRGP2MljH9ns31Om2wudY0_xMLXzAx0zyzwP28&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=unit-se.pantherstore.space#By AghaDani
@@ -797,4 +798,3 @@ vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@89.125.13.202:443?security=reality&
 vless://2a69a5c6-0d56-4873-9a58-b358c7c830b2@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=yaSharClass.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://a2c57a6c-dacb-44d1-9055-fb42d4c888a5@undef.network:2052?encryption=none&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net&security=none&type=ws#By AghaDani
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl999.failspace.top:443?type=tcp&security=tls&sni=pl999.failspace.top&fp=firefox&alpn=h2&encryption=none&flow=xtls-rprx-vision#By AghaDani
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.24.197.20:2083?encryption=none&security=tls&sni=Site.check-looks.space&alpn=h2,http/1.1&fp=chrome&type=ws&path=/#By AghaDani
