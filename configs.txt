@@ -1,3 +1,4 @@
+trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
 vless://0d6e70a5-abfd-4766-8ad4-e502173ba82b@46.254.19.190:443?security=reality&encryption=none&pbk=RX4VBHIJ29Oo4oQYRtdmBX5IN35vHwENneqUvwLpjlU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=b90185a1#By AghaDani
 ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0@pphfree2.mvpnpvpn.de5.net:52351#By AghaDani
 vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=none&fp=chrome&spx=%2FEL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#By AghaDani
@@ -362,7 +363,6 @@ vmess://eyJhZGQiOiAiMzkuMTA4LjExMy4xMjciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAi
 vless://0fa8cefb-573d-3c23-c1c3-c1f945eebe36@45.88.13.6:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&fp=chrome&type=xhttp&sni=download.nvidia.com#By AghaDani
 vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?security=reality&encryption=none&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=85c86a9863#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#By AghaDani
-trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWTE0ckd6cl9oR2J2T25VdkRNUjdnWHRITVZLQ0MtTg@135.106.137.65:1080#By AghaDani
 vless://7610be85-9855-4010-8929-ce16d4993969@game.betust.net:443?security=reality&encryption=none&pbk=7dxSNJKvSZNySuiKjuv6wwddd3hYJeJy6X55OcwOPDk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api14.betust.net&sid=16fbc56c#By AghaDani
 vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@finl1.povrak.ir:28095?security=none&encryption=mlkem768x25519plus.native.0rtt.VuFxON-WTmoLTTMoAjvx_rTJ-R4rDaGfM0iDKn8sJTg&headerType=none&type=tcp#By AghaDani
