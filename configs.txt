@@ -1,3 +1,4 @@
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTkwzbXhkZlpLaVBLaXpM@20.223.236.165:443#By AghaDani
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@pl.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=pl.zhabulik.ru#By AghaDani
 vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@g2de.velnix-services.ir:1080?security=reality&encryption=none&pbk=qmCIBP5Y6Pu7oxY--0sOXglNvHV9byxo2cyVsfAqUiI&host=www6.gameservice-iramn3.com&headerType=none&fp=chrome&type=tcp&sni=www6.gameservice-iramn3.com&sid=307eb35dbf3a5385#By AghaDani
@@ -155,7 +156,6 @@ vless://3b485356-1a88-4a99-bc29-b222036d12ff@2.59.41.70:8443?mode=packet-up&path
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@83.229.61.218:443?pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&spx=%2FAhmadV2ray&encryption=none&fm=AhmadV2ray&sni=zsit.eu-cdn294.com&fp=firefox&security=reality&headerType=none&flow=xtls-rprx-vision&sid=cd2d53510b4df2a8&type=tcp#By AghaDani
 vless://c74e76e5-c1fb-4228-b840-dbeb398cf247@167.82.75.113:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=Splendidly-mystic-gecko-ivory.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#By AghaDani
 vless://771e1d71-bd9f-45fb-af00-b72423f9cd51@199.232.9.254:443?path=%2F&security=tls&encryption=none&insecure=0&host=finliijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=global.fastly.com#By AghaDani
-trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#By AghaDani
 vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=&encryption=none&host=play.google.com&type=ws#By AghaDani
 ss://YWVzLTI1Ni1nY206ZkJ0SWJIV0M5bkxBRWREVXlrMnRzR2lWekd3R1FZZ1g@nether2.noirex.ir:8397#By AghaDani
 trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
