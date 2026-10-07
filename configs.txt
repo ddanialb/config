@@ -1,3 +1,5 @@
+vless://1a7c814e-2ec2-42c3-86cc-e19a42bb5e70@222.167.245.116:443?security=reality&encryption=none&pbk=bk_4g13q6U0Aki1qMV3wGm34mRzJOOmZb5BK5XMZIQE&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#By AghaDani
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#By AghaDani
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTkwzbXhkZlpLaVBLaXpM@20.223.236.165:443#By AghaDani
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@pl.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=pl.zhabulik.ru#By AghaDani
@@ -796,5 +798,3 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.18:443?mode=gun&security
 vless://XpnTeam-70@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#By AghaDani
 vless://a4b8d677-ecfe-4357-9b68-981c201f3701@areal4.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#By AghaDani
-vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=1mcfn.67resserv67.info&fp=safari&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&sid=29455a3a790acbd0&spx=%2F&type=tcp&headerType=none#By AghaDani
-vless://2d24e797-ec6c-0808-dd31-9cd22b5dfdc7@122.8.45.4:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=www.canon.com#By AghaDani
