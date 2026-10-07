@@ -1,3 +1,4 @@
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&sid=b76a6309&type=tcp&headerType=none#By AghaDani
 vless://a5b7b296-fe19-496b-bf96-e099dd68e512@185.226.92.168:8715?security=reality&encryption=none&pbk=MKdlcoL30VlmZ#By AghaDani
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@147.45.61.213:443?security=reality&encryption=none&pbk=fiH8cNK7JlHGz6hHHjmsspRdnjpemaq1Q_xmP8a5FHo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nl4.nztvpn.com&sid=a47d71c75bb8be07#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTQnc1YjZFOW5vSG9sQmRB@4.168.234.190:443#By AghaDani
@@ -797,4 +798,3 @@ trojan://mitivpn@167.82.76.7:443?path=%40V2ray_AM&security=tls&alpn=http%2F1.1&i
 trojan://mitivpn@199.232.78.101:443?path=%40V2ray_AM&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#By AghaDani
 vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?security=tls&encryption=none&insecure=1&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#By AghaDani
 vless://790910c3-9a97-4375-998a-fcc36b0a2902@88.119.165.131:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=repo1.maven.org&fp=safari&pbk=_AIb5QbjYK6iJBx6UpDqVBoFyUA_nkiHrj7gZrASDwc&sid=bbfe4bd7d5dd0627&type=tcp&headerType=none#By AghaDani
-vless://5e2e35f9-512b-482e-ad12-bce69590f8d4@167.82.76.8:443?mode=auto&path=%2Fv2&security=tls&encryption=mlkem768x25519plus.native.0rtt.utmP6WzJcusvh2bhbu1aSLgzVMzmWQ_TklG3xFU4Jk0&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=ded1.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
