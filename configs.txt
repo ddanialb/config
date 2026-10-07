@@ -1,3 +1,5 @@
+vless://c3369c07-f0d2-4a2c-97ab-0d3d47803912@79.108.225.112:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=safari&pbk=1KY_jqa2yPLBEBa-3TG77zs4ak2zQLGul4eexxCueyI&type=tcp&headerType=none#By AghaDani
+vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@nether2.noirex.ir:8444?security=reality&encryption=none&pbk=KWZ8_wctsfsW_vURZto-YOre2VlFM4HS_duhfUU5UxI&headerType=none&fp=chrome&type=tcp&sni=www3.donyumvps.tr&sid=0739285d#By AghaDani
 vless://86037609-3790-4901-bd2f-c698092fb1fc@2.27.211.38:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=po.skfv-mirror.ru&fp=firefox&pbk=9Pg_ecqFPMfzOvJrmxE05FmLUDXbY9Mo1r2MgxFzYEQ&sid=cd57a927f6b72d81&type=tcp&headerType=none#By AghaDani
 vless://261f011c-e97a-4d72-b596-e6329b50b47b@104.243.33.154:45299?&type=tcp&headerType=none&path=%2F#By AghaDani
 vless://c0653ebb-c8dc-46f3-f1dc-d0cf873dbc71@bs.cexora.ir:2087?mode=auto&pcs=b8608bfe94caba86a6d3c9dd2ff6fcd4eed5a8a9554d06565b23b458dffd54b5&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=bs.cexora.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=bs.cexora.ir#By AghaDani
@@ -348,7 +350,6 @@ vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?encryption=none&flo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTTZ5UXUyVDhBbVpHZkppa2pNMTV1YTVGTzZCRW9LRA@Cfex.vipnetx.ir:1080#By AghaDani
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=&encryption=none&headerType=none&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDU0ZjA1OTAzNmMzZmYxZTkwN2FlYjUxMzc3YjJhYzU0ZTYxY2ViNjY2MjI2ZmQ@45.76.9.57:8389#By AghaDani
-vless://c3369c07-f0d2-4a2c-97ab-0d3d47803912@79.108.225.112:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=safari&pbk=1KY_jqa2yPLBEBa-3TG77zs4ak2zQLGul4eexxCueyI&type=tcp&headerType=none#By AghaDani
 vless://b1437707-cc06-4309-b386-eebb7680287d@2.29.41.238:2053?security=none&encryption=mlkem768x25519plus.native.0rtt#By AghaDani
 vless://64f08bfe-7366-4627-acab-104592d908c6@78.17.215.48:443?mode=auto&path=%2Fxh&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=usiwi12.vitalvpn.site&fp=safari&type=xhttp&allowInsecure=0&sni=usiwi12.vitalvpn.site#By AghaDani
 vless://3f89518a-e78f-4d31-a1c5-1725b4cfb70d@50.7.29.178:443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&host=de.vmagnum.win&fp=safari&type=xhttp&allowInsecure=0&sni=id-3f89518a.ferrin.uk#By AghaDani
@@ -797,4 +798,3 @@ vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@shhshs1.povrak.ir:28911?security=no
 vless://0106efd7-39bf-449d-b734-a4aa758d6480@34.29.203.135:443?encryption=none&fp=&pbk=VL1ZiaWxae8teZWJeBAIHadbo7z1Ezu1KA2kIA1TDmk&security=reality&sid=7dfdbf323c4ef0a8&sni=www.cloudflare.com&type=tcp#By AghaDani
 vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#By AghaDani
 vless://6c4f02f4-7d67-4eb3-8ee0-5bb8a998d5d2@skyup.vexsilve.ir:8080?security=reality&encryption=none&pbk=QjY0crvGJwivMECnIuJL1S0u1NPvNsSiJvu-myFMUEI&headerType=&fp=chrome&spx=%2Ff42f7cf57789943&type=tcp&sni=www.speedtest.net&sid=e0#By AghaDani
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#By AghaDani
