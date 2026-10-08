@@ -1,3 +1,5 @@
+vless://95621b8e-5cf7-4123-9df4-38d903054a1b@109.120.152.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=firefox&pbk=QJzo15K3EUtRdJwrkaGRjHdKLyl-WUiEzQTTMsHm8y4&sid=b716462f7ff12219&spx=%2F&type=tcp&headerType=none#By AghaDani
+vless://a889fba5-5472-4022-a6b4-9710157fda2f@stoniy.fytpn.com:56789?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stoniy.fytpn.com&fp=firefox&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa&type=tcp&headerType=none#By AghaDani
 vless://a889fba5-5472-4022-a6b4-9710157fda2f@138.124.73.88:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=firefox&pbk=SpDERK2bCJgRdaDP3cSsQDfOCghD94d0-zjuKIHYQy0&sid=a2aa&type=tcp&headerType=none#By AghaDani
 vless://a889fba5-5472-4022-a6b4-9710157fda2f@pol2.fytpn.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pol2.fytpn.com&fp=firefox&pbk=7JLSiscJksRdmmRLnbqXlBgc4nce6lTvhKp3NIlXHFg&sid=a2aa&type=tcp&headerType=none#By AghaDani
 vless://a889fba5-5472-4022-a6b4-9710157fda2f@ger6.fytpn.com:56789?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ger6.fytpn.com&fp=firefox&pbk=PDHRi_RRFsPhxLoH2C1l9A9HdL2y7g1uOzXmY0XnmzQ&sid=a2aa&type=tcp&headerType=none#By AghaDani
@@ -796,5 +798,3 @@ vless://9804f109-f750-4dec-9c3a-091982320501@91.107.249.185:6065?security=none&e
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@pl.srv.vbuste-bot.com:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=firefox&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#By AghaDani
 vless://afd1fb0c-7c51-4c4c-a1ed-07e8493030d2@65.109.176.245:2023?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#By AghaDani
 ss://2022-blake3-aes-256-gcm:VXm5%2FP7r0FRKxEWRcJcCFXfD1QhzjXtPFmYpnmBFlrA%3D%3An2wRVRMqyCxVk0H9duJo8euDQHIykBY2eE%2B9KBRQdRQ%3D@5.75.204.152:53332#By AghaDani
-trojan://UX82473651@56.10.9.77:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=inviting-ferret.rooster465.autos#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#By AghaDani
