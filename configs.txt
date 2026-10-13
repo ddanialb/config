@@ -1,3 +1,6 @@
+vless://ed8704b8-9e9e-48e6-b55b-ae9079ab3a59@2.26.10.113:443?mode=gun&security=reality&encryption=none&pbk=51yCirAh9dDjIQ7xBGpOYL4NM-UiM4OyQwWWf6Gq_VM&fp=random&type=grpc&serviceName=grpc-tunnel&sni=rumor.videofriend.site&sid=4ceb06699bf1fd61#By AghaDani
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.40.131:22222?encryption=none&security=none&type=tcp#By AghaDani
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.40.131:22223?encryption=none&security=none&type=tcp#By AghaDani
 ss://YWVzLTEyOC1nY206NTlkZWQxNTkxYjBiNDVmMGIxZTkzNjEzMzRjMGY3ZDk=@185.212.171.202:18670#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcUpZUDRnRFMxSTZYR2tpb1gzUkNFM0JpbUtqOGR0ag%3D%3D@2380.n9ne.com.tr:34319#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcUpZUDRnRFMxSTZYR2tpb1gzUkNFM0JpbUtqOGR0ag%3D%3D@clients.n9ne.com.tr:8388#By AghaDani
@@ -795,6 +798,3 @@ vless://a889fba5-5472-4022-a6b4-9710157fda2f@stoniy.fytpn.com:56789?encryption=n
 vless://71a195c5-df47-47ad-81be-f4d3a3a21be3@199.232.239.239:443?sni=ssl.fastly.com&fp=chrome&alpn=h2&insecure=0&type=xhttp&security=tls&host=cloudnet2026.global.ssl.fastly.net&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel&allowInsecure=0&mode=auto&encryption=none#By AghaDani
 vless://71a195c5-df47-47ad-81be-f4d3a3a21be3@199.232.239.239:443?allowInsecure=0&security=tls&alpn=h2&insecure=0&host=cloudnet2026.global.ssl.fastly.net&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel&mode=auto&type=xhttp&encryption=none&sni=ssl.fastly.com&fp=chrome#By AghaDani
 vless://71a195c5-df47-47ad-81be-f4d3a3a21be3@199.232.239.239:443?encryption=none&fp=chrome&alpn=h2&sni=ssl.fastly.com&type=xhttp&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel&mode=auto&security=tls&allowInsecure=0&insecure=0&host=cloudnet2026.global.ssl.fastly.net#By AghaDani
-vless://dbb28391-4d1d-4f1b-b353-cc410b6664ff@finlandsb.global.ssl.fastly.net:443?path=%2F&security=tls&encryption=none&insecure=0&host=finlandsb.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=finlandsb.global.ssl.fastly.net#By AghaDani
-vless://dbb28391-4d1d-4f1b-b353-cc410b6664ff@norwayji.global.ssl.fastly.net:443?path=%2F&security=tls&encryption=none&insecure=0&host=norwayji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=norwayji.global.ssl.fastly.net#By AghaDani
-vless://dbb28391-4d1d-4f1b-b353-cc410b6664ff@italyji.global.ssl.fastly.net:443?path=%2F&security=tls&encryption=none&insecure=0&host=italyji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=italyji.global.ssl.fastly.net#By AghaDani
