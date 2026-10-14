@@ -1,3 +1,6 @@
+vless://31cd24da-8f54-4c0d-bc4a-11c975b7a7a1@www.pixellow.online:443?security=reality&encryption=none&pbk=1Wuq1aa8cy2f9HhFVnqUHj8LL-vJtp-QtNR6u5yh8Bg&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.pixellow.online#By AghaDani
+vless://31cd24da-8f54-4c0d-bc4a-11c975b7a7a1@assets.pixellow.online:443?mode=auto&path=%2Fmedia-cdn%2Fsegments&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%220%22%2C%22maxConnections%22%3A3%2C%22hKeepAlivePeaiod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=1Wuq1aa8cy2f9HhFVnqUHj8LL-vJtp-QtNR6u5yh8Bg&host=assets.pixellow.online&fp=random&type=xhttp&sni=assets.pixellow.online#By AghaDani
+vmess://eyJhZGQiOiAiMTEyLjEzMi4yMTUuMTA4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1MDAwMiIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=#By AghaDani
 vless://5763aeec-6895-416e-94bb-54fed8f92d24@cdn.topingr.ir:443?vcn=cdn.topingr.ir&path=%2Fgropcdn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn.topingr.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.topingr.ir#By AghaDani
 vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@swself.yandex-api.com:443?security=reality&encryption=none&pbk=HXFe_cPryw01zqXchAFjZciDAS4UJg1-xScx6vjgjjY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=swself.yandex-api.com&sid=7f2e9c4b1a8d6e25#By AghaDani
 trojan://UX82473651@54.65.177.190:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=winning-marten.rooster465.autos#By AghaDani
@@ -795,6 +798,3 @@ trojan://UX82473651@equipped-stingray.rooster465.autos:443?allowInsecure=1&sni=e
 trojan://UX82473651@present-ram.rooster465.autos:443?allowInsecure=1&sni=present-ram.rooster465.autos#By AghaDani
 trojan://UX82473651@internal-krill.rooster465.autos:443?allowInsecure=1&sni=internal-krill.rooster465.autos#By AghaDani
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.109:8443/?sni=grape-test-italy.dynuddns.net#By AghaDani
-vless://56de13ac-086e-4789-8e1e-1bf2bd90216b@177.3.217.28:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_aURfmVUjvCRZipDI2eqMO0VQa64BJRGYFOdlBFi1XQ&security=reality&sni=geminilanzerotte.live&type=tcp#By AghaDani
-trojan://UX82473651@central-jawfish.rooster465.autos:443?allowInsecure=1&sni=central-jawfish.rooster465.autos#By AghaDani
-vless://2e511783-125c-466b-925d-a9cd1c98e30e@31.76.11.83:22849?encryption=none&security=none&type=tcp#By AghaDani
