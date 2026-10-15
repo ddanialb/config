@@ -1,3 +1,4 @@
+vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#By AghaDani
 vless://ea1fb226-a033-4999-9f86-49ec57629c0d@167.82.101.119:443?vcn=global.fastly.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=iran.ir&mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=hhmnl.global.ssl.fastly.net&allowInsecure=0#By AghaDani
 vless://ff6ca702-5469-44a8-aca8-d87a29f08d53@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=swedwneeji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=google.com#By AghaDani
 vless://ff6ca702-5469-44a8-aca8-d87a29f08d53@188.114.98.6:2095?path=%2F&security=&encryption=none&host=dr2.aryan-sport.ir&type=httpupgrade#By AghaDani
@@ -797,4 +798,3 @@ vless://aec8e5e3-bb81-4b22-8802-0b88c54997b3@gz2.vatilon.cc:36032?security=tls&f
 vless://b6be6db2-f118-4827-bf13-1af17a872373@nexall.cloudvipgamefall.ir:8080?security=tls&fp=chrome&sni=newnexip1.nexvpnfun.com&type=tcp&allowInsecure=0&headerType=http&insecure=0&encryption=none#By AghaDani
 vless://a95c18d0-1b39-4bc7-8521-b62b5ab3f3f7@fun.zovip2.ir:443?host=toping.zovip2.ir&security=tls&fp=chrome&alpn=http%2F1.1&sni=toping.zovip2.ir&allowInsecure=0&type=ws&insecure=0&path=%2Fgropcdn&encryption=none#By AghaDani
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#By AghaDani
-trojan://UX82473651@43.206.225.188:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=warm-krill.rooster465.autos#By AghaDani
