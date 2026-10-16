@@ -1,3 +1,4 @@
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.17.148.22:443?security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&fp=chrome&alpn=http/1.1&allowInsecure=0#By AghaDani
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.80:27916?security=reality&encryption=none&pbk=ztQ8VYq_dVDc3x-QM8LXjup2161CirYrIBE1F7loVzQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=6772eb2b7a#By AghaDani
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56656?security=reality&encryption=none&pbk=QFM3jTzb5n-E9L2cfFo6GHqioGmIkjmG60l8wXA4IXc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=aae6d935#By AghaDani
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.135.234:443?security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&fp=chrome&alpn=h3,h2#By AghaDani
@@ -797,4 +798,3 @@ vless://ea1fb226-a033-4999-9f86-49ec57629c0d@167.82.101.119:443?vcn=global.fastl
 vless://ff6ca702-5469-44a8-aca8-d87a29f08d53@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=swedwneeji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=google.com#By AghaDani
 vless://ff6ca702-5469-44a8-aca8-d87a29f08d53@188.114.98.6:2095?path=%2F&security=&encryption=none&host=dr2.aryan-sport.ir&type=httpupgrade#By AghaDani
 vless://ff6ca702-5469-44a8-aca8-d87a29f08d53@tamiiiiz.aryan-sport.ir:2095?path=%2F&security=&encryption=none&host=dr.aryan-sport.ir&type=httpupgrade#By AghaDani
-vless://16f78e38-8df9-4658-93e8-e49feababf5b@193.233.130.119:14430?sni=193.233.130.119&type=ws&headerType=none&host=193.233.130.119&path=%2Fvless#By AghaDani
