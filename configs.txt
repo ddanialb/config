@@ -1,3 +1,5 @@
+vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&security=reality&sid=85c86a9863&sni=www.intel.com&type=tcp#By AghaDani
+vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@37.235.249.42:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#By AghaDani
 vless://75985152-e16e-4a48-87ff-35c2615e0ab5@147.45.46.157:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=apple.com&type=tcp#By AghaDani
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@147.45.46.136:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprQlFBNGloUENtRHpnZEVkMlJDdTZB@ger1.4ebur.app:8388#By AghaDani
@@ -796,5 +798,3 @@ vless://bc6c9172-07cc-47ff-91c7-e9e277539e77@2.144.28.28:443?encryption=none&typ
 vless://192a06cc-d80b-1459-1cca-0a5a3a03beb8@nice.iranapplecenter.com:443?mode=auto&security=tls&alpn=h2&encryption=none&insecure=1&host=DotCloud-fr.global.ssl.fastly.net&fp=ios&type=xhttp&allowInsecure=1&sni=firefox.com#By AghaDani
 vmess://eyJhZGQiOiJVUy4xLmRpZ2lub2lzYi5pciIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJwYW5lbC5pci53d3cudnB4cHAuaXIiLCJpZCI6ImFiZjY1ZGY3LTE0NTYtNDljNS1hM2E1LWUwN2EyNjBkN2QzMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9ha3Nuc2tzcGFsenpuc2J3bGRteGphcGVmaXhqYWtlZCIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiQnkgQWdoYURhbmkiLCJzY3kiOiJhdXRvIiwic25pIjoicGFuZWwuaXIud3d3LnZweHBwLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=
 vless://0d4c981f-687e-4e33-b934-4cbe64e896ed@104.143.219.173:3090?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#By AghaDani
-vless://bc6c9172-07cc-47ff-91c7-e9e277539e77@2.144.28.28:443?encryption=none&type=ws&security=tls&host=vip2.polnejat.ir&path=%2Fnova-6757d8&sni=vip2.polnejat.ir&fp=randomized#By AghaDani
-vless://bc6c9172-07cc-47ff-91c7-e9e277539e77@2.144.28.28:443?encryption=none&type=ws&security=tls&host=vip2.polnejat.ir&path=%2Fnova-6757d8&sni=vip2.polnejat.ir&fp=chrome#By AghaDani
