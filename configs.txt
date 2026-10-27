@@ -1,3 +1,7 @@
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&host=tr.peregrine-sub.net&fp=firefox&type=xhttp&sni=tr.peregrine-sub.net&sid=7b6803a79bba5c52#By AghaDani
+vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?encryption=none&host=2.naxm.ir&path=%2F&security=none&type=wsoliver#By AghaDani
+ss://YWVzLTI1Ni1nY206WTJObVpUbGpNRGd5T1dRd1ptVTNaVGt4TURGak1UYzNPR0kwTWprMg@37.32.30.203:9147?prefix=%16%03%01%00%C2%A8%01%01#By AghaDani
+vless://0d1c3cee-2952-4a3e-a03e-fbe99d32dc72@de22.fastplus7.site:2086?type=ws&encryption=none&path=%2F&host=de21.fastplus11.ir&security=none#By AghaDani
 vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJCeSBBZ2hhRGFuaSIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.179:8080#By AghaDani
 vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#By AghaDani
@@ -7,7 +11,6 @@ trojan://humanity@www.pleadcourt.org:443?path=%2Fassignment&security=tls&insecur
 vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#By AghaDani
 vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?mode=gun&security=reality&encryption=none&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&fp=chrome&type=grpc&serviceName=grpc_common1&sni=www.semiconductor.samsung.com&sid=defda00d613c#By AghaDani
 trojan://pCgkPBgBBpKdPLeRyFSgXXjeiQeNiCLm@144.126.223.93:8911?allowInsecure=1&sni=hotspot-unlimited.com#By AghaDani
-vless://0d1c3cee-2952-4a3e-a03e-fbe99d32dc72@de22.fastplus7.site:2086?type=ws&encryption=none&path=%2F&host=de21.fastplus11.ir&security=none#By AghaDani
 trojan://mMIywuxBtHHOAwAkkpwiCmBXIlKOysGv@209.38.66.47:6105?allowInsecure=1&sni=hotspot-unlimited.com#By AghaDani
 vless://7b91b2c3-8af3-449b-a555-00c9460989f4@lvi.su:443?encryption=none&security=tls&sni=lvi.su&fp=chrome&alpn=http%2F1.1&type=ws&host=lvi.su&path=%2Fvpn-relay%3Ftoken%3D27fede42482b3c29d4c1c9640876c250%26pool%3Dwhitelist2#By AghaDani
 vless://4b1be712-774c-4b65-8491-a3339e124a70@155.117.232.61:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-usa.blok-signalon.top&fp=firefox&pbk=aZDDxJRwRH2J4FPtoIr7DmOvpQPh9sbGbvV-NpVpfms&sid=336c2cff6e3717c4&type=tcp&headerType=none#By AghaDani
@@ -795,6 +798,3 @@ vmess://eyJhZGQiOiAiMTI5LjE0Ni43Ny4yNDgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAi
 vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@206.238.237.25:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vipfree.dr-ping.ir#By AghaDani
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@nl8.pad-sservice.lat:8443?path=%2FNL8W%23%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nl8.pad-service.com&type=ws&allowInsecure=0&sni=nl8.pad-sservice.lat#By AghaDani
 vmess://eyJhZGQiOiJkYXNoYm9hcmQub2plc2hvcC50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWY4NTAyYjctOWI0NS00NTM3LTkzNmQtZDNhZjAxZGVlMmUzIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1MzgwIiwicHMiOiJCeSBBZ2hhRGFuaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999?#By AghaDani
-vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@206.238.239.245:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vipfree.dr-ping.ir#By AghaDani
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FConfigV2RayNG&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=chrome&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#By AghaDani
