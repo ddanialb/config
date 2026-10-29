@@ -1,3 +1,5 @@
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#By AghaDani
+vless://5e9d217c-0f9f-4c8c-aa79-a600baa8765b@2.144.22.87:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=api.bgp6.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api.bgp6.ir#By AghaDani
 vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#By AghaDani
 vless://28d7a636-fd0b-489e-bf99-baa5b1bf9f15@213.152.165.203:2093/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&security=reality&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8#By AghaDani
 vless://162b16b2-e032-475d-8460-a400e3d5fa6f@95.38.235.49:8443/?type=ws&encryption=none&flow=&host=gr.anten2.com&security=tls&sni=me.anten2.com&fp=firefox#By AghaDani
@@ -796,5 +798,3 @@ vless://4b1be712-774c-4b65-8491-a3339e124a70@136.148.211.243:443?security=realit
 vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiNjcuMjIwLjk1LjMiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicGNzIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICI2Ny4yMjAuOTUuMyIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9#By AghaDani
 vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@cash.qelzino.ir:443?encryption=none&security=tls&sni=play.google.com&fp=firefox&insecure=1&allowInsecure=1&type=ws&host=google.com&path=%2F#By AghaDani
 vless://0af3ca63-5dac-479f-a97b-57c4273364da@fonixvpn.parsneet.ir:2053?encryption=none&security=tls&type=ws&headerType=none&path=%2F&sni=foni-isbestspeed.top#By AghaDani
-vless://0af3ca63-5dac-479f-a97b-57c4273364da@fonixvpn.parsneet.ir:2434?encryption=none&security=tls&type=ws&headerType=none&path=%2F&sni=foni-isbestspeed.top#By AghaDani
-vless://0af3ca63-5dac-479f-a97b-57c4273364da@fonixvpn.parsneet.ir:2070?encryption=none&security=tls&type=ws&headerType=none&path=%2F&sni=foni-isbestspeed.top#By AghaDani
