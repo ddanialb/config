@@ -1,3 +1,4 @@
+vless://a2b5bd24-677f-4366-998d-ffdd0e3047d1@94.184.18.164:33210?encryption=mlkem768x25519plus.native.0rtt.scty-IEInkE4eGcsJW9CFpyTH4Ezo3NyZBO3U-SkuC0&security=none&type=tcp#By AghaDani
 vless://706bce83-91db-4260-b175-cba29145cd56@93.152.223.244:443?security=reality&encryption=none&pbk=yKwDGqOdkC_nEPOQHMvAQLPcPK8YHskv_opYoY66Yk8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ddk5-ger.newagetechnologies.live#By AghaDani
 vless://5ae138db-e66a-46a9-bb53-686e72987a0f@89.125.37.193:41445?security=reality&encryption=none&pbk=Ux2M6x46mIcoAoP2oCA8qEQnqc1O5cpa5zYRIdCNdnw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=se.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#By AghaDani
 vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@87.120.126.43:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=gr.connect-qik.uk#By AghaDani
@@ -797,4 +798,3 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&sni=le
 vless://7ba4f85a-b29d-43b2-b8e3-009016fe4e27@146.75.57.238:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&host=looaloooibamoooijji.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#By AghaDani
 vless://606047d0-56ec-4152-8d3b-13c5d4adef03@146.75.59.186:443?encryption=none&security=tls&sni=firefox.com&insecure=0&allowInsecure=0&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=frenchanjaai.global.ssl.fastly.net#By AghaDani
 vless://9f3d0b52-9b0f-4af7-ac42-d3ca2fd2a685@pol.qikbro.com:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=assets&allowInsecure=0&sni=pol.qikbro.com#By AghaDani
-trojan://humanity@95.85.54.197:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#By AghaDani
