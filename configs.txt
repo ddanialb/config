@@ -1,3 +1,4 @@
+trojan://humanity@[2a06:98c1:3101::6812:202f]:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
 vless://e221699d-e705-4664-9162-a75a82aa3997@[2a06:98c1:3101::6812:1f2f]:443?path=%2F700gvl-kr3&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=sg2-xr.zgrelay.com#By AghaDani
 vless://e221699d-e705-4664-9162-a75a82aa3997@#By AghaDani
 vless://d342d11e-d224-4463-b982-532309285094@[2606:4700:3031::6812:202f]:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#By AghaDani
@@ -797,4 +798,3 @@ vless://f27b6f65-6e59-4f89-b929-afa397ca587f@172.66.128.146:443?path=%2F019bcbad
 trojan://humanity@104.16.34.14:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#By AghaDani
 trojan://humanity@104.20.55.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#By AghaDani
 vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#By AghaDani
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
