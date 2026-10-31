@@ -1,3 +1,11 @@
+vless://e221699d-e705-4664-9162-a75a82aa3997@104.18.100.43:443?path=%2F700gvl-kr3&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=sg2-xr.zgrelay.com#By AghaDani
+vless://d342d11e-d224-4463-b982-532309285094@104.25.95.31:443?cs=semi-python&path=%2Ffp%3Dchromefp%3Dchrome&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=ccc.010304.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#By AghaDani
+trojan://humanity@[2a06:98c1:3103::6812:202f]:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
+vless://d342d11e-d224-4463-b982-532309285094@104.20.23.85:443?cs=semi-python&path=%2F&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=ccc.010304.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#By AghaDani
+trojan://humanity@[2a06:98c1:3103::6812:1f2f]:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#By AghaDani
+vless://d342d11e-d224-4463-b982-532309285094@104.19.114.162:443?cs=semi-python&path=%2F&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=ccc.010304.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#By AghaDani
+trojan://humanity@[2606:4700:3030::6812:1f2f]:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#By AghaDani
+vless://d342d11e-d224-4463-b982-532309285094@172.66.140.66:443?cs=semi-python&path=%2Ffp&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=ccc.010304.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#By AghaDani
 trojan://humanity@[2a06:98c1:3102::6812:202f]:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#By AghaDani
 trojan://humanity@[2606:4700:3033::6812:202f]:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#By AghaDani
 vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@ded.bsh-net.ru:443?security=reality&encryption=none&pbk=eGTeI8aqjoea2v_vEHimFxEuC1IA42r2tg7IcP5oq1U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ded.bsh-net.ru&sid=8e72c89e1adf4dc4#By AghaDani
@@ -790,11 +798,3 @@ vmess://ewogIFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsCiAgInNjeSIgOiAiYXV0byIsCiAgInNuaSIg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#By AghaDani
 vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?mode=gun&security=reality&encryption=none&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&fp=firefox&type=grpc&serviceName=grpc_common3&sni=www.sony.com&sid=2fed44d8c59f7e71#By AghaDani
 vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&host=zoom.us&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#By AghaDani
-vless://90c08c98-7ec8-4fab-da36-cf140d18c708@91.107.191.188:8443?mode=auto&path=%2FMeh%3Fdi&security=tls&encryption=none&insecure=0&host=host.taghvimtime.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#By AghaDani
-vless://90c08c98-7ec8-4fab-da36-cf140d18c708@91.107.191.188:8443?mode=auto&path=%2FMeh%3Fdi&security=tls&alpn=h2&encryption=none&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#By AghaDani
-vless://90c08c98-7ec8-4fab-da36-cf140d18c708@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi&security=tls&alpn=h2&encryption=none&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#By AghaDani
-vless://a429499b-6237-44b2-ae4d-0d53d14cf46a@172.64.144.180:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=&encryption=none&host=small-wave-9851.441-57f.workers.dev&type=ws#By AghaDani
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#By AghaDani
-trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us001.zestapp778.com#By AghaDani
-vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@84.32.108.4:443?mode=auto&path=%2Fes&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=7d1a74fd.ferrin.uk#By AghaDani
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@213.171.28.145:8443?security=reality&encryption=none&pbk=meXyIAqH1g8MzSCpMF5_m7VgjgwN0cc6WfQY9QpIpzE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kas3.nullo.pro&sid=6af8dffdb0aaa7a6#By AghaDani
