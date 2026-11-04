@@ -1,3 +1,7 @@
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?sni=pl3.nexfile.net&insecure=0&upmbps=0&downmbps=0#By AghaDani
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444?sni=pl3.nexfile.net&insecure=0&upmbps=0&downmbps=0#By AghaDani
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?sni=pl2.nexfile.net&insecure=0&upmbps=0&downmbps=0#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ%3D%3D@dns22.m3hrzd.ir:8044#By AghaDani
 vless://1b3bfa6c-6e45-455a-aeec-c1f553c0d844@tun2.w-ert.org:40289?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#By AghaDani
 ss://YWVzLTEyOC1nY206NGQxMjI4ZDZlYjY0ZjIwMTc0MTY1YjlkNGQ1ZTRlNzE%3D@37.221.114.179:14483#By AghaDani
 vless://b5d044c5-1e70-49bb-a650-08b1de516691@13.143.184.226:443?security=reality&encryption=none&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=msc1.serverslocal.ru&sid=f7e66e308136e1a1#By AghaDani
@@ -794,7 +798,3 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?encryption=none
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#By AghaDani
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&sni=www.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none#By AghaDani
 vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTmZlTENOM1h6WWdMRlNBV29fZnhPbDRIQzFnTncwVg@dns23.m3hrzd.ir:8044?#By AghaDani
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@78.17.178.117:443?encryption=none&security=tls&sni=mediatract.com&fp=firefox&type=grpc&authority=&serviceName=%2Fgrpc&mode=gun#By AghaDani
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.183.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=geminilanzerotte.live&fp=firefox&pbk=_aURfmVUjvCRZipDI2eqMO0VQa64BJRGYFOdlBFi1XQ&type=tcp&headerType=none#By AghaDani
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@de-tls.fluxorvpn.net:443?encryption=none&security=tls&sni=mediatract.com&fp=firefox&alpn=h2&type=grpc&authority=&serviceName=%2Fgrpc&mode=gun#By AghaDani
