@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiIxODUuMTkuMzMuMjA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjRjNjlkMzU3LTFhNzAtNDRkYy1iZGIyLTdkYjJiYmM3MWMxZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTI1MDgiLCJwcyI6IkJ5IEFnaGFEYW5pIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vless://8a9e7052-d2c9-4dda-9667-20d5bf81d338@199.232.78.159:80?eh=Sec-WebSocket-Protocol&encryption=none&host=rb24.ir&path=%2Fws%2F&security=none&type=ws#By AghaDani
 vless://9992be65-f201-44ca-a177-2ca95aaa7ad4@93.190.9.2:3090?encryption=none&security=none&serviceName=vless&type=grpc#By AghaDani
 vless://3b9189fd-9d29-465e-8c1f-5651af043fe4@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&type=tcp#By AghaDani
@@ -797,4 +798,3 @@ vless://45a4e77f-48c4-4413-b2d7-a941bceb7c44@trial.irgemini.sbs:11681?security=&
 vless://d342d11e-d224-4463-b982-532309285094@172.67.115.132:443?cs=semi-python&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=ccc.010304.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#By AghaDani
 vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@[2a06:98c1:3102::6812:202f]:443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#By AghaDani
 vless://d342d11e-d224-4463-b982-532309285094@104.25.10.54:443?cs=semi-python&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=ccc.010304.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#By AghaDani
-trojan://humanity@[2606:4700:3032::6812:1f2f]:443?path=%2Fassignment&security=tls&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#By AghaDani
