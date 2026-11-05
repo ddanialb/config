@@ -1,3 +1,4 @@
+vless://e9a9d2ba-8c33-4e5e-a903-efa595db2fff@wwww.qarvian.ir:443?encryption=none&type=ws&security=tls&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com&pinSHA256=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#By AghaDani
 vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@45.141.202.69:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=files.porsche.com&sid=1a2b3c4d#By AghaDani
 vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@bg1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bg1.fox-lisa.ru&sid=027af64166562b09#By AghaDani
 vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@185.246.131.55:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bg1.fox-lisa.ru&sid=027af64166562b09#By AghaDani
@@ -797,4 +798,3 @@ vless://a9160eba-23cd-407d-8cb3-39a2bc43148c@45.130.125.69:2096?mode=gun&securit
 vless://3b1fa839-2cb9-4511-9711-08800450aea3@195.189.98.121:443#By AghaDani
 trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:47786?sni=cm.g.doubleclick.net&allowInsecure=1#By AghaDani
 trojan://8deb189a-3aed-4865-843b-b72dae954c46@85.121.245.35:443?sni=api.85s.me&type=ws&allowInsecure=1#By AghaDani
-ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA==@139.180.220.175:8388#By AghaDani
