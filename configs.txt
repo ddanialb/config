@@ -1,3 +1,7 @@
+vless://2cbf569e-c8f6-4ffb-bf17-495c8d7f1ea2@213.176.17.26:80?security=none&encryption=mlkem768x25519plus.native.0rtt.uwPGIH6MtgtCC_jw9LAU2Dz0EFw0MQWMVOYiC4KBnBI&headerType=none&type=tcp#By AghaDani
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.46:443?security=tls&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=cdn.findlocaljobnetworkandbuildcommunityconnections.com#By AghaDani
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999#By AghaDani
+vless://0f11b72f-1af1-4f0a-b992-87a8241d9213@94.183.152.153:443?security=reality&encryption=none&pbk=uAoKx_ePWGe_jowwFZt7x3oZSNU3VJl9dIQmeYG22FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=9a4d61e8c2f735b0#By AghaDani
 vless://69f50a1f-c637-49a5-8dcd-8f4d27290b70@213.152.165.197:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.apple.com&fp=chrome&pbk=x3V7PB2__QEKcDuE5SgVoe0IgcbxdqOXXr0ai85s-C0&sid=906609ffc9e8d9fe#By AghaDani
 vmess://eyJhZGQiOiAiOTEuMTA3LjE2OS4yMjQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZG5zLWxvb2suc3BhY2UuIiwgImlkIjogIjc4ZWQyYzgyLTIwZDYtNDhlZC1hNzZkLTI5NDA2NTgwMzI1OSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MCIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=#By AghaDani
 vless://0806e6e2-e01d-482c-b530-be3b57d486d4@31.76.230.158:10447?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=mosdownloand.song69.fun&fp=firefox&pbk=yY1fkI_LuyCUjEiJcdltWRSegNPQVEGe8RT_1-e-8kI&sid=55f184e2a4067714#By AghaDani
@@ -26,7 +30,6 @@ vless://0d1c3cee-2952-4a3e-a03e-fbe99d32dc72@de22.fastplus7.site:2086?type=ws&en
 vless://2bf0b660-9130-48b5-808d-7885f2a4e483@188.95.52.120:2090?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.apple.com&fp=chrome&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&sid=bb472a184677af64#By AghaDani
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#By AghaDani
 vless://82382a00-3784-41e3-85d6-37f626263944@146.103.118.189:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=vpn.574ck.xyz&fp=chrome&type=ws&allowInsecure=0&sni=vpn.574ck.xyz#By AghaDani
-vless://2cbf569e-c8f6-4ffb-bf17-495c8d7f1ea2@213.176.17.26:80?security=none&encryption=mlkem768x25519plus.native.0rtt.uwPGIH6MtgtCC_jw9LAU2Dz0EFw0MQWMVOYiC4KBnBI&headerType=none&type=tcp#By AghaDani
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#By AghaDani
 vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@177.177.215.45:444?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ams2.shtil.io#By AghaDani
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app.betust.net:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=app.betust.net&sid=ef5d4ad5#By AghaDani
@@ -795,6 +798,3 @@ vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-
 vless://7e92da20-d9da-4d78-a64c-d032bc998e54@167.233.25.137:443?security=reality&encryption=none&pbk=h-sTqV9wF_ZHio3JzDJ0QE11PUXH8fK-wKO7-aN581Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=f6db8516b3d67b62#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?#By AghaDani
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443?#By AghaDani
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#By AghaDani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#By AghaDani
-vless://fb0945d4-f1aa-452e-9190-808a3cb49535@188.114.96.19:2053?encryption=none&security=tls&type=ws&path=%2F&sni=neww.blue-vpn1.com&fp=chrome&alpn=h2%2Chttp%2F1.1#By AghaDani
