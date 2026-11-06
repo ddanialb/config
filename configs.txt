@@ -1,3 +1,14 @@
+vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?encryption=none&security=reality&sni=www.nvidia.com&fp=random&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea&type=grpc&mode=gun&authority=&serviceName=grpc-common3#By AghaDani
+vless://7ff79f4e-e902-4308-91db-410c6db1310a@LaVa.R6j.Ir:8111?flow=xtls-rprx-vision&encryption=none&security=reality&sni=tgju.org&fp=ios&pbk=NKnJ79aZqPZWW8_xmiZX1o3-4UVZgC-yJsbVnwucaT8&sid=c9c5a6b5c022de8d&type=tcp&headerType=none#By AghaDani
+trojan://humanity@93.86.12.49:443?sni=www.cordweave.com&type=ws&allowInsecure=1#By AghaDani
+trojan://humanity@179.255.111.93:443?sni=www.cordweave.com&type=ws&allowInsecure=1#By AghaDani
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.121.43.18:19999#By AghaDani
+trojan://humanity@104.27.55.4:443?sni=www.cordweave.com&type=ws#By AghaDani
+ss://YWVzLTI1Ni1nY206NTQxNmVmNmYtYjhlNS00OGU5LTg3ZTQtM2Q1NjQ5YjJlM2Uw@jp-1.gsafevpnapi.com:31870#By AghaDani
+vmess://eyJhZGQiOiAibWFzdGVyLmdmd3Nob3AuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAicGxheS5nb29nbGUuY29tIiwgImlkIjogIjU5ZGRkNGYyLTM2MDUtNGVlNS05M2E5LWM3NjYzMDgyMDk4MCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjc4OTMiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==#By AghaDani
+trojan://abbrhagrwexxna4v@89.42.196.114:443?security=none&headerType=none&type=tcp#By AghaDani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080?fp=chrome#By AghaDani
+vless://b566e589-1c53-4c6f-ba99-5633c552cdb5@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=netheri.global.ssl.fastly.net.&fp=ios&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#By AghaDani
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@198.105.123.224:443?security=reality&encryption=none&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tr1.japancase.site&sid=41ae8e266bc3346f#By AghaDani
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#By AghaDani
 vless://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?path=%2Fparham-confing-ws%3Fu%3D6991fbdd-51e0-4970-b159-f9af46890c43-beda239a407a7eed66f791c6&security=none&encryption=none&host=51.75.118.5&type=ws#By AghaDani
@@ -25,7 +36,6 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=realit
 vless://f8890f7b-1af4-42bb-b299-ad741c6b73d7@38.145.220.58:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.apple.com&fp=chrome&pbk=bvG7GBU_gOKuBuAagnC07EbQZ_2tJ8OhBNSVGkHSugo&sid=66d62ef550107695#By AghaDani
 vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@se3.shtil.io:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=se3.shtil.io#By AghaDani
 vmess://eyJhZGQiOiJtYXN0ZXIuZ2Z3c2hvcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicGxheS5nb29nbGUuY29tIiwiaWQiOiI1OWRkZDRmMi0zNjA1LTRlZTUtOTNhOS1jNzY2MzA4MjA5ODAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI3ODkzIiwicHMiOiJCeSBBZ2hhRGFuaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-trojan://abbrhagrwexxna4v@89.42.196.114:443?security=none&headerType=none&type=tcp#By AghaDani
 vless://8bebd50c-b5c6-458e-bad2-f688d8bbfadb@188.95.52.123:2094?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.apple.com&fp=chrome&pbk=jHtC6ayzhkd_GVNF5TIGPu9iVpqUltBAQj1dpGJHwxs&sid=55986a94e2228791#By AghaDani
 vless://f3ff9bac-2904-4f38-bae1-54ab1a72891b@210.0.244.157:443?encryption=none&security=reality&type=tcp&sni=cloudflare.com&fp=firefox&pbk=T239VP3HbJ2KJCur7hDHJtrs6eKmKQfU_X1Xg6NmPgI#By AghaDani
 vless://8b88bb74-fd28-4aa9-9465-b1d7bfeb3d9d@147.45.126.220:443?encryption=none&security=tls&type=grpc&serviceName=assets&mode=gun&sni=pol.qikbro.com&fp=firefox#By AghaDani
@@ -788,13 +798,3 @@ vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.227.31.245:443#By AghaDani
 vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.10.233:443?encryption=none&security=tls&type=ws&path=%2F&host=u.srilankangrill.online&sni=u.srilankangrill.online&fp=unsafe#By AghaDani
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#By AghaDani
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.10.198:443?encryption=none&security=tls&type=ws&path=%2F&host=u.srilankangrill.online&sni=u.srilankangrill.online&fp=chrome#By AghaDani
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#By AghaDani
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.10.235:443?encryption=none&security=tls&type=ws&path=%2F&host=u.srilankangrill.online&sni=u.srilankangrill.online&fp=chrome#By AghaDani
-vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@172.67.199.126:2053?encryption=none&security=tls&type=ws&path=%2Fws-tesla&host=fast.145779.xyz&sni=fast.145779.xyz&fp=chrome&alpn=http%2F1.1#By AghaDani
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.10.2:443?encryption=none&security=tls&type=ws&path=%2F&host=u.srilankangrill.online&sni=u.srilankangrill.online&fp=chrome#By AghaDani
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.10.191:443?encryption=none&security=tls&type=ws&path=%2F&host=u.srilankangrill.online&sni=u.srilankangrill.online&fp=chrome#By AghaDani
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.19.32.166:443?encryption=none&security=tls&type=ws&path=%2F&host=u.srilankangrill.online&sni=u.srilankangrill.online&fp=chrome#By AghaDani
-vless://a1962f23-f8f8-412d-f2ce-3361e7b72889@169.128.83.4:57259?security=none&encryption=none&headerType=none&type=tcp#By AghaDani
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.111.193:443?encryption=none&security=tls&type=ws&path=%2F&host=u.srilankangrill.online&sni=u.srilankangrill.online&fp=chrome#By AghaDani
-vless://042b12d8-bac4-4b3a-b661-79e333f08e4e@45.43.79.92:443?security=reality&encryption=none&pbk=M4Y9h339sntl5wEpiCa7f4IKhJ_8JLzPnAz2IzKlngM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vikt659.isgood.host&sid=af4ca5d16438c938#By AghaDani
