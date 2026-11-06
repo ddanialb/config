@@ -1,3 +1,9 @@
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?security=tls&type=ws&path=%2FWangCai-8&host=dimskiee.biz.id&sni=dimskiee.biz.id#By AghaDani
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&type=tcp&sni=api.discovergreatjobsandadvanceyourcareer.com#By AghaDani
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&type=tcp&sni=learn.discovergreatjobsandadvanceyourcareer.com#By AghaDani
+vless://7dd69047-047e-422e-a2ba-ed773c34fd1a@37.18.14.43:8443?encryption=none&security=tls&type=xhttp&sni=flatcrest.net&fp=qq&alpn=http%2F1.1%2Ch2#By AghaDani
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@50.7.95.171:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=panel.betust.net&fp=firefox&pbk=2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o&sid=8ece2039#By AghaDani
+trojan://NesTjEDLXnCeVn0ZLb2hsE3oeZWHHaKR@45.146.131.92:443?security=tls&type=tcp&sni=ar-d-s-290.freedomcdnhelloworld.com&fp=android&alpn=h2%2Chttp%2F1.1#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLM01SMzlSbWYxeGh0LTNGRjI4QTYzYi1lZG1xYjRKYw==@dns3.m3hrzd.ir:8044?type=tcp#By AghaDani
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?path=%2Fvless%2F&security=&encryption=none&host=ov-germany1.09vpn.com&type=ws#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLM01SMzlSbWYxeGh0LTNGRjI4QTYzYi1lZG1xYjRKYw==@dns27.m3hrzd.ir:8044?type=tcp#By AghaDani
@@ -792,9 +798,3 @@ vless://78c6b54f-3057-4af2-9ceb-1d1e3b12c623@79.141.164.124:443?encryption=none&
 vless://e6b418af-0ff1-4fe2-a079-8aaa0841781f@112.120.54.238:39471?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.byu.edu&fp=firefox&pbk=79kBx_jBo5cqkQ-9Hlm5s-1i_DnddFx9rJ8NBaXY-GQ#By AghaDani
 vless://857e5668-88b9-45cd-a600-79e55c04d8a8@5.104.74.27:8443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=uk-room07.filesnap.tech&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&sid=dbef98744832b751#By AghaDani
 trojan://gHQP0D7D15@172.66.0.1:2053?security=tls&type=ws&path=%2F&host=marvdasht.phonecomparisonblog.org&sni=marvdasht.phonecomparisonblog.org&fp=firefox&alpn=http%2F1.1#By AghaDani
-vless://4d8132cb-f4e3-428c-91ff-2b4f7a868551@84.23.52.120:28453?encryption=none&security=tls&type=ws&path=%2Flovelive&sni=pl.sparxiecn.com&fp=firefox&alpn=h2%2Chttp%2F1.1#By AghaDani
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&security=reality&type=tcp&sni=ph-nl-s3784.cybercat.network&fp=random&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#By AghaDani
-vless://4d8132cb-f4e3-428c-91ff-2b4f7a868551@84.23.52.120:28452?encryption=none&security=tls&type=ws&path=%2Flovelive&sni=pl.sparxiecn.com&fp=firefox&alpn=h2%2Chttp%2F1.1#By AghaDani
-vless://2f4de908-b22e-48e9-9e57-fc86acf02c56@185.229.9.135:443?encryption=none&security=tls&type=ws&path=%2Fchws&host=lesotorg-kirov.ru&sni=lesotorg-kirov.ru&fp=android&alpn=http%2F1.1#By AghaDani
-vless://40945325-a133-41ef-8fc3-2e726678ad52@185.86.145.37:443?encryption=none&security=tls&type=ws&path=%2Famws&host=rar.rtkdvbr.cc&sni=rar.rtkdvbr.cc&fp=qq&alpn=http%2F1.1#By AghaDani
-vmess://eyJhZGQiOiAiMjAwMTpiYzg6MzJkNzoxYTk6OjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjNhOTY2ZDIwLTdiOWQtNDhjYy1iYTJjLThkMzgxNjFiNmQzYSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OS1uZXdwYWMvZmFucWlhbmc/ZWQjVGVsZWdyYW0tLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQiLCAicGNzIjogIiIsICJwb3J0IjogIjE4OTAxIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==#By AghaDani
