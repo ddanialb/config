@@ -1,3 +1,9 @@
+trojan://humanity@104.17.28.254:443?sni=www.cordweave.com&type=ws#By AghaDani
+trojan://humanity@88.216.69.253:443?sni=www.pleadcourt.org&type=ws#By AghaDani
+trojan://5t6i121em5lkmsmk@149.104.87.33:15083?sni=mx001.zestapp778.com#By AghaDani
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443#By AghaDani
+vless://d915fba6-d776-c48b-bd75-ce5b62a88648@x4g-production-9cd5.up.railway.app:443?path=%2Fws%2Fd915fba6-d776-c48b-bd75-ce5b62a88648&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-9cd5.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=x4g-production-9cd5.up.railway.app#By AghaDani
+trojan://humanity@188.114.98.0:443?sni=www.volumeroot.com&type=ws#By AghaDani
 trojan://humanity@172.67.203.46:443?sni=www.cordweave.com&type=ws#By AghaDani
 trojan://humanity@143.198.106.68:443?sni=www.cordweave.com&type=ws&allowInsecure=1#By AghaDani
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICIxNjIuMTU5LjEzMC4yMzQiLCAicG9ydCI6ICIyMDgzIiwgImlkIjogImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAib3IzLnNmYWNnLnVrIiwgInBhdGgiOiAiL29yMyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJvcjMuc2ZhY2cudWsifQ==#By AghaDani
@@ -792,9 +798,3 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.211:443?security=tls&type=
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#By AghaDani
 vless://3d526c7f-059c-4e2b-b09a-8569b268935b@185.225.205.53:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=addons.mozilla.org&pbk=2XyUS3_ONl5REQ7NiwikdJphAe7oJ61-21zuqnN67y8&sid=2e82d7ac#By AghaDani
 vmess://eyJhZGQiOiIxMDkuNzAuNzQuMTk4IiwiaWQiOiJiYWUzYTZmNi01ZjMyLTRlMGYtYjYxMy0wZGNiZTU2YWZmYWUiLCJuZXQiOiJ0Y3AiLCJwb3J0IjozODU1NSwicHMiOiJCeSBBZ2hhRGFuaSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@172.111.38.72:19999#By AghaDani
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&type=tcp&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com#By AghaDani
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#By AghaDani
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&type=tcp&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com#By AghaDani
-vless://26524cce-d514-4014-a426-365fb266a14d@62.132.3.104:8443?allowInsecure=0&alpn=http%2F1.1&sni=xy1ej.stream-node-us.danfeng.qzz.io&type=ws&insecure=0&security=tls&host=xy1ej.stream-node-us.danfeng.qzz.io&path=%2Fdanfeng&encryption=none#By AghaDani
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&type=tcp&sni=connectwithtopemployersandfindidealjobs.com&fp=chrome#By AghaDani
