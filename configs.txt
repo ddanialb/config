@@ -1,3 +1,4 @@
+trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#By AghaDani
 vless://4fb82973-a7f1-4fc2-9958-cb21f5162f06@ro-xh02.tcp-reset-club.net:8443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#By AghaDani
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@193.148.253.226:25362?encryption=none&security=reality&type=tcp&sni=www.chip.de&fp=firefox&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d#By AghaDani
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?encryption=none&security=tls&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&sni=60.248.219.78#By AghaDani
@@ -797,4 +798,3 @@ vless://64a28ed6-2238-42d9-8452-b83674f741e5@digital-Robin.wp-toolbox.ir:1610?se
 vless://fe1cfc86-a077-403f-afc7-b97cee3f15e1@static.84.151.104.178.clients.your-server.de:41432?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=none&type=tcp#By AghaDani
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#By AghaDani
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com#By AghaDani
-vless://b566e589-1c53-4c6f-ba99-5633c552cdb5@199.232.78.120:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=ussman.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#By AghaDani
