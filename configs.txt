@@ -1,11 +1,15 @@
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?encryption=none&security=reality&type=tcp&sni=www.apple.com&fp=qq&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b#By AghaDani
 vless://4d017db2-7655-4276-9557-e2ec25b04ee7@server.slavkiti.monster:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.tradingview.com&fp=random&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=ee1716767f9b#By AghaDani
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.apple.com&fp=edge&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#By AghaDani
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.121.43.225:19999#By AghaDani
+vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.apple.com&fp=firefox&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&sid=a3a578ab#By AghaDani
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@84.20.27.183:19999#By AghaDani
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@216.106.186.66:443?security=tls&type=tcp&sni=www.findlocaljobnetworkandbuildcommunityconnections.com&fp=chrome&allowInsecure=1#By AghaDani
-vless://6dfc9149-1ff9-41c3-8563-0ef284381731@193.124.17.190:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.tradingview.com&fp=firefox&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=1374bddeb25d#By AghaDani
+vless://ff40696b-06d6-443b-9481-8d01eddd13e1@server.slavkiti.monster:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.foxsports.com&fp=random&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=d659da01fb94#By AghaDani
 vless://fb69a6b9-980c-48c2-a94f-5f95868a2d2a@161.114.14.173:21899?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=yahoo.com&pbk=kvLUYW6fwHXutu8Z4On6mi61kjslCyCc8ErFffUM1D0&sid=dedce016e3671418#By AghaDani
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.apple.com&fp=edge&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#By AghaDani
+vless://6dfc9149-1ff9-41c3-8563-0ef284381731@193.124.17.190:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.tradingview.com&fp=firefox&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=1374bddeb25d#By AghaDani
 vless://13aef2e0-b3fb-4322-a0e9-c10b908ce6b5@193.124.17.190:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.techradar.com&fp=firefox&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=87f895f23064#By AghaDani
 vless://a1962f23-f8f8-412d-f2ce-3361e7b72889@169.128.83.4:57259?encryption=none&security=none&type=tcp#By AghaDani
-vless://ff40696b-06d6-443b-9481-8d01eddd13e1@server.slavkiti.monster:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.foxsports.com&fp=random&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=d659da01fb94#By AghaDani
 vless://c34c6869-e454-4413-a7b2-052ba4a42fd5@uvgl4cjd0475.vtret.com:32567?encryption=mlkem768x25519plus.native.0rtt.84_DMC6q55hqCTwXssF177Z61CfqlI5CwYzYF6UGgG8&flow=xtls-rprx-vision&security=tls&sni=uvgl4cjd0475.vtret.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#By AghaDani
 vless://6dfc9149-1ff9-41c3-8563-0ef284381731@server.slavkiti.monster:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.tradingview.com&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=1374bddeb25d#By AghaDani
@@ -794,7 +798,3 @@ vless://2bf0b660-9130-48b5-808d-7885f2a4e483@188.95.52.124:2090?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.136.134:22223?encryption=none&security=none&type=tcp#By AghaDani
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime40.workers.dev&packetEncoding=xudp&sni=vms.lifetime40.workers.dev#By AghaDani
 vless://cef8c09d-8af5-4039-a28e-bf51a908c4be@Tekno.testhzmfti.mobileahmadreza.ir:2092?encryption=mlkem768x25519plus.native.0rtt.3Q1ZNHVMFKULrSkxiOyi8rtqOxFefJTYo0-d4KiRQHY&security=none&type=tcp&headerType=http&host=dynu.com#By AghaDani
-vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#By AghaDani
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=app26.betust.net&fp=chrome&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&sid=d44d6d46&type=tcp&headerType=none#By AghaDani
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&encryption=none&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=bb82c8#By AghaDani
-trojan://humanity@93.86.12.49:443?sni=www.cordweave.com&type=ws&allowInsecure=1#By AghaDani
