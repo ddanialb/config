@@ -1,3 +1,4 @@
+vless://64a28ed6-2238-42d9-8452-b83674f741e5@141.193.213.30:2053?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2053&host=sunny-comet-55.curiocar.com&sni=sunny-comet-55.curiocar.com&fp=edge&alpn=h2%2Chttp%2F1.1&allowInsecure=1#By AghaDani
 vless://6bda4a5b-1bd7-4fc7-adeb-9725aabf154e@www.2freenet.ddns.info:443?encryption=none&security=reality&sni=www.aparat.com&fp=firefox&pbk=eRMo4lY1fy9WbBCnAi7DUSIexoMwuWHtHMJ46maYQB0&sid=284f933fef3a62b6&spx=%2Fdownload&type=xhttp&host=www.aparat.com&path=%2F&mode=auto#By AghaDani
 vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjAxIiwiaWQiOiI2ODMzYjVmZS1hODY2LTQ1ZTItYTExYi0xODQ0NzNkYWY2YzQiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyODM4MiwicHMiOiJCeSBBZ2hhRGFuaSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://6bda4a5b-1bd7-4fc7-adeb-9725aabf154e@www.2freenet.ddns.info:443?encryption=none&security=reality&sni=qa.aparat.com&fp=firefox&pbk=DX-SM1e4oi8M-CPdfvlJkSljL1KpldJ2Rrd0QwCTpXA&sid=284f933fef3a62b6&spx=%2Fdownload&type=xhttp&host=qa.aparat.com&path=%2F&mode=auto#By AghaDani
@@ -797,4 +798,3 @@ vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@35.183.244.118:80?security=none&typ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#By AghaDani
 vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@15.223.199.97:80?security=none&type=tcp&encryption=none#By AghaDani
 vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@15.223.2.41:80?security=none&type=tcp&encryption=none#By AghaDani
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#By AghaDani
