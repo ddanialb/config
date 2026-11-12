@@ -1,3 +1,4 @@
+vless://af482a1c-8b12-4f61-af77-a9e5fe5336bc@109.70.74.20:50540?security=reality&encryption=none&pbk=e1k9SFW-FuDzb8X72L9dQQtuyLnQmoWdN8NXyVqVp2k&headerType=none&fp=chrome&spx=%2F8c7d8642edb8ac7&type=tcp&sni=eventadm.semiconductor.samsung.com&sid=cbe1db1dd92820#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#By AghaDani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#By AghaDani
 vless://abd56c8f-21df-4727-8280-751749b9a27b@hostca2.shop-goldserver.shop:443?alpn=h2%2Chttp%2F1.1&sni=shop-goldserver.shop&allowInsecure=0&path=%2Fwp-content%2Fassetsca2%2F&host=shop-goldserver.shop&security=tls&fp=chrome&mode=packet-up&insecure=0&type=xhttp&extra=%7B%0A%20%20%22mode%22%20%3A%20%22packet-up%22%2C%0A%20%20%22xPaddingBytes%22%20%3A%20%2250-200%22%0A%7D&encryption=none#By AghaDani
@@ -797,4 +798,3 @@ vless://a4797cd3-9939-4a70-958e-ea6301e871db@92.223.124.62:443?encryption=none&s
 ss://YWVzLTI1Ni1nY206QU1vazQwRmZhTStJa3dyZTE2cHNCcFZrNkpIeHNRWnc=@209.248.57.105:8388#By AghaDani
 vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@188.114.97.6:80?security=&encryption=none&host=sRv72.hAMiIbaR.CoM&type=ws#By AghaDani
 vless://a4797cd3-9939-4a70-958e-ea6301e871db@92.223.124.62:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fnewgcore&host=93-0wuppjbl2e.gcorecdn.net&sni=gcore.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#By AghaDani
-vless://a1d262a9-6d57-4ff0-99e4-594782c2ca7c@5.75.207.247:443?security=reality&encryption=none&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&headerType=none&fp=random&spx=%2FQYP1c9H45RBRVLu&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=f5#By AghaDani
