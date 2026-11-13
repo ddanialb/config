@@ -1,3 +1,4 @@
+trojan://humanity@172.67.67.89:443?sni=www.cordweave.com&type=ws&path=/assignment&host=www.cordweave.com#By AghaDani
 trojan://humanity@144.31.120.77:443?sni=www.cordweave.com&type=ws&path=/assignment&host=www.cordweave.com#By AghaDani
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwgImFkZCI6ICIzOC4yMi4xNy4yNTEiLCAicG9ydCI6ICIxMjcwIiwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInhtZmhscHkuY29tIiwgInBhdGgiOiAiIiwgInRscyI6ICJ0bHMiLCAic25pIjogInhtZmhscHkuY29tIn0=#By AghaDani
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#By AghaDani
@@ -603,7 +604,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?sni=www.findconnect
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@cucc.cloudflare.seeck.cn:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#By AghaDani
 vless://ebdfaf99-41d8-4e48-8196-d54510ffb556@45.129.242.56:443?security=reality&encryption=none&pbk=YURKlEQ3rap4KOXXGsVFZyYev2oDU2gCEbNTXPdKWRY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=abcdef#By AghaDani
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@216.106.178.169:19999#By AghaDani
-trojan://humanity@172.67.67.89:443?sni=www.cordweave.com&type=ws&path=/assignment&host=www.cordweave.com#By AghaDani
 vless://f8913774-1565-45d8-895f-a918304b15ab@static.224.138.28.2.clients.your-server.de:8443?encryption=none&security=tls&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=static.44.128.217.95.clients.your-server.de&fp=chrome&alpn=h2%2Chttp%2F1.1#By AghaDani
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.202:443?alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#By AghaDani
 vless://f8913774-1565-45d8-895f-a918304b15ab@static.162.97.119.168.clients.your-server.de:8443?encryption=none&security=tls&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=static.162.97.119.168.clients.your-server.de&fp=chrome&alpn=h2%2Chttp%2F1.1#By AghaDani
