@@ -1,3 +1,7 @@
+trojan://MiTiVPN@146.75.57.7:443?path=/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&sni=cdn.akamai.steamstatic.com#By AghaDani
+trojan://MItIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
+trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.24.165.182:443?path=/document/&security=tls&insecure=0&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#By AghaDani
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#By AghaDani
 trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#By AghaDani
 trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.17.10.171:443?path=/categories/community/&security=tls&insecure=0&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#By AghaDani
 ss://YWVzLTI1Ni1nY206amZXb1NWQ1ZZWFJtTkJmQw==@64.177.66.60:8388#By AghaDani
@@ -794,7 +798,3 @@ vless://9f862257-b1fa-4fb9-9558-bcd6b03ff309@166.0.22.236:2053?security=tls&encr
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?encryption=none&path=%2Fvless&security=none&type=ws#By AghaDani
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.154:443?security=tls&fp=chrome&sni=www.indyourperfectremotetechjobfromthecomfortofhome.com#By AghaDani
 vless://f2905db1-4c91-48fc-a101-705d1620e279@143.246.205.2:8443?encryption=none&fp=firefox&security=tls&serviceName=connect-ch&sni=ch.gacvpn.site&type=grpc#By AghaDani
-vless://9d464bfa-c8b2-4a4f-9bf7-9ec31b339b67@varzesh.com.tiket.paxaro.ir:4433?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#By AghaDani
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#By AghaDani
-vless://a953509f-af22-42d5-a34c-aa29405369b0@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=pumkin.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#By AghaDani
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@89.127.210.244:443?encryption=none&fp=chrome&host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#By AghaDani
