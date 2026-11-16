@@ -1,3 +1,4 @@
+vless://ab5a19cf-cadc-4648-a5e9-b510aca8f732@104.18.20.212:8080?path=%2F&security=&encryption=none&host=akanode.madvpn.us.kg&type=ws#By AghaDani
 vless://ab5a19cf-cadc-4648-a5e9-b510aca8f732@104.18.20.212:8080?path=%2F&security=none&encryption=none&host=akanode.madvpn.us.kg&type=ws#By AghaDani
 vless://a2f76d8b-0385-4bfa-b14e-5f4860153655@dash.zeneco.ir:53231?security=none&encryption=mlkem768x25519plus.native.0rtt.BbeJhyjcSyRE6hWGA8ZXSkX-9JDpQ0KvWJCyjjiXgwM&host=dash.zeneco.ir&headerType=none&type=tcp#By AghaDani
 ss://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgQjAwNjA4IiwiYWRkIjoiNjcuMjIwLjk1LjMiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYWVzLTEyOC1nY20iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCBCMDA2MDgifQ==#By AghaDani
@@ -797,4 +798,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.116.219:22223?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.116.219:22222?encryption=none&security=none&type=tcp#By AghaDani
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.116.219:22224?encryption=none&security=none&type=tcp#By AghaDani
 vless://3606e814-81a1-46b4-8a7a-26985aa3b040@Iran.powerpanel.space:443?security=none&encryption=mlkem768x25519plus.native.0rtt.JhFafu3WxlVo6xMe01oUXCPAFQoc4bt5updF83mIthE&headerType=none&type=tcp#By AghaDani
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=blog.unlockyourfuturefindyourperfectcareer.com#By AghaDani
